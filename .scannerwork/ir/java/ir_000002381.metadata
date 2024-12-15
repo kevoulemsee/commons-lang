@@ -1,0 +1,7 @@
+org.apache.commons.lang3.concurrent.ThresholdCircuitBreaker#incrementAndCheckState(Ljava/lang/Long;)Z
+false
+0ec09c4e5defca6cf3f6a40040792254
+java.util.concurrent.atomic.AtomicLong#addAndGet(J)J
+==
+checkState org.apache.commons.lang3.concurrent.ThresholdCircuitBreaker#checkState()Z
+open org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#open()V

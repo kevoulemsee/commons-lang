@@ -1,0 +1,8 @@
+org.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;)[B
+false
+650967bf313cb61134e92145ede7df6c
+java.io.ByteArrayOutputStream#<init>(I)V
+java.io.ByteArrayOutputStream#instance-init#
+org.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;Ljava/io/OutputStream;)V
+==
+toByteArray java.io.ByteArrayOutputStream#toByteArray()[B

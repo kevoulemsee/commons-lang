@@ -1,0 +1,9 @@
+org.apache.commons.lang3.exception.ExceptionUtils#getThrowableList(Ljava/lang/Throwable;)Ljava/util/List;
+false
+cfa0f2312034f91e595dd8537faf0cbe
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+contains java.util.List#contains(Ljava/lang/Object;)Z
+getCause java.lang.Throwable#getCause()Ljava/lang/Throwable;

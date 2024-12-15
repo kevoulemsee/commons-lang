@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableBoolean#equals(Ljava/lang/Object;)Z
+false
+dfd6b5ef984187393286e4cb3cbefcdf
+==
+booleanValue org.apache.commons.lang3.mutable.MutableBoolean#booleanValue()Z

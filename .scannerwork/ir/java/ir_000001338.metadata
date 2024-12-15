@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#getValue()Ljava/lang/Double;
+false
+ae62be54345a90cf02a553cc663bf0ab
+java.lang.Double#valueOf(D)Ljava/lang/Double;

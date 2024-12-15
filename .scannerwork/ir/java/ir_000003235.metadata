@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlEntityExpansionLimit()Ljava/lang/String;
+false
+f14d05258e6a7c63abb62589aa64191c
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

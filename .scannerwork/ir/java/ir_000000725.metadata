@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ArrayUtils#removeAllOccurrences([CC)[C
+false
+db816a2e3e3f3156a7a1fdf176ddecb8
+org.apache.commons.lang3.ArrayUtils#indexesOf([CC)Ljava/util/BitSet;
+org.apache.commons.lang3.ArrayUtils#removeAll(Ljava/lang/Object;Ljava/util/BitSet;)Ljava/lang/Object;

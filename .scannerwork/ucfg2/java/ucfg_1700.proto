@@ -1,0 +1,32 @@
+
+Norg.apache.commons.lang3.LongRange#toLongStream()Ljava/util/stream/LongStream;c
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/LongRange.java] ](""1*Î
+1^ ^(´±
+^& ^(2
+%0java.lang.Long"=org.apache.commons.lang3.Range#getMinimum()Ljava/lang/Object;*B
+
+__unknown_file (&$
+"org.apache.commons.lang3.LongRange2getMinimum()´±
+^4 ^(@
+%1java.lang.Long"=org.apache.commons.lang3.Range#getMaximum()Ljava/lang/Object;*B
+
+__unknown_file (&$
+"org.apache.commons.lang3.LongRange2getMaximum()Ÿ
+œ
+^ ^(A!
+%2java.util.stream.LongStream"Hjava.util.stream.LongStream#rangeClosed(JJ)Ljava/util/stream/LongStream;*;
+
+__unknown_file ("
+java.util.stream.LongStream*2
+
+__unknown_file (
+
+%0java.lang.Long*2
+
+__unknown_file (
+
+%1java.lang.Long"/
+^ ^(B#
+!
+%2java.util.stream.LongStreamB&$
+"org.apache.commons.lang3.LongRangeH

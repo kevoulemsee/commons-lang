@@ -1,0 +1,25 @@
+
+horg.apache.commons.lang3.concurrent.UncheckedFuture#map(Ljava/util/Collection;)Ljava/util/stream/Stream;t
+j/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/UncheckedFuture.java/* /(-"1*ó
+10 0(­ª
+0 0(
+%0java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*=
+
+__unknown_file (!
+
+futuresjava.util.Collection2stream()†ƒ
+0 0(8
+%1java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*"
+
+__unknown_file (
+""2"map(Ljava/util/function/Function;)"+
+0 0(9
+
+%1java.util.stream.Stream:+
+/. /(Q
+futuresjava.util.CollectionB7"5
+3org.apache.commons.lang3.concurrent.UncheckedFutureH

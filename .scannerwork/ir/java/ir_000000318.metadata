@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrTokenizer#setIgnoredChar(C)Lorg/apache/commons/lang3/text/StrTokenizer;
+false
+27a8703efe0bb83a8446bf7da7211399
+org.apache.commons.lang3.text.StrMatcher#charMatcher(C)Lorg/apache/commons/lang3/text/StrMatcher;
+==
+setIgnoredMatcher org.apache.commons.lang3.text.StrTokenizer#setIgnoredMatcher(Lorg/apache/commons/lang3/text/StrMatcher;)Lorg/apache/commons/lang3/text/StrTokenizer;

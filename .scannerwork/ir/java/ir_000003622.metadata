@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ClassUtils#getComponentType(Ljava/lang/Class;)Ljava/lang/Class;
+false
+185350b8d84db1cfa1d6a2c8b2edd6dd
+java.lang.Class#getComponentType()Ljava/lang/Class;

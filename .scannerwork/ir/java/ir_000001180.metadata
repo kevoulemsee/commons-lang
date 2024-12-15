@@ -1,0 +1,7 @@
+org.apache.commons.lang3.concurrent.ConcurrentUtils#createIfAbsent(Ljava/util/concurrent/ConcurrentMap;Ljava/lang/Object;Lorg/apache/commons/lang3/concurrent/ConcurrentInitializer;)Ljava/lang/Object;
+false
+49a9491d07310ba55677536e67b9a3e3
+org.apache.commons.lang3.concurrent.ConcurrentUtils#putIfAbsent(Ljava/util/concurrent/ConcurrentMap;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+==
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;
+get org.apache.commons.lang3.function.FailableSupplier#get()Ljava/lang/Object;

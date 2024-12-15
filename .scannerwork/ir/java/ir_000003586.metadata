@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.Fraction#equals(Ljava/lang/Object;)Z
+false
+9f625a86add18495a155ffcf6cd67d4c
+org.apache.commons.lang3.math.Fraction#getDenominator()I
+org.apache.commons.lang3.math.Fraction#getNumerator()I

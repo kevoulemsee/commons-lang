@@ -1,0 +1,17 @@
+
+v
+removeFirstgorg.apache.commons.lang3.RegExUtils#removeFirst(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;{&text
+Ô% Ô(6"java.lang.String'regex
+Ô8 Ô(J"java.lang.String"($org.apache.commons.lang3.StringUtils&text
+Ô% Ô(6"java.lang.String'regex
+Ô8 Ô(J"java.lang.String"œP
+N
+
+Õ) Õ(:")
+#get-field# EMPTY#get-field# EMPTY"*2java.lang.Stringµ
+²
+
+Õ Õ(;"Š
+replaceFirstzorg.apache.commons.lang3.RegExUtils#replaceFirst(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*2java.lang.String
+
+Õ Õ(<*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RegExUtils.java

@@ -1,0 +1,14 @@
+org.apache.commons.lang3.reflect.TypeUtils#typeVariableToString(Ljava/lang/reflect/TypeVariable;)Ljava/lang/String;
+false
+f2dae1ae658b4c513d323057ce03224e
+java.lang.Class#isInterface()Z
+java.lang.StringBuilder#<init>(Ljava/lang/String;)V
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.AppendableJoiner#join(Ljava/lang/StringBuilder;[Ljava/lang/Object;)Ljava/lang/StringBuilder;
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z
+getBounds java.lang.reflect.TypeVariable#getBounds()[Ljava/lang/reflect/Type;
+getName java.lang.reflect.TypeVariable#getName()Ljava/lang/String;
+getRawType java.lang.reflect.ParameterizedType#getRawType()Ljava/lang/reflect/Type;

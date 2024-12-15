@@ -1,0 +1,4 @@
+org.apache.commons.lang3.BooleanUtils#negate(Ljava/lang/Boolean;)Ljava/lang/Boolean;
+false
+9014736879868c88f676ad3481a314b2
+java.lang.Boolean#booleanValue()Z

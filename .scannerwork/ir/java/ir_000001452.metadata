@@ -1,0 +1,6 @@
+org.apache.commons.lang3.mutable.MutableFloat#toFloat()Ljava/lang/Float;
+false
+47ebd01e86eb53e903b59d27e3bc4268
+java.lang.Float#valueOf(F)Ljava/lang/Float;
+==
+floatValue org.apache.commons.lang3.mutable.MutableFloat#floatValue()F

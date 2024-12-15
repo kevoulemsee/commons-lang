@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.Failable#applyAsDouble(Lorg/apache/commons/lang3/function/FailableDoubleBinaryOperator;DD)D
+false
+239f688168a9ff0ff409efd9be92057c
+org.apache.commons.lang3.function.Failable#getAsDouble(Lorg/apache/commons/lang3/function/FailableDoubleSupplier;)D

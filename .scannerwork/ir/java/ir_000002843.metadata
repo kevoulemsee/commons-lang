@@ -1,0 +1,4 @@
+org.apache.commons.lang3.Functions#accept(Lorg/apache/commons/lang3/Functions$FailableBiConsumer;Ljava/lang/Object;Ljava/lang/Object;)V
+false
+2e36cd03a432b15ef31373ef39224c85
+org.apache.commons.lang3.Functions#run(Lorg/apache/commons/lang3/Functions$FailableRunnable;)V

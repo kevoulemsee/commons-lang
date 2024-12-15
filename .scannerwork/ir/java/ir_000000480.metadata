@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableByte#getValue()Ljava/lang/Byte;
+false
+d235e52540b409aaceaadf400a0e9baa
+java.lang.Byte#valueOf(B)Ljava/lang/Byte;

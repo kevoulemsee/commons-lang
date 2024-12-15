@@ -1,0 +1,3 @@
+org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#isOpen(Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;)Z
+false
+73a01a523e37b4a93ae8c9d7dac6e41f

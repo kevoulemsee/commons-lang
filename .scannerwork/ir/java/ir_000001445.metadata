@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableFloat#isInfinite()Z
+false
+4dbf4be4a70c7b3939d687b0ebcefcbc
+java.lang.Float#isInfinite(F)Z

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.stream.Streams#failableStream([Ljava/lang/Object;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;
+false
+5c50d9044c5480a83274bc0a5db1554c
+org.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;
+org.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;

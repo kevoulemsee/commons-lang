@@ -1,0 +1,5 @@
+org.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;[I[I)Lorg/apache/commons/lang3/builder/DiffBuilder;
+false
+13fa088a6cf5f9c8b4c9ac02d2c3a528
+java.util.Arrays#equals([I[I)Z
+org.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;

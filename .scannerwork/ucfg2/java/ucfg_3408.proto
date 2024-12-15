@@ -1,0 +1,58 @@
+
+__sonar_lambda_129$h
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/LocaleUtils.java†B ‡(˜"startingBlock*Á
+startingBlock†B ‡(˜
+š
+
+__unknown_file ( 
+languageCodejava.lang.String"__id*V
+
+__unknown_file (:*8&
+$org.apache.commons.lang3.LocaleUtils"
+languageCode*
+1*Ì
+1
+†H †(S{
+y
+‡  ‡(–"
+%4java.util.function.Predicate"__declareFunction*3
+
+__unknown_file (
+__sonar_lambda_130$™
+–
+
+__unknown_file (4
+"
+%4java.util.function.Predicate"
+languageCode"__id*>
+
+__unknown_file ("
+ 
+languageCodejava.lang.String™
+–
+‡ ‡(—
+%11java.util.List"horg.apache.commons.lang3.LocaleUtils#availableLocaleList(Ljava/util/function/Predicate;)Ljava/util/List;*D
+
+__unknown_file (("&
+$org.apache.commons.lang3.LocaleUtils*@
+
+__unknown_file ($
+"
+%4java.util.function.PredicateÝ
+Ú
+†H ‡(˜
+%12java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections*3
+
+__unknown_file (
+
+%11java.util.List"&
+†H ‡(˜
+
+%12java.util.List:$
+
+†B †(D
+lcjava.lang.StringB
+java.util.function.Function

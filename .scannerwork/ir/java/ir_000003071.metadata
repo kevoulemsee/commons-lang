@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableInt#getValue()Ljava/lang/Integer;
+false
+1d4dff8b7e1d757510e9cd5c9fd4fa9d
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;

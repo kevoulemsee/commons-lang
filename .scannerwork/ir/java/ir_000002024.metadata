@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#containsAnyIgnoreCase(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z
+false
+4092d322b0848a02bad2835643877a1a
+==
+containsAny org.apache.commons.lang3.Strings#containsAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z

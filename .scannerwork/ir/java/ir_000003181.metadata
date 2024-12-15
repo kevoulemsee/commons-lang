@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJavaxAccessibilityAssistiveTechnologies()Ljava/lang/String;
+false
+ffc20ff8739ef0a53c739a73bd5b2fc5
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

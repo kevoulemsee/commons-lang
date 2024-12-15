@@ -1,0 +1,7 @@
+org.apache.commons.lang3.reflect.TypeUtils#parameterize(Ljava/lang/Class;Ljava/util/Map;)Ljava/lang/reflect/ParameterizedType;
+false
+81e3a7d3c0b6b287cb13d5a876623386
+java.lang.Class#getTypeParameters()[Ljava/lang/reflect/TypeVariable;
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.reflect.TypeUtils#extractTypeArgumentsFrom(Ljava/util/Map;[Ljava/lang/reflect/TypeVariable;)[Ljava/lang/reflect/Type;
+org.apache.commons.lang3.reflect.TypeUtils#parameterizeWithOwner(Ljava/lang/reflect/Type;Ljava/lang/Class;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/ParameterizedType;

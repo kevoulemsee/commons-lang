@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.NumberUtils#isZero(Ljava/lang/String;Ljava/lang/String;)Z
+false
+4403c14ef95e29509aa130c278c1d160
+org.apache.commons.lang3.math.NumberUtils#isAllZeros(Ljava/lang/String;)Z

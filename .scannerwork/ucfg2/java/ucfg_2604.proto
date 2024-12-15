@@ -1,0 +1,51 @@
+
+__sonar_lambda_65$k
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaV V(="startingBlock*ú
+startingBlockV V(=¿
+¼
+
+__unknown_file (@
+consumer4org.apache.commons.lang3.function.FailableBiConsumer"__id*X
+
+__unknown_file (<*:,
+*org.apache.commons.lang3.function.Failable"
+
+consumerŠ
+‡
+
+__unknown_file (
+object1T"__id*W
+
+__unknown_file (;*9,
+*org.apache.commons.lang3.function.Failable"	
+object1Š
+‡
+
+__unknown_file (
+object2U"__id*W
+
+__unknown_file (;*9,
+*org.apache.commons.lang3.function.Failable"	
+object2*
+1*
+1V V($ãà
+V V(=
+
+%1void"borg.apache.commons.lang3.function.FailableBiConsumer#accept(Ljava/lang/Object;Ljava/lang/Object;)V*^
+
+__unknown_file (B
+@
+consumer4org.apache.commons.lang3.function.FailableBiConsumer**
+
+__unknown_file (
+
+object1T**
+
+__unknown_file (
+
+object2U2,accept(Ljava/lang/Object;Ljava/lang/Object;)"
+V V(=
+
+
+%1voidB64
+2org.apache.commons.lang3.function.FailableRunnable

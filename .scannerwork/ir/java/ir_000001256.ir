@@ -1,0 +1,81 @@
+
+X
+unicodeEscapedForg.apache.commons.lang3.CharUtils#unicodeEscaped(C)Ljava/lang/String;‘
+4int"\\u"java.lang.String
+8int15int12intch
+Ü( Ü(5"char"&"org.apache.commons.lang3.CharUtilsch
+Ü( Ü(5"char"êP
+N
+
+Þ Þ("3
+#get-field# HEX_DIGITS#get-field# HEX_DIGITS"*2char[]6
+4
+
+Þ Þ("
+
+#binop >>#
+#binop >>#"*2int4
+2
+
+Þ Þ($"
+	#binop &#	#binop &#"*2int5
+3
+
+Þ Þ(%	"
+#array-read##array-read#"*P
+N
+
+ß ß(
+"3
+#get-field# HEX_DIGITS#get-field# HEX_DIGITS"*2char[]6
+4
+
+ß ß("
+
+#binop >>#
+#binop >>#"*2int4
+2
+
+ß ß(#"
+	#binop &#	#binop &#"*2int5
+3
+
+ß ß($"
+#array-read##array-read#"*
+P
+N
+
+à à("3
+#get-field# HEX_DIGITS#get-field# HEX_DIGITS"*2char[]6
+4
+
+à à("
+
+#binop >>#
+#binop >>#"*2int4
+2
+
+à à(#"
+	#binop &#	#binop &#"*2int5
+3
+
+à à($"
+#array-read##array-read#"*P
+N
+
+á á("3
+#get-field# HEX_DIGITS#get-field# HEX_DIGITS"*2char[]4
+2
+
+á á("
+	#binop &#	#binop &#"*2int5
+3
+
+á á("
+#array-read##array-read#"*2
+0
+
+Ý á("
+	#binop +#	#binop +#"*	
+
+Ý á( *Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/CharUtils.java

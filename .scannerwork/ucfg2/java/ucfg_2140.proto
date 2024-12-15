@@ -1,0 +1,43 @@
+
+Torg.apache.commons.lang3.StringUtils#upperCase(Ljava/lang/String;)Ljava/lang/String;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java²G ²G(""3*%
+2
+´G ´G("
+
+´G ´G(
+""*Â
+3
+³G ³G(¨
+¥
+
+³G ³G(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+strjava.lang.String*"
+
+__unknown_file (
+""*
+2
+1*Ù
+1
+¶G ¶G(Ÿœ
+
+¶G ¶G( 
+%1java.lang.String"0java.lang.String#toUpperCase()Ljava/lang/String;*5
+
+__unknown_file (
+
+strjava.lang.String2toUpperCase()"&
+
+¶G ¶G(!
+
+%1java.lang.String:%
+
+²G# ²G(3
+strjava.lang.StringB("&
+$org.apache.commons.lang3.StringUtilsH

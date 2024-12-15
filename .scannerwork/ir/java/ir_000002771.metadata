@@ -1,0 +1,4 @@
+org.apache.commons.lang3.RuntimeEnvironment#inContainer()Ljava/lang/Boolean;
+false
+7bd0aa2defffdb4b4884ebeff477fd31
+org.apache.commons.lang3.RuntimeEnvironment#inContainer(Ljava/lang/String;)Z

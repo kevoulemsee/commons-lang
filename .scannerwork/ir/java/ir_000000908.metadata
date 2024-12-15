@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#xor(Ljava/util/BitSet;)Lorg/apache/commons/lang3/util/FluentBitSet;
+false
+15d1552547d634f10d43789c589f8bc6
+==
+xor java.util.BitSet#xor(Ljava/util/BitSet;)V

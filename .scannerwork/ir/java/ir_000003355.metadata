@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArchUtils#init_X86_64Bit()V
+false
+1ee8688854ba3ec8d88c237863a495d7
+org.apache.commons.lang3.ArchUtils#addProcessors(Lorg/apache/commons/lang3/arch/Processor;[Ljava/lang/String;)V
+org.apache.commons.lang3.arch.Processor#<init>(Lorg/apache/commons/lang3/arch/Processor$Arch;Lorg/apache/commons/lang3/arch/Processor$Type;)V
+org.apache.commons.lang3.arch.Processor#instance-init#

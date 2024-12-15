@@ -1,0 +1,5 @@
+org.apache.commons.lang3.SystemUtils#isJavaAwtHeadless()Z
+false
+07822bf531d847507f8131e181f2b8f1
+java.lang.Boolean#toString()Ljava/lang/String;
+java.lang.String#equals(Ljava/lang/Object;)Z

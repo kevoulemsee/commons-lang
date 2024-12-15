@@ -1,0 +1,5 @@
+org.apache.commons.lang3.stream.Streams#toArray(Ljava/lang/Class;)Ljava/util/stream/Collector;
+false
+290714b5f6c72d97c675446c8a9ea4ab
+org.apache.commons.lang3.stream.Streams$ArrayCollector#<init>(Ljava/lang/Class;)V
+org.apache.commons.lang3.stream.Streams$ArrayCollector#instance-init#

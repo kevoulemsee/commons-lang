@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#join([Ljava/lang/Object;Ljava/lang/String;II)Ljava/lang/String;
+false
+54a6baaaf504e70c79336c15460d94c5
+java.lang.Math#max(II)I
+org.apache.commons.lang3.stream.LangCollectors#joining(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/util/function/Function;)Ljava/util/stream/Collector;
+org.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+limit java.util.stream.Stream#limit(J)Ljava/util/stream/Stream;
+skip java.util.stream.Stream#skip(J)Ljava/util/stream/Stream;

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.concurrent.UncheckedFuture#map(Ljava/util/Collection;)Ljava/util/stream/Stream;
+false
+6dd8e54b3bfd32f15ce412263348ea79
+==
+map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

@@ -1,0 +1,28 @@
+
+__sonar_lambda_84$m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java•& •(P"1*³
+1
+•+ •(2×
+Ô
+
+•+ •(P8
+%32org.apache.commons.lang3.function.FailableRunnable"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*U
+
+__unknown_file (9
+7
+r2org.apache.commons.lang3.function.FailableRunnable*(
+
+__unknown_file (
+
+runnable"H
+
+•+ •(P:
+8
+%32org.apache.commons.lang3.function.FailableRunnable:E
+
+•& •('7
+r2org.apache.commons.lang3.function.FailableRunnableB
+java.util.function.Consumer

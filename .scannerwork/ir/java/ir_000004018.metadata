@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.translate.AggregateTranslator#translate(Ljava/lang/CharSequence;ILjava/io/Writer;)I
+false
+45288b5256df6dba9a71993e3fe1d7fd
+==
+translate org.apache.commons.lang3.text.translate.CharSequenceTranslator#translate(Ljava/lang/CharSequence;ILjava/io/Writer;)I

@@ -1,0 +1,7 @@
+org.apache.commons.lang3.ClassPathUtils#toFullyQualifiedPath(Ljava/lang/Package;Ljava/lang/String;)Ljava/lang/String;
+false
+39a0c00bf1efc8299abb6734acec8957
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.ClassPathUtils#packageToPath(Ljava/lang/String;)Ljava/lang/String;
+==
+getName java.lang.Package#getName()Ljava/lang/String;

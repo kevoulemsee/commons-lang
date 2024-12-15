@@ -1,0 +1,8 @@
+org.apache.commons.lang3.ClassUtils#convertClassesToClassNames(Ljava/util/List;)Ljava/util/List;
+false
+784de2314a85e2455403955fb7e86d05
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

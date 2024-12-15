@@ -1,0 +1,6 @@
+org.apache.commons.lang3.builder.EqualsBuilder#getRegisterPair(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;
+false
+5b6dae2eed8ec47b0bfaadfa4e6a914c
+org.apache.commons.lang3.builder.IDKey#<init>(Ljava/lang/Object;)V
+org.apache.commons.lang3.builder.IDKey#instance-init#
+org.apache.commons.lang3.tuple.Pair#of(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;

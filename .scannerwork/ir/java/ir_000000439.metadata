@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.AbstractFutureProxy#isDone()Z
+false
+0e17bd270cfd603f8cbe92b25a0da9db
+==
+isDone java.util.concurrent.Future#isDone()Z

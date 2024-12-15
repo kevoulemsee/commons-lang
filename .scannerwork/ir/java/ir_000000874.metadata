@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#cardinality()I
+false
+c2179bbb930dd66afa40f1e76ffe5ffa
+==
+cardinality java.util.BitSet#cardinality()I

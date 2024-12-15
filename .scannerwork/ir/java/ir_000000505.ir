@@ -1,0 +1,27 @@
+
+6
+add/org.apache.commons.lang3.ArrayUtils#add([JIJ)[Jnarray
+à à(/"long[]index
+à1 à(@"intelement
+àB à(T"long"java.lang.Longarray
+à à(/"long[]index
+à1 à(@"intelement
+àB à(T"long"—\
+Z
+
+á* á(?"7
+valueOf)java.lang.Long#valueOf(J)Ljava/lang/Long;"*2java.lang.LongM
+K
+
+áA á(J"'
+#get-field# TYPE#get-field# TYPE"*2java.lang.Class£
+ 
+
+á á(K"x
+addqorg.apache.commons.lang3.ArrayUtils#add(Ljava/lang/Object;ILjava/lang/Object;Ljava/lang/Class;)Ljava/lang/Object;*2java.lang.Object0
+.
+
+á á(K"
+#cast##cast#"*2long[]
+
+á á(L*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

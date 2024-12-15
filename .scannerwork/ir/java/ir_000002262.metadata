@@ -1,0 +1,5 @@
+org.apache.commons.lang3.IntegerRange#of(Ljava/lang/Integer;Ljava/lang/Integer;)Lorg/apache/commons/lang3/IntegerRange;
+false
+445d7d349b9c6a1ec1c312c5f6731e0b
+org.apache.commons.lang3.IntegerRange#<init>(Ljava/lang/Integer;Ljava/lang/Integer;)V
+org.apache.commons.lang3.IntegerRange#instance-init#

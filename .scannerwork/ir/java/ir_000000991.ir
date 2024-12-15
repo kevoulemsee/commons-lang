@@ -1,0 +1,19 @@
+
+;
+max4org.apache.commons.lang3.math.IEEE754rUtils#max(FF)F0av v()"floatbv+ v(8"floatav v()"floatbv+ v(8"float"aA
+?
+w w("%
+isNaNjava.lang.Float#isNaN(F)Z"*2boolean"
+w w( *w w(
+"
+x x("cA
+?
+z z("%
+isNaNjava.lang.Float#isNaN(F)Z"*2boolean"
+z z( *z z(
+"
+{ {("P<
+:
+} }("!
+maxjava.lang.Math#max(FF)F"*2float
+} }(*b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/IEEE754rUtils.java

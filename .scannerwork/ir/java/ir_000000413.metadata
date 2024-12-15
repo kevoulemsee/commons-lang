@@ -1,0 +1,4 @@
+org.apache.commons.lang3.Validate#notNaN(D)V
+false
+76c3bb3a3e53d8947578b27454ab9433
+org.apache.commons.lang3.Validate#notNaN(DLjava/lang/String;[Ljava/lang/Object;)V

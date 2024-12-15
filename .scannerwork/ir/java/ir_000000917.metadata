@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.MethodInvokers#asFunction(Ljava/lang/reflect/Method;)Ljava/util/function/Function;
+false
+f6e77eca9249f9119707f059ac115b8d
+org.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;

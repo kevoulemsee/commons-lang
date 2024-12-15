@@ -1,0 +1,6 @@
+org.apache.commons.lang3.JavaVersion#toFloatVersion(Ljava/lang/String;)F
+false
+f487302dc20e2d0612c535bd1ffff4fd
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+org.apache.commons.lang3.JavaVersion#split(Ljava/lang/String;)[Ljava/lang/String;
+org.apache.commons.lang3.math.NumberUtils#toFloat(Ljava/lang/String;F)F

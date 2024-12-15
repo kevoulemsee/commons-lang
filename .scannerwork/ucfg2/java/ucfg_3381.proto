@@ -1,0 +1,36 @@
+
+__sonar_lambda_125$c
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArchUtils.java@! @(@"startingBlock*Í
+startingBlock@! @(@¬
+©
+
+__unknown_file (4
+	processor'org.apache.commons.lang3.arch.Processor"__id*Q
+
+__unknown_file (5*3$
+"org.apache.commons.lang3.ArchUtils"
+	processor*
+1*ÿ
+1@& @(2Õ
+Ò
+@& @(@
+
+%2void"morg.apache.commons.lang3.ArchUtils#addProcessor(Ljava/lang/String;Lorg/apache/commons/lang3/arch/Processor;)V*B
+
+__unknown_file (&"$
+"org.apache.commons.lang3.ArchUtils*3
+
+__unknown_file (
+
+ejava.lang.String*R
+
+__unknown_file (6
+4
+	processor'org.apache.commons.lang3.arch.Processor"
+@& @(@
+
+
+%2void:!
+@! @("
+ejava.lang.StringB
+java.util.function.Consumer

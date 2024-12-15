@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ObjectUtils#hashCode(Ljava/lang/Object;)I
+false
+1a872ef2ded8a6892e9da7dd64385610
+java.util.Objects#hashCode(Ljava/lang/Object;)I

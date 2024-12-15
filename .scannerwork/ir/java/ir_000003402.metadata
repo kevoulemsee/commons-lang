@@ -1,0 +1,6 @@
+org.apache.commons.lang3.time.FastDatePrinter#format(Ljava/util/Calendar;Ljava/lang/StringBuffer;)Ljava/lang/StringBuffer;
+false
+ac381ed2d1e19b76b4f1ec2d62dffacd
+java.util.Calendar#getTime()Ljava/util/Date;
+==
+format org.apache.commons.lang3.time.FastDatePrinter#format(Ljava/util/Date;Ljava/lang/StringBuffer;)Ljava/lang/StringBuffer;

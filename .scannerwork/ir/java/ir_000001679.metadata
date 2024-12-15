@@ -1,0 +1,12 @@
+org.apache.commons.lang3.builder.EqualsBuilder#reflectionEquals(Ljava/lang/Object;Ljava/lang/Object;ZLjava/lang/Class;Z[Ljava/lang/String;)Z
+false
+e97e3d8c8cdc2b33a06f7781aebf946b
+org.apache.commons.lang3.builder.EqualsBuilder#<init>()V
+org.apache.commons.lang3.builder.EqualsBuilder#instance-init#
+==
+isEquals org.apache.commons.lang3.builder.EqualsBuilder#isEquals()Z
+reflectionAppend org.apache.commons.lang3.builder.EqualsBuilder#reflectionAppend(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+setExcludeFields org.apache.commons.lang3.builder.EqualsBuilder#setExcludeFields([Ljava/lang/String;)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+setReflectUpToClass org.apache.commons.lang3.builder.EqualsBuilder#setReflectUpToClass(Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+setTestRecursive org.apache.commons.lang3.builder.EqualsBuilder#setTestRecursive(Z)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+setTestTransients org.apache.commons.lang3.builder.EqualsBuilder#setTestTransients(Z)Lorg/apache/commons/lang3/builder/EqualsBuilder;

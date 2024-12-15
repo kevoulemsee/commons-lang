@@ -1,0 +1,3 @@
+org.apache.commons.lang3.concurrent.BasicThreadFactory#getDaemonFlag()Ljava/lang/Boolean;
+false
+b0de8dcde87fc1db6b8f692d58969e95

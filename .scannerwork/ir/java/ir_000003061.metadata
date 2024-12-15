@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableInt#compareTo(Lorg/apache/commons/lang3/mutable/MutableInt;)I
+false
+6c5640a98b5b4bfd4278b1edd2f92a1c
+org.apache.commons.lang3.math.NumberUtils#compare(II)I

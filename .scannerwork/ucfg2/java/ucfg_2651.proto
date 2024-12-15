@@ -1,0 +1,66 @@
+
+çorg.apache.commons.lang3.function.Failable#test(Lorg/apache/commons/lang3/function/FailableBiPredicate;Ljava/lang/Object;Ljava/lang/Object;)Zm
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaÊ6 Ê(:"1*ö
+1
+Ë Ë(ó
+î
+
+Ë Ë(B?
+%09org.apache.commons.lang3.function.FailableBooleanSupplier"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_82$’
+“
+
+__unknown_file (N
+?
+%09org.apache.commons.lang3.function.FailableBooleanSupplier"
+	predicate"__id*`
+
+__unknown_file (D
+B
+	predicate5org.apache.commons.lang3.function.FailableBiPredicateù
+ö
+
+__unknown_file (L
+?
+%09org.apache.commons.lang3.function.FailableBooleanSupplier"	
+object1"__id**
+
+__unknown_file (
+
+object1Tù
+ö
+
+__unknown_file (L
+?
+%09org.apache.commons.lang3.function.FailableBooleanSupplier"	
+object2"__id**
+
+__unknown_file (
+
+object2U¿
+Ω
+
+Ë Ë(C
+%2boolean"uorg.apache.commons.lang3.function.Failable#getAsBoolean(Lorg/apache/commons/lang3/function/FailableBooleanSupplier;)Z*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.function.Failable*]
+
+__unknown_file (A
+?
+%09org.apache.commons.lang3.function.FailableBooleanSupplier"
+
+Ë Ë(D
+"":P
+
+Ê; Ê(hB
+	predicate5org.apache.commons.lang3.function.FailableBiPredicate:
+
+Á Á(
+object1T:
+
+Á Á((
+object2UB.",
+*org.apache.commons.lang3.function.FailableHX

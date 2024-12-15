@@ -1,0 +1,9 @@
+org.apache.commons.lang3.text.StrTokenizer#getTokenList()Ljava/util/List;
+false
+5594b3ad0ee96050d2d931e15d4480d4
+java.util.ArrayList#<init>(I)V
+java.util.ArrayList#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+org.apache.commons.lang3.text.StrTokenizer#checkTokenized()V
+==
+addAll java.util.List#addAll(Ljava/util/Collection;)Z

@@ -1,0 +1,90 @@
+
+worg.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;II)Lorg/apache/commons/lang3/builder/DiffBuilder;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaÃ Ã( "3"4*½
+2
+Ä- Ä(0¦
+£
+
+Ä< Ä(V!
+%4java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_157$org.apache.commons.lang3.builder.DiffBuilder¦
+£
+
+ÄX Ä(r!
+%6java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_158$org.apache.commons.lang3.builder.DiffBuilderµ
+²
+Ä- Ä(‚2
+%3,org.apache.commons.lang3.builder.DiffBuilder"½org.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.builder.DiffBuilder*;
+
+__unknown_file (
+
+	fieldNamejava.lang.String*?
+
+__unknown_file (#
+!
+%4java.util.function.Supplier*?
+
+__unknown_file (#
+!
+%6java.util.function.Supplier*"
+
+__unknown_file (
+""œ
+™
+Ä- Ä(‚2
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%3,org.apache.commons.lang3.builder.DiffBuilder*
+1*²
+3
+Ä& Ä(*›
+˜
+
+Ä& Ä(*2
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%2,org.apache.commons.lang3.builder.DiffBuilder*
+1*¯
+4
+Ä Ä(•
+’
+
+Ä Ä(#
+%0boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*U
+1Ä Ä(ƒ"C
+Ä Ä(ƒ4
+2
+%1,org.apache.commons.lang3.builder.DiffBuilder:+
+
+Ã! Ã(8
+	fieldNamejava.lang.String: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B0.
+,org.apache.commons.lang3.builder.DiffBuilderH

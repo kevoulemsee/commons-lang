@@ -1,0 +1,9 @@
+org.apache.commons.lang3.exception.ExceptionUtils#removeCommonFrames(Ljava/util/List;Ljava/util/List;)V
+false
+5c4ef4589d4332fcd2734be8af32f20b
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+==
+get java.util.List#get(I)Ljava/lang/Object;
+remove java.util.List#remove(I)Ljava/lang/Object;
+size java.util.List#size()I

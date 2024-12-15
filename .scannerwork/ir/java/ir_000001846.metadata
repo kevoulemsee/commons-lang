@@ -1,0 +1,5 @@
+org.apache.commons.lang3.DoubleRange#of(DD)Lorg/apache/commons/lang3/DoubleRange;
+false
+6972343f2c1be7c25fb4b5af1e1eaca3
+java.lang.Double#valueOf(D)Ljava/lang/Double;
+org.apache.commons.lang3.DoubleRange#of(Ljava/lang/Double;Ljava/lang/Double;)Lorg/apache/commons/lang3/DoubleRange;

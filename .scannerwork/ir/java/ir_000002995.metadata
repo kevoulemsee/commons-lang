@@ -1,0 +1,8 @@
+org.apache.commons.lang3.CharSequenceUtils#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I
+false
+602f69af8ebaae0fc0d1d3aca1257ebb
+java.lang.String#indexOf(Ljava/lang/String;I)I
+java.lang.StringBuffer#indexOf(Ljava/lang/String;I)I
+java.lang.StringBuilder#indexOf(Ljava/lang/String;I)I
+==
+toString java.lang.CharSequence#toString()Ljava/lang/String;

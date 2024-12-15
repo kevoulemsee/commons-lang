@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailableDoublePredicate#or(Lorg/apache/commons/lang3/function/FailableDoublePredicate;)Lorg/apache/commons/lang3/function/FailableDoublePredicate;
+false
+0c9496ad4dbc340f7c8beb2c8b070fe9
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

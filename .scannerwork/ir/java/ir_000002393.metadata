@@ -1,0 +1,6 @@
+org.apache.commons.lang3.Range#equals(Ljava/lang/Object;)Z
+false
+8d3d29ac85c10c949d3ccc17902616d5
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

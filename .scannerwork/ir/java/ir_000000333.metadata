@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.WordUtils#initials(Ljava/lang/String;)Ljava/lang/String;
+false
+31d9f18083869ae99feb571965826495
+org.apache.commons.lang3.text.WordUtils#initials(Ljava/lang/String;[C)Ljava/lang/String;

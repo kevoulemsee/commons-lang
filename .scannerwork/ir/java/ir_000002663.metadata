@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.Failable#tryWithResources(Lorg/apache/commons/lang3/function/FailableRunnable;[Lorg/apache/commons/lang3/function/FailableRunnable;)V
+false
+9c21c6638ddd300824a4e7ebffb3315c
+org.apache.commons.lang3.function.Failable#tryWithResources(Lorg/apache/commons/lang3/function/FailableRunnable;Lorg/apache/commons/lang3/function/FailableConsumer;[Lorg/apache/commons/lang3/function/FailableRunnable;)V

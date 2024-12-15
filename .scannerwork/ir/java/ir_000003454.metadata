@@ -1,0 +1,16 @@
+org.apache.commons.lang3.AnnotationUtils#arrayMemberEquals(Ljava/lang/Class;Ljava/lang/Object;Ljava/lang/Object;)Z
+false
+494a78a6227f3aec02f0bcdd6a73d5ff
+java.lang.Class#isAnnotation()Z
+java.util.Arrays#equals([B[B)Z
+java.util.Arrays#equals([C[C)Z
+java.util.Arrays#equals([D[D)Z
+java.util.Arrays#equals([F[F)Z
+java.util.Arrays#equals([I[I)Z
+java.util.Arrays#equals([J[J)Z
+java.util.Arrays#equals([Ljava/lang/Object;[Ljava/lang/Object;)Z
+java.util.Arrays#equals([S[S)Z
+java.util.Arrays#equals([Z[Z)Z
+org.apache.commons.lang3.AnnotationUtils#annotationArrayMemberEquals([Ljava/lang/annotation/Annotation;[Ljava/lang/annotation/Annotation;)Z
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.EnumUtils#getEnumIgnoreCase(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/Enum;)Ljava/lang/Enum;
+false
+a55d0f5a4dc249fd373b9694e70b1098
+org.apache.commons.lang3.EnumUtils#getFirstEnumIgnoreCase(Ljava/lang/Class;Ljava/lang/String;Ljava/util/function/Function;Ljava/lang/Enum;)Ljava/lang/Enum;

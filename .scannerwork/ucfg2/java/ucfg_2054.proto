@@ -1,0 +1,74 @@
+
+jorg.apache.commons.lang3.StringUtils#removePattern(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaº. º.(&"startingBlock*Ç
+startingBlock
+º.& º.(Oë
+é
+
+ª. ª.(
+%1"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*8
+
+__unknown_file (
+
+sourcejava.lang.String\
+Z
+
+º.4 º.(:
+sourcejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%1ê
+ç
+
+ª. ª.(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*7
+
+__unknown_file (
+
+regexjava.lang.String[
+Y
+
+º.I º.(N
+regexjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2*
+1*Ñ
+1
+Ω. Ω.( 
+«
+
+Ω. Ω.(6
+%0java.lang.String"iorg.apache.commons.lang3.RegExUtils#removePattern(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*C
+
+__unknown_file ('"%
+#org.apache.commons.lang3.RegExUtils*8
+
+__unknown_file (
+
+sourcejava.lang.String*7
+
+__unknown_file (
+
+regexjava.lang.String"&
+
+Ω. Ω.(7
+
+%0java.lang.String:(
+
+º.' º.(;
+sourcejava.lang.String:'
+
+º.< º.(N
+regexjava.lang.StringB("&
+$org.apache.commons.lang3.StringUtilsH

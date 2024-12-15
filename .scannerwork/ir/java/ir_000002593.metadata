@@ -1,0 +1,4 @@
+org.apache.commons.lang3.concurrent.ConstantInitializer#hashCode()I
+false
+40ce10d760ccc3dc662c2db32f4ba4d7
+java.util.Objects#hashCode(Ljava/lang/Object;)I

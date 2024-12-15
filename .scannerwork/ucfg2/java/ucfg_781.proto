@@ -1,0 +1,66 @@
+
+4org.apache.commons.lang3.math.IEEE754rUtils#min(DD)Dn
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/IEEE754rUtils.java≠ ≠("5*%
+2
+≤ ≤("
+
+≤ ≤(
+""*™
+3
+± ±(ê
+ç
+
+± ±(
+%1boolean"java.lang.Double#isNaN(D)Z*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""*
+2
+1*%
+4
+Ø Ø("
+
+Ø Ø(
+""*™
+5
+Æ Æ(ê
+ç
+
+Æ Æ(
+%0boolean"java.lang.Double#isNaN(D)Z*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""*
+3
+4*÷
+1
+¥ ¥(Æ
+´
+
+¥ ¥(
+%2double"java.lang.Math#min(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+¥ ¥(
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B/"-
++org.apache.commons.lang3.math.IEEE754rUtilsHX

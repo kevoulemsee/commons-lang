@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.FastDateFormat#getMaxLengthEstimate()I
+false
+7a8f00faf04fbaf050ed092758f10ac6
+==
+getMaxLengthEstimate org.apache.commons.lang3.time.FastDatePrinter#getMaxLengthEstimate()I

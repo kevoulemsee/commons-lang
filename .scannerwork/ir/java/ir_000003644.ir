@@ -1,0 +1,15 @@
+
+a
+	hierarchyTorg.apache.commons.lang3.ClassUtils#hierarchy(Ljava/lang/Class;)Ljava/lang/Iterable;[%type
+Ë/ Ë(B"java.lang.Class"2.org.apache.commons.lang3.ClassUtils$Interfaces%type
+Ë/ Ë(B"java.lang.Class"Çr
+p
+
+Ì Ì(1"-
+#get-field# EXCLUDE#get-field# EXCLUDE"*2.org.apache.commons.lang3.ClassUtils$Interfaces¾
+»
+
+Ì Ì(2"’
+	hierarchy„org.apache.commons.lang3.ClassUtils#hierarchy(Ljava/lang/Class;Lorg/apache/commons/lang3/ClassUtils$Interfaces;)Ljava/lang/Iterable;*2java.lang.Iterable
+
+Ì Ì(3*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ClassUtils.java

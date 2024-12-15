@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.IEEE754rUtils#max(DD)D
+false
+3bcf3fd00710cc1b4315aa47ca0ef228
+java.lang.Double#isNaN(D)Z
+java.lang.Math#max(DD)D

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailableLongUnaryOperator#andThen(Lorg/apache/commons/lang3/function/FailableLongUnaryOperator;)Lorg/apache/commons/lang3/function/FailableLongUnaryOperator;
+false
+8ac59cc7932970de89fddb7b8fe73ba5
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

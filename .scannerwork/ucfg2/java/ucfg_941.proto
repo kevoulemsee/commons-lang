@@ -1,0 +1,31 @@
+
+:__sonar_lambda_26$org.apache.commons.lang3.text.StrBuilderk
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java¬> ¬(V"startingBlock*â
+startingBlock
+¬> ¬(V¿
+¼
+
+__unknown_file (;
+StrBuilder.this(org.apache.commons.lang3.text.StrBuilder"__id*]
+
+__unknown_file (A*?*
+(org.apache.commons.lang3.text.StrBuilder"
+StrBuilder.this*
+1*‰
+1
+¬M ¬(S³°
+
+¬M ¬(U	
+%5int"2org.apache.commons.lang3.text.StrBuilder#length()I*Y
+
+__unknown_file (=
+;
+StrBuilder.this(org.apache.commons.lang3.text.StrBuilder2length()$"
+
+¬D ¬(V
+%6char[]"char[]"
+
+¬D ¬(V
+
+%6char[]B
+java.util.function.Supplier

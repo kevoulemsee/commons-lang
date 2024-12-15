@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrMatcher#charMatcher(C)Lorg/apache/commons/lang3/text/StrMatcher;
+false
+4763477660cb5ab1b517c1734a65ce5e
+org.apache.commons.lang3.text.StrMatcher$CharMatcher#<init>(C)V
+org.apache.commons.lang3.text.StrMatcher$CharMatcher#instance-init#

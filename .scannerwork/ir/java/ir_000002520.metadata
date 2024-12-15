@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#hex(I)Ljava/lang/String;
+false
+696fd26c051105c9655fc3d46e5e6935
+java.lang.Integer#toHexString(I)Ljava/lang/String;
+java.lang.String#toUpperCase(Ljava/util/Locale;)Ljava/lang/String;

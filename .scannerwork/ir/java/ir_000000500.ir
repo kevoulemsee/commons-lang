@@ -1,0 +1,27 @@
+
+6
+add/org.apache.commons.lang3.ArrayUtils#add([DID)[Dtarray
+¼ ¼(3"double[]index
+¼5 ¼(D"intelement
+¼F ¼(Z"double"java.lang.Doublearray
+¼ ¼(3"double[]index
+¼5 ¼(D"intelement
+¼F ¼(Z"double"Ÿb
+`
+
+½, ½(C";
+valueOf-java.lang.Double#valueOf(D)Ljava/lang/Double;"*2java.lang.DoubleM
+K
+
+½E ½(P"'
+#get-field# TYPE#get-field# TYPE"*2java.lang.Class£
+ 
+
+½ ½(Q"x
+addqorg.apache.commons.lang3.ArrayUtils#add(Ljava/lang/Object;ILjava/lang/Object;Ljava/lang/Class;)Ljava/lang/Object;*2java.lang.Object2
+0
+
+½ ½(Q"
+#cast##cast#"*2double[]
+
+½ ½(R*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.translate.NumericEntityEscaper#below(I)Lorg/apache/commons/lang3/text/translate/NumericEntityEscaper;
+false
+c27b519e7d99875218e41435372d74f9
+org.apache.commons.lang3.text.translate.NumericEntityEscaper#outsideOf(II)Lorg/apache/commons/lang3/text/translate/NumericEntityEscaper;

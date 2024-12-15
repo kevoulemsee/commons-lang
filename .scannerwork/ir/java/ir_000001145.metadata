@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.StrBuilder#replaceFirst(Ljava/lang/String;Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+3707c191ce8a7d7297d7aad0c887dd95
+org.apache.commons.lang3.StringUtils#length(Ljava/lang/CharSequence;)I
+org.apache.commons.lang3.text.StrBuilder#replaceImpl(IIILjava/lang/String;I)V
+==
+indexOf org.apache.commons.lang3.text.StrBuilder#indexOf(Ljava/lang/String;I)I

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkJndiObjectFactoriesFilter()Ljava/lang/String;
+false
+fae12c031f256230871c2e2ceadc11e1
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

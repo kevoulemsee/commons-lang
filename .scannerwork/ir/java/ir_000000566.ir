@@ -1,0 +1,16 @@
+
+R
+	indexesOfEorg.apache.commons.lang3.ArrayUtils#indexesOf([DDD)Ljava/util/BitSet;u
+0intarray
+þ# þ(7"double[]#valueToFind
+þ9 þ(Q"double!	tolerance
+þS þ(i"doublearray
+þ# þ(7"double[]#valueToFind
+þ9 þ(Q"double!	tolerance
+þS þ(i"double"‘}
+{
+
+ÿ ÿ(:"S
+	indexesOfForg.apache.commons.lang3.ArrayUtils#indexesOf([DDID)Ljava/util/BitSet;*2java.util.BitSet
+
+ÿ ÿ(;*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

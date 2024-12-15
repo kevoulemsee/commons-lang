@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#startsWithIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z
+false
+c42bb5efdc6cd4cc07f4cdcfcf8a5d9f
+==
+startsWith org.apache.commons.lang3.Strings#startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

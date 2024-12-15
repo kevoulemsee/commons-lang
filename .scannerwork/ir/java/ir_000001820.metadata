@@ -1,0 +1,9 @@
+org.apache.commons.lang3.EnumUtils#getEnumMap(Ljava/lang/Class;Ljava/util/function/Function;)Ljava/util/Map;
+false
+d3de83fc59e4fd381bf9c51687110ddb
+java.lang.Class#getEnumConstants()[Ljava/lang/Object;
+java.util.function.Function#identity()Ljava/util/function/Function;
+java.util.stream.Collectors#toMap(Ljava/util/function/Function;Ljava/util/function/Function;)Ljava/util/stream/Collector;
+java.util.stream.Stream#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;

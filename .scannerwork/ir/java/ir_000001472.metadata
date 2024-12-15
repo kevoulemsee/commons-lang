@@ -1,0 +1,6 @@
+org.apache.commons.lang3.time.StopWatch#getSplitDuration()Ljava/time/Duration;
+false
+3cd1204bf85fe79917f3125e55ebcdf9
+java.time.Duration#ofNanos(J)Ljava/time/Duration;
+==
+getSplitNanoTime org.apache.commons.lang3.time.StopWatch#getSplitNanoTime()J

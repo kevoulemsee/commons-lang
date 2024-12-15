@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.AtomicSafeInitializer#builder()Lorg/apache/commons/lang3/concurrent/AtomicSafeInitializer$Builder;
+false
+e218ec1fb2d22461ee5d8e68dfc2a3d9
+org.apache.commons.lang3.concurrent.AtomicSafeInitializer$Builder#<init>()V
+org.apache.commons.lang3.concurrent.AtomicSafeInitializer$Builder#instance-init#

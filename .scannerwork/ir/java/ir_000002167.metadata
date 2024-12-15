@@ -1,0 +1,7 @@
+org.apache.commons.lang3.StringUtils#reverse(Ljava/lang/String;)Ljava/lang/String;
+false
+d3fade08c88447ec1171ed975463ba2a
+java.lang.StringBuilder#<init>(Ljava/lang/String;)V
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#reverse()Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;

@@ -1,0 +1,9 @@
+org.apache.commons.lang3.StringUtils#matches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)[I
+false
+65b29b4e7f4807ddef333441c4cc0b18
+java.lang.Math#max(II)I
+java.lang.Math#min(II)I
+org.apache.commons.lang3.ArrayFill#fill([II)[I
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

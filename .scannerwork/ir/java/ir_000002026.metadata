@@ -1,0 +1,7 @@
+org.apache.commons.lang3.StringUtils#containsNone(Ljava/lang/CharSequence;[C)Z
+false
+5f97eb05c1cc08b73ef7d96149269117
+java.lang.Character#isHighSurrogate(C)Z
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

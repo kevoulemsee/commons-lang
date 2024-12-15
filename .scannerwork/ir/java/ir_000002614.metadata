@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.BackgroundInitializer#createTask(Ljava/util/concurrent/ExecutorService;)Ljava/util/concurrent/Callable;
+false
+3ba7edb8d2c8e574862a85379c33537f
+org.apache.commons.lang3.concurrent.BackgroundInitializer$InitializationTask#<init>(Lorg/apache/commons/lang3/concurrent/BackgroundInitializer;Ljava/util/concurrent/ExecutorService;)V
+org.apache.commons.lang3.concurrent.BackgroundInitializer$InitializationTask#instance-init#

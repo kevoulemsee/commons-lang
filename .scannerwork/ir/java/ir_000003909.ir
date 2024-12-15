@@ -1,0 +1,17 @@
+
+z
+removePatterniorg.apache.commons.lang3.RegExUtils#removePattern(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;{&text
+ó' ó(8"java.lang.String'regex
+ó: ó(L"java.lang.String"($org.apache.commons.lang3.StringUtils&text
+ó' ó(8"java.lang.String'regex
+ó: ó(L"java.lang.String" P
+N
+
+ô+ ô(<")
+#get-field# EMPTY#get-field# EMPTY"*2java.lang.String¹
+¶
+
+ô ô(="Ž
+replacePattern|org.apache.commons.lang3.RegExUtils#replacePattern(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*2java.lang.String
+
+ô ô(>*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RegExUtils.java

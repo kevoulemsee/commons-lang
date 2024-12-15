@@ -1,0 +1,16 @@
+org.apache.commons.lang3.ClassUtils#getCanonicalName(Ljava/lang/String;)Ljava/lang/String;
+false
+573ec90b0d4f8c5defd8c78cb19aea38
+java.lang.String#endsWith(Ljava/lang/String;)Z
+java.lang.String#isEmpty()Z
+java.lang.String#length()I
+java.lang.String#startsWith(Ljava/lang/String;)Z
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#substring(II)Ljava/lang/String;
+java.lang.StringBuilder#<init>(Ljava/lang/String;)V
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#deleteWhitespace(Ljava/lang/String;)Ljava/lang/String;
+==
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;

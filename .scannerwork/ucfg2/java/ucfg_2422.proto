@@ -1,0 +1,14 @@
+
+dorg.apache.commons.lang3.stream.Streams$ArrayCollector#combiner()Ljava/util/function/BinaryOperator;h
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javal' l(/"1*ú
+1m p(³
+°
+m p('
+%0!java.util.function.BinaryOperator"__declareFunction*h
+
+__unknown_file (LJ
+H__sonar_lambda_55$org.apache.commons.lang3.stream.Streams$ArrayCollector"5
+m p()
+'
+%0!java.util.function.BinaryOperatorB:8
+6org.apache.commons.lang3.stream.Streams$ArrayCollectorH

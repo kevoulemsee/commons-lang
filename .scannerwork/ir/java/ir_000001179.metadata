@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.ConcurrentUtils#constantFuture(Ljava/lang/Object;)Ljava/util/concurrent/Future;
+false
+a2dc5826d4443437df9463c510d9127a
+org.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFuture#<init>(Ljava/lang/Object;)V
+org.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFuture#instance-init#

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#compareTo(Lorg/apache/commons/lang3/mutable/MutableDouble;)I
+false
+3c87877eb6c00f9951792ada949533e0
+java.lang.Double#compare(DD)I

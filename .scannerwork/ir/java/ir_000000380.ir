@@ -1,0 +1,25 @@
+
+6
+finite,org.apache.commons.lang3.Validate#finite(D)V^
+1int
+0intvalue
+Ü Ü(0"double"%!org.apache.commons.lang3.Validatevalue
+Ü Ü(0"double"ˆx
+v
+
+Ý Ý(/"Q
+%#get-field# DEFAULT_FINITE_EX_MESSAGE%#get-field# DEFAULT_FINITE_EX_MESSAGE"*2java.lang.StringH
+F
+
+Ý Ý(7"
+#new-object##new-object#"*2java.lang.Object[]8
+6
+
+Ý Ý(7"!
+#array-write##array-write#"*x
+v
+
+Ý Ý(7"[
+finiteQorg.apache.commons.lang3.Validate#finite(DLjava/lang/String;[Ljava/lang/Object;)V*2void
+
+Þ Þ(*X/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Validate.java

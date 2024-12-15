@@ -1,0 +1,4 @@
+org.apache.commons.lang3.Functions#accept(Lorg/apache/commons/lang3/Functions$FailableConsumer;Ljava/lang/Object;)V
+false
+0247585d29d7d2c3bfeed9032afe61d0
+org.apache.commons.lang3.Functions#run(Lorg/apache/commons/lang3/Functions$FailableRunnable;)V

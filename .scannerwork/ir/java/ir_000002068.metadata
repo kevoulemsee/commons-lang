@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#indexOfIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)I
+false
+934f3b7fd610d9e2cffd2dfccd7db17d
+==
+indexOf org.apache.commons.lang3.Strings#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)I

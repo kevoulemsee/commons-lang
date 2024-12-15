@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ObjectUtils#compare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I
+false
+4b2a069c89a40ffc1675a8090269593b
+org.apache.commons.lang3.ObjectUtils#compare(Ljava/lang/Comparable;Ljava/lang/Comparable;Z)I

@@ -1,0 +1,7 @@
+org.apache.commons.lang3.time.DateUtils#getFragment(Ljava/util/Date;ILjava/util/concurrent/TimeUnit;)J
+false
+350d6b64a9f71eebf8c12279e38031d1
+java.util.Calendar#getInstance()Ljava/util/Calendar;
+java.util.Calendar#setTime(Ljava/util/Date;)V
+org.apache.commons.lang3.time.DateUtils#getFragment(Ljava/util/Calendar;ILjava/util/concurrent/TimeUnit;)J
+org.apache.commons.lang3.time.DateUtils#validateDateNotNull(Ljava/util/Date;)V

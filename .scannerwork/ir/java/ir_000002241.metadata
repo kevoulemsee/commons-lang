@@ -1,0 +1,8 @@
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#<init>(IJLjava/util/concurrent/TimeUnit;IJLjava/util/concurrent/TimeUnit;)V
+false
+42fc16ac685088ad355ca789fe75cb97
+java.util.concurrent.TimeUnit#toNanos(J)J
+java.util.concurrent.atomic.AtomicReference#<init>(Ljava/lang/Object;)V
+java.util.concurrent.atomic.AtomicReference#instance-init#
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData#<init>(IJ)V
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData#instance-init#

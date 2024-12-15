@@ -1,0 +1,57 @@
+
+Éorg.apache.commons.lang3.Functions#apply(Lorg/apache/commons/lang3/Functions$FailableFunction;Ljava/lang/Object;)Ljava/lang/Object;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java”0 ”(5"1*…
+1
+‘ ‘(ë
+é
+
+‘ ‘(.9
+%03org.apache.commons.lang3.Functions$FailableSupplier"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_94$À
+»
+
+__unknown_file (G
+9
+%03org.apache.commons.lang3.Functions$FailableSupplier"
+
+function"__id*]
+
+__unknown_file (A
+?
+function3org.apache.commons.lang3.Functions$FailableFunctionì
+ê
+
+__unknown_file (D
+9
+%03org.apache.commons.lang3.Functions$FailableSupplier"
+input"__id*(
+
+__unknown_file (
+
+
+inputI¶
+£
+
+‘ ‘(/
+%2O"oorg.apache.commons.lang3.Functions#get(Lorg/apache/commons/lang3/Functions$FailableSupplier;)Ljava/lang/Object;*B
+
+__unknown_file (&"$
+"org.apache.commons.lang3.Functions*W
+
+__unknown_file (;
+9
+%03org.apache.commons.lang3.Functions$FailableSupplier"
+
+‘ ‘(0	
+
+%2O:M
+
+”6 ”(_?
+function3org.apache.commons.lang3.Functions$FailableFunction:
+
+”` ”(m
+
+inputIB&"$
+"org.apache.commons.lang3.FunctionsH

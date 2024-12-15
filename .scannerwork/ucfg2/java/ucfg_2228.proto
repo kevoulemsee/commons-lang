@@ -1,0 +1,31 @@
+
+[org.apache.commons.lang3.StringEscapeUtils#escapeJson(Ljava/lang/String;)Ljava/lang/String;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringEscapeUtils.java¬ ¬()"1*™
+1
+­ ­(~
+|
+
+­ ­(D
+%0>org.apache.commons.lang3.text.translate.CharSequenceTranslator"__id*"
+
+__unknown_file (
+""ßÜ
+
+­ ­(+
+%1java.lang.String"torg.apache.commons.lang3.text.translate.CharSequenceTranslator#translate(Ljava/lang/CharSequence;)Ljava/lang/String;*b
+
+__unknown_file (F
+D
+%0>org.apache.commons.lang3.text.translate.CharSequenceTranslator*7
+
+__unknown_file (
+
+inputjava.lang.String2#translate(Ljava/lang/CharSequence;)"&
+
+­ ­(,
+
+%1java.lang.String:'
+
+¬* ¬(<
+inputjava.lang.StringB.",
+*org.apache.commons.lang3.StringEscapeUtilsH

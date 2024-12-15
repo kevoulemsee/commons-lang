@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ClassUtils#isPublic(Ljava/lang/Class;)Z
+false
+d45307cfeddfa18bd260f69be02e0aa4
+java.lang.Class#getModifiers()I
+java.lang.reflect.Modifier#isPublic(I)Z

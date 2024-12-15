@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.CallableBackgroundInitializer#initialize()Ljava/lang/Object;
+false
+d837042c4343ba80a587fbc4baeb02cf
+==
+call java.util.concurrent.Callable#call()Ljava/lang/Object;

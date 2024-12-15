@@ -1,0 +1,9 @@
+org.apache.commons.lang3.StringUtils#isMixedCase(Ljava/lang/CharSequence;)Z
+false
+21dfda866d97c015dda52ff346f1acbe
+java.lang.Character#isLowerCase(C)Z
+java.lang.Character#isUpperCase(C)Z
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

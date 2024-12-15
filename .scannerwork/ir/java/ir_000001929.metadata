@@ -1,0 +1,6 @@
+org.apache.commons.lang3.mutable.MutableLong#toLong()Ljava/lang/Long;
+false
+a6e97beaa1c9fb826e2572774ebcd26b
+java.lang.Long#valueOf(J)Ljava/lang/Long;
+==
+longValue org.apache.commons.lang3.mutable.MutableLong#longValue()J

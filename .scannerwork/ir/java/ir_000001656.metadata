@@ -1,0 +1,18 @@
+org.apache.commons.lang3.reflect.TypeUtils#parameterizedTypeToString(Ljava/lang/reflect/ParameterizedType;)Ljava/lang/String;
+false
+0c2218b1278c9b1ae00cf1e4f39daaf1
+java.lang.Class#getName()Ljava/lang/String;
+java.lang.Class#getSimpleName()Ljava/lang/String;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.AppendableJoiner#join(Ljava/lang/StringBuilder;[Ljava/lang/Object;)Ljava/lang/StringBuilder;
+org.apache.commons.lang3.reflect.TypeUtils#appendRecursiveTypes(Ljava/lang/StringBuilder;[I[Ljava/lang/reflect/Type;)V
+org.apache.commons.lang3.reflect.TypeUtils#findRecursiveTypes(Ljava/lang/reflect/ParameterizedType;)[I
+==
+getActualTypeArguments java.lang.reflect.ParameterizedType#getActualTypeArguments()[Ljava/lang/reflect/Type;
+getOwnerType java.lang.reflect.ParameterizedType#getOwnerType()Ljava/lang/reflect/Type;
+getRawType java.lang.reflect.ParameterizedType#getRawType()Ljava/lang/reflect/Type;

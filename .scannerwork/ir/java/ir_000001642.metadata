@@ -1,0 +1,13 @@
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/Type;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+false
+b17cc9c7a45f43d55ec91dc690d756ee
+java.lang.Class#getComponentType()Ljava/lang/Class;
+java.lang.Class#isArray()Z
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/Class;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/ParameterizedType;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/Type;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/Class;)Z
+==
+getGenericComponentType java.lang.reflect.GenericArrayType#getGenericComponentType()Ljava/lang/reflect/Type;

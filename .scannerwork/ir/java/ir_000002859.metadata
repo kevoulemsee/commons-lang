@@ -1,0 +1,5 @@
+org.apache.commons.lang3.Functions#stream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/Streams$FailableStream;
+false
+d876e77c5f88aff8a761013d0644223a
+org.apache.commons.lang3.Streams$FailableStream#<init>(Ljava/util/stream/Stream;)V
+org.apache.commons.lang3.Streams$FailableStream#instance-init#

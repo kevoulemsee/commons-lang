@@ -1,0 +1,19 @@
+org.apache.commons.lang3.reflect.TypeUtils#toLongString(Ljava/lang/reflect/TypeVariable;)Ljava/lang/String;
+false
+6cdb5119f1d87ef4398017c33ef37d02
+java.lang.Class#getEnclosingClass()Ljava/lang/Class;
+java.lang.Class#getName()Ljava/lang/String;
+java.lang.Class#getSimpleName()Ljava/lang/String;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#insert(IC)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#insert(ILjava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.reflect.TypeUtils#toString(Ljava/lang/reflect/Type;)Ljava/lang/String;
+org.apache.commons.lang3.reflect.TypeUtils#typeVariableToString(Ljava/lang/reflect/TypeVariable;)Ljava/lang/String;
+==
+getGenericDeclaration java.lang.reflect.TypeVariable#getGenericDeclaration()Ljava/lang/reflect/GenericDeclaration;

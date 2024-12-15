@@ -1,0 +1,30 @@
+
+__sonar_lambda_88$l
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RuntimeEnvironment.javaS S(;"startingBlock*π
+startingBlockS S(;ò
+ï
+
+__unknown_file (
+prefixjava.lang.String"__id*W
+
+__unknown_file (;*9-
++org.apache.commons.lang3.RuntimeEnvironment"
+prefix*
+1*è
+1S$ S((·ﬁ
+S$ S(;
+%11boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*6
+
+__unknown_file (
+
+linejava.lang.String*8
+
+__unknown_file (
+
+prefixjava.lang.String2startsWith(Ljava/lang/String;)"
+S$ S(;
+
+%11boolean:$
+S S( 
+linejava.lang.StringB 
+java.util.function.Predicate

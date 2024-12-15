@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailableIntUnaryOperator#compose(Lorg/apache/commons/lang3/function/FailableIntUnaryOperator;)Lorg/apache/commons/lang3/function/FailableIntUnaryOperator;
+false
+448d0ef68997f39bde6e2761c3e440df
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

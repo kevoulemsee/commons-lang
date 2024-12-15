@@ -1,0 +1,7 @@
+org.apache.commons.lang3.tuple.Pair#hashCode()I
+false
+7ec5575d51652383027666d90f7e26c5
+java.util.Objects#hashCode(Ljava/lang/Object;)I
+org.apache.commons.lang3.tuple.Pair#getKey()Ljava/lang/Object;
+==
+getValue org.apache.commons.lang3.tuple.Pair#getValue()Ljava/lang/Object;

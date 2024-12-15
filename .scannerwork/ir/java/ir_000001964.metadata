@@ -1,0 +1,5 @@
+org.apache.commons.lang3.builder.HashCodeBuilder#getRegistry()Ljava/util/Set;
+false
+b78bc4df0e66f5a4db113ecd7966e9ca
+==
+get java.lang.ThreadLocal#get()Ljava/lang/Object;

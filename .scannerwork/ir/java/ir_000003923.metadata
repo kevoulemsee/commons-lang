@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.translate.NumericEntityEscaper#translate(ILjava/io/Writer;)Z
+false
+dcf23da9cf6c6daf6db94201d3fe8ece
+java.lang.Integer#toString(II)Ljava/lang/String;
+==
+write java.io.Writer#write(I)V
+write java.io.Writer#write(Ljava/lang/String;)V

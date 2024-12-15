@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#<init>(Ljava/lang/String;)V
+false
+f330946d50dd48c3b6509597c2e45f75
+java.lang.Double#parseDouble(Ljava/lang/String;)D

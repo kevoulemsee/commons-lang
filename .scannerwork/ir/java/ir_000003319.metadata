@@ -1,0 +1,21 @@
+org.apache.commons.lang3.reflect.MethodUtils#getMatchingAccessibleMethod(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;
+false
+ca2f080e89c8438b6976f982d4b582f8
+java.lang.Class#getComponentType()Ljava/lang/Class;
+java.lang.Class#getMethods()[Ljava/lang/reflect/Method;
+java.lang.Class#getName()Ljava/lang/String;
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.reflect.Method#getParameterTypes()[Ljava/lang/Class;
+java.lang.reflect.Method#isVarArgs()Z
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+java.util.stream.Stream#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+org.apache.commons.lang3.ClassUtils#primitiveToWrapper(Ljava/lang/Class;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.MemberUtils#compareMethodFit(Ljava/lang/reflect/Method;Ljava/lang/reflect/Method;[Ljava/lang/Class;)I
+org.apache.commons.lang3.reflect.MemberUtils#setAccessibleWorkaround(Ljava/lang/reflect/AccessibleObject;)Ljava/lang/reflect/AccessibleObject;
+org.apache.commons.lang3.reflect.MethodUtils#getAccessibleMethod(Ljava/lang/reflect/Method;)Ljava/lang/reflect/Method;
+org.apache.commons.lang3.reflect.MethodUtils#getMethodObject(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+sort java.util.List#sort(Ljava/util/Comparator;)V

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ObjectUtils#hashCodeHex(Ljava/lang/Object;)Ljava/lang/String;
+false
+ec42efb5bcf57dd657ba41b073fd4499
+java.lang.Integer#toHexString(I)Ljava/lang/String;
+java.util.Objects#hashCode(Ljava/lang/Object;)I

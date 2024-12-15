@@ -1,0 +1,5 @@
+org.apache.commons.lang3.builder.DiffResult#iterator()Ljava/util/Iterator;
+false
+2de0337195af8a8b5a25ce1d91143e82
+==
+iterator java.util.List#iterator()Ljava/util/Iterator;

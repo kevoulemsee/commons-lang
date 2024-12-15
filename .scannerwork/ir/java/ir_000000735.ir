@@ -1,0 +1,39 @@
+
+I
+removeElement8org.apache.commons.lang3.ArrayUtils#removeElement([DD)[Dkarray
+ô-) ô-(="double[]element
+ô-? ô-(S"double"'#org.apache.commons.lang3.ArrayUtilsarray
+ô-) ô-(="double[]element
+ô-? ô-(S"double"£^
+\
+
+õ- õ-(1index"<
+indexOf1org.apache.commons.lang3.ArrayUtils#indexOf([DD)I*2intW
+U
+
+ö- ö-('"=
+#get-field# INDEX_NOT_FOUND#get-field# INDEX_NOT_FOUND"*2int:
+8
+
+ö- ö-('"
+
+#binop ==#
+#binop ==#"*2boolean,"*
+
+ö- ö-(' *
+ö-( ö-()2
+ö-7 ö-(8"mW
+U
+
+ö-* ö-(6"8
+clone/org.apache.commons.lang3.ArrayUtils#clone([D)[D*2double[]
+
+ö-* ö-(6"q[
+Y
+
+ö-9 ö-(M";
+remove1org.apache.commons.lang3.ArrayUtils#remove([DI)[D*2double[]
+
+ö-9 ö-(M"&*	
+
+ö- ö-(N	*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.reflect.MemberUtils#compareMethodFit(Ljava/lang/reflect/Method;Ljava/lang/reflect/Method;[Ljava/lang/Class;)I
+false
+a9c22ecd485df1f94b7f68052384b6e3
+org.apache.commons.lang3.reflect.MemberUtils#compareParameterTypes(Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;[Ljava/lang/Class;)I
+org.apache.commons.lang3.reflect.MemberUtils$Executable#of(Ljava/lang/reflect/Method;)Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;

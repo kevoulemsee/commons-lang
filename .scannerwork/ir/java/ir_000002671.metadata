@@ -1,0 +1,10 @@
+org.apache.commons.lang3.builder.ReflectionDiffBuilder#build()Lorg/apache/commons/lang3/builder/DiffResult;
+false
+7d98d09397181560d72fdb3242eb128e
+java.lang.Object#getClass()Ljava/lang/Class;
+org.apache.commons.lang3.builder.ReflectionDiffBuilder#appendFields(Ljava/lang/Class;)V
+org.apache.commons.lang3.builder.ReflectionDiffBuilder#getLeft()Ljava/lang/Object;
+org.apache.commons.lang3.builder.ReflectionDiffBuilder#getRight()Ljava/lang/Object;
+==
+build org.apache.commons.lang3.builder.DiffBuilder#build()Lorg/apache/commons/lang3/builder/DiffResult;
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

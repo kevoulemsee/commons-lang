@@ -1,0 +1,10 @@
+org.apache.commons.lang3.Validate#notEmpty(Ljava/util/Map;Ljava/lang/String;[Ljava/lang/Object;)Ljava/util/Map;
+false
+10a56e8463bdf46e43021b6de92df04b
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;
+org.apache.commons.lang3.Validate#getMessage(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+org.apache.commons.lang3.Validate#toSupplier(Ljava/lang/String;[Ljava/lang/Object;)Ljava/util/function/Supplier;
+==
+isEmpty java.util.Map#isEmpty()Z

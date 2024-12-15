@@ -1,0 +1,24 @@
+
+=__sonar_lambda_135$org.apache.commons.lang3.AnnotationUtils$1i
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AnnotationUtils.javaU U(3"1*´
+1U U(!•’
+U$ U(3
+%5java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*6
+
+__unknown_file (
+
+ifacejava.lang.Class2	getName()g
+e
+U U(3
+%6java.lang.String"__concat*
+U U(!
+@*$
+U$ U(3
+
+%5java.lang.String"$
+U U(3
+
+%6java.lang.String:$
+U U(
+ifacejava.lang.ClassB
+java.util.function.Function

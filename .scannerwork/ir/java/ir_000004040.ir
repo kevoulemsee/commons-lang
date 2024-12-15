@@ -1,0 +1,19 @@
+
+p
+	roundtripcorg.apache.commons.lang3.SerializationUtils#roundtrip(Ljava/io/Serializable;)Ljava/io/Serializable;obj
+Œ7 Œ(B"Tobj
+Œ7 Œ(B"T"¡y
+w
+
+œ œ(-"\
+	serializeOorg.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;)[B*2byte[]Ñ
+Å
+
+œ œ(."\
+deserializeMorg.apache.commons.lang3.SerializationUtils#deserialize([B)Ljava/lang/Object;*2java.lang.Object+
+)
+
+œ œ(."
+#cast##cast#"*2T
+
+œ œ(/*b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SerializationUtils.java

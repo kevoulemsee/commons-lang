@@ -1,0 +1,9 @@
+org.apache.commons.lang3.LocaleUtils#availableLocaleList(Ljava/util/function/Predicate;)Ljava/util/List;
+false
+bd16bac8d13c6b71d48f0f3b2c254e4f
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+org.apache.commons.lang3.LocaleUtils#availableLocaleList()Ljava/util/List;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

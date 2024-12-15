@@ -1,0 +1,11 @@
+org.apache.commons.lang3.reflect.TypeUtils#parameterizeWithOwner(Ljava/lang/reflect/Type;Ljava/lang/Class;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/ParameterizedType;
+false
+972fe967275ea24b27c3f504be64b0f7
+java.lang.Class#getEnclosingClass()Ljava/lang/Class;
+java.lang.Class#getTypeParameters()[Ljava/lang/reflect/TypeVariable;
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.Validate#isTrue(ZLjava/lang/String;[Ljava/lang/Object;)V
+org.apache.commons.lang3.Validate#noNullElements([Ljava/lang/Object;Ljava/lang/String;[Ljava/lang/Object;)[Ljava/lang/Object;
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/Class;)Z
+org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl#<init>(Ljava/lang/Class;Ljava/lang/reflect/Type;[Ljava/lang/reflect/Type;)V
+org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl#instance-init#

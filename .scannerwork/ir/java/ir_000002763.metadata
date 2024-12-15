@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ThreadUtils#join(Ljava/lang/Thread;Ljava/time/Duration;)V
+false
+85bb7acd3ef3c646d47edafb1b245dd9
+org.apache.commons.lang3.time.DurationUtils#accept(Lorg/apache/commons/lang3/function/FailableBiConsumer;Ljava/time/Duration;)V

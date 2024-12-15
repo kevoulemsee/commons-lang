@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ClassUtils#getCanonicalName(Ljava/lang/Class;)Ljava/lang/String;
+false
+f906e416008ecbfca9b06431cf70cd4d
+org.apache.commons.lang3.ClassUtils#getCanonicalName(Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.Fraction#add(Lorg/apache/commons/lang3/math/Fraction;)Lorg/apache/commons/lang3/math/Fraction;
+false
+3b2dfb2c6c7c3c8c92afe5020fdbac4b
+org.apache.commons.lang3.math.Fraction#addSub(Lorg/apache/commons/lang3/math/Fraction;Z)Lorg/apache/commons/lang3/math/Fraction;

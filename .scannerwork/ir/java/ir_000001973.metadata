@@ -1,0 +1,10 @@
+org.apache.commons.lang3.builder.HashCodeBuilder#unregister(Ljava/lang/Object;)V
+false
+dc47b14e31c28d3829966a8980f00e45
+org.apache.commons.lang3.builder.HashCodeBuilder#getRegistry()Ljava/util/Set;
+org.apache.commons.lang3.builder.IDKey#<init>(Ljava/lang/Object;)V
+org.apache.commons.lang3.builder.IDKey#instance-init#
+==
+isEmpty java.util.Set#isEmpty()Z
+remove java.lang.ThreadLocal#remove()V
+remove java.util.Set#remove(Ljava/lang/Object;)Z

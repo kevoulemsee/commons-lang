@@ -1,0 +1,7 @@
+org.apache.commons.lang3.Validate#notNaN(DLjava/lang/String;[Ljava/lang/Object;)V
+false
+4dc54c6ff99313f2536850b4e1f4f3c0
+java.lang.Double#isNaN(D)Z
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+org.apache.commons.lang3.Validate#getMessage(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

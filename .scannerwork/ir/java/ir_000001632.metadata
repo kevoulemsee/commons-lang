@@ -1,0 +1,11 @@
+org.apache.commons.lang3.reflect.TypeUtils#getClosestParentType(Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/reflect/Type;
+false
+6dc373e5fa686448ffec5fa6f5493a8a
+java.lang.Class#getGenericInterfaces()[Ljava/lang/reflect/Type;
+java.lang.Class#getGenericSuperclass()Ljava/lang/reflect/Type;
+java.lang.Class#isInterface()Z
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.lang3.reflect.TypeUtils#getRawType(Ljava/lang/reflect/ParameterizedType;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/Class;)Z
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Z

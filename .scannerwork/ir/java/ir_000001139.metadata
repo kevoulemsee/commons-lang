@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.StrBuilder#replace(IILjava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+b227a8c2903562b3c15b4a39cb8766bf
+org.apache.commons.lang3.StringUtils#length(Ljava/lang/CharSequence;)I
+org.apache.commons.lang3.text.StrBuilder#replaceImpl(IIILjava/lang/String;I)V
+==
+validateRange org.apache.commons.lang3.text.StrBuilder#validateRange(II)I

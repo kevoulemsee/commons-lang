@@ -1,0 +1,48 @@
+
+|org.apache.commons.lang3.builder.EqualsBuilder#reflectionEquals(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Collection;)Zq
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java¡ ¡(*"1*ÿ
+1
+¢ ¢(Å
+Â
+
+¢* ¢(f
+%0java.lang.String[]"yorg.apache.commons.lang3.builder.ReflectionToStringBuilder#toNoNullStringArray(Ljava/util/Collection;)[Ljava/lang/String;*Z
+
+__unknown_file (>"<
+:org.apache.commons.lang3.builder.ReflectionToStringBuilder*C
+
+__unknown_file ('
+%
+excludeFieldsjava.util.Collection
+Œ
+
+¢ ¢(g
+%1boolean"yorg.apache.commons.lang3.builder.EqualsBuilder#reflectionEquals(Ljava/lang/Object;Ljava/lang/Object;[Ljava/lang/String;)Z*N
+
+__unknown_file (2"0
+.org.apache.commons.lang3.builder.EqualsBuilder*5
+
+__unknown_file (
+
+lhsjava.lang.Object*5
+
+__unknown_file (
+
+rhsjava.lang.Object*6
+
+__unknown_file (
+
+%0java.lang.String[]"
+
+¢ ¢(h
+"":%
+
+¡+ ¡(<
+lhsjava.lang.Object:%
+
+¡= ¡(N
+rhsjava.lang.Object:3
+
+¡O ¡(u%
+excludeFieldsjava.util.CollectionB2"0
+.org.apache.commons.lang3.builder.EqualsBuilderHX

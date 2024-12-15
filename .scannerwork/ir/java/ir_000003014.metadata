@@ -1,0 +1,6 @@
+org.apache.commons.lang3.BitField#setBoolean(IZ)I
+false
+7311b3b80706334b69d5a7cd84d38f99
+==
+clear org.apache.commons.lang3.BitField#clear(I)I
+set org.apache.commons.lang3.BitField#set(I)I

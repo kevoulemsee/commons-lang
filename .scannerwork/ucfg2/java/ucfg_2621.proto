@@ -1,0 +1,31 @@
+
+Žorg.apache.commons.lang3.function.Failable#asBiConsumer(Lorg/apache/commons/lang3/function/FailableBiConsumer;)Ljava/util/function/BiConsumer;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java»* »(6"1*ù
+1
+¼ ¼(Cz
+x
+
+¼ ¼(C#
+%0java.util.function.BiConsumer"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_73$¶
+³
+
+__unknown_file (1
+#
+%0java.util.function.BiConsumer"
+
+consumer"__id*^
+
+__unknown_file (B
+@
+consumer4org.apache.commons.lang3.function.FailableBiConsumer"3
+
+¼ ¼(D%
+#
+%0java.util.function.BiConsumer:N
+
+»7 »(a@
+consumer4org.apache.commons.lang3.function.FailableBiConsumerB.",
+*org.apache.commons.lang3.function.FailableH

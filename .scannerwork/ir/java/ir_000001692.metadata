@@ -1,0 +1,6 @@
+org.apache.commons.lang3.builder.EqualsBuilder#append(DD)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+false
+0ab864cfb0588a952052152642dd807f
+java.lang.Double#doubleToLongBits(D)J
+==
+append org.apache.commons.lang3.builder.EqualsBuilder#append(JJ)Lorg/apache/commons/lang3/builder/EqualsBuilder;

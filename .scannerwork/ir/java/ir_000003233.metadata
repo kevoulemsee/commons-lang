@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlElementAttributeLimit()Ljava/lang/String;
+false
+bcef1ab1b8fc607e3e59c053be6dbb2e
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

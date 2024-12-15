@@ -1,0 +1,84 @@
+
+Lorg.apache.commons.lang3.math.NumberUtils#toDouble(Ljava/math/BigDecimal;D)Dl
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javaë
+ ë
+(!"4*õ
+2
+ì
+. ì
+(3Ž‹
+
+ì
+. ì
+(A
+%3double"#java.math.BigDecimal#doubleValue()D*;
+
+__unknown_file (
+
+valuejava.math.BigDecimal2doubleValue()N
+L
+
+ì
+. ì
+(A
+%1double"__id**
+
+__unknown_file (
+
+%3double*
+1*d
+3
+ì
+ ì
+(+N
+L
+
+ì
+ ì
+(+
+%1double"__id**
+
+__unknown_file (
+
+%2double*
+1*È
+4
+ì
+ ì
+(®
+«
+
+ì
+ ì
+(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*;
+
+__unknown_file (
+
+valuejava.math.BigDecimal*"
+
+__unknown_file (
+""*
+2
+3*%
+1
+ì
+ ì
+(B"
+
+ì
+ ì
+(B
+"":+
+
+ë
+" ë
+(9
+valuejava.math.BigDecimal: 
+
+__unknown_file (
+""B-"+
+)org.apache.commons.lang3.math.NumberUtilsHX

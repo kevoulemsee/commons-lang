@@ -1,0 +1,60 @@
+
+__sonar_lambda_111$q
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javaÒ% Ò(V"startingBlock*’
+startingBlock
+Ò% Ò(V§
+¤
+
+__unknown_file (#
+	delimiterjava.lang.CharSequence"__id*]
+
+__unknown_file (A*?0
+.org.apache.commons.lang3.stream.LangCollectors"
+	delimiter¡
+ž
+
+__unknown_file ( 
+prefixjava.lang.CharSequence"__id*Z
+
+__unknown_file (>*<0
+.org.apache.commons.lang3.stream.LangCollectors"
+prefix¡
+ž
+
+__unknown_file ( 
+suffixjava.lang.CharSequence"__id*Z
+
+__unknown_file (>*<0
+.org.apache.commons.lang3.stream.LangCollectors"
+suffix*
+1*„
+1
+Ò< Ò(EDB
+
+Ò/ Ò(;
+%1java.util.StringJoiner"java.util.StringJoinerþ
+û
+
+Ò+ Ò(V
+%2"hjava.util.StringJoiner#<init>(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V*:
+
+__unknown_file (
+
+%1java.util.StringJoiner*A
+
+__unknown_file (%
+#
+	delimiterjava.lang.CharSequence*>
+
+__unknown_file ("
+ 
+prefixjava.lang.CharSequence*>
+
+__unknown_file ("
+ 
+suffixjava.lang.CharSequence",
+
+Ò+ Ò(V
+
+%1java.util.StringJoinerB
+java.util.function.Supplier

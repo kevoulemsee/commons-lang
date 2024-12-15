@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.translate.UnicodeEscaper#toUtf16Escape(I)Ljava/lang/String;
+false
+eeed2fc7d88c3ec3abc9b3c8fa3097b7
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#hex(I)Ljava/lang/String;

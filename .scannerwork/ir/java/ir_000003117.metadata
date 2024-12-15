@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJavaAwtFonts()Ljava/lang/String;
+false
+cb08ce197ada82169ff725a9d6bfef6b
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

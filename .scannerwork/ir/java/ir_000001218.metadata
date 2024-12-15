@@ -1,0 +1,4 @@
+org.apache.commons.lang3.compare.ComparableUtils#max(Ljava/lang/Comparable;Ljava/lang/Comparable;)Ljava/lang/Comparable;
+false
+3dba00b3a03923b60914d7a2c8c39aff
+org.apache.commons.lang3.ObjectUtils#compare(Ljava/lang/Comparable;Ljava/lang/Comparable;Z)I

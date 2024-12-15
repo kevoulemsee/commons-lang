@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableObject#hashCode()I
+false
+680fa91b434e8fc830225513d7bca971
+java.util.Objects#hashCode(Ljava/lang/Object;)I

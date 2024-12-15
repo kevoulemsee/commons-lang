@@ -1,0 +1,8 @@
+org.apache.commons.lang3.reflect.TypeUtils#isCyclical(Ljava/lang/Class;)Z
+false
+c7640e535cf32e2f32b527feeac4ebd9
+java.lang.Class#getName()Ljava/lang/String;
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+==
+getType java.lang.reflect.AnnotatedType#getType()Ljava/lang/reflect/Type;
+getTypeName java.lang.reflect.Type#getTypeName()Ljava/lang/String;

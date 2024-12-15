@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.DurationUtils#isPositive(Ljava/time/Duration;)Z
+false
+107d1e9fd0b4e2123de925dab330f51d
+java.time.Duration#isNegative()Z
+java.time.Duration#isZero()Z

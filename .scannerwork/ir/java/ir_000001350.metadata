@@ -1,0 +1,6 @@
+org.apache.commons.lang3.mutable.MutableDouble#toDouble()Ljava/lang/Double;
+false
+be4fdd0be18612736a149e45263203c0
+java.lang.Double#valueOf(D)Ljava/lang/Double;
+==
+doubleValue org.apache.commons.lang3.mutable.MutableDouble#doubleValue()D

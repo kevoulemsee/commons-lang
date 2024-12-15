@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#replaceIgnoreCase(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;
+false
+06940fcb8e8be8906aa22e829c6e5280
+==
+replace org.apache.commons.lang3.Strings#replace(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;

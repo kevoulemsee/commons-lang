@@ -1,0 +1,5 @@
+org.apache.commons.lang3.function.Suppliers#get(Ljava/util/function/Supplier;)Ljava/lang/Object;
+false
+d67282df6111fe634c53291798de5e64
+==
+get java.util.function.Supplier#get()Ljava/lang/Object;

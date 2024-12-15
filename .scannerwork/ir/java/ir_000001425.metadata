@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableFloat#<init>(Ljava/lang/String;)V
+false
+99297c8d759092fcba77e3ed0d66b1d9
+java.lang.Float#parseFloat(Ljava/lang/String;)F

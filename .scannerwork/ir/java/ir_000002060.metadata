@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I
+false
+45d03b370097477e1cc9cd65a80e8323
+==
+indexOf org.apache.commons.lang3.Strings#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I

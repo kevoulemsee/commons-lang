@@ -1,0 +1,6 @@
+org.apache.commons.lang3.EnumUtils#generateBitVector(Ljava/lang/Class;[Ljava/lang/Enum;)J
+false
+be5cae3590836bf8c97d3bb786e98a1d
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+org.apache.commons.lang3.EnumUtils#generateBitVector(Ljava/lang/Class;Ljava/lang/Iterable;)J
+org.apache.commons.lang3.Validate#noNullElements([Ljava/lang/Object;)[Ljava/lang/Object;

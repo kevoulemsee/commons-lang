@@ -1,0 +1,15 @@
+org.apache.commons.lang3.text.StrBuilder#append(Ljava/nio/CharBuffer;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+18b9297b612424f4928b13ff0e864d6a
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.nio.Buffer#position()I
+java.nio.Buffer#remaining()I
+java.nio.CharBuffer#array()[C
+java.nio.CharBuffer#arrayOffset()I
+java.nio.CharBuffer#hasArray()Z
+==
+append org.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;
+appendNull org.apache.commons.lang3.text.StrBuilder#appendNull()Lorg/apache/commons/lang3/text/StrBuilder;
+ensureCapacity org.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;
+length org.apache.commons.lang3.text.StrBuilder#length()I
+toString java.nio.CharBuffer#toString()Ljava/lang/String;

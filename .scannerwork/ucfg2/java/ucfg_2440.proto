@@ -1,0 +1,44 @@
+
+†org.apache.commons.lang3.stream.Streams$FailableStream#reduce(Ljava/lang/Object;Ljava/util/function/BinaryOperator;)Ljava/lang/Object;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÒ Ò("1*ä
+1
+Ó Ó(ÏÌ
+
+Ó Ó(
+
+%0void"Horg.apache.commons.lang3.stream.Streams$FailableStream#makeTerminated()V*V
+
+__unknown_file (:8
+6org.apache.commons.lang3.stream.Streams$FailableStream2makeTerminated()êç
+
+Ô Ô(
+%1java.util.stream.Stream"Xorg.apache.commons.lang3.stream.Streams$FailableStream#stream()Ljava/util/stream/Stream;*V
+
+__unknown_file (:8
+6org.apache.commons.lang3.stream.Streams$FailableStream2stream()ú÷
+
+Ô Ô(9
+%2T"gjava.util.stream.Stream#reduce(Ljava/lang/Object;Ljava/util/function/BinaryOperator;)Ljava/lang/Object;*;
+
+__unknown_file (
+
+%1java.util.stream.Stream*+
+
+__unknown_file (
+
+identityT*N
+
+__unknown_file (2
+0
+accumulator!java.util.function.BinaryOperator2=reduce(Ljava/lang/Object;Ljava/util/function/BinaryOperator;)"
+
+Ô Ô(:	
+
+%2T:
+
+Ò Ò()
+identityT:>
+
+Ò* Ò(M0
+accumulator!java.util.function.BinaryOperatorB:8
+6org.apache.commons.lang3.stream.Streams$FailableStreamH

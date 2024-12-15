@@ -1,0 +1,6 @@
+org.apache.commons.lang3.RandomUtils#randomBoolean()Z
+false
+7486583e43bca03a8c538f3365d59089
+==
+nextBoolean java.util.Random#nextBoolean()Z
+random org.apache.commons.lang3.RandomUtils#random()Ljava/util/Random;

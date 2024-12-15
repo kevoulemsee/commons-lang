@@ -1,0 +1,22 @@
+
+v
+truncatedEqualscorg.apache.commons.lang3.time.DateUtils#truncatedEquals(Ljava/util/Calendar;Ljava/util/Calendar;I)Z|
+0int(cal1
+Ó* Ó(="java.util.Calendar(cal2
+Ó? Ó(R"java.util.Calendarfield
+ÓT Ó(c"int(cal1
+Ó* Ó(="java.util.Calendar(cal2
+Ó? Ó(R"java.util.Calendarfield
+ÓT Ó(c"int"ê™
+–
+
+Ô Ô(4"|
+truncatedCompareToforg.apache.commons.lang3.time.DateUtils#truncatedCompareTo(Ljava/util/Calendar;Ljava/util/Calendar;I)I*2int:
+8
+
+Ô Ô(9"
+
+#binop ==#
+#binop ==#"*2boolean
+
+Ô Ô(:*^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DateUtils.java

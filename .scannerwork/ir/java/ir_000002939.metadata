@@ -1,0 +1,6 @@
+org.apache.commons.lang3.exception.ExceptionUtils#wrapAndThrow(Ljava/lang/Throwable;)Ljava/lang/Object;
+false
+ce54630652fcac8b1f906e177fd2b44b
+java.lang.reflect.UndeclaredThrowableException#<init>(Ljava/lang/Throwable;)V
+java.lang.reflect.UndeclaredThrowableException#instance-init#
+org.apache.commons.lang3.exception.ExceptionUtils#throwUnchecked(Ljava/lang/Throwable;)Ljava/lang/Throwable;

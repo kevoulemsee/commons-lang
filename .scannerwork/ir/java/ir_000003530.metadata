@@ -1,0 +1,6 @@
+org.apache.commons.lang3.concurrent.ConcurrentException#<init>(Ljava/lang/Throwable;)V
+false
+bb209f35df055a3a458c7ac5626d3f66
+org.apache.commons.lang3.concurrent.ConcurrentUtils#checkedException(Ljava/lang/Throwable;)Ljava/lang/Throwable;
+==
+<init> java.lang.Exception#<init>(Ljava/lang/Throwable;)V

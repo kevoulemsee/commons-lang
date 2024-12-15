@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkVirtualThreadSchedulerParallelism()Ljava/lang/String;
+false
+f28717ec0c35744bb4b750053d61a1c3
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,16 @@
+org.apache.commons.lang3.time.DurationFormatUtils#format([Lorg/apache/commons/lang3/time/DurationFormatUtils$Token;JJJJJJJZ)Ljava/lang/String;
+false
+2bf156eea7d28f1cafd12406b3548571
+java.lang.Math#max(II)I
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#delete(II)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.time.DurationFormatUtils#paddedValue(JZI)Ljava/lang/String;
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z
+getCount org.apache.commons.lang3.time.DurationFormatUtils$Token#getCount()I
+getValue org.apache.commons.lang3.time.DurationFormatUtils$Token#getValue()Ljava/lang/Object;
+length java.lang.AbstractStringBuilder#length()I
+toString java.lang.Object#toString()Ljava/lang/String;

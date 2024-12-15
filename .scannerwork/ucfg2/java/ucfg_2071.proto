@@ -1,0 +1,113 @@
+
+Åorg.apache.commons.lang3.StringUtils#replaceIgnoreCase(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java 4  4(*"startingBlock*â
+startingBlock 4*  4(Åè
+å
+
+…4 …4(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*6
+
+__unknown_file (
+
+textjava.lang.StringZ
+X
+
+ 48  4(<
+textjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2ó
+î
+
+…4 …4(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*>
+
+__unknown_file ("
+ 
+searchStringjava.lang.Stringb
+`
+
+ 4K  4(W 
+searchStringjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3ñ
+ì
+
+…4 …4(
+%4"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*=
+
+__unknown_file (!
+
+replacementjava.lang.Stringa
+_
+
+ 4f  4(q
+replacementjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%4*
+1*õ
+1
+À4 À4(`
+^
+
+À4 À4(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""ˇ¸
+
+À4 À4(G
+%1java.lang.String"sorg.apache.commons.lang3.Strings#replace(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*6
+
+__unknown_file (
+
+textjava.lang.String*>
+
+__unknown_file ("
+ 
+searchStringjava.lang.String*=
+
+__unknown_file (!
+
+replacementjava.lang.String*"
+
+__unknown_file (
+""2@replace(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)"&
+
+À4 À4(H
+
+%1java.lang.String:&
+
+ 4+  4(=
+textjava.lang.String:.
+
+ 4>  4(X 
+searchStringjava.lang.String:-
+
+ 4Y  4(r
+replacementjava.lang.String: 
+
+__unknown_file (
+""B("&
+$org.apache.commons.lang3.StringUtilsH

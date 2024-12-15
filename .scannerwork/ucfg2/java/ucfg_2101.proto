@@ -1,0 +1,80 @@
+
+forg.apache.commons.lang3.StringUtils#startsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java’= ’=('"startingBlock*¶
+startingBlock
+’=' ’=(i™
+–
+
+‘= ‘=(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*@
+
+__unknown_file ($
+"
+sequencejava.lang.CharSequenced
+b
+
+’=; ’=(C"
+sequencejava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%2¢
+Ÿ
+
+‘= ‘=(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*I
+
+__unknown_file (-
++
+searchStringsjava.lang.CharSequence[]m
+k
+
+’=[ ’=(h+
+searchStringsjava.lang.CharSequence[]"__annotation*"
+
+__unknown_file (
+
+%3*
+1*¡
+1
+“= “=(`
+^
+
+“= “=(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""—”
+
+“= “=(@
+%1boolean"borg.apache.commons.lang3.Strings#startsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*@
+
+__unknown_file ($
+"
+sequencejava.lang.CharSequence*I
+
+__unknown_file (-
++
+searchStringsjava.lang.CharSequence[]2@startsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)"
+
+“= “=(A
+"":0
+
+’=( ’=(D"
+sequencejava.lang.CharSequence:9
+
+’=E ’=(h+
+searchStringsjava.lang.CharSequence[]B("&
+$org.apache.commons.lang3.StringUtilsHX

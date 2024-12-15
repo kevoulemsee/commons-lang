@@ -1,0 +1,11 @@
+org.apache.commons.lang3.reflect.MethodUtils#getAllSuperclassesAndInterfaces(Ljava/lang/Class;)Ljava/util/List;
+false
+8bc82c6f12f3faa97a74c5430b902e61
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.lang3.ClassUtils#getAllInterfaces(Ljava/lang/Class;)Ljava/util/List;
+org.apache.commons.lang3.ClassUtils#getAllSuperclasses(Ljava/lang/Class;)Ljava/util/List;
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

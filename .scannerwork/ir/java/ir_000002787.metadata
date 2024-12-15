@@ -1,0 +1,14 @@
+org.apache.commons.lang3.math.NumberUtils#createBigInteger(Ljava/lang/String;)Ljava/math/BigInteger;
+false
+3f1ea243d6c808a82b293f7be2fcfd1b
+java.lang.NumberFormatException#<init>(Ljava/lang/String;)V
+java.lang.NumberFormatException#instance-init#
+java.lang.String#charAt(I)C
+java.lang.String#isEmpty()Z
+java.lang.String#length()I
+java.lang.String#startsWith(Ljava/lang/String;I)Z
+java.lang.String#substring(I)Ljava/lang/String;
+java.math.BigInteger#<init>(Ljava/lang/String;I)V
+java.math.BigInteger#instance-init#
+==
+negate java.math.BigInteger#negate()Ljava/math/BigInteger;

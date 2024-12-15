@@ -1,0 +1,12 @@
+org.apache.commons.lang3.ArrayUtils#removeAll(Ljava/lang/Object;Ljava/util/BitSet;)Ljava/lang/Object;
+false
+3c1bd87a8d816d9e63ff857c149895d2
+java.lang.Class#getComponentType()Ljava/lang/Class;
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.lang.reflect.Array#newInstance(Ljava/lang/Class;I)Ljava/lang/Object;
+org.apache.commons.lang3.ArrayUtils#getLength(Ljava/lang/Object;)I
+==
+cardinality java.util.BitSet#cardinality()I
+nextClearBit java.util.BitSet#nextClearBit(I)I
+nextSetBit java.util.BitSet#nextSetBit(I)I

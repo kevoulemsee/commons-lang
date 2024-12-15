@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.ExtendedMessageFormat#hashCode()I
+false
+5239a3fdf53fa304e73bb0fd13b1b0cc
+java.util.Objects#hashCode(Ljava/lang/Object;)I
+==
+hashCode java.text.MessageFormat#hashCode()I

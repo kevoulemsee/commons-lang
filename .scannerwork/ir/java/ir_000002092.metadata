@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#join([ZCII)Ljava/lang/String;
+false
+fe882a4184c476c49d9b5d015349513b
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Z)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+==
+length java.lang.AbstractStringBuilder#length()I
+substring java.lang.AbstractStringBuilder#substring(II)Ljava/lang/String;

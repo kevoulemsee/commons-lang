@@ -1,0 +1,9 @@
+org.apache.commons.lang3.StringUtils#join([CCII)Ljava/lang/String;
+false
+6949ec9e913caf7c86d6f0eb25af3b4b
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+==
+length java.lang.AbstractStringBuilder#length()I
+substring java.lang.AbstractStringBuilder#substring(II)Ljava/lang/String;

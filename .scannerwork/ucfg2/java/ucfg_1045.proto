@@ -1,0 +1,46 @@
+
+__sonar_lambda_35$s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.javaŒ Œ(%"startingBlock*ß
+startingBlock
+Œ Œ(%Ñ
+Å
+
+__unknown_file (
+bA"__id*W
+
+__unknown_file (;*92
+0org.apache.commons.lang3.compare.ComparableUtils"
+b*
+1*ﬂ
+1
+Œ Œ(Ì
+Í
+
+Œ Œ(M
+%1Gorg.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder"îorg.apache.commons.lang3.compare.ComparableUtils#is(Ljava/lang/Comparable;)Lorg/apache/commons/lang3/compare/ComparableUtils$ComparableCheckBuilder;*P
+
+__unknown_file (4"2
+0org.apache.commons.lang3.compare.ComparableUtils*$
+
+__unknown_file (
+
+aAæª
+
+Œ Œ(%
+%2boolean"iorg.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder#lessThan(Ljava/lang/Comparable;)Z*k
+
+__unknown_file (O
+M
+%1Gorg.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder*$
+
+__unknown_file (
+
+bA2 lessThan(Ljava/lang/Comparable;)"
+
+Œ Œ(%
+
+%2boolean:
+
+Œ Œ(
+aAB 
+java.util.function.Predicate

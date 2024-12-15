@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJavaAwtHeadless()Ljava/lang/String;
+false
+efb7efb8736c160c99c2006952665c7d
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

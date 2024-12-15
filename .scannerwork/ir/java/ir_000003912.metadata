@@ -1,0 +1,5 @@
+org.apache.commons.lang3.RegExUtils#replaceFirst(Ljava/lang/String;Ljava/util/regex/Pattern;Ljava/lang/String;)Ljava/lang/String;
+false
+7f86c445d3dbd30cf7175129ee4a4119
+java.util.regex.Matcher#replaceFirst(Ljava/lang/String;)Ljava/lang/String;
+java.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;

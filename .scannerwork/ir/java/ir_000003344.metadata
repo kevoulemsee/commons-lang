@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ArchUtils#getProcessor()Lorg/apache/commons/lang3/arch/Processor;
+false
+63295f77e92f8dde5f65fdf249abc261
+org.apache.commons.lang3.ArchUtils#getProcessor(Ljava/lang/String;)Lorg/apache/commons/lang3/arch/Processor;
+org.apache.commons.lang3.SystemProperties#getOsArch()Ljava/lang/String;

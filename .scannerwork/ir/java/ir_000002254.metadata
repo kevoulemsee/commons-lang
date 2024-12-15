@@ -1,0 +1,4 @@
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#updateCheckIntervalData(Lorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker$CheckIntervalData;Lorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker$CheckIntervalData;)Z
+false
+911ec2cb688c64626cc6b312491326d3
+java.util.concurrent.atomic.AtomicReference#compareAndSet(Ljava/lang/Object;Ljava/lang/Object;)Z

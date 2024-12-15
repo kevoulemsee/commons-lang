@@ -1,0 +1,15 @@
+org.apache.commons.lang3.text.translate.OctalUnescaper#translate(Ljava/lang/CharSequence;ILjava/io/Writer;)I
+false
+a0437abdb9e43e49091b889d63b87c6d
+java.lang.Integer#parseInt(Ljava/lang/String;I)I
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.text.translate.OctalUnescaper#isOctalDigit(C)Z
+org.apache.commons.lang3.text.translate.OctalUnescaper#isZeroToThree(C)Z
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.AbstractStringBuilder#length()I
+length java.lang.CharSequence#length()I
+write java.io.Writer#write(I)V

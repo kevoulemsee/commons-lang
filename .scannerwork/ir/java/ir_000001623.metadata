@@ -1,0 +1,9 @@
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/ParameterizedType;Ljava/lang/reflect/Type;)Z
+false
+c3e05ed7749a6dd2505997d46bdbea82
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Z
+org.apache.commons.lang3.reflect.TypeUtils#equals([Ljava/lang/reflect/Type;[Ljava/lang/reflect/Type;)Z
+==
+getActualTypeArguments java.lang.reflect.ParameterizedType#getActualTypeArguments()[Ljava/lang/reflect/Type;
+getOwnerType java.lang.reflect.ParameterizedType#getOwnerType()Ljava/lang/reflect/Type;
+getRawType java.lang.reflect.ParameterizedType#getRawType()Ljava/lang/reflect/Type;

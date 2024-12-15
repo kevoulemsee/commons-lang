@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrBuilder#appendln([CII)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+efea7972d2fd23f7ab06ba0a17d83bd8
+==
+append org.apache.commons.lang3.text.StrBuilder#append([CII)Lorg/apache/commons/lang3/text/StrBuilder;
+appendNewLine org.apache.commons.lang3.text.StrBuilder#appendNewLine()Lorg/apache/commons/lang3/text/StrBuilder;

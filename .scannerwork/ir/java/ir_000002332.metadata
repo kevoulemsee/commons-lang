@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ObjectUtils#compare(Ljava/lang/Comparable;Ljava/lang/Comparable;Z)I
+false
+ad02efdeb9736a2208e380456240ae38
+==
+compareTo java.lang.Comparable#compareTo(Ljava/lang/Object;)I

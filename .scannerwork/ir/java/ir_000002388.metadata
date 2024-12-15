@@ -1,0 +1,5 @@
+org.apache.commons.lang3.Range#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;
+false
+1e78b92516da0a7fae3323c9f3e0268e
+org.apache.commons.lang3.Range#<init>(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V
+org.apache.commons.lang3.Range#instance-init#

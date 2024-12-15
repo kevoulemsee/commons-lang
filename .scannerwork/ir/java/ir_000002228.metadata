@@ -1,0 +1,4 @@
+org.apache.commons.lang3.StringUtils#upperCase(Ljava/lang/String;)Ljava/lang/String;
+false
+ea0a1a640b6eaaff128bb5adc3c132bb
+java.lang.String#toUpperCase()Ljava/lang/String;

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.IEEE754rUtils#max(FF)F
+false
+22cabdd4c6e86b0bb5cb6d46264d8745
+java.lang.Float#isNaN(F)Z
+java.lang.Math#max(FF)F

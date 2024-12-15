@@ -1,0 +1,6 @@
+org.apache.commons.lang3.exception.ExceptionUtils#forEach(Ljava/lang/Throwable;Ljava/util/function/Consumer;)V
+false
+4fb3bfaf678ddf8c40012a5ec35357f6
+org.apache.commons.lang3.exception.ExceptionUtils#stream(Ljava/lang/Throwable;)Ljava/util/stream/Stream;
+==
+forEach java.util.stream.Stream#forEach(Ljava/util/function/Consumer;)V

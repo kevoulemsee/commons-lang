@@ -1,0 +1,9 @@
+org.apache.commons.lang3.reflect.FieldUtils#getAllFieldsList(Ljava/lang/Class;)Ljava/util/List;
+false
+9eecfa91e15e3d18b1917d1f0f1f9607
+java.lang.Class#getDeclaredFields()[Ljava/lang/reflect/Field;
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+java.util.Collections#addAll(Ljava/util/Collection;[Ljava/lang/Object;)Z
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;

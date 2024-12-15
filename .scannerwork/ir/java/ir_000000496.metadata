@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ArrayUtils#add([BIB)[B
+false
+ed11f0a3ec5965029606d73d77c004dd
+java.lang.Byte#valueOf(B)Ljava/lang/Byte;
+org.apache.commons.lang3.ArrayUtils#add(Ljava/lang/Object;ILjava/lang/Object;Ljava/lang/Class;)Ljava/lang/Object;

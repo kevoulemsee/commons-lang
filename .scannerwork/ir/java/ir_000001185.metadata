@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.ConcurrentUtils#initialize(Lorg/apache/commons/lang3/concurrent/ConcurrentInitializer;)Ljava/lang/Object;
+false
+9d8d1fb8583ae63487473b52196e6056
+==
+get org.apache.commons.lang3.function.FailableSupplier#get()Ljava/lang/Object;

@@ -1,0 +1,86 @@
+
+jorg.apache.commons.lang3.StringUtils#indexOfIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)Ig
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java£ £('"startingBlock*œ
+startingBlock
+£' £(q”
+‘
+
+¢ ¢(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*;
+
+__unknown_file (
+
+strjava.lang.CharSequence_
+]
+
+£; £(>
+strjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%2š
+—
+
+¢ ¢(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*A
+
+__unknown_file (%
+#
+	searchStrjava.lang.CharSequencee
+c
+
+£S £(\#
+	searchStrjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%3*
+1*¨
+1
+¤ ¤(`
+^
+
+¤ ¤(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""ž›
+
+¤ ¤(;	
+%1int"\org.apache.commons.lang3.Strings#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*;
+
+__unknown_file (
+
+strjava.lang.CharSequence*A
+
+__unknown_file (%
+#
+	searchStrjava.lang.CharSequence*"
+
+__unknown_file (
+""2:indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)"
+
+¤ ¤(<
+"":+
+
+£( £(?
+strjava.lang.CharSequence:1
+
+£@ £(]#
+	searchStrjava.lang.CharSequence: 
+
+__unknown_file (
+""B("&
+$org.apache.commons.lang3.StringUtilsHX

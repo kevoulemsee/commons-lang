@@ -1,0 +1,5 @@
+org.apache.commons.lang3.Functions#tryWithResources(Lorg/apache/commons/lang3/Functions$FailableRunnable;Lorg/apache/commons/lang3/Functions$FailableConsumer;[Lorg/apache/commons/lang3/Functions$FailableRunnable;)V
+false
+9d9d68081b6ae868bbfbd48028ae7da3
+java.util.Arrays#setAll([Ljava/lang/Object;Ljava/util/function/IntFunction;)V
+org.apache.commons.lang3.function.Failable#tryWithResources(Lorg/apache/commons/lang3/function/FailableRunnable;Lorg/apache/commons/lang3/function/FailableConsumer;[Lorg/apache/commons/lang3/function/FailableRunnable;)V

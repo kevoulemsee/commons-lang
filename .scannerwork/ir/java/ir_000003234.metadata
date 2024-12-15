@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlEnableExtensionFunctions()Ljava/lang/String;
+false
+ba4769028e523d06af82597a4746821e
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#removeEndIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+7b629cad69351cb7403a1e7238b3347b
+==
+removeEnd org.apache.commons.lang3.Strings#removeEnd(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;

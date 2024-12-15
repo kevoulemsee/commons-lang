@@ -1,0 +1,5 @@
+org.apache.commons.lang3.CharRange#is(C)Lorg/apache/commons/lang3/CharRange;
+false
+44654199cfd47e31404cf5bd0eb577b8
+org.apache.commons.lang3.CharRange#<init>(CCZ)V
+org.apache.commons.lang3.CharRange#instance-init#

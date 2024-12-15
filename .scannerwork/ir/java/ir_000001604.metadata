@@ -1,0 +1,10 @@
+org.apache.commons.lang3.JavaVersion#get(Ljava/lang/String;)Lorg/apache/commons/lang3/JavaVersion;
+false
+068d4599d5d4a0d0e7270fb4ad3d2bac
+java.lang.Float#parseFloat(Ljava/lang/String;)F
+java.lang.Math#max(II)I
+java.lang.String#indexOf(I)I
+java.lang.String#indexOf(II)I
+java.lang.String#length()I
+java.lang.String#substring(II)Ljava/lang/String;
+org.apache.commons.lang3.JavaVersion#toFloatVersion(Ljava/lang/String;)F

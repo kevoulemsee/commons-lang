@@ -1,0 +1,6 @@
+org.apache.commons.lang3.BooleanUtils#oneHot([Ljava/lang/Boolean;)Ljava/lang/Boolean;
+false
+0464a519b202f022584f7650339ea406
+java.lang.Boolean#valueOf(Z)Ljava/lang/Boolean;
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Boolean;)[Z
+org.apache.commons.lang3.BooleanUtils#oneHot([Z)Z

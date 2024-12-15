@@ -1,0 +1,80 @@
+
+jorg.apache.commons.lang3.StringUtils#endsWithIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÞ Þ(,"startingBlock*–
+startingBlock
+Þ, Þ(_”
+‘
+
+Ý Ý(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*;
+
+__unknown_file (
+
+strjava.lang.CharSequence_
+]
+
+Þ@ Þ(C
+strjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%2—
+”
+
+Ý Ý(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*>
+
+__unknown_file ("
+ 
+suffixjava.lang.CharSequenceb
+`
+
+ÞX Þ(^ 
+suffixjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%3*
+1*…
+1
+ß ß(`
+^
+
+ß ß(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""ûø
+
+ß ß(/
+%1boolean"\org.apache.commons.lang3.Strings#endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*;
+
+__unknown_file (
+
+strjava.lang.CharSequence*>
+
+__unknown_file ("
+ 
+suffixjava.lang.CharSequence2:endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
+
+ß ß(0
+"":+
+
+Þ- Þ(D
+strjava.lang.CharSequence:.
+
+ÞE Þ(^ 
+suffixjava.lang.CharSequenceB("&
+$org.apache.commons.lang3.StringUtilsHX

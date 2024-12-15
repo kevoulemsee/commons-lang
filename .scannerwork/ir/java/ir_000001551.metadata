@@ -1,0 +1,4 @@
+org.apache.commons.lang3.BooleanUtils#toInteger(Ljava/lang/Boolean;III)I
+false
+7289defb522315816a2d97e7fde2f0fc
+java.lang.Boolean#booleanValue()Z

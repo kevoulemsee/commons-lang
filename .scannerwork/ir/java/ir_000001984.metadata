@@ -1,0 +1,4 @@
+org.apache.commons.lang3.builder.HashCodeBuilder#append(F)Lorg/apache/commons/lang3/builder/HashCodeBuilder;
+false
+b623da4dbc30bc6ca164bf41df0f9235
+java.lang.Float#floatToIntBits(F)I

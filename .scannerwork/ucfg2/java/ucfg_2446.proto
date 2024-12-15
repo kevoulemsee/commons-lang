@@ -1,0 +1,44 @@
+
+uorg.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/Collection;)Ljava/util/stream/Stream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaá  á(+"1*À
+1
+â â(–
+“
+
+â" â(0
+%0java.util.stream.Stream"[org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*@
+
+__unknown_file ($
+"
+
+collectionjava.util.Collectionæ
+ã
+
+â â(1
+%1java.util.stream.Stream"xorg.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/stream/Stream;)Ljava/util/stream/Stream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*6
+
+__unknown_file (
+
+clazzjava.lang.Class*;
+
+__unknown_file (
+
+%0java.util.stream.Stream"-
+
+â â(2
+
+%1java.util.stream.Stream:&
+
+á, á(I
+clazzjava.lang.Class:0
+
+áJ á(p"
+
+collectionjava.util.CollectionB+")
+'org.apache.commons.lang3.stream.StreamsH

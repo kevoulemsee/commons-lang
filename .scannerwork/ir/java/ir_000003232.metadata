@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlDtdSupport()Ljava/lang/String;
+false
+10cc78b7cc94a4e96d39f2e9cdff0697
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

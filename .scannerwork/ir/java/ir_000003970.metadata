@@ -1,0 +1,8 @@
+org.apache.commons.lang3.tuple.Triple#toString(Ljava/lang/String;)Ljava/lang/String;
+false
+52b65dbefa10c7ce97972467eab39fea
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+==
+getLeft org.apache.commons.lang3.tuple.Triple#getLeft()Ljava/lang/Object;
+getMiddle org.apache.commons.lang3.tuple.Triple#getMiddle()Ljava/lang/Object;
+getRight org.apache.commons.lang3.tuple.Triple#getRight()Ljava/lang/Object;

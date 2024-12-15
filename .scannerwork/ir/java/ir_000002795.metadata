@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.NumberUtils#isDigits(Ljava/lang/String;)Z
+false
+a122cb5fbd424c9c13114c3e5a5d6e2f
+org.apache.commons.lang3.StringUtils#isNumeric(Ljava/lang/CharSequence;)Z

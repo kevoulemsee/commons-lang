@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.NumberUtils#createInteger(Ljava/lang/String;)Ljava/lang/Integer;
+false
+c3758323518ddb6a05869465c632dce0
+java.lang.Integer#decode(Ljava/lang/String;)Ljava/lang/Integer;

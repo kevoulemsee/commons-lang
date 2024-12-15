@@ -1,0 +1,43 @@
+
+çorg.apache.commons.lang3.compare.ComparableUtils#betweenExclusive(Ljava/lang/Comparable;Ljava/lang/Comparable;)Ljava/util/function/Predicate;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.javaî9 î(I"1*®
+1
+ï ï(0y
+w
+
+ï ï(0"
+%0java.util.function.Predicate"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_31$s
+q
+
+__unknown_file ()
+"
+%0java.util.function.Predicate"
+b"__id*$
+
+__unknown_file (
+
+bAs
+q
+
+__unknown_file ()
+"
+%0java.util.function.Predicate"
+c"__id*$
+
+__unknown_file (
+
+cA"2
+
+ï ï(1$
+"
+%0java.util.function.Predicate:
+
+îJ î(T
+bA:
+
+îU î(^
+cAB4"2
+0org.apache.commons.lang3.compare.ComparableUtilsH

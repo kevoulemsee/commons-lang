@@ -1,0 +1,60 @@
+
+corg.apache.commons.lang3.SerializationUtils#roundtrip(Ljava/io/Serializable;)Ljava/io/Serializable;n
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SerializationUtils.javaŒ- Œ(6"startingBlock*Ù
+startingBlock
+Œ6 Œ(CÖ
+Ç
+
+Õ Õ("
+%2"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*&
+
+__unknown_file (
+
+
+objTJ
+H
+
+Œ? Œ(B
+objT"__annotation*"
+
+__unknown_file (
+
+%2*
+1*è
+1
+œ œ(„
+‡
+
+œ œ(-
+%0byte[]"Oorg.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;)[B*K
+
+__unknown_file (/"-
++org.apache.commons.lang3.SerializationUtils*&
+
+__unknown_file (
+
+
+objTÔ
+Ï
+
+œ œ(.
+%1java.lang.Object"Morg.apache.commons.lang3.SerializationUtils#deserialize([B)Ljava/lang/Object;*K
+
+__unknown_file (/"-
++org.apache.commons.lang3.SerializationUtils**
+
+__unknown_file (
+
+%0byte[]"&
+
+œ œ(/
+
+%1java.lang.Object:
+
+Œ7 Œ(B
+objTB/"-
++org.apache.commons.lang3.SerializationUtilsH

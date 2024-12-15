@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ObjectUtils#equals(Ljava/lang/Object;Ljava/lang/Object;)Z
+false
+ff004f5d5234492e9891bd5b6ee0adbc
+java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z

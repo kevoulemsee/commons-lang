@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableFloat#subtract(Ljava/lang/Number;)V
+false
+ab9be705db59c5aef7845a663433f897
+==
+floatValue java.lang.Number#floatValue()F

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ArrayUtils#getComponentType([Ljava/lang/Object;)Ljava/lang/Class;
+false
+aa27b06683d1da97c2c18e56cada1062
+org.apache.commons.lang3.ClassUtils#getComponentType(Ljava/lang/Class;)Ljava/lang/Class;
+org.apache.commons.lang3.ObjectUtils#getClass(Ljava/lang/Object;)Ljava/lang/Class;

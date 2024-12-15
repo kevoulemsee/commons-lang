@@ -1,0 +1,4 @@
+org.apache.commons.lang3.time.DurationUtils#of(Lorg/apache/commons/lang3/function/FailableRunnable;)Ljava/time/Duration;
+false
+cf241fd7d727862e9144050dbcdf5edc
+org.apache.commons.lang3.time.DurationUtils#of(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/time/Duration;

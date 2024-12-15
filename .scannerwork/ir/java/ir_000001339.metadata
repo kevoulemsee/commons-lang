@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#hashCode()I
+false
+d3c4f0652f90621aa9e59bf83ceca73c
+java.lang.Double#doubleToLongBits(D)J

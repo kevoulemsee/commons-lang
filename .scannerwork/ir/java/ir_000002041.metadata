@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#endsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z
+false
+7ca9f7f729f367d6472d4f9af7e9b41a
+==
+endsWithAny org.apache.commons.lang3.Strings#endsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z

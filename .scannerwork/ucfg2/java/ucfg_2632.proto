@@ -1,0 +1,41 @@
+
+__sonar_lambda_79$m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java‚ ‚(."startingBlock*ã
+startingBlock
+‚ ‚(.À
+½
+
+__unknown_file (@
+	predicate3org.apache.commons.lang3.function.FailablePredicate"__id*Y
+
+__unknown_file (=*;,
+*org.apache.commons.lang3.function.Failable"
+	predicate*
+1* 
+1
+‚ ‚(ï
+ì
+
+‚ ‚(.
+%1boolean"yorg.apache.commons.lang3.function.Failable#test(Lorg/apache/commons/lang3/function/FailablePredicate;Ljava/lang/Object;)Z*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.function.Failable*^
+
+__unknown_file (B
+@
+	predicate3org.apache.commons.lang3.function.FailablePredicate*(
+
+__unknown_file (
+
+
+inputT"
+
+‚ ‚(.
+
+%1boolean:
+
+‚ ‚(
+
+inputTB 
+java.util.function.Predicate

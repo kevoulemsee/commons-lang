@@ -1,0 +1,9 @@
+org.apache.commons.lang3.tuple.ImmutablePair#of(Ljava/util/Map$Entry;)Lorg/apache/commons/lang3/tuple/ImmutablePair;
+false
+7eff3a48c8adf514a1c5bb1c243e355b
+org.apache.commons.lang3.tuple.ImmutablePair#<init>(Ljava/lang/Object;Ljava/lang/Object;)V
+org.apache.commons.lang3.tuple.ImmutablePair#instance-init#
+org.apache.commons.lang3.tuple.ImmutablePair#nullPair()Lorg/apache/commons/lang3/tuple/ImmutablePair;
+==
+getKey java.util.Map$Entry#getKey()Ljava/lang/Object;
+getValue java.util.Map$Entry#getValue()Ljava/lang/Object;

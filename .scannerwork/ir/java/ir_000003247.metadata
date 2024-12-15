@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlXsltcIsStandalone()Ljava/lang/String;
+false
+4b07e315650368b0bd74f4d3bfb88112
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

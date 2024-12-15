@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#removeStartIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+2f23f3d7015bff01ed9467e3a16dccd9
+==
+removeStart org.apache.commons.lang3.Strings#removeStart(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;

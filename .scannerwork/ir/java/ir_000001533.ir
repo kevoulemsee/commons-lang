@@ -1,0 +1,30 @@
+
+3
+or-org.apache.commons.lang3.BooleanUtils#or([Z)Zv"array"java.lang.Stringfalsebooleantruebooleannullnull array
+Ï Ï(3"	boolean[] array
+Ï Ï(3"	boolean[]"¶¡
+ž
+
+Ð Ð(3"
+requireNonEmptylorg.apache.commons.lang3.ObjectUtils#requireNonEmpty(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*2	boolean[]
+
+Ñ Õ(	"L"
+ 
+
+Ñ Õ(	"
+?java-unknown? "
+
+Ñ Õ(	 *
+Ñ Ñ((8"S+
+)
+
+Ñ, Õ(	element"
+?java-unknown? "
+
+Ò Ò( *
+Ò Ò(("
+
+Ö Ö("
+
+Ó Ó(("
+(*\/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BooleanUtils.java

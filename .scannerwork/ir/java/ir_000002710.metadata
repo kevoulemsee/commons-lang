@@ -1,0 +1,13 @@
+org.apache.commons.lang3.time.DateUtils#iterator(Ljava/util/Calendar;I)Ljava/util/Iterator;
+false
+a053a909d785d5e1dc538d42f3e799bf
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.time.DateUtils#truncate(Ljava/util/Calendar;I)Ljava/util/Calendar;
+org.apache.commons.lang3.time.DateUtils$DateIterator#<init>(Ljava/util/Calendar;Ljava/util/Calendar;)V
+org.apache.commons.lang3.time.DateUtils$DateIterator#instance-init#
+==
+add java.util.Calendar#add(II)V
+clone java.util.Calendar#clone()Ljava/lang/Object;
+get java.util.Calendar#get(I)I

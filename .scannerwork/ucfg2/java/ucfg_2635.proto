@@ -1,0 +1,31 @@
+
+org.apache.commons.lang3.function.Failable#asRunnable(Lorg/apache/commons/lang3/function/FailableRunnable;)Ljava/lang/Runnable;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java‹ ‹(%"1*Ö
+1
+Œ Œ("o
+m
+
+Œ Œ("
+%0java.lang.Runnable"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_80$©
+¦
+
+__unknown_file (&
+
+%0java.lang.Runnable"
+
+runnable"__id*\
+
+__unknown_file (@
+>
+runnable2org.apache.commons.lang3.function.FailableRunnable"(
+
+Œ Œ(#
+
+%0java.lang.Runnable:L
+
+‹& ‹(H>
+runnable2org.apache.commons.lang3.function.FailableRunnableB.",
+*org.apache.commons.lang3.function.FailableH

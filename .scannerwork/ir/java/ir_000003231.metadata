@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlCdataChunkSize()Ljava/lang/String;
+false
+cd35747830d813956baa287270d47c3c
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

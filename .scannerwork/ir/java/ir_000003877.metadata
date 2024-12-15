@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ArraySorter#sort([Ljava/lang/Object;Ljava/util/Comparator;)[Ljava/lang/Object;
+false
+09c450fbceb58aeda69fa99a47b8e7d8
+java.util.Arrays#sort([Ljava/lang/Object;Ljava/util/Comparator;)V

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.function.Consumers#accept(Ljava/util/function/Consumer;Ljava/lang/Object;)V
+false
+141737e33340210a2d43cfa899b1f06a
+==
+accept java.util.function.Consumer#accept(Ljava/lang/Object;)V

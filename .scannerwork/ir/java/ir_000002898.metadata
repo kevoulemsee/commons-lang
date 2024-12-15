@@ -1,0 +1,4 @@
+org.apache.commons.lang3.concurrent.AtomicInitializer#isInitialized()Z
+false
+76e4d55bd13e091185cf629c7f5efdc1
+java.util.concurrent.atomic.AtomicReference#get()Ljava/lang/Object;

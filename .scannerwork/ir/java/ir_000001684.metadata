@@ -1,0 +1,9 @@
+org.apache.commons.lang3.builder.EqualsBuilder#unregister(Ljava/lang/Object;Ljava/lang/Object;)V
+false
+9d624b55cf8083751ee2571b571d3f38
+org.apache.commons.lang3.builder.EqualsBuilder#getRegisterPair(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;
+org.apache.commons.lang3.builder.EqualsBuilder#getRegistry()Ljava/util/Set;
+==
+isEmpty java.util.Set#isEmpty()Z
+remove java.lang.ThreadLocal#remove()V
+remove java.util.Set#remove(Ljava/lang/Object;)Z

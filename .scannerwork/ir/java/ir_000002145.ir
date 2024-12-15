@@ -1,0 +1,17 @@
+
+w
+removeFirsthorg.apache.commons.lang3.StringUtils#removeFirst(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;{&text
+Ù-% Ù-(6"java.lang.String'regex
+Ù-8 Ù-(J"java.lang.String"($org.apache.commons.lang3.StringUtils&text
+Ù-% Ù-(6"java.lang.String'regex
+Ù-8 Ù-(J"java.lang.String"ùP
+N
+
+ı-) ı-(.")
+#get-field# EMPTY#get-field# EMPTY"*2java.lang.String∂
+≥
+
+ı- ı-(/"ã
+replaceFirst{org.apache.commons.lang3.StringUtils#replaceFirst(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*2java.lang.String
+
+ı- ı-(0*[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java

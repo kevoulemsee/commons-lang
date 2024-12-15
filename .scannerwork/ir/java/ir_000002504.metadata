@@ -1,0 +1,4 @@
+org.apache.commons.lang3.stream.Streams#stream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;
+false
+f9f8be6a5a97d70e9dac8e7f80d4e736
+org.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;

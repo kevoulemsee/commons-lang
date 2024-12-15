@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#toCodePoints(Ljava/lang/CharSequence;)[I
+false
+657452d116675b9da6e2bd4aea1b68ee
+java.lang.Character#charCount(I)I
+java.lang.String#codePointAt(I)I
+java.lang.String#codePointCount(II)I
+java.lang.String#length()I
+==
+length java.lang.CharSequence#length()I
+toString java.lang.CharSequence#toString()Ljava/lang/String;

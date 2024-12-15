@@ -1,0 +1,4 @@
+org.apache.commons.lang3.CharUtils#toChar(Ljava/lang/Character;C)C
+false
+bf9043b76ab1da600a6a3fed9a496862
+java.lang.Character#charValue()C

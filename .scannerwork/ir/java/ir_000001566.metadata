@@ -1,0 +1,6 @@
+org.apache.commons.lang3.BooleanUtils#xor([Ljava/lang/Boolean;)Ljava/lang/Boolean;
+false
+af3c86e5f75cf4eae0ff1f0ce467e4de
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Boolean;)[Z
+org.apache.commons.lang3.BooleanUtils#xor([Z)Z
+org.apache.commons.lang3.ObjectUtils#requireNonEmpty(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;

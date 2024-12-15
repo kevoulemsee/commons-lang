@@ -1,0 +1,49 @@
+
+__sonar_lambda_73$m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java¼ ¼(C"startingBlock*â
+startingBlock
+¼ ¼(C¿
+¼
+
+__unknown_file (@
+consumer4org.apache.commons.lang3.function.FailableBiConsumer"__id*X
+
+__unknown_file (<*:,
+*org.apache.commons.lang3.function.Failable"
+
+consumer*
+1*Ü
+1
+¼# ¼()®
+«
+
+¼# ¼(C
+
+%1void"Žorg.apache.commons.lang3.function.Failable#accept(Lorg/apache/commons/lang3/function/FailableBiConsumer;Ljava/lang/Object;Ljava/lang/Object;)V*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.function.Failable*^
+
+__unknown_file (B
+@
+consumer4org.apache.commons.lang3.function.FailableBiConsumer*)
+
+__unknown_file (
+
+input1T*)
+
+__unknown_file (
+
+input2U"
+
+¼# ¼(C
+
+
+%1void:
+
+¼ ¼(
+input1T:
+
+¼ ¼(
+input2UB!
+java.util.function.BiConsumer

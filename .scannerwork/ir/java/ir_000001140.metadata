@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrBuilder#replace(Lorg/apache/commons/lang3/text/StrMatcher;Ljava/lang/String;III)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+26f4f056bde62860418d1b49385071dc
+org.apache.commons.lang3.text.StrBuilder#replaceImpl(Lorg/apache/commons/lang3/text/StrMatcher;Ljava/lang/String;III)Lorg/apache/commons/lang3/text/StrBuilder;
+==
+validateRange org.apache.commons.lang3.text.StrBuilder#validateRange(II)I

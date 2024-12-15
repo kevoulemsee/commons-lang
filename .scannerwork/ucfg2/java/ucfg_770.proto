@@ -1,0 +1,88 @@
+
+Horg.apache.commons.lang3.reflect.TypeLiteral#equals(Ljava/lang/Object;)Zm
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeLiteral.javad d("startingBlock*!
+2i i("
+i i(
+""*„
+startingBlockd d(1Š
+‡
+c c(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+d- d(0
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%4*
+5*!
+4f f("
+f f(
+""*ë
+5e e(Ð
+Í
+e e(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+objjava.lang.Object*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.reflect.TypeLiteral*	
+2
+4
+1*Ž
+1k6 k(9€
+~
+k k(:5
+other,org.apache.commons.lang3.reflect.TypeLiteral"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectŠ
+‡
+l  l(%
+%1java.lang.reflect.Type"__id*W
+
+__unknown_file (;*9.
+,org.apache.commons.lang3.reflect.TypeLiteral"
+value‘
+Ž
+l' l(2
+%2java.lang.reflect.Type"__id*^
+
+__unknown_file (B*@
+5
+other,org.apache.commons.lang3.reflect.TypeLiteral"
+valueÆ
+Ã
+l l(3
+%3boolean"dorg.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Z*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.reflect.TypeUtils*:
+
+__unknown_file (
+
+%1java.lang.reflect.Type*:
+
+__unknown_file (
+
+%2java.lang.reflect.Type"
+l l(4
+"":#
+d  d(0
+objjava.lang.ObjectB0.
+,org.apache.commons.lang3.reflect.TypeLiteralHX

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ClassUtils#getShortClassName(Ljava/lang/Class;)Ljava/lang/String;
+false
+941950fee2d06086b523ddd9ea5ad53e
+java.lang.Class#getName()Ljava/lang/String;
+org.apache.commons.lang3.ClassUtils#getShortClassName(Ljava/lang/String;)Ljava/lang/String;

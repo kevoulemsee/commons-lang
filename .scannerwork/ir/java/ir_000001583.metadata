@@ -1,0 +1,5 @@
+org.apache.commons.lang3.Strings#remove(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+d3ec4a98fc3090f7a52804aff0c543e3
+==
+replace org.apache.commons.lang3.Strings#replace(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#lastIndexOfIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I
+false
+2aaeb01121514d27ac498c9ab791c45e
+==
+lastIndexOf org.apache.commons.lang3.Strings#lastIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I

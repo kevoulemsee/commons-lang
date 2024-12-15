@@ -1,0 +1,45 @@
+
+¼org.apache.commons.lang3.function.FailableIntUnaryOperator#compose(Lorg/apache/commons/lang3/function/FailableIntUnaryOperator;)Lorg/apache/commons/lang3/function/FailableIntUnaryOperator;{
+q/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableIntUnaryOperator.javaV( V(/"1*¡
+1W W(®
+«
+W W(&@
+%0:org.apache.commons.lang3.function.FailableIntUnaryOperator"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*b
+
+__unknown_file (F
+D
+before:org.apache.commons.lang3.function.FailableIntUnaryOperatorÑ
+Î
+X X(@@
+%1:org.apache.commons.lang3.function.FailableIntUnaryOperator"__declareFunction*m
+
+__unknown_file (QO
+M__sonar_lambda_175$org.apache.commons.lang3.function.FailableIntUnaryOperatorÕ
+Ò
+
+__unknown_file (L
+@
+%1:org.apache.commons.lang3.function.FailableIntUnaryOperator"
+before"__id*b
+
+__unknown_file (F
+D
+before:org.apache.commons.lang3.function.FailableIntUnaryOperatorä
+á
+
+__unknown_file (c
+@
+%1:org.apache.commons.lang3.function.FailableIntUnaryOperator"
+FailableIntUnaryOperator.this"__id*Z
+
+__unknown_file (><
+:org.apache.commons.lang3.function.FailableIntUnaryOperator"N
+X X(AB
+@
+%1:org.apache.commons.lang3.function.FailableIntUnaryOperator:P
+V0 V(XD
+before:org.apache.commons.lang3.function.FailableIntUnaryOperatorB><
+:org.apache.commons.lang3.function.FailableIntUnaryOperatorH

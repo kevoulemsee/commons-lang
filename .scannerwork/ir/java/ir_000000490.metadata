@@ -1,0 +1,6 @@
+org.apache.commons.lang3.mutable.MutableByte#toByte()Ljava/lang/Byte;
+false
+58a278e95ceb472fa49474b4915bc4b4
+java.lang.Byte#valueOf(B)Ljava/lang/Byte;
+==
+byteValue org.apache.commons.lang3.mutable.MutableByte#byteValue()B

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdbcDrivers()Ljava/lang/String;
+false
+12328e4eae9478107d0278e2c6254276
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.tuple.Triple#ofNonNull(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Triple;
+false
+300e9c0abdceea3744e87a5c5efd72d5
+org.apache.commons.lang3.tuple.ImmutableTriple#ofNonNull(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/ImmutableTriple;

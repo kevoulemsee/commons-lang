@@ -1,0 +1,6 @@
+org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;
+false
+8eed4562ce280ab0c0a31ef0feb54188
+java.util.stream.Stream#empty()Ljava/util/stream/Stream;
+==
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

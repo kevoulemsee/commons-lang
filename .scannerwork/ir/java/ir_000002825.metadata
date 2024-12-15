@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.NumberUtils#toDouble(Ljava/math/BigDecimal;D)D
+false
+f4b3bc98333cfb280b6bc2cba507e4a9
+==
+doubleValue java.math.BigDecimal#doubleValue()D

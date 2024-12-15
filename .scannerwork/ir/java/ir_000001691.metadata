@@ -1,0 +1,6 @@
+org.apache.commons.lang3.builder.EqualsBuilder#append([C[C)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+false
+f0fd2dc094de52b5f5e45f94ecce87a8
+==
+append org.apache.commons.lang3.builder.EqualsBuilder#append(CC)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+setEquals org.apache.commons.lang3.builder.EqualsBuilder#setEquals(Z)V

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.builder.CompareToBuilder#build()Ljava/lang/Integer;
+false
+c43cf356f2510fd54cc1714f6cd7027c
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+==
+toComparison org.apache.commons.lang3.builder.CompareToBuilder#toComparison()I

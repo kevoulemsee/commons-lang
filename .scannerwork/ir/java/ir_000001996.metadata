@@ -1,0 +1,6 @@
+org.apache.commons.lang3.builder.HashCodeBuilder#build()Ljava/lang/Integer;
+false
+635c7e23ce96925966deb744da62f0ec
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+==
+toHashCode org.apache.commons.lang3.builder.HashCodeBuilder#toHashCode()I

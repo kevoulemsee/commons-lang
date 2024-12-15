@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ClassUtils#getSimpleName(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/String;
+false
+54c32edf30cb47c1bf98a259500b450f
+java.lang.Class#getSimpleName()Ljava/lang/String;
+java.lang.Object#getClass()Ljava/lang/Class;

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.RandomUtils#nextFloat()F
+false
+ef0bfa5ba77a689de904070d021fda1c
+org.apache.commons.lang3.RandomUtils#secure()Lorg/apache/commons/lang3/RandomUtils;
+==
+randomFloat org.apache.commons.lang3.RandomUtils#randomFloat()F

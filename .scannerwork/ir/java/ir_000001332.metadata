@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#equals(Ljava/lang/Object;)Z
+false
+95c0507ca9b9e41dccb46c34bf5b3c3e
+java.lang.Double#doubleToLongBits(D)J

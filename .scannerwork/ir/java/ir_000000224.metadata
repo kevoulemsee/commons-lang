@@ -1,0 +1,14 @@
+org.apache.commons.lang3.builder.CompareToBuilder#reflectionCompare(Ljava/lang/Object;Ljava/lang/Object;ZLjava/lang/Class;[Ljava/lang/String;)I
+false
+072035b8f5ff4bb230c08ab74e6e6bef
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+java.lang.Class#isInstance(Ljava/lang/Object;)Z
+java.lang.ClassCastException#<init>()V
+java.lang.ClassCastException#instance-init#
+java.lang.Object#getClass()Ljava/lang/Class;
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.builder.CompareToBuilder#<init>()V
+org.apache.commons.lang3.builder.CompareToBuilder#instance-init#
+org.apache.commons.lang3.builder.CompareToBuilder#reflectionAppend(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Class;Lorg/apache/commons/lang3/builder/CompareToBuilder;Z[Ljava/lang/String;)V
+==
+toComparison org.apache.commons.lang3.builder.CompareToBuilder#toComparison()I

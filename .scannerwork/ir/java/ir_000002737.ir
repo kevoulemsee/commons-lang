@@ -1,0 +1,22 @@
+
+n
+truncatedEquals[org.apache.commons.lang3.time.DateUtils#truncatedEquals(Ljava/util/Date;Ljava/util/Date;I)Zv
+0int%date1
+ä* ä(:"java.util.Date%date2
+ä< ä(L"java.util.Datefield
+äN ä(]"int%date1
+ä* ä(:"java.util.Date%date2
+ä< ä(L"java.util.Datefield
+äN ä(]"int"â‘
+Ž
+
+å å(6"t
+truncatedCompareTo^org.apache.commons.lang3.time.DateUtils#truncatedCompareTo(Ljava/util/Date;Ljava/util/Date;I)I*2int:
+8
+
+å å(;"
+
+#binop ==#
+#binop ==#"*2boolean
+
+å å(<*^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DateUtils.java

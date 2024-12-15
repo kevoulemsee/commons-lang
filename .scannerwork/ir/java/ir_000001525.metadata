@@ -1,0 +1,6 @@
+org.apache.commons.lang3.BooleanUtils#forEach(Ljava/util/function/Consumer;)V
+false
+c0346dd015a2d9c166c340a39ce71107
+org.apache.commons.lang3.BooleanUtils#values()Ljava/util/List;
+==
+forEach java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V

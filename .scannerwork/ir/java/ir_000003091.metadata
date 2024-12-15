@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getAwtToolkit()Ljava/lang/String;
+false
+796d170e6cb110496abdd7d87fcc20cd
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

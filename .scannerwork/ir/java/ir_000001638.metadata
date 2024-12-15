@@ -1,0 +1,13 @@
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/Class;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+false
+e1287cd054c4b6e9b21287f9dc00a8fd
+java.lang.Class#isPrimitive()Z
+java.util.HashMap#<init>()V
+java.util.HashMap#<init>(Ljava/util/Map;)V
+java.util.HashMap#instance-init#
+org.apache.commons.lang3.ClassUtils#primitiveToWrapper(Ljava/lang/Class;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.TypeUtils#getClosestParentType(Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/reflect/Type;
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/Type;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/Class;)Z
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

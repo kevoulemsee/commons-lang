@@ -1,0 +1,7 @@
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Z
+false
+db7fd401db0f4dd354d7a6e4e54d9629
+java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/GenericArrayType;Ljava/lang/reflect/Type;)Z
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/ParameterizedType;Ljava/lang/reflect/Type;)Z
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/WildcardType;Ljava/lang/reflect/Type;)Z

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.Failable#accept(Lorg/apache/commons/lang3/function/FailableDoubleConsumer;D)V
+false
+8aaac88fa7cd5dcb0d8a83356d664ff5
+org.apache.commons.lang3.function.Failable#run(Ljava/lang/Object;Lorg/apache/commons/lang3/function/FailableRunnable;)V

@@ -1,0 +1,29 @@
+
+Iorg.apache.commons.lang3.time.StopWatch#getDuration()Ljava/time/Duration;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/StopWatch.java» »("1*¤
+1
+¼ ¼(«¨
+
+¼  ¼(-
+
+%0long"6org.apache.commons.lang3.time.StopWatch#getNanoTime()J*G
+
+__unknown_file (+)
+'org.apache.commons.lang3.time.StopWatch2getNanoTime()º
+·
+
+¼ ¼(.
+%1java.time.Duration"1java.time.Duration#ofNanos(J)Ljava/time/Duration;*2
+
+__unknown_file ("
+java.time.Duration*(
+
+__unknown_file (
+
+
+%0long"(
+
+¼ ¼(/
+
+%1java.time.DurationB+)
+'org.apache.commons.lang3.time.StopWatchH

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.StringUtils#replaceFirst(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+4e0a67fddb4cd2f33b882e1a2218a375
+org.apache.commons.lang3.RegExUtils#replaceFirst(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

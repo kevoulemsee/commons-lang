@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#endsWithIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z
+false
+bec95994a50ee2998ac1299719885cad
+==
+endsWith org.apache.commons.lang3.Strings#endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

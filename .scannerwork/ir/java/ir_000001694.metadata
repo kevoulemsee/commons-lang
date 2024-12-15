@@ -1,0 +1,6 @@
+org.apache.commons.lang3.builder.EqualsBuilder#append(FF)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+false
+3552b252ba1b3a09f12d2158e9ac0873
+java.lang.Float#floatToIntBits(F)I
+==
+append org.apache.commons.lang3.builder.EqualsBuilder#append(II)Lorg/apache/commons/lang3/builder/EqualsBuilder;

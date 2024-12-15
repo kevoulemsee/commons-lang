@@ -1,0 +1,14 @@
+org.apache.commons.lang3.reflect.TypeUtils#getRawType(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Ljava/lang/Class;
+false
+2c151f341c7b38369ef4fa280c4a8010
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.reflect.Array#newInstance(Ljava/lang/Class;I)Ljava/lang/Object;
+org.apache.commons.lang3.reflect.TypeUtils#getRawType(Ljava/lang/reflect/ParameterizedType;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.TypeUtils#getRawType(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/Type;Ljava/lang/Class;)Ljava/util/Map;
+==
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;
+getGenericComponentType java.lang.reflect.GenericArrayType#getGenericComponentType()Ljava/lang/reflect/Type;
+getGenericDeclaration java.lang.reflect.TypeVariable#getGenericDeclaration()Ljava/lang/reflect/GenericDeclaration;

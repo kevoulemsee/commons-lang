@@ -1,0 +1,16 @@
+
+n
+
+zeroIfNull`org.apache.commons.lang3.time.DurationUtils#zeroIfNull(Ljava/time/Duration;)Ljava/time/Duration;F,duration
+›& ›(="java.time.Duration"java.time.Duration,duration
+›& ›(="java.time.Duration"çP
+N
+
+ﬁ3 ﬁ(@"'
+#get-field# ZERO#get-field# ZERO"*2java.time.Duration¶
+£
+
+ﬁ ﬁ(A"{
+defaultIfNulljorg.apache.commons.lang3.ObjectUtils#defaultIfNull(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*2java.time.Duration
+
+ﬁ ﬁ(B*b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.java

@@ -1,0 +1,8 @@
+org.apache.commons.lang3.ClassUtils#getAllInterfaces(Ljava/lang/Class;Ljava/util/HashSet;)V
+false
+cfff06447097cb0d14767abd2addef6c
+java.lang.Class#getInterfaces()[Ljava/lang/Class;
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+org.apache.commons.lang3.ClassUtils#getAllInterfaces(Ljava/lang/Class;Ljava/util/HashSet;)V
+==
+add java.util.HashSet#add(Ljava/lang/Object;)Z

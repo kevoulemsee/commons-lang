@@ -1,0 +1,5 @@
+org.apache.commons.lang3.BitField#clearByte(B)B
+false
+1114ff9793e52e20c89732434719d790
+==
+clear org.apache.commons.lang3.BitField#clear(I)I

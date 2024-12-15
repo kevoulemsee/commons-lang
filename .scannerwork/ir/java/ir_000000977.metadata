@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.StrSubstitutor#setVariableSuffix(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrSubstitutor;
+false
+276e197aaf1792f33af96f19f2562ec0
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;
+org.apache.commons.lang3.text.StrMatcher#stringMatcher(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrMatcher;
+==
+setVariableSuffixMatcher org.apache.commons.lang3.text.StrSubstitutor#setVariableSuffixMatcher(Lorg/apache/commons/lang3/text/StrMatcher;)Lorg/apache/commons/lang3/text/StrSubstitutor;

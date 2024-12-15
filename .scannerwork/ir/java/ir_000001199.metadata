@@ -1,0 +1,5 @@
+org.apache.commons.lang3.reflect.MemberUtils#compareParameterTypes(Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;[Ljava/lang/Class;)I
+false
+fbdc9d9f7399b033ac3835936ca87bbf
+java.lang.Float#compare(FF)I
+org.apache.commons.lang3.reflect.MemberUtils#getTotalTransformationCost([Ljava/lang/Class;Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;)F

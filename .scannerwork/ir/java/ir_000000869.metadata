@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#and(Ljava/util/BitSet;)Lorg/apache/commons/lang3/util/FluentBitSet;
+false
+55a2fc1e216cdb22e36f3db0ff5906da
+==
+and java.util.BitSet#and(Ljava/util/BitSet;)V

@@ -1,0 +1,48 @@
+
+M__sonar_lambda_174$org.apache.commons.lang3.function.FailableIntUnaryOperator{
+q/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableIntUnaryOperator.javaB B(?"startingBlock*ò
+startingBlockB B(?Ï
+Ì
+
+__unknown_file (C
+after:org.apache.commons.lang3.function.FailableIntUnaryOperator"__id*e
+
+__unknown_file (I*G<
+:org.apache.commons.lang3.function.FailableIntUnaryOperator"
+afterÿ
+ü
+
+__unknown_file ([
+FailableIntUnaryOperator.this:org.apache.commons.lang3.function.FailableIntUnaryOperator"__id*}
+
+__unknown_file (a*_<
+:org.apache.commons.lang3.function.FailableIntUnaryOperator"
+FailableIntUnaryOperator.this*
+1*»
+1B  B(%‘Ž
+B1 B(>	
+%2int"Iorg.apache.commons.lang3.function.FailableIntUnaryOperator#applyAsInt(I)I*y
+
+__unknown_file (]
+[
+FailableIntUnaryOperator.this:org.apache.commons.lang3.function.FailableIntUnaryOperator*"
+
+__unknown_file (
+""2applyAsInt(I)þû
+B  B(?	
+%3int"Iorg.apache.commons.lang3.function.FailableIntUnaryOperator#applyAsInt(I)I*a
+
+__unknown_file (E
+C
+after:org.apache.commons.lang3.function.FailableIntUnaryOperator*'
+
+__unknown_file (
+	
+%2int2applyAsInt(I)"
+B  B(?
+	
+%3int: 
+
+__unknown_file (
+""B><
+:org.apache.commons.lang3.function.FailableIntUnaryOperator

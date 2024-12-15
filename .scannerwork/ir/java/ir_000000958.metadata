@@ -1,0 +1,9 @@
+org.apache.commons.lang3.text.StrSubstitutor#replace(Ljava/lang/StringBuffer;II)Ljava/lang/String;
+false
+92ebfc64efd14c2129ce51fda834ae0d
+org.apache.commons.lang3.text.StrBuilder#<init>(I)V
+org.apache.commons.lang3.text.StrBuilder#instance-init#
+==
+append org.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/StringBuffer;II)Lorg/apache/commons/lang3/text/StrBuilder;
+substitute org.apache.commons.lang3.text.StrSubstitutor#substitute(Lorg/apache/commons/lang3/text/StrBuilder;II)Z
+toString org.apache.commons.lang3.text.StrBuilder#toString()Ljava/lang/String;

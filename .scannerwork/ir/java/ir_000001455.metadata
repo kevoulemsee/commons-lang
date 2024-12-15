@@ -1,0 +1,4 @@
+org.apache.commons.lang3.concurrent.CallableBackgroundInitializer#<init>(Ljava/util/concurrent/Callable;)V
+false
+42e1bfe01e848d2df9d7692fb729f0f2
+org.apache.commons.lang3.concurrent.CallableBackgroundInitializer#checkCallable(Ljava/util/concurrent/Callable;)V

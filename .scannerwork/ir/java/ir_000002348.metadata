@@ -1,0 +1,9 @@
+org.apache.commons.lang3.ObjectUtils#getFirstNonNull([Ljava/util/function/Supplier;)Ljava/lang/Object;
+false
+f353aff50c98ebcb3bb4433496848627
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+org.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;
+map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;

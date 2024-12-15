@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.StrBuilder#replaceImpl(Lorg/apache/commons/lang3/text/StrMatcher;Ljava/lang/String;III)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+d09855439c50caf594b7b2a70a9edf61
+org.apache.commons.lang3.StringUtils#length(Ljava/lang/CharSequence;)I
+org.apache.commons.lang3.text.StrBuilder#replaceImpl(IIILjava/lang/String;I)V
+==
+isMatch org.apache.commons.lang3.text.StrMatcher#isMatch([CIII)I

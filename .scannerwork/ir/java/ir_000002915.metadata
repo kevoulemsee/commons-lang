@@ -1,0 +1,6 @@
+org.apache.commons.lang3.exception.ExceptionUtils#getThrowableCount(Ljava/lang/Throwable;)I
+false
+b52b7719daa5a3095ee36d4c2ebafb08
+org.apache.commons.lang3.exception.ExceptionUtils#getThrowableList(Ljava/lang/Throwable;)Ljava/util/List;
+==
+size java.util.List#size()I

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrLookup#mapLookup(Ljava/util/Map;)Lorg/apache/commons/lang3/text/StrLookup;
+false
+703f03ca24062c474ef1b862263823a2
+org.apache.commons.lang3.text.StrLookup$MapStrLookup#<init>(Ljava/util/Map;)V
+org.apache.commons.lang3.text.StrLookup$MapStrLookup#instance-init#

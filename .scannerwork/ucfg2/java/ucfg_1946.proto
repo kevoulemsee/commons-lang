@@ -1,0 +1,80 @@
+
+^org.apache.commons.lang3.StringUtils#equals(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaú ú( "startingBlock*
+startingBlock
+ú  ú(P”
+‘
+
+ù ù(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*;
+
+__unknown_file (
+
+cs1java.lang.CharSequence_
+]
+
+ú4 ú(7
+cs1java.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%2”
+‘
+
+ù ù(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*;
+
+__unknown_file (
+
+cs2java.lang.CharSequence_
+]
+
+úL ú(O
+cs2java.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%3*
+1*ş
+1
+û û(`
+^
+
+û û(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""ôñ
+
+û û(*
+%1boolean"Zorg.apache.commons.lang3.Strings#equals(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*;
+
+__unknown_file (
+
+cs1java.lang.CharSequence*;
+
+__unknown_file (
+
+cs2java.lang.CharSequence28equals(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
+
+û û(+
+"":+
+
+ú! ú(8
+cs1java.lang.CharSequence:+
+
+ú9 ú(O
+cs2java.lang.CharSequenceB("&
+$org.apache.commons.lang3.StringUtilsHX

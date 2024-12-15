@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.translate.NumericEntityEscaper#between(II)Lorg/apache/commons/lang3/text/translate/NumericEntityEscaper;
+false
+12b24f5f8d316bb20bfc7ce0b4b970fe
+org.apache.commons.lang3.text.translate.NumericEntityEscaper#<init>(IIZ)V
+org.apache.commons.lang3.text.translate.NumericEntityEscaper#instance-init#

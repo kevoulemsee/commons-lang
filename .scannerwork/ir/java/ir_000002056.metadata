@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#getJaroWinklerDistance(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)D
+false
+396168bdc8baafacc89e919104cf9f10
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.lang.Math#min(DD)D
+java.lang.Math#round(D)J
+org.apache.commons.lang3.StringUtils#matches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)[I
+==
+length java.lang.CharSequence#length()I

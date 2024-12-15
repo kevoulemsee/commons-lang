@@ -1,0 +1,10 @@
+org.apache.commons.lang3.ThreadUtils#findThreadById(J)Ljava/lang/Thread;
+false
+a402de546776b37695f48d0f3a76dd8c
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+org.apache.commons.lang3.ThreadUtils#findThreads(Ljava/util/function/Predicate;)Ljava/util/Collection;
+==
+isEmpty java.util.Collection#isEmpty()Z
+iterator java.util.Collection#iterator()Ljava/util/Iterator;
+next java.util.Iterator#next()Ljava/lang/Object;

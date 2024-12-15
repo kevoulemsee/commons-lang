@@ -1,0 +1,5 @@
+org.apache.commons.lang3.CharUtils#toIntValue(Ljava/lang/Character;I)I
+false
+475bed24c0012bf9863ab4b9ae70f421
+java.lang.Character#charValue()C
+org.apache.commons.lang3.CharUtils#toIntValue(CI)I

@@ -1,0 +1,35 @@
+
+5
+add.org.apache.commons.lang3.ArrayUtils#add([II)[I_
+1intarray
+– –(-"int[]element
+–/ –(@"int"java.lang.Integerarray
+– –(-"int[]element
+–/ –(@"int"úM
+K
+
+—= —(I"'
+#get-field# TYPE#get-field# TYPE"*2java.lang.Class¤
+¡
+
+—' —(J"{
+copyArrayGrow1iorg.apache.commons.lang3.ArrayUtils#copyArrayGrow1(Ljava/lang/Object;Ljava/lang/Class;)Ljava/lang/Object;*2java.lang.Object9
+7
+
+— —(JnewArray"
+#cast##cast#"*2int[]E
+C
+
+˜ ˜( "+
+#get-field# length#get-field# length"*2int4
+2
+
+˜ ˜($	"
+	#binop -#	#binop -#"*2int8
+6
+
+˜ ˜(/
+"!
+#array-write##array-write#"*	
+
+™ ™(*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

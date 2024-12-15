@@ -1,0 +1,5 @@
+org.apache.commons.lang3.IntegerRange#of(II)Lorg/apache/commons/lang3/IntegerRange;
+false
+a32c48e709c943cf026628a13ce49d8f
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+org.apache.commons.lang3.IntegerRange#of(Ljava/lang/Integer;Ljava/lang/Integer;)Lorg/apache/commons/lang3/IntegerRange;

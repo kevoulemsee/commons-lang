@@ -1,0 +1,4 @@
+org.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;BB)Lorg/apache/commons/lang3/builder/DiffBuilder;
+false
+c004a9af39e16e9fe5f443f4cff4a20d
+org.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;

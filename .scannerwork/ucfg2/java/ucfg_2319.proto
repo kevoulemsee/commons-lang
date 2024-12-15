@@ -1,0 +1,59 @@
+
+borg.apache.commons.lang3.Range$ComparableComparator#compare(Ljava/lang/Object;Ljava/lang/Object;)I_
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.java0 0("startingBlock*î
+startingBlock0 0(@‹
+ˆ
+/ /(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+obj1java.lang.ObjectX
+V
+0( 0(,
+obj1java.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1‹
+ˆ
+/ /(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+obj2java.lang.ObjectX
+V
+0; 0(?
+obj2java.lang.Object"__annotation*"
+
+__unknown_file (
+
+%2*
+1*€
+11! 1(%ÜÙ
+1 1(6	
+%0int"3java.lang.Comparable#compareTo(Ljava/lang/Object;)I*6
+
+__unknown_file (
+
+obj1java.lang.Object*6
+
+__unknown_file (
+
+obj2java.lang.Object2compareTo(Ljava/lang/Object;)"
+1 1(7
+"":$
+0 0(-
+obj1java.lang.Object:$
+0. 0(?
+obj2java.lang.ObjectB75
+3org.apache.commons.lang3.Range$ComparableComparatorHX

@@ -1,0 +1,18 @@
+org.apache.commons.lang3.ClassUtils#getShortClassName(Ljava/lang/String;)Ljava/lang/String;
+false
+77a1b3588be8f02db38bce2c24bb6cd9
+java.lang.String#charAt(I)C
+java.lang.String#indexOf(II)I
+java.lang.String#lastIndexOf(I)I
+java.lang.String#length()I
+java.lang.String#replace(CC)Ljava/lang/String;
+java.lang.String#startsWith(Ljava/lang/String;)Z
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#substring(II)Ljava/lang/String;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+containsKey java.util.Map#containsKey(Ljava/lang/Object;)Z
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;

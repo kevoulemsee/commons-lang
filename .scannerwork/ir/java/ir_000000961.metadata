@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrSubstitutor#replaceIn(Ljava/lang/StringBuffer;)Z
+false
+7b594e7bb8b9c512282afc39dad1ea19
+java.lang.StringBuffer#length()I
+==
+replaceIn org.apache.commons.lang3.text.StrSubstitutor#replaceIn(Ljava/lang/StringBuffer;II)Z

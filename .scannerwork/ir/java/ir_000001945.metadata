@@ -1,0 +1,9 @@
+org.apache.commons.lang3.tuple.Pair#equals(Ljava/lang/Object;)Z
+false
+2a54f8abd219e63960359959926138e8
+java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z
+org.apache.commons.lang3.tuple.Pair#getKey()Ljava/lang/Object;
+==
+getKey java.util.Map$Entry#getKey()Ljava/lang/Object;
+getValue java.util.Map$Entry#getValue()Ljava/lang/Object;
+getValue org.apache.commons.lang3.tuple.Pair#getValue()Ljava/lang/Object;

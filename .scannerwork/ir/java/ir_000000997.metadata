@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.IEEE754rUtils#min(FF)F
+false
+d322d0f38bfdbde227680db95f8ee1ad
+java.lang.Float#isNaN(F)Z
+java.lang.Math#min(FF)F

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#strip(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+a81c8013ea1aaf77155fbe0d6f83fc32
+org.apache.commons.lang3.StringUtils#stripEnd(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#stripStart(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

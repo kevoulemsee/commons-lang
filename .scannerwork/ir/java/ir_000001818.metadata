@@ -1,0 +1,7 @@
+org.apache.commons.lang3.EnumUtils#getEnumList(Ljava/lang/Class;)Ljava/util/List;
+false
+83cb64d7b768b91773851f1a94e77b97
+java.lang.Class#getEnumConstants()[Ljava/lang/Object;
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+java.util.ArrayList#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;

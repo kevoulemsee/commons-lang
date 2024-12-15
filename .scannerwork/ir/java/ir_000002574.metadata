@@ -1,0 +1,8 @@
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer#isInitialized()Z
+false
+c0e0289b459929b646cc0133cb7a0883
+==
+allMatch java.util.stream.Stream#allMatch(Ljava/util/function/Predicate;)Z
+isEmpty java.util.Map#isEmpty()Z
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+values java.util.Map#values()Ljava/util/Collection;

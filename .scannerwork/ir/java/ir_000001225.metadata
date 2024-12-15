@@ -1,0 +1,8 @@
+org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#changeState(Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;)V
+false
+66eff0602d1e3aaaa9aa000a823475b5
+java.util.concurrent.atomic.AtomicReference#compareAndSet(Ljava/lang/Object;Ljava/lang/Object;)Z
+org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#isOpen(Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;)Z
+==
+firePropertyChange java.beans.PropertyChangeSupport#firePropertyChange(Ljava/lang/String;ZZ)V
+oppositeState org.apache.commons.lang3.concurrent.AbstractCircuitBreaker$State#oppositeState()Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;

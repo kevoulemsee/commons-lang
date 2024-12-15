@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Double;D)[D
+false
+c94c3d266dfa4dd2bd4d020dcc9b1e4e
+java.lang.Double#doubleValue()D

@@ -1,0 +1,13 @@
+
+r
+getJdkXmlMaxXmlNameLimitVorg.apache.commons.lang3.SystemProperties#getJdkXmlMaxXmlNameLimit()Ljava/lang/String;/"-)org.apache.commons.lang3.SystemProperties"£z
+x
+
+É É(5"S
+&#get-field# JDK_XML_MAX_XML_NAME_LIMIT&#get-field# JDK_XML_MAX_XML_NAME_LIMIT"*2java.lang.Stringí
+è
+
+É É(6"j
+getProperty[org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;*2java.lang.String
+
+É É(7*`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemProperties.java

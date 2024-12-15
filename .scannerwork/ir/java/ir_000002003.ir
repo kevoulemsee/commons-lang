@@ -1,0 +1,18 @@
+
+v
+
+abbreviatehorg.apache.commons.lang3.StringUtils#abbreviate(Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;‚
+0int%str
+®$ ®(4"java.lang.String.abbrevMarker
+®6 ®(O"java.lang.StringmaxWidth
+®Q ®(c"int%str
+®$ ®(4"java.lang.String.abbrevMarker
+®6 ®(O"java.lang.StringmaxWidth
+®Q ®(c"int"·¢
+Ÿ
+
+¯ ¯(9"w
+
+abbreviateiorg.apache.commons.lang3.StringUtils#abbreviate(Ljava/lang/String;Ljava/lang/String;II)Ljava/lang/String;*2java.lang.String
+
+¯ ¯(:*[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java

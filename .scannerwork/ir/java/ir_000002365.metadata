@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ObjectUtils#min([Ljava/lang/Comparable;)Ljava/lang/Comparable;
+false
+208760da77ff1e4913f55af731551734
+org.apache.commons.lang3.ObjectUtils#compare(Ljava/lang/Comparable;Ljava/lang/Comparable;Z)I

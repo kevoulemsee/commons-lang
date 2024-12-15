@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.DurationUtils#of(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/time/Duration;
+false
+c285cdeed42aa081df84b1a25c63b38b
+org.apache.commons.lang3.time.DurationUtils#now(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/time/Instant;
+org.apache.commons.lang3.time.DurationUtils#since(Ljava/time/temporal/Temporal;)Ljava/time/Duration;

@@ -1,0 +1,7 @@
+org.apache.commons.lang3.Strings#containsAny(Lorg/apache/commons/lang3/function/ToBooleanBiFunction;Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z
+false
+b6dbc531974761977007f68315c0367e
+org.apache.commons.lang3.ArrayUtils#isEmpty([Ljava/lang/Object;)Z
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+applyAsBoolean org.apache.commons.lang3.function.ToBooleanBiFunction#applyAsBoolean(Ljava/lang/Object;Ljava/lang/Object;)Z

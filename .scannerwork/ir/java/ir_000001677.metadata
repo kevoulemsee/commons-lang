@@ -1,0 +1,10 @@
+org.apache.commons.lang3.builder.EqualsBuilder#isRegistered(Ljava/lang/Object;Ljava/lang/Object;)Z
+false
+ffa92bb793ee60b4826dbd83eb06214c
+org.apache.commons.lang3.builder.EqualsBuilder#getRegisterPair(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;
+org.apache.commons.lang3.builder.EqualsBuilder#getRegistry()Ljava/util/Set;
+org.apache.commons.lang3.tuple.Pair#of(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;
+==
+contains java.util.Set#contains(Ljava/lang/Object;)Z
+getLeft org.apache.commons.lang3.tuple.Pair#getLeft()Ljava/lang/Object;
+getRight org.apache.commons.lang3.tuple.Pair#getRight()Ljava/lang/Object;

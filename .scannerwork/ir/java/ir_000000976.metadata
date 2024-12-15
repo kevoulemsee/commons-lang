@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrSubstitutor#setVariableSuffix(C)Lorg/apache/commons/lang3/text/StrSubstitutor;
+false
+76906ec2f8c9e030e6ec671faf18fb68
+org.apache.commons.lang3.text.StrMatcher#charMatcher(C)Lorg/apache/commons/lang3/text/StrMatcher;
+==
+setVariableSuffixMatcher org.apache.commons.lang3.text.StrSubstitutor#setVariableSuffixMatcher(Lorg/apache/commons/lang3/text/StrMatcher;)Lorg/apache/commons/lang3/text/StrSubstitutor;

@@ -1,0 +1,12 @@
+org.apache.commons.lang3.Range#intersectionWith(Lorg/apache/commons/lang3/Range;)Lorg/apache/commons/lang3/Range;
+false
+0024f64c72c8bb437288027e698aee75
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+org.apache.commons.lang3.Range#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;
+==
+compare java.util.Comparator#compare(Ljava/lang/Object;Ljava/lang/Object;)I
+equals org.apache.commons.lang3.Range#equals(Ljava/lang/Object;)Z
+getComparator org.apache.commons.lang3.Range#getComparator()Ljava/util/Comparator;
+isOverlappedBy org.apache.commons.lang3.Range#isOverlappedBy(Lorg/apache/commons/lang3/Range;)Z

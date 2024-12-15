@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ClassUtils#wrappersToPrimitives([Ljava/lang/Class;)[Ljava/lang/Class;
+false
+304c81173fd1bf2e5f8fc422f3ea19ee
+java.util.Arrays#setAll([Ljava/lang/Object;Ljava/util/function/IntFunction;)V

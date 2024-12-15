@@ -1,0 +1,10 @@
+org.apache.commons.lang3.reflect.FieldUtils#getFieldsListWithAnnotation(Ljava/lang/Class;Ljava/lang/Class;)Ljava/util/List;
+false
+147d7e71f3966cd3561997943ced56ff
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+org.apache.commons.lang3.reflect.FieldUtils#getAllFieldsList(Ljava/lang/Class;)Ljava/util/List;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

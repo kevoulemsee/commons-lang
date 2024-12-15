@@ -1,0 +1,72 @@
+
+=
+isSorted1org.apache.commons.lang3.ArrayUtils#isSorted([J)Zjtrueboolean
+0int
+	1int
+2intfalsebooleanarray
+á# á(5"long[]array
+á# á(5"long[]"«i
+g
+
+à à("O
+	getLengthBorg.apache.commons.lang3.ArrayUtils#getLength(Ljava/lang/Object;)I*2int8
+6
+
+à à( "
+	#binop <#	#binop <#"*2boolean "
+
+à à(  *
+à à(
+"
+
+â â("»?
+=
+
+ã ã( previous"
+#array-read##array-read#"*H
+F
+
+å å("n"+
+#get-field# length#get-field# length"*2int'
+%
+
+ç ç(
+i"
+#id##id#"*	
+
+ç ì(	"¡*previous*array*n*i
+8
+6
+
+ç ç("
+	#binop <#	#binop <#"*2boolean "
+
+ç ì(	 *
+ç ç((8"˛>
+<
+
+é! é()current"
+#array-read##array-read#"*\
+Z
+
+è è(6"A
+compare6org.apache.commons.lang3.math.NumberUtils#compare(JJ)I*2int8
+6
+
+è è(:"
+	#binop >#	#binop >#"*2boolean "
+
+è è(: *
+è è(("
+
+î î("
+
+ê ê((":.
+,
+
+í í(previous"
+#id##id#"*(">2
+0
+
+ç ç("i"
+	#binop +#	#binop +#"*	(*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

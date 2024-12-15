@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#isClosed()Z
+false
+92c24df23685cdccd5a73d6e78ef7746
+==
+isOpen org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#isOpen()Z

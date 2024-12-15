@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.BackgroundInitializer#getFuture()Ljava/util/concurrent/Future;
+false
+5a8d1d34d5ae42f4f711ce6f8f0e2a12
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+java.lang.IllegalStateException#instance-init#

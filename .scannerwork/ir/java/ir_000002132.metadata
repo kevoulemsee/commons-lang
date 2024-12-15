@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#lowerCase(Ljava/lang/String;Ljava/util/Locale;)Ljava/lang/String;
+false
+ec0bb584e55877d597debfb71ba5a180
+java.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;
+org.apache.commons.lang3.LocaleUtils#toLocale(Ljava/util/Locale;)Ljava/util/Locale;

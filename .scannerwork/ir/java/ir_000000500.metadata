@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ArrayUtils#add([DID)[D
+false
+33fd65dfd134991c19b1ba162cae9c00
+java.lang.Double#valueOf(D)Ljava/lang/Double;
+org.apache.commons.lang3.ArrayUtils#add(Ljava/lang/Object;ILjava/lang/Object;Ljava/lang/Class;)Ljava/lang/Object;

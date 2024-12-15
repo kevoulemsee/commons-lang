@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableShort#compareTo(Lorg/apache/commons/lang3/mutable/MutableShort;)I
+false
+9344095569bde558ff8c61d423973bd8
+org.apache.commons.lang3.math.NumberUtils#compare(SS)I

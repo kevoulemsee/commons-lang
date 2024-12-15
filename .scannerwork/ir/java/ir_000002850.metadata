@@ -1,0 +1,3 @@
+org.apache.commons.lang3.Functions#asCallable(Lorg/apache/commons/lang3/Functions$FailableCallable;)Ljava/util/concurrent/Callable;
+false
+bd7dbd712d654caf121f195696bf3fd4

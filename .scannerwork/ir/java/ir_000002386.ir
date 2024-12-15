@@ -1,0 +1,15 @@
+
+q
+iskorg.apache.commons.lang3.Range#is(Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;Nelement
+Š" Š(1"T0
+comparator
+Š3 Š(Q"java.util.Comparatorelement
+Š" Š(1"T0
+comparator
+Š3 Š(Q"java.util.Comparator"Ñ¼
+¹
+
+‹ ‹(/"ƒ
+of}org.apache.commons.lang3.Range#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;*2org.apache.commons.lang3.Range
+
+‹ ‹(0*U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.java

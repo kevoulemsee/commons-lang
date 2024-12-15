@@ -1,0 +1,30 @@
+
+„org.apache.commons.lang3.Functions#asPredicate(Lorg/apache/commons/lang3/Functions$FailablePredicate;)Ljava/util/function/Predicate;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java¬# ¬(."1*ù
+1
+­ ­(.z
+x
+
+­ ­(."
+%0java.util.function.Predicate"__declareFunction*3
+
+__unknown_file (
+__sonar_lambda_101$·
+´
+
+__unknown_file (1
+"
+%0java.util.function.Predicate"
+	predicate"__id*_
+
+__unknown_file (C
+A
+	predicate4org.apache.commons.lang3.Functions$FailablePredicate"2
+
+­ ­(/$
+"
+%0java.util.function.Predicate:O
+
+¬/ ¬(VA
+	predicate4org.apache.commons.lang3.Functions$FailablePredicateB&"$
+"org.apache.commons.lang3.FunctionsH

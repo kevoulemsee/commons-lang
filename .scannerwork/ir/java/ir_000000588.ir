@@ -1,0 +1,101 @@
+
+>
+indexOf3org.apache.commons.lang3.ArrayUtils#indexOf([DDID)IÓ
+1intfalsebooleanarray
+ƒ ƒ(2"double[]#valueToFind
+ƒ4 ƒ(L"double
+startIndex
+ƒN ƒ(b"int!	tolerance
+ƒd ƒ(z"double"'#org.apache.commons.lang3.ArrayUtilsarray
+ƒ ƒ(2"double[]#valueToFind
+ƒ4 ƒ(L"double
+startIndex
+ƒN ƒ(b"int!	tolerance
+ƒd ƒ(z"double"}Y
+W
+
+„ „(";
+isEmpty0org.apache.commons.lang3.ArrayUtils#isEmpty([D)Z*2boolean "
+
+„ „( *
+„ „(
+"mW
+U
+
+… …(""=
+#get-field# INDEX_NOT_FOUND#get-field# INDEX_NOT_FOUND"*2int
+
+… …(#"Û<
+:
+
+‡ ‡(2min"
+	#binop -#	#binop -#"*2double4
+2
+
+ˆ ˆ(2	max"
+	#binop +#	#binop +#"*Q
+O
+
+‰ ‰(%
+i"4
+max0,org.apache.commons.lang3.ArrayUtils#max0(I)I*2int
+
+‰ (	"…*max	
+*min
+*array
+*i
+
+E
+C
+
+‰+ ‰(7"+
+#get-field# length#get-field# length"*2int8
+6
+
+‰' ‰(7"
+	#binop <#	#binop <#"*2boolean "
+
+‰ (	 *
+‰ ‰((8"5
+3
+
+Š Š("
+#array-read##array-read#"*:
+8
+
+Š Š("
+
+#binop >=#
+#binop >=#"*2boolean"
+
+Š Š( ("mW
+U
+
+Ž Ž("=
+#get-field# INDEX_NOT_FOUND#get-field# INDEX_NOT_FOUND"*2int
+
+Ž Ž("‰5
+3
+
+Š# Š(+"
+#array-read##array-read#"*:
+8
+
+Š# Š(2"
+
+#binop <=#
+#binop <=#"*2boolean
+
+Š# Š(2("8* "
+
+Š Š(2 	*
+Š Š(("
+
+‹ ‹(("
+	
+(">
+2
+0
+
+‰9 ‰(<i"
+	#binop +#	#binop +#"*(*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

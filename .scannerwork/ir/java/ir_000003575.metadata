@@ -1,0 +1,8 @@
+org.apache.commons.lang3.math.Fraction#getReducedFraction(II)Lorg/apache/commons/lang3/math/Fraction;
+false
+f3cd15a195bdf4dde5bebe72a89a73c2
+java.lang.ArithmeticException#<init>(Ljava/lang/String;)V
+java.lang.ArithmeticException#instance-init#
+org.apache.commons.lang3.math.Fraction#<init>(II)V
+org.apache.commons.lang3.math.Fraction#greatestCommonDivisor(II)I
+org.apache.commons.lang3.math.Fraction#instance-init#

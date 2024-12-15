@@ -1,0 +1,177 @@
+
+Rorg.apache.commons.lang3.reflect.TypeUtils#typesSatisfyVariables(Ljava/util/Map;)Zm
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.javaä ä(/"9*Ç
+2
+é é(9V
+T
+
+é é(9
+entryjava.util.Map$Entry"__id*"
+
+__unknown_file (
+""ê
+ç
+
+é é(9
+entryjava.util.Map$Entry"
+__arrayGet*1
+
+__unknown_file (
+
+%1java.util.Set*"
+
+__unknown_file (
+""*
+7
+1*ì
+3
+í í(!Y
+W
+
+í í(!
+boundjava.lang.reflect.Type"__id*"
+
+__unknown_file (
+""û
+õ
+
+í í(!
+boundjava.lang.reflect.Type"
+__arrayGet*<
+
+__unknown_file ( 
+
+%4java.lang.reflect.Type[]*"
+
+__unknown_file (
+""*
+2
+5*%
+4
+î î( "
+
+î î(!
+""*∫
+5
+ì ì(!˛
+˚
+
+ì( ì(W
+%5java.lang.reflect.Type"Éorg.apache.commons.lang3.reflect.TypeUtils#substituteTypeVariables(Ljava/lang/reflect/Type;Ljava/util/Map;)Ljava/lang/reflect/Type;*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.reflect.TypeUtils*=
+
+__unknown_file (!
+
+boundjava.lang.reflect.Type*>
+
+__unknown_file ("
+ 
+typeVariableMapjava.util.Mapü
+ú
+
+ì ì(i
+%6boolean"yorg.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;Ljava/util/Map;)Z*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.reflect.TypeUtils*<
+
+__unknown_file ( 
+
+typejava.lang.reflect.Type*:
+
+__unknown_file (
+
+%5java.lang.reflect.Type*>
+
+__unknown_file ("
+ 
+typeVariableMapjava.util.Map*
+3
+4*‘
+6
+í$ í(5Ω
+∫
+
+í$ í(>
+%4java.lang.reflect.Type[]"worg.apache.commons.lang3.reflect.TypeUtils#getImplicitBounds(Ljava/lang/reflect/TypeVariable;)[Ljava/lang/reflect/Type;*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.reflect.TypeUtils*G
+
+__unknown_file (+
+)
+typeVarjava.lang.reflect.TypeVariable*
+3*Â
+7
+è, è(1´®
+
+è, è(:$
+%2java.lang.reflect.TypeVariable".java.util.Map$Entry#getKey()Ljava/lang/Object;*:
+
+__unknown_file (
+
+entryjava.util.Map$Entry2getKey()Ñ
+Å
+
+è è(;)
+typeVarjava.lang.reflect.TypeVariable"__id*B
+
+__unknown_file (&
+$
+%2java.lang.reflect.TypeVariableß§
+
+ê ê(.
+%3java.lang.reflect.Type"0java.util.Map$Entry#getValue()Ljava/lang/Object;*:
+
+__unknown_file (
+
+entryjava.util.Map$Entry2
+getValue()p
+n
+
+ê ê(/
+typejava.lang.reflect.Type"__id*:
+
+__unknown_file (
+
+%3java.lang.reflect.Type*
+6*∞
+8
+é< é(Kôñ
+
+é< é(V
+%1java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*>
+
+__unknown_file ("
+ 
+typeVariableMapjava.util.Map2
+entrySet()*
+2*π
+9
+ã ã(¢
+ü
+
+ã ã(B
+%0java.util.Map"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*>
+
+__unknown_file ("
+ 
+typeVariableMapjava.util.Map*/
+
+__unknown_file (
+typeVariableMap*
+8*%
+1
+ò ò("
+
+ò ò(
+"":.
+
+ä0 ä(` 
+typeVariableMapjava.util.MapB.",
+*org.apache.commons.lang3.reflect.TypeUtilsHX

@@ -1,0 +1,8 @@
+org.apache.commons.lang3.text.StrSubstitutor#replaceSystemProperties(Ljava/lang/Object;)Ljava/lang/String;
+false
+f4975a37fdbb640c561bd380d5c78042
+org.apache.commons.lang3.text.StrLookup#systemPropertiesLookup()Lorg/apache/commons/lang3/text/StrLookup;
+org.apache.commons.lang3.text.StrSubstitutor#<init>(Lorg/apache/commons/lang3/text/StrLookup;)V
+org.apache.commons.lang3.text.StrSubstitutor#instance-init#
+==
+replace org.apache.commons.lang3.text.StrSubstitutor#replace(Ljava/lang/Object;)Ljava/lang/String;

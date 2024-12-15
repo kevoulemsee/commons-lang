@@ -1,0 +1,3 @@
+org.apache.commons.lang3.function.Failable#asConsumer(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/util/function/Consumer;
+false
+40ac664afb32faf62bd3aef12b06826c

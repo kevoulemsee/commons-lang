@@ -1,0 +1,7 @@
+org.apache.commons.lang3.concurrent.UncheckedFuture#on(Ljava/util/Collection;)Ljava/util/Collection;
+false
+3dca703bcd613535abf9b43650fcbd13
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+org.apache.commons.lang3.concurrent.UncheckedFuture#map(Ljava/util/Collection;)Ljava/util/stream/Stream;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;

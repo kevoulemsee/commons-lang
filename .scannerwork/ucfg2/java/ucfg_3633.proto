@@ -1,0 +1,89 @@
+
+yorg.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;[S[S)Lorg/apache/commons/lang3/builder/DiffBuilder;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java¿ ¿( "3"4*¾
+2
+À: À(=¦
+£
+
+ÀI À(g!
+%4java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_171$org.apache.commons.lang3.builder.DiffBuilder§
+¤
+Ài À(‡!
+%6java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_172$org.apache.commons.lang3.builder.DiffBuilderµ
+²
+À: À(—2
+%3,org.apache.commons.lang3.builder.DiffBuilder"½org.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.builder.DiffBuilder*;
+
+__unknown_file (
+
+	fieldNamejava.lang.String*?
+
+__unknown_file (#
+!
+%4java.util.function.Supplier*?
+
+__unknown_file (#
+!
+%6java.util.function.Supplier*"
+
+__unknown_file (
+""œ
+™
+À: À(—2
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%3,org.apache.commons.lang3.builder.DiffBuilder*
+1*²
+3
+À3 À(7›
+˜
+
+À3 À(72
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%2,org.apache.commons.lang3.builder.DiffBuilder*
+1*Ò
+4
+À À(¸
+µ
+
+À À(0
+%0boolean"java.util.Arrays#equals([S[S)Z*0
+
+__unknown_file ("
+java.util.Arrays*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*U
+1À À(˜"C
+À À(˜4
+2
+%1,org.apache.commons.lang3.builder.DiffBuilder:+
+
+¿! ¿(8
+	fieldNamejava.lang.String: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B0.
+,org.apache.commons.lang3.builder.DiffBuilderH

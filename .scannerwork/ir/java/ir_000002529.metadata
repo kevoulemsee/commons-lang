@@ -1,0 +1,6 @@
+org.apache.commons.lang3.time.CalendarUtils#toZoneId(Ljava/util/Calendar;)Ljava/time/ZoneId;
+false
+c5d86eecbd7d05fde85f5bf2541c1ae9
+==
+getTimeZone java.util.Calendar#getTimeZone()Ljava/util/TimeZone;
+toZoneId java.util.TimeZone#toZoneId()Ljava/time/ZoneId;

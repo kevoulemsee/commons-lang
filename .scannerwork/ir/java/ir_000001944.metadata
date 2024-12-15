@@ -1,0 +1,10 @@
+org.apache.commons.lang3.tuple.Pair#compareTo(Lorg/apache/commons/lang3/tuple/Pair;)I
+false
+ba2506be1e1e58bfb1e254e248285cb3
+org.apache.commons.lang3.builder.CompareToBuilder#<init>()V
+org.apache.commons.lang3.builder.CompareToBuilder#instance-init#
+==
+append org.apache.commons.lang3.builder.CompareToBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/CompareToBuilder;
+getLeft org.apache.commons.lang3.tuple.Pair#getLeft()Ljava/lang/Object;
+getRight org.apache.commons.lang3.tuple.Pair#getRight()Ljava/lang/Object;
+toComparison org.apache.commons.lang3.builder.CompareToBuilder#toComparison()I

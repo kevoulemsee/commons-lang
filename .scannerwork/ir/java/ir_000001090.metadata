@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#contains(Lorg/apache/commons/lang3/text/StrMatcher;)Z
+false
+bf31d85cd1c903c88c477fd0fb0eca97
+==
+indexOf org.apache.commons.lang3.text.StrBuilder#indexOf(Lorg/apache/commons/lang3/text/StrMatcher;I)I

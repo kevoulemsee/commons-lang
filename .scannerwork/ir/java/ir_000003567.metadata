@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailableLongPredicate#and(Lorg/apache/commons/lang3/function/FailableLongPredicate;)Lorg/apache/commons/lang3/function/FailableLongPredicate;
+false
+3f413c83421e7163f95b8e7955d95dd6
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArchUtils#addProcessors(Lorg/apache/commons/lang3/arch/Processor;[Ljava/lang/String;)V
+false
+e0ff9e6dc4a00681fc1c3702a0843539
+org.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+forEach java.util.stream.Stream#forEach(Ljava/util/function/Consumer;)V

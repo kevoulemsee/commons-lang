@@ -1,0 +1,9 @@
+org.apache.commons.lang3.reflect.TypeUtils#containsTypeVariables(Ljava/lang/reflect/Type;)Z
+false
+11aa9864cb4cb6f6223972a9b818db96
+java.lang.Class#getTypeParameters()[Ljava/lang/reflect/TypeVariable;
+org.apache.commons.lang3.reflect.TypeUtils#containsTypeVariables(Ljava/lang/reflect/Type;)Z
+org.apache.commons.lang3.reflect.TypeUtils#getImplicitLowerBounds(Ljava/lang/reflect/WildcardType;)[Ljava/lang/reflect/Type;
+org.apache.commons.lang3.reflect.TypeUtils#getImplicitUpperBounds(Ljava/lang/reflect/WildcardType;)[Ljava/lang/reflect/Type;
+==
+getGenericComponentType java.lang.reflect.GenericArrayType#getGenericComponentType()Ljava/lang/reflect/Type;

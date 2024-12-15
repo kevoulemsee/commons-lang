@@ -1,0 +1,22 @@
+
+S
+isPackageAccess@org.apache.commons.lang3.reflect.MemberUtils#isPackageAccess(I)Z^
+0int	modifiers
+Ÿ# Ÿ(6"int"0,org.apache.commons.lang3.reflect.MemberUtils	modifiers
+Ÿ# Ÿ(6"int"ÕO
+M
+
+   ('"5
+#get-field# ACCESS_TEST#get-field# ACCESS_TEST"*2int4
+2
+
+   ('"
+	#binop &#	#binop &#"*2int:
+8
+
+   (-"
+
+#binop ==#
+#binop ==#"*2boolean
+
+   (.*c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java

@@ -1,0 +1,17 @@
+
+h
+getFragmentInHoursRorg.apache.commons.lang3.time.DateUtils#getFragmentInHours(Ljava/util/Calendar;I)Jp,calendar
+Ä* Ä(A"java.util.Calendarfragment
+ÄC Ä(U"int"!java.util.concurrent.TimeUnit,calendar
+Ä* Ä(A"java.util.Calendarfragment
+ÄC Ä(U"int"‹]
+[
+
+Å/ Å(=")
+#get-field# HOURS#get-field# HOURS"*2java.util.concurrent.TimeUnit—
+”
+
+Å Å(>"y
+getFragmentjorg.apache.commons.lang3.time.DateUtils#getFragment(Ljava/util/Calendar;ILjava/util/concurrent/TimeUnit;)J*2long
+
+Å Å(?*^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DateUtils.java

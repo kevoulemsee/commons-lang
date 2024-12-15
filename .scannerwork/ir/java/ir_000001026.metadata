@@ -1,0 +1,17 @@
+org.apache.commons.lang3.text.StrBuilder#append(Ljava/nio/CharBuffer;II)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+24851efa5afb0812e5b4d8b9bb9713fe
+java.lang.StringIndexOutOfBoundsException#<init>(Ljava/lang/String;)V
+java.lang.StringIndexOutOfBoundsException#instance-init#
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.nio.Buffer#position()I
+java.nio.Buffer#remaining()I
+java.nio.CharBuffer#array()[C
+java.nio.CharBuffer#arrayOffset()I
+java.nio.CharBuffer#hasArray()Z
+==
+append org.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;II)Lorg/apache/commons/lang3/text/StrBuilder;
+appendNull org.apache.commons.lang3.text.StrBuilder#appendNull()Lorg/apache/commons/lang3/text/StrBuilder;
+ensureCapacity org.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;
+length org.apache.commons.lang3.text.StrBuilder#length()I
+toString java.nio.CharBuffer#toString()Ljava/lang/String;

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.math.IEEE754rUtils#max([D)D
+false
+70c1b9c1850d1dbf142c5a4e4854d001
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.Validate#isTrue(ZLjava/lang/String;[Ljava/lang/Object;)V
+org.apache.commons.lang3.math.IEEE754rUtils#max(DD)D

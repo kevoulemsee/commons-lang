@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.StrBuilder#substring(II)Ljava/lang/String;
+false
+747e2b25f4ead438301e769216deedcc
+java.lang.String#<init>([CII)V
+java.lang.String#instance-init#
+==
+validateRange org.apache.commons.lang3.text.StrBuilder#validateRange(II)I

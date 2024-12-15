@@ -1,0 +1,13 @@
+org.apache.commons.lang3.text.translate.LookupTranslator#<init>([[Ljava/lang/CharSequence;)V
+false
+d2339144bd271bee3af687125339dc4a
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#
+java.util.HashSet#<init>()V
+java.util.HashSet#instance-init#
+==
+add java.util.HashSet#add(Ljava/lang/Object;)Z
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I
+put java.util.HashMap#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+toString java.lang.CharSequence#toString()Ljava/lang/String;

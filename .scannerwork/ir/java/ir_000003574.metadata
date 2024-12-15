@@ -1,0 +1,14 @@
+org.apache.commons.lang3.math.Fraction#getFraction(Ljava/lang/String;)Lorg/apache/commons/lang3/math/Fraction;
+false
+f0c586ee42bf8169298dcae1c20e9cc1
+java.lang.Double#parseDouble(Ljava/lang/String;)D
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+java.lang.NumberFormatException#<init>(Ljava/lang/String;)V
+java.lang.NumberFormatException#instance-init#
+java.lang.String#indexOf(I)I
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#substring(II)Ljava/lang/String;
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.math.Fraction#getFraction(D)Lorg/apache/commons/lang3/math/Fraction;
+org.apache.commons.lang3.math.Fraction#getFraction(II)Lorg/apache/commons/lang3/math/Fraction;
+org.apache.commons.lang3.math.Fraction#getFraction(III)Lorg/apache/commons/lang3/math/Fraction;

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.StringUtils#lowerCase(Ljava/lang/String;)Ljava/lang/String;
+false
+15869ba19e27e39c61faefcc73388d99
+java.lang.String#toLowerCase()Ljava/lang/String;

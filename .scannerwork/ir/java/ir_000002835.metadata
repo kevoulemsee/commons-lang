@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.NumberUtils#toScaledBigDecimal(Ljava/lang/Float;ILjava/math/RoundingMode;)Ljava/math/BigDecimal;
+false
+56b947a830c639449b7f5865eb731eaa
+java.math.BigDecimal#valueOf(D)Ljava/math/BigDecimal;
+org.apache.commons.lang3.math.NumberUtils#toScaledBigDecimal(Ljava/math/BigDecimal;ILjava/math/RoundingMode;)Ljava/math/BigDecimal;

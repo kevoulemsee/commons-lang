@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrBuilder#appendln(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+94ecf6dcf79afc1cfa6cda5b7997ca3a
+==
+append org.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;
+appendNewLine org.apache.commons.lang3.text.StrBuilder#appendNewLine()Lorg/apache/commons/lang3/text/StrBuilder;

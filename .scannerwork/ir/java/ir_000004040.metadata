@@ -1,0 +1,5 @@
+org.apache.commons.lang3.SerializationUtils#roundtrip(Ljava/io/Serializable;)Ljava/io/Serializable;
+false
+b0623ffaa83e1290916090ae5216e1c7
+org.apache.commons.lang3.SerializationUtils#deserialize([B)Ljava/lang/Object;
+org.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;)[B

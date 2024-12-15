@@ -1,0 +1,6 @@
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/GenericArrayType;Ljava/lang/reflect/Type;)Z
+false
+e1234d1bdb92d364da97981232ed0752
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Z
+==
+getGenericComponentType java.lang.reflect.GenericArrayType#getGenericComponentType()Ljava/lang/reflect/Type;

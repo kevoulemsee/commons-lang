@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#deleteFirst(Lorg/apache/commons/lang3/text/StrMatcher;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+437fe3e18461258acdcebb9b71db6a27
+==
+replace org.apache.commons.lang3.text.StrBuilder#replace(Lorg/apache/commons/lang3/text/StrMatcher;Ljava/lang/String;III)Lorg/apache/commons/lang3/text/StrBuilder;

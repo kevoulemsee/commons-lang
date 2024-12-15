@@ -1,0 +1,4 @@
+org.apache.commons.lang3.RegExUtils#dotAll(Ljava/lang/String;)Ljava/util/regex/Pattern;
+false
+81d463dda00d806532adad7ab13d9f97
+java.util.regex.Pattern#compile(Ljava/lang/String;I)Ljava/util/regex/Pattern;

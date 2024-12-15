@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#trim()Lorg/apache/commons/lang3/text/StrBuilder;
+false
+9e77f0f627e7e6a6d20fab3393078512
+==
+delete org.apache.commons.lang3.text.StrBuilder#delete(II)Lorg/apache/commons/lang3/text/StrBuilder;

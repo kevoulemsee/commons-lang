@@ -1,0 +1,9 @@
+org.apache.commons.lang3.StringUtils#uncapitalize(Ljava/lang/String;)Ljava/lang/String;
+false
+cd1840a28c64db125266658a5ebe3785
+java.lang.Character#charCount(I)I
+java.lang.Character#toLowerCase(I)I
+java.lang.String#<init>([III)V
+java.lang.String#codePointAt(I)I
+java.lang.String#instance-init#
+org.apache.commons.lang3.StringUtils#length(Ljava/lang/CharSequence;)I

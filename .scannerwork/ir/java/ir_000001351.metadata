@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#toString()Ljava/lang/String;
+false
+168a28189cc97295a605af7c2e10773d
+java.lang.String#valueOf(D)Ljava/lang/String;

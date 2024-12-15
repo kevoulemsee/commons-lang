@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.AtomicSafeInitializer#<init>(Lorg/apache/commons/lang3/function/FailableSupplier;Lorg/apache/commons/lang3/function/FailableConsumer;)V
+false
+43ee87c127e5c1e3c4a90277b8370cb1
+==
+<init> org.apache.commons.lang3.concurrent.AbstractConcurrentInitializer#<init>(Lorg/apache/commons/lang3/function/FailableSupplier;Lorg/apache/commons/lang3/function/FailableConsumer;)V

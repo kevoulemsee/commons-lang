@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.Fraction#toString()Ljava/lang/String;
+false
+c503d65bc1f5b4a1b0403a81d4fb14ef
+org.apache.commons.lang3.math.Fraction#getDenominator()I
+org.apache.commons.lang3.math.Fraction#getNumerator()I

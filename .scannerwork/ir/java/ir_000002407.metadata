@@ -1,0 +1,5 @@
+org.apache.commons.lang3.Range#isStartedBy(Ljava/lang/Object;)Z
+false
+fe126a6aac63f00a13f0b1b312792b46
+==
+compare java.util.Comparator#compare(Ljava/lang/Object;Ljava/lang/Object;)I

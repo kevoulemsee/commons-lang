@@ -1,0 +1,8 @@
+org.apache.commons.lang3.CharSequenceUtils#indexOf(Ljava/lang/CharSequence;II)I
+false
+eea2f0bdf448b2554b03d2c10ca90921
+java.lang.Character#toChars(I)[C
+java.lang.String#indexOf(II)I
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

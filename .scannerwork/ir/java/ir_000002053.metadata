@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#getFuzzyDistance(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/util/Locale;)I
+false
+bc72884967af147eaf0cee72ec2b55ee
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.lang.String#charAt(I)C
+java.lang.String#length()I
+java.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;
+==
+toString java.lang.CharSequence#toString()Ljava/lang/String;

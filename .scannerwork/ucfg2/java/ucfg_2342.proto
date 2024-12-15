@@ -1,0 +1,47 @@
+
+3org.apache.commons.lang3.Range#isNaturalOrdering()Za
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaï ï($"1*õ
+1
+ð ð(€
+~
+
+ð ð(
+%0java.util.Comparator"__id*N
+
+__unknown_file (2*0 
+org.apache.commons.lang3.Range"
+
+comparators
+q
+
+ð ð(19
+%13org.apache.commons.lang3.Range$ComparableComparator"__id*"
+
+__unknown_file (
+""s
+q
+
+ð ð(:9
+%23org.apache.commons.lang3.Range$ComparableComparator"__id*"
+
+__unknown_file (
+""à
+Ý
+
+ð ð(:
+%3boolean"	__compare*"
+
+__unknown_file (
+==*8
+
+__unknown_file (
+
+%0java.util.Comparator*W
+
+__unknown_file (;
+9
+%23org.apache.commons.lang3.Range$ComparableComparator"
+
+ð ð(;
+""B" 
+org.apache.commons.lang3.RangeHX

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#isEmpty()Z
+false
+1ee715dada3162de05c43a4f7611abc9
+==
+isEmpty java.util.BitSet#isEmpty()Z

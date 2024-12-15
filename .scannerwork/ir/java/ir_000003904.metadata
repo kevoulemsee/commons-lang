@@ -1,0 +1,5 @@
+org.apache.commons.lang3.RegExUtils#dotAllMatcher(Ljava/lang/String;Ljava/lang/String;)Ljava/util/regex/Matcher;
+false
+8a6b2f215bb9be61e1ae5ca00ddc1b36
+java.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;
+org.apache.commons.lang3.RegExUtils#dotAll(Ljava/lang/String;)Ljava/util/regex/Pattern;

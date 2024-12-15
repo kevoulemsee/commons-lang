@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ObjectUtils#cloneIfPossible(Ljava/lang/Object;)Ljava/lang/Object;
+false
+d147ece882ac65c9a950ce75b4c29ff6
+org.apache.commons.lang3.ObjectUtils#clone(Ljava/lang/Object;)Ljava/lang/Object;

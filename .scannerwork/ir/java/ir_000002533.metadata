@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.CalendarUtils#getDayOfYear()I
+false
+c227890a632b0adbe0f4b36d59d40cc3
+==
+get java.util.Calendar#get(I)I

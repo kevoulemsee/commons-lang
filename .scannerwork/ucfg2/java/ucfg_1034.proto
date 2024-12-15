@@ -1,0 +1,58 @@
+
+__sonar_lambda_30$s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/compare/ComparableUtils.javaâ â('"startingBlock*Æ
+startingBlock
+â â('Ñ
+Å
+
+__unknown_file (
+bA"__id*W
+
+__unknown_file (;*92
+0org.apache.commons.lang3.compare.ComparableUtils"
+bÑ
+Å
+
+__unknown_file (
+cA"__id*W
+
+__unknown_file (;*92
+0org.apache.commons.lang3.compare.ComparableUtils"
+c*
+1*Ø
+1
+â â(Ì
+Í
+
+â â(M
+%1Gorg.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder"îorg.apache.commons.lang3.compare.ComparableUtils#is(Ljava/lang/Comparable;)Lorg/apache/commons/lang3/compare/ComparableUtils$ComparableCheckBuilder;*P
+
+__unknown_file (4"2
+0org.apache.commons.lang3.compare.ComparableUtils*$
+
+__unknown_file (
+
+aAéã
+
+â â('
+%2boolean"~org.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder#between(Ljava/lang/Comparable;Ljava/lang/Comparable;)Z*k
+
+__unknown_file (O
+M
+%1Gorg.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder*$
+
+__unknown_file (
+
+bA*$
+
+__unknown_file (
+
+cA25between(Ljava/lang/Comparable;Ljava/lang/Comparable;)"
+
+â â('
+
+%2boolean:
+
+â â(
+aAB 
+java.util.function.Predicate

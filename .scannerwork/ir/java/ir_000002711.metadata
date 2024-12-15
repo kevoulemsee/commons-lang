@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.DateUtils#iterator(Ljava/util/Date;I)Ljava/util/Iterator;
+false
+c77ed9986432d267c1fdcffc4845320a
+org.apache.commons.lang3.time.DateUtils#iterator(Ljava/util/Calendar;I)Ljava/util/Iterator;
+org.apache.commons.lang3.time.DateUtils#toCalendar(Ljava/util/Date;)Ljava/util/Calendar;

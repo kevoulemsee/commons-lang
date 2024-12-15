@@ -1,0 +1,7 @@
+org.apache.commons.lang3.LongRange#toLongStream()Ljava/util/stream/LongStream;
+false
+318924d6a46b0c39cd9554f5598490f8
+java.util.stream.LongStream#rangeClosed(JJ)Ljava/util/stream/LongStream;
+==
+getMaximum org.apache.commons.lang3.Range#getMaximum()Ljava/lang/Object;
+getMinimum org.apache.commons.lang3.Range#getMinimum()Ljava/lang/Object;

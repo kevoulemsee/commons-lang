@@ -1,0 +1,47 @@
+
+__sonar_lambda_96$e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaï ï(B"startingBlock*Û
+startingBlock
+ï ï(B¸
+µ
+
+__unknown_file (A
+function5org.apache.commons.lang3.Functions$FailableBiFunction"__id*P
+
+__unknown_file (4*2$
+"org.apache.commons.lang3.Functions"
+
+function*
+1*Ú
+1
+ï# ï((¯
+¬
+
+ï# ï(B
+%1O"—org.apache.commons.lang3.Functions#apply(Lorg/apache/commons/lang3/Functions$FailableBiFunction;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*B
+
+__unknown_file (&"$
+"org.apache.commons.lang3.Functions*_
+
+__unknown_file (C
+A
+function5org.apache.commons.lang3.Functions$FailableBiFunction**
+
+__unknown_file (
+
+input1O1**
+
+__unknown_file (
+
+input2O2"
+
+ï# ï(B	
+
+%1O:
+
+ï ï(
+input1O1:
+
+ï ï(
+input2O2B!
+java.util.function.BiFunction

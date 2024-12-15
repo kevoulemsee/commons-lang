@@ -1,0 +1,4 @@
+org.apache.commons.lang3.Functions#tryWithResources(Lorg/apache/commons/lang3/Functions$FailableRunnable;[Lorg/apache/commons/lang3/Functions$FailableRunnable;)V
+false
+94d32d2e6acd8ed0d7069c40edfa8425
+org.apache.commons.lang3.Functions#tryWithResources(Lorg/apache/commons/lang3/Functions$FailableRunnable;Lorg/apache/commons/lang3/Functions$FailableConsumer;[Lorg/apache/commons/lang3/Functions$FailableRunnable;)V

@@ -1,0 +1,52 @@
+
+__sonar_lambda_82$m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaè è(B"startingBlock*ÿ
+startingBlock
+è è(BÂ
+¿
+
+__unknown_file (B
+	predicate5org.apache.commons.lang3.function.FailableBiPredicate"__id*Y
+
+__unknown_file (=*;,
+*org.apache.commons.lang3.function.Failable"
+	predicateŠ
+‡
+
+__unknown_file (
+object1T"__id*W
+
+__unknown_file (;*9,
+*org.apache.commons.lang3.function.Failable"	
+object1Š
+‡
+
+__unknown_file (
+object2U"__id*W
+
+__unknown_file (;*9,
+*org.apache.commons.lang3.function.Failable"	
+object2*
+1*˜
+1
+è" è(+çä
+
+è" è(B
+%1boolean"aorg.apache.commons.lang3.function.FailableBiPredicate#test(Ljava/lang/Object;Ljava/lang/Object;)Z*`
+
+__unknown_file (D
+B
+	predicate5org.apache.commons.lang3.function.FailableBiPredicate**
+
+__unknown_file (
+
+object1T**
+
+__unknown_file (
+
+object2U2*test(Ljava/lang/Object;Ljava/lang/Object;)"
+
+è" è(B
+
+%1booleanB=;
+9org.apache.commons.lang3.function.FailableBooleanSupplier

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJavaAwtGraphicsenv()Ljava/lang/String;
+false
+ebd626e8acb3e1ef02813a1a684c93a7
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

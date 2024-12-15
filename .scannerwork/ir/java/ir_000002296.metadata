@@ -1,0 +1,4 @@
+org.apache.commons.lang3.StringEscapeUtils#escapeJava(Ljava/lang/String;)Ljava/lang/String;
+false
+f2b08dca9ba1e5ff818d403c07399da7
+org.apache.commons.lang3.text.translate.CharSequenceTranslator#translate(Ljava/lang/CharSequence;)Ljava/lang/String;

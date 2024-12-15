@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.DurationUtils#toDuration(JLjava/util/concurrent/TimeUnit;)Ljava/time/Duration;
+false
+03249e023a32b04c0462062a86746e3f
+java.time.Duration#of(JLjava/time/temporal/TemporalUnit;)Ljava/time/Duration;
+org.apache.commons.lang3.time.DurationUtils#toChronoUnit(Ljava/util/concurrent/TimeUnit;)Ljava/time/temporal/ChronoUnit;

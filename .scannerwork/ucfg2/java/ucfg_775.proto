@@ -1,0 +1,55 @@
+
+4org.apache.commons.lang3.math.IEEE754rUtils#max(DD)Dl
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/IEEE754rUtils.java? ?("5*!
+2D D("
+D D(
+""*¦
+3C C(Ž
+‹
+C C(
+%1boolean"java.lang.Double#isNaN(D)Z*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""*
+2
+1*!
+4A A("
+A A(
+""*¦
+5@ @(Ž
+‹
+@ @(
+%0boolean"java.lang.Double#isNaN(D)Z*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""*
+3
+4*Ð
+1F F(¬
+©
+F F(
+%2double"java.lang.Math#max(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+F F(
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B/"-
++org.apache.commons.lang3.math.IEEE754rUtilsHX

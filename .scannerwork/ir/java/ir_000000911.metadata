@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.MethodInvokers#asBiConsumer(Ljava/lang/reflect/Method;)Ljava/util/function/BiConsumer;
+false
+5fa9837bed8f19acd8b2eb2d0c6f9425
+org.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;

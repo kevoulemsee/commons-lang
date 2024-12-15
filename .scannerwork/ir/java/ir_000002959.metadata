@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.CompositeFormat#format(Ljava/lang/Object;Ljava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;
+false
+a7fef8821906060bf5eaa65dd881b0e5
+==
+format java.text.Format#format(Ljava/lang/Object;Ljava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableDouble#setValue(Ljava/lang/Number;)V
+false
+2b3da85912963b77427e16d20315191d
+==
+doubleValue java.lang.Number#doubleValue()D

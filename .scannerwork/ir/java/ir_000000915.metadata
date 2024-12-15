@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.MethodInvokers#asFailableFunction(Ljava/lang/reflect/Method;)Lorg/apache/commons/lang3/function/FailableFunction;
+false
+a64c2c35ccc2d3a2e121ae4443ad369d
+org.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;

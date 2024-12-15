@@ -1,0 +1,44 @@
+
+rorg.apache.commons.lang3.text.StrBuilder#appendAll(Ljava/util/Iterator;)Lorg/apache/commons/lang3/text/StrBuilder;k
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java   ("3*„
+2
+¢ ¢(íê
+
+¢ ¢(-
+
+%1void"Cjava.util.Iterator#forEachRemaining(Ljava/util/function/Consumer;)V*6
+
+__unknown_file (
+
+itjava.util.Iterator*"
+
+__unknown_file (
+""2/forEachRemaining(Ljava/util/function/Consumer;)*
+1*Ã
+3
+¡ ¡(©
+¦
+
+¡ ¡(
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*6
+
+__unknown_file (
+
+itjava.util.Iterator*"
+
+__unknown_file (
+""*
+2
+1*K
+1
+¤ ¤(":
+
+¤ ¤(,*
+(org.apache.commons.lang3.text.StrBuilder:&
+
+    (4
+itjava.util.IteratorB,*
+(org.apache.commons.lang3.text.StrBuilderH

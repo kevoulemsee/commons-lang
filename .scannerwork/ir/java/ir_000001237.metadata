@@ -1,0 +1,5 @@
+org.apache.commons.lang3.CharUtils#isAsciiAlpha(C)Z
+false
+b00ac127709d3e7214f111fff8956eff
+org.apache.commons.lang3.CharUtils#isAsciiAlphaLower(C)Z
+org.apache.commons.lang3.CharUtils#isAsciiAlphaUpper(C)Z

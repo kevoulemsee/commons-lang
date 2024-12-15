@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#rotate(Ljava/lang/String;I)Ljava/lang/String;
+false
+4cddccc9b620bea2e42fa3d94cfd5200
+java.lang.String#length()I
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#substring(Ljava/lang/String;I)Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#substring(Ljava/lang/String;II)Ljava/lang/String;

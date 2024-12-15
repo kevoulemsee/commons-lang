@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlMaxGeneralEntitySizeLimit()Ljava/lang/String;
+false
+7da4b760f5700d1774481ff91c016a77
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

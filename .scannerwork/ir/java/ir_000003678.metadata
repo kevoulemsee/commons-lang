@@ -1,0 +1,20 @@
+org.apache.commons.lang3.text.ExtendedMessageFormat#insertFormats(Ljava/lang/String;Ljava/util/ArrayList;)Ljava/lang/String;
+false
+3ea835a29a8d186a4e1fc3e845a839cb
+java.lang.String#charAt(I)C
+java.lang.String#length()I
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+java.text.ParsePosition#<init>(I)V
+java.text.ParsePosition#instance-init#
+org.apache.commons.lang3.text.ExtendedMessageFormat#appendQuotedString(Ljava/lang/String;Ljava/text/ParsePosition;Ljava/lang/StringBuilder;)Ljava/lang/StringBuilder;
+org.apache.commons.lang3.text.ExtendedMessageFormat#containsElements(Ljava/util/Collection;)Z
+org.apache.commons.lang3.text.ExtendedMessageFormat#next(Ljava/text/ParsePosition;)Ljava/text/ParsePosition;
+org.apache.commons.lang3.text.ExtendedMessageFormat#readArgumentIndex(Ljava/lang/String;Ljava/text/ParsePosition;)I
+==
+get java.util.ArrayList#get(I)Ljava/lang/Object;
+getIndex java.text.ParsePosition#getIndex()I

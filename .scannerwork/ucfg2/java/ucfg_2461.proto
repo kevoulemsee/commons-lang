@@ -1,0 +1,28 @@
+
+^org.apache.commons.lang3.stream.Streams#toArray(Ljava/lang/Class;)Ljava/util/stream/Collector;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÉ+ É(2"1*ê
+1
+Ê$ Ê(/…‚
+
+Ê Ê(#<
+%06org.apache.commons.lang3.stream.Streams$ArrayCollector"6org.apache.commons.lang3.stream.Streams$ArrayCollector‚
+ÿ
+
+Ê Ê(0
+%1"Qorg.apache.commons.lang3.stream.Streams$ArrayCollector#<init>(Ljava/lang/Class;)V*Z
+
+__unknown_file (>
+<
+%06org.apache.commons.lang3.stream.Streams$ArrayCollector*<
+
+__unknown_file ( 
+
+elementTypejava.lang.Class"L
+
+Ê Ê(1>
+<
+%06org.apache.commons.lang3.stream.Streams$ArrayCollector:,
+
+É3 É(M
+elementTypejava.lang.ClassB+")
+'org.apache.commons.lang3.stream.StreamsH

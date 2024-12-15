@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.StrBuilder#equalsIgnoreCase(Lorg/apache/commons/lang3/text/StrBuilder;)Z
+false
+20abb409d44da6e35e748aa0e1f0835f
+java.lang.Character#toUpperCase(C)C

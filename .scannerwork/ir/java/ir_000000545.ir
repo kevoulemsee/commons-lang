@@ -1,0 +1,26 @@
+
+?
+contains3org.apache.commons.lang3.ArrayUtils#contains([DDD)Zž
+0intarray
+ì# ì(7"double[]#valueToFind
+ì9 ì(Q"double!	tolerance
+ìS ì(i"double"'#org.apache.commons.lang3.ArrayUtilsarray
+ì# ì(7"double[]#valueToFind
+ì9 ì(Q"double!	tolerance
+ìS ì(i"double"„[
+Y
+
+í í(8">
+indexOf3org.apache.commons.lang3.ArrayUtils#indexOf([DDID)I*2intW
+U
+
+í< í(K"=
+#get-field# INDEX_NOT_FOUND#get-field# INDEX_NOT_FOUND"*2int:
+8
+
+í í(K"
+
+#binop !=#
+#binop !=#"*2boolean
+
+í í(L*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

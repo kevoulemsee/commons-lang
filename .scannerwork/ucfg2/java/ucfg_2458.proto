@@ -1,0 +1,51 @@
+
+~org.apache.commons.lang3.stream.Streams#stream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaç( ç(."startingBlock*¢
+startingBlock
+ç. ç(Nô
+ñ
+
+å å(
+%1"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*@
+
+__unknown_file ($
+"
+
+collectionjava.util.Collectiond
+b
+
+çC ç(M"
+
+collectionjava.util.Collection"__annotation*"
+
+__unknown_file (
+
+%1*
+1*¡
+1
+é é(·
+ﬁ
+
+é é()<
+%06org.apache.commons.lang3.stream.Streams$FailableStream"Üorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*@
+
+__unknown_file ($
+"
+
+collectionjava.util.Collection"L
+
+é é(*>
+<
+%06org.apache.commons.lang3.stream.Streams$FailableStream:0
+
+ç/ ç(M"
+
+collectionjava.util.CollectionB+")
+'org.apache.commons.lang3.stream.StreamsH

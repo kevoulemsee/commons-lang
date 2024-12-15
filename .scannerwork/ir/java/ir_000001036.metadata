@@ -1,0 +1,9 @@
+org.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+08a5f94094ecaa5f472ba3047ee19b3a
+java.lang.String#getChars(II[CI)V
+java.lang.String#length()I
+==
+appendNull org.apache.commons.lang3.text.StrBuilder#appendNull()Lorg/apache/commons/lang3/text/StrBuilder;
+ensureCapacity org.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;
+length org.apache.commons.lang3.text.StrBuilder#length()I

@@ -1,0 +1,8 @@
+org.apache.commons.lang3.CharRange#toString()Ljava/lang/String;
+false
+d1b6952a7ce007fbc61bd956a64a574b
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.CharRange#isNegated()Z

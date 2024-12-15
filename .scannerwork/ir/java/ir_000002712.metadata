@@ -1,0 +1,8 @@
+org.apache.commons.lang3.time.DateUtils#iterator(Ljava/lang/Object;I)Ljava/util/Iterator;
+false
+82eb320cc61d2d293429b4a8481c0b21
+java.lang.ClassCastException#<init>(Ljava/lang/String;)V
+java.lang.ClassCastException#instance-init#
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.time.DateUtils#iterator(Ljava/util/Calendar;I)Ljava/util/Iterator;
+org.apache.commons.lang3.time.DateUtils#iterator(Ljava/util/Date;I)Ljava/util/Iterator;

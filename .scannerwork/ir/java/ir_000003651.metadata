@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ClassUtils#isPrimitiveOrWrapper(Ljava/lang/Class;)Z
+false
+67257583b680d94ba3b982c60516298f
+java.lang.Class#isPrimitive()Z
+org.apache.commons.lang3.ClassUtils#isPrimitiveWrapper(Ljava/lang/Class;)Z

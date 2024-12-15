@@ -1,0 +1,23 @@
+
+^org.apache.commons.lang3.stream.Streams$ArrayCollector#finisher()Ljava/util/function/Function;h
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javat& t(."1*¨
+1u u(Y­
+ª
+u u(Y!
+%0java.util.function.Function"__declareFunction*h
+
+__unknown_file (LJ
+H__sonar_lambda_56$org.apache.commons.lang3.stream.Streams$ArrayCollector·
+´
+
+__unknown_file (:
+!
+%0java.util.function.Function"
+ArrayCollector.this"__id*V
+
+__unknown_file (:8
+6org.apache.commons.lang3.stream.Streams$ArrayCollector"/
+u u(Z#
+!
+%0java.util.function.FunctionB:8
+6org.apache.commons.lang3.stream.Streams$ArrayCollectorH

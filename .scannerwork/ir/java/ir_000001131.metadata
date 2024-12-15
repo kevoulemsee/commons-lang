@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#lastIndexOf(Ljava/lang/String;I)I
+false
+afc1d82b201478bd8f57c0f40a878121
+==
+lastIndexOf org.apache.commons.lang3.Strings#lastIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I

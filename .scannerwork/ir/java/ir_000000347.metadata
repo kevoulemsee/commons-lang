@@ -1,0 +1,9 @@
+org.apache.commons.lang3.exception.DefaultExceptionContext#getFirstContextValue(Ljava/lang/String;)Ljava/lang/Object;
+false
+3409ef3ee4e593177e74bbb9958495e3
+java.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+org.apache.commons.lang3.exception.DefaultExceptionContext#stream()Ljava/util/stream/Stream;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableBoolean#compareTo(Lorg/apache/commons/lang3/mutable/MutableBoolean;)I
+false
+bc37c10b7d80e22ef2fe8bf3c0788cea
+org.apache.commons.lang3.BooleanUtils#compare(ZZ)I

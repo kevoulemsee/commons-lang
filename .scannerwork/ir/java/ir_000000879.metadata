@@ -1,0 +1,7 @@
+org.apache.commons.lang3.util.FluentBitSet#clone()Ljava/lang/Object;
+false
+ef023400ec101ce11f6496383df2a740
+org.apache.commons.lang3.util.FluentBitSet#<init>(Ljava/util/BitSet;)V
+org.apache.commons.lang3.util.FluentBitSet#instance-init#
+==
+clone java.util.BitSet#clone()Ljava/lang/Object;

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableInt#getAndAdd(Ljava/lang/Number;)I
+false
+b3794c6a83da355357dd14b9d63f09c8
+==
+intValue java.lang.Number#intValue()I

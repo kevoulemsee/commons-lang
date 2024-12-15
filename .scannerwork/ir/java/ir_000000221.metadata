@@ -1,0 +1,14 @@
+org.apache.commons.lang3.builder.CompareToBuilder#reflectionAppend(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Class;Lorg/apache/commons/lang3/builder/CompareToBuilder;Z[Ljava/lang/String;)V
+false
+9ce542472912ba88292d80e15e65f468
+java.lang.Class#getDeclaredFields()[Ljava/lang/reflect/Field;
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+java.lang.reflect.AccessibleObject#setAccessible([Ljava/lang/reflect/AccessibleObject;Z)V
+java.lang.reflect.Field#getModifiers()I
+java.lang.reflect.Field#getName()Ljava/lang/String;
+java.lang.reflect.Modifier#isStatic(I)Z
+java.lang.reflect.Modifier#isTransient(I)Z
+org.apache.commons.lang3.ArrayUtils#contains([Ljava/lang/Object;Ljava/lang/Object;)Z
+org.apache.commons.lang3.builder.Reflection#getUnchecked(Ljava/lang/reflect/Field;Ljava/lang/Object;)Ljava/lang/Object;
+==
+append org.apache.commons.lang3.builder.CompareToBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/CompareToBuilder;

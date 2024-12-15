@@ -1,0 +1,8 @@
+org.apache.commons.lang3.CachedRandomBits#<init>(ILjava/util/Random;)V
+false
+312f01c2d6e361903bd036b6d435d9a1
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+==
+nextBytes java.util.Random#nextBytes([B)V

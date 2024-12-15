@@ -1,0 +1,9 @@
+org.apache.commons.lang3.StringUtils#stripStart(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+55bfffff6c496a456f659e289965528d
+java.lang.Character#isWhitespace(C)Z
+java.lang.String#charAt(I)C
+java.lang.String#indexOf(I)I
+java.lang.String#isEmpty()Z
+java.lang.String#substring(I)Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#length(Ljava/lang/CharSequence;)I

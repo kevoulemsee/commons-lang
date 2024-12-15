@@ -1,0 +1,4 @@
+org.apache.commons.lang3.reflect.TypeUtils#equals([Ljava/lang/reflect/Type;[Ljava/lang/reflect/Type;)Z
+false
+6fe57c51c829242085928d78ef0713a2
+org.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;)Z

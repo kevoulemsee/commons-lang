@@ -1,0 +1,3 @@
+org.apache.commons.lang3.Functions#asBiConsumer(Lorg/apache/commons/lang3/Functions$FailableBiConsumer;)Ljava/util/function/BiConsumer;
+false
+622a2fe74bb72ed00bdd29f7c9dde4f2

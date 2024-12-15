@@ -1,0 +1,5 @@
+org.apache.commons.lang3.function.Functions#apply(Ljava/util/function/Function;Ljava/lang/Object;)Ljava/lang/Object;
+false
+b453cc7b2bc9264a479f2c32bacdeaf9
+==
+apply java.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;

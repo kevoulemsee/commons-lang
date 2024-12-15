@@ -1,0 +1,4 @@
+org.apache.commons.lang3.time.DateUtils#getFragmentInHours(Ljava/util/Date;I)J
+false
+e5683ffdb137a298fea674cdcb425e02
+org.apache.commons.lang3.time.DateUtils#getFragment(Ljava/util/Date;ILjava/util/concurrent/TimeUnit;)J

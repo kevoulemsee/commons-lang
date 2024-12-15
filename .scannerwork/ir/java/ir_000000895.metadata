@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#previousClearBit(I)I
+false
+fd2e60e754241f3dce423d7ee8c594bc
+==
+previousClearBit java.util.BitSet#previousClearBit(I)I

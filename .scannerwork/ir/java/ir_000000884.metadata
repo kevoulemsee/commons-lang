@@ -1,0 +1,7 @@
+org.apache.commons.lang3.util.FluentBitSet#get(II)Lorg/apache/commons/lang3/util/FluentBitSet;
+false
+0b8377fbb467a30fac82c2b251a7b859
+org.apache.commons.lang3.util.FluentBitSet#<init>(Ljava/util/BitSet;)V
+org.apache.commons.lang3.util.FluentBitSet#instance-init#
+==
+get java.util.BitSet#get(II)Ljava/util/BitSet;

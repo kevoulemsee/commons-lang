@@ -1,0 +1,5 @@
+org.apache.commons.lang3.BitField#getValue(I)I
+false
+59de90ff7eb749418edc821d69271a70
+==
+getRawValue org.apache.commons.lang3.BitField#getRawValue(I)I

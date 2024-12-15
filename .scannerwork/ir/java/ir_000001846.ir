@@ -1,0 +1,13 @@
+
+W
+ofQorg.apache.commons.lang3.DoubleRange#of(DD)Lorg/apache/commons/lang3/DoubleRange;H#fromInclusive0! 0(;"double!toInclusive0= 0(U"double#fromInclusive0! 0(;"double!toInclusive0= 0(U"double"‹`
+^
+1 1(/";
+valueOf-java.lang.Double#valueOf(D)Ljava/lang/Double;"*2java.lang.Double`
+^
+11 1(L";
+valueOf-java.lang.Double#valueOf(D)Ljava/lang/Double;"*2java.lang.Double´
+±
+1 1(M"y
+ofsorg.apache.commons.lang3.DoubleRange#of(Ljava/lang/Double;Ljava/lang/Double;)Lorg/apache/commons/lang3/DoubleRange;*2$org.apache.commons.lang3.DoubleRange
+1 1(N*[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/DoubleRange.java

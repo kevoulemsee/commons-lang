@@ -1,0 +1,6 @@
+org.apache.commons.lang3.EnumUtils#generateBitVector(Ljava/lang/Class;Ljava/lang/Iterable;)J
+false
+8e37cbaf957a69cf1ba1289f5aac800a
+java.lang.Enum#ordinal()I
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.EnumUtils#checkBitVectorable(Ljava/lang/Class;)Ljava/lang/Class;

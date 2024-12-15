@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArrayUtils#containsAny([Ljava/lang/Object;[Ljava/lang/Object;)Z
+false
+dae6f67e80f4f50b3415a6ca661d5de9
+org.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+anyMatch java.util.stream.Stream#anyMatch(Ljava/util/function/Predicate;)Z

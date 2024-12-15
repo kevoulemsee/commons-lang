@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailableLongConsumer#andThen(Lorg/apache/commons/lang3/function/FailableLongConsumer;)Lorg/apache/commons/lang3/function/FailableLongConsumer;
+false
+556b27aed155b164cfaa537c818782d6
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

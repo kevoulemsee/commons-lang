@@ -1,0 +1,10 @@
+
+a
+dotAllWorg.apache.commons.lang3.RegExUtils#dotAll(Ljava/lang/String;)Ljava/util/regex/Pattern;D%regex$! $(3"java.lang.String"java.util.regex.Pattern%regex$! $(3"java.lang.String"áC
+A
+%& %(4"+
+#get-field# DOTALL#get-field# DOTALL"*2int‰
+†
+% %(5"[
+compileMjava.util.regex.Pattern#compile(Ljava/lang/String;I)Ljava/util/regex/Pattern;"*2java.util.regex.Pattern
+% %(6*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RegExUtils.java

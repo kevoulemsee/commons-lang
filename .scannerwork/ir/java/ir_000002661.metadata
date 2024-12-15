@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.Failable#test(Lorg/apache/commons/lang3/function/FailableBiPredicate;Ljava/lang/Object;Ljava/lang/Object;)Z
+false
+72ed2120f18fde212d9c8d10356a0a62
+org.apache.commons.lang3.function.Failable#getAsBoolean(Lorg/apache/commons/lang3/function/FailableBooleanSupplier;)Z

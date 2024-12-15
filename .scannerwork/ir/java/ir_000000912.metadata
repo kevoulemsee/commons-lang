@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.MethodInvokers#asBiFunction(Ljava/lang/reflect/Method;)Ljava/util/function/BiFunction;
+false
+aa4d09c762e0cf2b7e55c59a9e3245ec
+org.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;

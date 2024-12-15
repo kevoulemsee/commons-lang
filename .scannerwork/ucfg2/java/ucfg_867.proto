@@ -1,0 +1,30 @@
+
+uorg.apache.commons.lang3.text.StrBuilder#appendln(Ljava/lang/StringBuffer;)Lorg/apache/commons/lang3/text/StrBuilder;k
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javaÏ Ï("1*´
+1
+Ð Ð(ÝÚ
+
+Ð Ð(.
+%0(org.apache.commons.lang3.text.StrBuilder"sorg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/StringBuffer;)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*;
+
+__unknown_file (
+
+strjava.lang.StringBuffer2 append(Ljava/lang/StringBuffer;)‚ÿ
+
+Ð Ð(*.
+%1(org.apache.commons.lang3.text.StrBuilder"borg.apache.commons.lang3.text.StrBuilder#appendNewLine()Lorg/apache/commons/lang3/text/StrBuilder;*L
+
+__unknown_file (0
+.
+%0(org.apache.commons.lang3.text.StrBuilder2appendNewLine()">
+
+Ð Ð(+0
+.
+%1(org.apache.commons.lang3.text.StrBuilder:+
+
+Ï Ï(5
+strjava.lang.StringBufferB,*
+(org.apache.commons.lang3.text.StrBuilderH

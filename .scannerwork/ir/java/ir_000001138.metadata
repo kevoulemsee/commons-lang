@@ -1,0 +1,10 @@
+org.apache.commons.lang3.text.StrBuilder#readFrom(Ljava/lang/Readable;)I
+false
+86fc49b6ab487a8d2653c73ecb27bb4b
+java.nio.Buffer#remaining()I
+java.nio.CharBuffer#wrap([CII)Ljava/nio/CharBuffer;
+==
+ensureCapacity org.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;
+get java.nio.CharBuffer#get([CII)Ljava/nio/CharBuffer;
+read java.io.Reader#read([CII)I
+read java.lang.Readable#read(Ljava/nio/CharBuffer;)I

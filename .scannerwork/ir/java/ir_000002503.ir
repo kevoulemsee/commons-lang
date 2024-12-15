@@ -1,0 +1,13 @@
+
+à
+stream~org.apache.commons.lang3.stream.Streams#stream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;20
+collection
+ç/ ç(M"java.util.Collection0
+collection
+ç/ ç(M"java.util.Collection"˝Ë
+Â
+
+é é()"ô
+failableStreamÜorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*26org.apache.commons.lang3.stream.Streams$FailableStream
+
+é é(**^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java

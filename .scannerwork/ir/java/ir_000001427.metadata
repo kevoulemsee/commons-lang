@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableFloat#add(Ljava/lang/Number;)V
+false
+ea1fe9332cd44759db8a1124a5ce63d6
+==
+floatValue java.lang.Number#floatValue()F

@@ -1,0 +1,11 @@
+org.apache.commons.lang3.tuple.Triple#compareTo(Lorg/apache/commons/lang3/tuple/Triple;)I
+false
+7926a034aa2cf00e3cb90f535350aa82
+org.apache.commons.lang3.builder.CompareToBuilder#<init>()V
+org.apache.commons.lang3.builder.CompareToBuilder#instance-init#
+==
+append org.apache.commons.lang3.builder.CompareToBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/CompareToBuilder;
+getLeft org.apache.commons.lang3.tuple.Triple#getLeft()Ljava/lang/Object;
+getMiddle org.apache.commons.lang3.tuple.Triple#getMiddle()Ljava/lang/Object;
+getRight org.apache.commons.lang3.tuple.Triple#getRight()Ljava/lang/Object;
+toComparison org.apache.commons.lang3.builder.CompareToBuilder#toComparison()I

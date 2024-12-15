@@ -1,0 +1,7 @@
+org.apache.commons.lang3.StringUtils#countMatches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)I
+false
+a354681c4349867ff491b5f0c13eb0c6
+org.apache.commons.lang3.CharSequenceUtils#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+length java.lang.CharSequence#length()I

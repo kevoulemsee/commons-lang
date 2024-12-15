@@ -1,0 +1,6 @@
+org.apache.commons.lang3.RandomUtils#nextBoolean()Z
+false
+e82ef7452f141dd21737eb3d088ddf7b
+org.apache.commons.lang3.RandomUtils#secure()Lorg/apache/commons/lang3/RandomUtils;
+==
+randomBoolean org.apache.commons.lang3.RandomUtils#randomBoolean()Z

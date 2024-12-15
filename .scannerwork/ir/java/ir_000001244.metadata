@@ -1,0 +1,5 @@
+org.apache.commons.lang3.CharUtils#toChar(Ljava/lang/Character;)C
+false
+6fc896fa41c83c392d2ac3e917985df1
+java.lang.Character#charValue()C
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;

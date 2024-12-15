@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.WordUtils#uncapitalize(Ljava/lang/String;)Ljava/lang/String;
+false
+e1aac999e353250c46325a4e75f82be0
+org.apache.commons.lang3.text.WordUtils#uncapitalize(Ljava/lang/String;[C)Ljava/lang/String;

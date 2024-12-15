@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z
+false
+b5990a11689b6ab63aa6f12e6c55ca2b
+==
+endsWith org.apache.commons.lang3.Strings#endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

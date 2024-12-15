@@ -1,0 +1,77 @@
+
+org.apache.commons.lang3.reflect.TypeUtils#unrollVariableAssignments(Ljava/lang/reflect/TypeVariable;Ljava/util/Map;)Ljava/lang/reflect/Type;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.javaÕ Õ(1"7*Ÿ
+3
+Ü- Ü(3…
+‚
+
+Ü Ü(3.
+typeVariablejava.lang.reflect.TypeVariable"__id*>
+
+__unknown_file ("
+ 
+resultjava.lang.reflect.Type*
+6
+1*
+5
+Ù8 Ù(>öó
+
+Ù8 Ù(S
+%1boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*>
+
+__unknown_file ("
+ 
+resultjava.lang.reflect.Type*L
+
+__unknown_file (0
+.
+typeVariablejava.lang.reflect.TypeVariable2equals(Ljava/lang/Object;)*
+3
+1*Ò
+6
+Ø Ø(#Ä
+Á
+
+Ø Ø(5
+%0java.lang.reflect.Type"__mapGet*=
+
+__unknown_file (!
+
+typeVarAssignsjava.util.Map*L
+
+__unknown_file (0
+.
+typeVariablejava.lang.reflect.TypeVariabler
+p
+
+Ø Ø(5 
+resultjava.lang.reflect.Type"__id*:
+
+__unknown_file (
+
+%0java.lang.reflect.Type*
+5
+1*p
+7
+Ö Ö(Z
+X
+
+Ö Ö( 
+resultjava.lang.reflect.Type"__id*"
+
+__unknown_file (
+""*
+6*A
+1
+Þ Þ("0
+
+Þ Þ("
+ 
+resultjava.lang.reflect.Type:<
+
+Õ2 Õ(O.
+typeVariablejava.lang.reflect.TypeVariable:-
+
+ÕP Õ(
+typeVarAssignsjava.util.MapB.",
+*org.apache.commons.lang3.reflect.TypeUtils

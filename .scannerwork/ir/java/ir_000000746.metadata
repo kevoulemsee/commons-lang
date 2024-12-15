@@ -1,0 +1,20 @@
+org.apache.commons.lang3.ArrayUtils#removeElements([I[I)[I
+false
+2aba6510566ed8ded41b16b49bb04a2e
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.util.BitSet#<init>()V
+java.util.BitSet#instance-init#
+java.util.HashMap#<init>(I)V
+java.util.HashMap#instance-init#
+org.apache.commons.lang3.ArrayUtils#clone([I)[I
+org.apache.commons.lang3.ArrayUtils#isEmpty([I)Z
+org.apache.commons.lang3.ArrayUtils#removeAll(Ljava/lang/Object;Ljava/util/BitSet;)Ljava/lang/Object;
+org.apache.commons.lang3.mutable.MutableInt#<init>(I)V
+org.apache.commons.lang3.mutable.MutableInt#instance-init#
+==
+decrementAndGet org.apache.commons.lang3.mutable.MutableInt#decrementAndGet()I
+get java.util.HashMap#get(Ljava/lang/Object;)Ljava/lang/Object;
+increment org.apache.commons.lang3.mutable.MutableInt#increment()V
+put java.util.HashMap#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+remove java.util.HashMap#remove(Ljava/lang/Object;)Ljava/lang/Object;
+set java.util.BitSet#set(I)V

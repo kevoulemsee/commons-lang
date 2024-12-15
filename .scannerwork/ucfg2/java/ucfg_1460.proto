@@ -1,0 +1,80 @@
+
+jorg.apache.commons.lang3.Strings#removeStart(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;c
+W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Strings.java¤	 ¤	("4*ë
+2
+¦	 ¦	(è
+å
+
+¦	! ¦	(;	
+%2int"Forg.apache.commons.lang3.StringUtils#length(Ljava/lang/CharSequence;)I*D
+
+__unknown_file (("&
+$org.apache.commons.lang3.StringUtils*>
+
+__unknown_file ("
+ 
+removejava.lang.CharSequenceÆÃ
+
+¦	 ¦	(<
+%3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*5
+
+__unknown_file (
+
+strjava.lang.String*'
+
+__unknown_file (
+	
+%2int2substring(I)"&
+
+¦	 ¦	(=
+
+%3java.lang.String*
+3
+¥	 ¥	(%õò
+
+¥	 ¥	(2
+%1boolean"^org.apache.commons.lang3.Strings#startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*@
+
+__unknown_file ($"
+ org.apache.commons.lang3.Strings*5
+
+__unknown_file (
+
+strjava.lang.String*>
+
+__unknown_file ("
+ 
+removejava.lang.CharSequence2<startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)*
+2
+1*Â
+4
+¥	 ¥	(¨
+¥
+
+¥	 ¥	(
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*5
+
+__unknown_file (
+
+strjava.lang.String*"
+
+__unknown_file (
+""*
+3
+1*8
+1
+¨	 ¨	("'
+
+¨	 ¨	(
+
+strjava.lang.String:%
+
+¤	 ¤	(/
+strjava.lang.String:.
+
+¤	0 ¤	(I 
+removejava.lang.CharSequenceB$"
+ org.apache.commons.lang3.StringsH

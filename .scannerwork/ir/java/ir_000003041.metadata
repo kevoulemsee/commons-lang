@@ -1,0 +1,6 @@
+org.apache.commons.lang3.stream.LangCollectors#collect(Ljava/util/stream/Collector;[Ljava/lang/Object;)Ljava/lang/Object;
+false
+2fdaa93d9ddf2364928f9e78844c4f61
+org.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;

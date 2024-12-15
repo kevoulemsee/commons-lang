@@ -1,0 +1,4 @@
+org.apache.commons.lang3.tuple.Pair#of(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;
+false
+bad5fd1a200657163698fa5c4dbb033a
+org.apache.commons.lang3.tuple.ImmutablePair#of(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/ImmutablePair;

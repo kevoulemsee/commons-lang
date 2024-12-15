@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.MethodInvokers#asSupplier(Ljava/lang/reflect/Method;)Ljava/util/function/Supplier;
+false
+f71b143a6bc3ab14c64d5578ca653397
+org.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;

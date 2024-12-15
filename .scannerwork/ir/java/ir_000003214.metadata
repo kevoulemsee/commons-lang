@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkIoPermissionsUseCanonicalPath()Ljava/lang/String;
+false
+9c7260dd9cd18afd0572693c838ecd0d
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

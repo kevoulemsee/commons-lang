@@ -1,0 +1,9 @@
+org.apache.commons.lang3.Validate#validIndex(Ljava/util/Collection;ILjava/lang/String;[Ljava/lang/Object;)Ljava/util/Collection;
+false
+7d207d033fd69c70cc32cbc9797766ba
+java.lang.IndexOutOfBoundsException#<init>(Ljava/lang/String;)V
+java.lang.IndexOutOfBoundsException#instance-init#
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.Validate#getMessage(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+==
+size java.util.Collection#size()I

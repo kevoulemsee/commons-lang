@@ -1,0 +1,6 @@
+org.apache.commons.lang3.time.DurationUtils#now(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/time/Instant;
+false
+a1e2673e1e7f76b7985fb952857a2ac0
+java.time.Instant#now()Ljava/time/Instant;
+==
+accept org.apache.commons.lang3.function.FailableConsumer#accept(Ljava/lang/Object;)V

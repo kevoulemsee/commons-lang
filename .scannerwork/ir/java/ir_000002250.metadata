@@ -1,0 +1,4 @@
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#incrementAndCheckState(Ljava/lang/Integer;)Z
+false
+e02a7e10a3f5229fc0754613c820a560
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#performStateCheck(I)Z

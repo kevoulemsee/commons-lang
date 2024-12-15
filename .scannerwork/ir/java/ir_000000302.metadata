@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.StrTokenizer#next()Ljava/lang/String;
+false
+b9cafc66ad5c3f707ad0d06c5c236349
+java.util.NoSuchElementException#<init>()V
+java.util.NoSuchElementException#instance-init#
+==
+hasNext org.apache.commons.lang3.text.StrTokenizer#hasNext()Z

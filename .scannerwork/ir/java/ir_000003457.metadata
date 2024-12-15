@@ -1,0 +1,10 @@
+org.apache.commons.lang3.AnnotationUtils#isValidAnnotationMemberType(Ljava/lang/Class;)Z
+false
+0a4c39ae374505bc5943c07799773424
+java.lang.Class#getComponentType()Ljava/lang/Class;
+java.lang.Class#isAnnotation()Z
+java.lang.Class#isArray()Z
+java.lang.Class#isEnum()Z
+java.lang.Class#isPrimitive()Z
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

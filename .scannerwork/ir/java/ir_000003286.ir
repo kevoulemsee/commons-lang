@@ -1,0 +1,13 @@
+
+^
+getUserVariantLorg.apache.commons.lang3.SystemProperties#getUserVariant()Ljava/lang/String;/"-)org.apache.commons.lang3.SystemProperties"á^
+\
+
+√ √('"7
+#get-field# USER_VARIANT#get-field# USER_VARIANT"*2java.lang.Stringí
+è
+
+√ √(("j
+getProperty[org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;*2java.lang.String
+
+√ √()*`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemProperties.java

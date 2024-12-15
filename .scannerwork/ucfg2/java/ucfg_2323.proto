@@ -1,0 +1,37 @@
+
+korg.apache.commons.lang3.Range#is(Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;a
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaŠ Š(!"1*Ö
+1
+‹ ‹(Ž
+‹
+
+‹ ‹(/$
+%0org.apache.commons.lang3.Range"}org.apache.commons.lang3.Range#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;*>
+
+__unknown_file ("" 
+org.apache.commons.lang3.Range**
+
+__unknown_file (
+
+elementT**
+
+__unknown_file (
+
+elementT*@
+
+__unknown_file ($
+"
+
+comparatorjava.util.Comparator"4
+
+‹ ‹(0&
+$
+%0org.apache.commons.lang3.Range:
+
+Š" Š(2
+elementT:0
+
+Š3 Š(Q"
+
+comparatorjava.util.ComparatorB"" 
+org.apache.commons.lang3.RangeH

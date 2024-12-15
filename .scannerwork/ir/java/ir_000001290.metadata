@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.FastDateFormat#format(Ljava/util/Date;)Ljava/lang/String;
+false
+def69c141e9194639110d2fdfc9d1f3b
+==
+format org.apache.commons.lang3.time.FastDatePrinter#format(Ljava/util/Date;)Ljava/lang/String;

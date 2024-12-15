@@ -1,0 +1,14 @@
+org.apache.commons.lang3.StringUtils#swapCase(Ljava/lang/String;)Ljava/lang/String;
+false
+86bfb6bd1ff2d56eae6a0131878be6e2
+java.lang.Character#charCount(I)I
+java.lang.Character#isLowerCase(I)Z
+java.lang.Character#isTitleCase(I)Z
+java.lang.Character#isUpperCase(I)Z
+java.lang.Character#toLowerCase(I)I
+java.lang.Character#toUpperCase(I)I
+java.lang.String#<init>([III)V
+java.lang.String#codePointAt(I)I
+java.lang.String#instance-init#
+java.lang.String#length()I
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z

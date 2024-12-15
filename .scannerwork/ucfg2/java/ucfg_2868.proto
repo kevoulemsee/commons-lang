@@ -1,0 +1,49 @@
+
+__sonar_lambda_95$e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaá á(C"startingBlock*Û
+startingBlock
+á á(C¸
+µ
+
+__unknown_file (A
+consumer5org.apache.commons.lang3.Functions$FailableBiConsumer"__id*P
+
+__unknown_file (4*2$
+"org.apache.commons.lang3.Functions"
+
+consumer*
+1*Ð
+1
+á# á()¢
+Ÿ
+
+á# á(C
+
+%1void"‡org.apache.commons.lang3.Functions#accept(Lorg/apache/commons/lang3/Functions$FailableBiConsumer;Ljava/lang/Object;Ljava/lang/Object;)V*B
+
+__unknown_file (&"$
+"org.apache.commons.lang3.Functions*_
+
+__unknown_file (C
+A
+consumer5org.apache.commons.lang3.Functions$FailableBiConsumer**
+
+__unknown_file (
+
+input1O1**
+
+__unknown_file (
+
+input2O2"
+
+á# á(C
+
+
+%1void:
+
+á á(
+input1O1:
+
+á á(
+input2O2B!
+java.util.function.BiConsumer

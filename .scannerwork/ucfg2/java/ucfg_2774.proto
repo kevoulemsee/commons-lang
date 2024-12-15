@@ -1,0 +1,46 @@
+
+Åorg.apache.commons.lang3.ThreadUtils#namePredicate(Ljava/lang/String;Ljava/util/function/Function;)Ljava/util/function/Predicate;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ThreadUtils.javaë$ ë(1"1*Ì
+1
+í í(qy
+w
+
+í í(q"
+%0java.util.function.Predicate"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_87$†
+ù
+
+__unknown_file (2
+"
+%0java.util.function.Predicate"
+
+nameGetter"__id*G
+
+__unknown_file (+
+)
+
+nameGetterjava.util.function.Functionâ
+Ü
+
+__unknown_file (,
+"
+%0java.util.function.Predicate"
+name"__id*6
+
+__unknown_file (
+
+namejava.lang.String"2
+
+í í(r$
+"
+%0java.util.function.Predicate:&
+
+ë2 ë(D
+namejava.lang.String:7
+
+ëE ë(i)
+
+nameGetterjava.util.function.FunctionB("&
+$org.apache.commons.lang3.ThreadUtils

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.ExtendedMessageFormat#next(Ljava/text/ParsePosition;)Ljava/text/ParsePosition;
+false
+cf6aa7c5a36c9a629a3ca0e84a2c77ff
+==
+getIndex java.text.ParsePosition#getIndex()I
+setIndex java.text.ParsePosition#setIndex(I)V

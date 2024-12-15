@@ -1,0 +1,5 @@
+org.apache.commons.lang3.stream.Streams#nonNull(Ljava/lang/Object;)Ljava/util/stream/Stream;
+false
+40996ce41cba21659fc02e1f6f31361a
+org.apache.commons.lang3.stream.Streams#nonNull(Ljava/util/stream/Stream;)Ljava/util/stream/Stream;
+org.apache.commons.lang3.stream.Streams#streamOf(Ljava/lang/Object;)Ljava/util/stream/Stream;

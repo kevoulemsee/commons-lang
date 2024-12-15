@@ -1,0 +1,8 @@
+org.apache.commons.lang3.StringUtils#containsWhitespace(Ljava/lang/CharSequence;)Z
+false
+312f9b71e017eb476fd4d272fc60cf29
+java.lang.Character#isWhitespace(C)Z
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

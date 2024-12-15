@@ -1,0 +1,9 @@
+org.apache.commons.lang3.text.WordUtils#uncapitalize(Ljava/lang/String;[C)Ljava/lang/String;
+false
+16b5ccfaece967ce37662d57bba04357
+java.lang.Character#toLowerCase(C)C
+java.lang.String#<init>([C)V
+java.lang.String#instance-init#
+java.lang.String#toCharArray()[C
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+org.apache.commons.lang3.text.WordUtils#isDelimiter(C[C)Z

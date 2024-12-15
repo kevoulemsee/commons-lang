@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.translate.UnicodeEscaper#above(I)Lorg/apache/commons/lang3/text/translate/UnicodeEscaper;
+false
+77b7e7819c36f86eb7c833e8b18ae8c3
+org.apache.commons.lang3.text.translate.UnicodeEscaper#outsideOf(II)Lorg/apache/commons/lang3/text/translate/UnicodeEscaper;

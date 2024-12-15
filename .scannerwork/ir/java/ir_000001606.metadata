@@ -1,0 +1,5 @@
+org.apache.commons.lang3.JavaVersion#maxVersion()F
+false
+5a6a702706e53cbab868ad5fd9695e7d
+org.apache.commons.lang3.JavaVersion#toFloatVersion(Ljava/lang/String;)F
+org.apache.commons.lang3.SystemProperties#getJavaSpecificationVersion(Ljava/lang/String;)Ljava/lang/String;

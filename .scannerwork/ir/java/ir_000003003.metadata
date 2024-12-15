@@ -1,0 +1,4 @@
+org.apache.commons.lang3.BitField#<init>(I)V
+false
+484a6da156d93526ea93ddd291195ae2
+java.lang.Integer#numberOfTrailingZeros(I)I

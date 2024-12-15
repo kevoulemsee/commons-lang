@@ -1,0 +1,17 @@
+
+d
+getFragmentInHoursNorg.apache.commons.lang3.time.DateUtils#getFragmentInHours(Ljava/util/Date;I)Jh$date
+Í* Í(9"java.util.Datefragment
+Í; Í(M"int"!java.util.concurrent.TimeUnit$date
+Í* Í(9"java.util.Datefragment
+Í; Í(M"int"á]
+[
+
+Î+ Î(9")
+#get-field# HOURS#get-field# HOURS"*2java.util.concurrent.TimeUnitì
+ê
+
+Î Î(:"u
+getFragmentforg.apache.commons.lang3.time.DateUtils#getFragment(Ljava/util/Date;ILjava/util/concurrent/TimeUnit;)J*2long
+
+Î Î(;*^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DateUtils.java

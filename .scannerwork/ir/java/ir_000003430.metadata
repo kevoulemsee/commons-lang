@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailableDoubleConsumer#andThen(Lorg/apache/commons/lang3/function/FailableDoubleConsumer;)Lorg/apache/commons/lang3/function/FailableDoubleConsumer;
+false
+660609b88929f1fa7ca82a621ef71a80
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

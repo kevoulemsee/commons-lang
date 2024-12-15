@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#compareIgnoreCase(Ljava/lang/String;Ljava/lang/String;)I
+false
+d920cdd1e3d8550ba921ac559a1645db
+==
+compare org.apache.commons.lang3.Strings#compare(Ljava/lang/String;Ljava/lang/String;)I

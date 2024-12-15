@@ -1,0 +1,9 @@
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#changeStateAndStartNewCheckInterval(Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;)V
+false
+8f5fbd6b7dd6331cbccd5312ea2fc4c3
+java.util.concurrent.atomic.AtomicReference#set(Ljava/lang/Object;)V
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData#<init>(IJ)V
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData#instance-init#
+==
+changeState org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#changeState(Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;)V
+nanoTime org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#nanoTime()J

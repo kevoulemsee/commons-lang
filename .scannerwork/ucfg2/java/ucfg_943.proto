@@ -1,0 +1,227 @@
+
+Horg.apache.commons.lang3.text.StrBuilder#readFrom(Ljava/lang/Readable;)Ik
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java» »("1"10"4"6*­
+
+4
+Í Í(§¤
+
+Í Í((/
+%10(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*"
+
+__unknown_file (
+""2ensureCapacity(I)y
+w
+
+Î7 Î(=
+%11char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffery
+w
+
+ÎE Î(K
+%12char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferŠ
+‡
+
+Î' Î(Z
+%13java.nio.CharBuffer"3java.nio.CharBuffer#wrap([CII)Ljava/nio/CharBuffer;*3
+
+__unknown_file ("
+java.nio.CharBuffer*+
+
+__unknown_file (
+
+%11char[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""j
+h
+
+Î Î([
+bufjava.nio.CharBuffer"__id*8
+
+__unknown_file (
+
+%13java.nio.CharBufferáÞ
+
+Ï! Ï(3
+
+%14int"/java.lang.Readable#read(Ljava/nio/CharBuffer;)I*<
+
+__unknown_file ( 
+
+readablejava.lang.Readable*8
+
+__unknown_file (
+
+bufjava.nio.CharBuffer2read(Ljava/nio/CharBuffer;)–
+“
+
+Ð Ð(
+%15boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+4
+1*¾
+6
+Æ/ Æ(7m
+k
+
+Æ Æ(8
+cbjava.nio.CharBuffer"__id*<
+
+__unknown_file ( 
+
+readablejava.lang.Readable}{
+
+Ç" Ç(0	
+%6int"java.nio.Buffer#remaining()I*7
+
+__unknown_file (
+
+cbjava.nio.CharBuffer2remaining()¦£
+
+È È(,.
+%7(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*"
+
+__unknown_file (
+""2ensureCapacity(I)x
+v
+
+É É(
+%8char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffer–“
+
+É É(+
+%9java.nio.CharBuffer"2java.nio.CharBuffer#get([CII)Ljava/nio/CharBuffer;*7
+
+__unknown_file (
+
+cbjava.nio.CharBuffer**
+
+__unknown_file (
+
+%8char[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2	get([CII)*
+1*½
+8
+Â Â(¦£
+
+Ã Ã((.
+%5(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*"
+
+__unknown_file (
+""2ensureCapacity(I)*
+9*
+9
+Á Á(x
+v
+
+Á" Á((
+%1char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+Á0 Á(6
+%2char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferéæ
+
+Á Á(E	
+%3int"java.io.Reader#read([CII)I*1
+
+__unknown_file (
+
+rjava.io.Reader**
+
+__unknown_file (
+
+%1char[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([CII)•
+’
+
+Á Á(L
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+8
+1*§
+10
+¾& ¾(.g
+e
+
+¾ ¾(/
+rjava.io.Reader"__id*<
+
+__unknown_file ( 
+
+readablejava.lang.Readable¦£
+
+¿ ¿($.
+%0(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*"
+
+__unknown_file (
+""2ensureCapacity(I)*
+9*%
+1
+Ö Ö("
+
+Ö Ö(
+"":,
+
+» »(/
+readablejava.lang.ReadableB,*
+(org.apache.commons.lang3.text.StrBuilderHX

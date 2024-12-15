@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableFloat#compareTo(Lorg/apache/commons/lang3/mutable/MutableFloat;)I
+false
+840e50890d34319c9637e2cabbbab260
+java.lang.Float#compare(FF)I

@@ -1,0 +1,12 @@
+org.apache.commons.lang3.CharSetUtils#modify(Ljava/lang/String;[Ljava/lang/String;Z)Ljava/lang/String;
+false
+5646a3594b42b95f50997d4c07b92dfc
+java.lang.String#length()I
+java.lang.String#toCharArray()[C
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.CharSet#getInstance([Ljava/lang/String;)Lorg/apache/commons/lang3/CharSet;
+==
+contains org.apache.commons.lang3.CharSet#contains(C)Z

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.StringUtils#compareIgnoreCase(Ljava/lang/String;Ljava/lang/String;Z)I
+false
+2d51254f01a439d10f33778c33ddcdc7
+java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I

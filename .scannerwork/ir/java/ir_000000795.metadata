@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArrayUtils#shuffle([DLjava/util/Random;)V
+false
+7e13d451bfe6595076c3e0f930d025aa
+org.apache.commons.lang3.ArrayUtils#swap([DIII)V
+==
+nextInt java.util.Random#nextInt(I)I

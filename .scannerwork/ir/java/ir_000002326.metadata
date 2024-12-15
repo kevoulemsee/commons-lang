@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ObjectUtils#allNotNull([Ljava/lang/Object;)Z
+false
+cbf0845d349c5e9ff9f99c070e0d4e81
+java.util.stream.Stream#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+noneMatch java.util.stream.Stream#noneMatch(Ljava/util/function/Predicate;)Z

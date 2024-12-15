@@ -1,0 +1,3 @@
+org.apache.commons.lang3.function.Failable#asBiFunction(Lorg/apache/commons/lang3/function/FailableBiFunction;)Ljava/util/function/BiFunction;
+false
+ed9fee5bbad35b2a39b0870f395787a3

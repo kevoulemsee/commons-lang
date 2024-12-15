@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableByte#subtract(Ljava/lang/Number;)V
+false
+d5339db5ccfb94b6658df48b932fb954
+==
+byteValue java.lang.Number#byteValue()B

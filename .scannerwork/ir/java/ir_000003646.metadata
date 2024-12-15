@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ClassUtils#isAssignable(Ljava/lang/Class;Ljava/lang/Class;)Z
+false
+bcbe04754c5074ab9d3e4c6654eafbc5
+org.apache.commons.lang3.ClassUtils#isAssignable(Ljava/lang/Class;Ljava/lang/Class;Z)Z

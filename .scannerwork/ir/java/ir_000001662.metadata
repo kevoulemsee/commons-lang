@@ -1,0 +1,10 @@
+org.apache.commons.lang3.reflect.TypeUtils#typesSatisfyVariables(Ljava/util/Map;)Z
+false
+5d339a00faec34cc536698ca309a2111
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/reflect/Type;Ljava/util/Map;)Z
+org.apache.commons.lang3.reflect.TypeUtils#substituteTypeVariables(Ljava/lang/reflect/Type;Ljava/util/Map;)Ljava/lang/reflect/Type;
+==
+entrySet java.util.Map#entrySet()Ljava/util/Set;
+getKey java.util.Map$Entry#getKey()Ljava/lang/Object;
+getValue java.util.Map$Entry#getValue()Ljava/lang/Object;

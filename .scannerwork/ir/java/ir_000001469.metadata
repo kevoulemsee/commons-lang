@@ -1,0 +1,6 @@
+org.apache.commons.lang3.time.StopWatch#getDuration()Ljava/time/Duration;
+false
+05e12b0767ca4b1c7e33347aa1919a86
+java.time.Duration#ofNanos(J)Ljava/time/Duration;
+==
+getNanoTime org.apache.commons.lang3.time.StopWatch#getNanoTime()J

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ObjectUtils#getClass(Ljava/lang/Object;)Ljava/lang/Class;
+false
+ce4c2473361c634fac73deeedfce14be
+java.lang.Object#getClass()Ljava/lang/Class;

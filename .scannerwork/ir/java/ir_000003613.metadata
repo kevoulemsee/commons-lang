@@ -1,0 +1,8 @@
+org.apache.commons.lang3.ClassUtils#getAllSuperclasses(Ljava/lang/Class;)Ljava/util/List;
+false
+51dfd182f0eca9aff0772433176901ee
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+add java.util.List#add(Ljava/lang/Object;)Z

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.Strings#lastIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)I
+false
+58dea712da1fd3ef859c389c9c22f04d
+==
+lastIndexOf org.apache.commons.lang3.Strings#lastIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I
+length java.lang.CharSequence#length()I

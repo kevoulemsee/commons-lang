@@ -1,0 +1,7 @@
+org.apache.commons.lang3.ClassLoaderUtils#getThreadURLs()[Ljava/net/URL;
+false
+47ee244ffee68dda11406900a94caa97
+java.lang.Thread#currentThread()Ljava/lang/Thread;
+org.apache.commons.lang3.ClassLoaderUtils#getURLs(Ljava/lang/ClassLoader;)[Ljava/net/URL;
+==
+getContextClassLoader java.lang.Thread#getContextClassLoader()Ljava/lang/ClassLoader;

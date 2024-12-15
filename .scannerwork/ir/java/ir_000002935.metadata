@@ -1,0 +1,4 @@
+org.apache.commons.lang3.exception.ExceptionUtils#throwableOfType(Ljava/lang/Throwable;Ljava/lang/Class;)Ljava/lang/Throwable;
+false
+73a46e80c89e08f1cddd8cfea437b715
+org.apache.commons.lang3.exception.ExceptionUtils#throwableOf(Ljava/lang/Throwable;Ljava/lang/Class;IZ)Ljava/lang/Throwable;

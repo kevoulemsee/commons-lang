@@ -1,0 +1,6 @@
+org.apache.commons.lang3.reflect.TypeUtils#containsVariableTypeSameParametrizedTypeBound(Ljava/lang/reflect/TypeVariable;Ljava/lang/reflect/ParameterizedType;)Z
+false
+434d42a3c20125d5d707e0d035103933
+org.apache.commons.lang3.ArrayUtils#contains([Ljava/lang/Object;Ljava/lang/Object;)Z
+==
+getBounds java.lang.reflect.TypeVariable#getBounds()[Ljava/lang/reflect/Type;

@@ -1,0 +1,8 @@
+org.apache.commons.lang3.reflect.InheritanceUtils#distance(Ljava/lang/Class;Ljava/lang/Class;)I
+false
+3d532d5457922d7983629e3b4b112cd4
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+org.apache.commons.lang3.BooleanUtils#toInteger(Z)I
+org.apache.commons.lang3.reflect.InheritanceUtils#distance(Ljava/lang/Class;Ljava/lang/Class;)I
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

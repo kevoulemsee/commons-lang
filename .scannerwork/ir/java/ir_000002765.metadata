@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ThreadUtils#predicateThread(Ljava/lang/String;)Ljava/util/function/Predicate;
+false
+50c22a3bfae92f549b172b5f04b3faf5
+org.apache.commons.lang3.ThreadUtils#namePredicate(Ljava/lang/String;Ljava/util/function/Function;)Ljava/util/function/Predicate;

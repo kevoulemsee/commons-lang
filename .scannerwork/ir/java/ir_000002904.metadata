@@ -1,0 +1,10 @@
+org.apache.commons.lang3.exception.ExceptionUtils#getCause(Ljava/lang/Throwable;[Ljava/lang/String;)Ljava/lang/Throwable;
+false
+688a6d218c3672baadc73f49689425cf
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+java.util.stream.Stream#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;
+getCause java.lang.Throwable#getCause()Ljava/lang/Throwable;
+map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;

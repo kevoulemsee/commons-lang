@@ -1,0 +1,19 @@
+
+;
+max4org.apache.commons.lang3.math.IEEE754rUtils#max(DD)D2a? ?(+"doubleb?- ?(;"doublea? ?(+"doubleb?- ?(;"double"bB
+@
+@ @("&
+isNaNjava.lang.Double#isNaN(D)Z"*2boolean"
+@ @( *@ @(
+"
+A A("dB
+@
+C C("&
+isNaNjava.lang.Double#isNaN(D)Z"*2boolean"
+C C( *C C(
+"
+D D("Q=
+;
+F F("!
+maxjava.lang.Math#max(DD)D"*2double
+F F(*b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/IEEE754rUtils.java

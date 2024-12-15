@@ -1,0 +1,6 @@
+org.apache.commons.lang3.mutable.MutableInt#toInteger()Ljava/lang/Integer;
+false
+76c6237a5d11fdaf688be771984e3026
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+==
+intValue org.apache.commons.lang3.mutable.MutableInt#intValue()I

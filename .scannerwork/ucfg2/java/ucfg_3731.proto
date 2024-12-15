@@ -1,0 +1,110 @@
+
+[org.apache.commons.lang3.math.Fraction#compareTo(Lorg/apache/commons/lang3/math/Fraction;)Ii
+]/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/Fraction.java» »("startingBlock*%
+2
+À À("
+
+À À(
+""*¯
+3
+¿, ¿(7•
+’
+
+¿, ¿(L
+%2boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*º
+startingBlock
+» »(.¤
+¡
+
+º º(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*M
+
+__unknown_file (1
+/
+other&org.apache.commons.lang3.math.Fractionq
+o
+
+»( »(-/
+other&org.apache.commons.lang3.math.Fraction"__annotation*"
+
+__unknown_file (
+
+%4*
+6*¯
+4
+¿ ¿(•
+’
+
+¿ ¿((
+%1boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+3
+1*%
+5
+½ ½("
+
+½ ½(
+""*þ
+6
+¼ ¼(ä
+á
+
+¼ ¼(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*F
+
+__unknown_file (*(
+&org.apache.commons.lang3.math.Fraction*M
+
+__unknown_file (1
+/
+other&org.apache.commons.lang3.math.Fraction*
+4
+5*×
+1
+Ä" Ä(+¯
+¬
+
+Æ Æ(*	
+%3int"java.lang.Long#compare(JJ)I*.
+
+__unknown_file ("
+java.lang.Long*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+Æ Æ(+
+"":=
+
+» »(-/
+other&org.apache.commons.lang3.math.FractionB*(
+&org.apache.commons.lang3.math.FractionHX

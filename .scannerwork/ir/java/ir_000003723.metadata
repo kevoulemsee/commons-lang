@@ -1,0 +1,6 @@
+org.apache.commons.lang3.Conversion#hexDigitToInt(C)I
+false
+6873fc0383cfc2b8d9c5606a51cf4232
+java.lang.Character#digit(CI)I
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#

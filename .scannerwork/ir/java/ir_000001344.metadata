@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#isNaN()Z
+false
+6ac74b96777f769a4f2c3daf4f2a9ae2
+java.lang.Double#isNaN(D)Z

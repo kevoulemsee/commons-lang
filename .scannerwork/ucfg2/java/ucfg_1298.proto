@@ -1,0 +1,26 @@
+
+`org.apache.commons.lang3.concurrent.CallableBackgroundInitializer#initialize()Ljava/lang/Object;Ñ
+x/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/CallableBackgroundInitializer.javaÅ Å("1*Ù
+1
+Ç Ç(´
+®
+
+Ç Ç(#
+%0java.util.concurrent.Callable"__id*o
+
+__unknown_file (S*QC
+Aorg.apache.commons.lang3.concurrent.CallableBackgroundInitializer"
+
+callableõò
+
+Ç Ç(
+%1T"6java.util.concurrent.Callable#call()Ljava/lang/Object;*A
+
+__unknown_file (%
+#
+%0java.util.concurrent.Callable2call()"
+
+Ç Ç(	
+
+%1TBEC
+Aorg.apache.commons.lang3.concurrent.CallableBackgroundInitializer

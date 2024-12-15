@@ -1,0 +1,49 @@
+
+__sonar_lambda_124$o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/MethodUtils.javaÔ Ô(h"startingBlock*Õ
+startingBlock
+Ô Ô(h²
+¯
+
+__unknown_file (&
+varArgComponentTypejava.lang.Class"__id*e
+
+__unknown_file (I*G.
+,org.apache.commons.lang3.reflect.MethodUtils"
+varArgComponentType*
+1*Ò
+1
+Ô Ô(Ž
+‹
+
+Ô' Ô(Y
+%13java.lang.Class"Zorg.apache.commons.lang3.ClassUtils#primitiveToWrapper(Ljava/lang/Class;)Ljava/lang/Class;*C
+
+__unknown_file ('"%
+#org.apache.commons.lang3.ClassUtils*D
+
+__unknown_file ((
+&
+varArgComponentTypejava.lang.Class†
+ƒ
+
+Ô Ô(h
+%14java.lang.Object"Ijava.lang.reflect.Array#newInstance(Ljava/lang/Class;I)Ljava/lang/Object;*7
+
+__unknown_file ("
+java.lang.reflect.Array*4
+
+__unknown_file (
+
+%13java.lang.Class*"
+
+__unknown_file (
+"""'
+
+Ô Ô(h
+
+%14java.lang.Object:$
+
+Ô Ô(
+sjava.lang.IntegerB
+java.util.function.Function

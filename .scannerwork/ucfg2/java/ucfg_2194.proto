@@ -1,0 +1,45 @@
+
+«org.apache.commons.lang3.function.FailableIntPredicate#or(Lorg/apache/commons/lang3/function/FailableIntPredicate;)Lorg/apache/commons/lang3/function/FailableIntPredicate;w
+m/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableIntPredicate.javaZ$ Z(&"1*õ
+1[ [(¥
+¢
+[ [(%<
+%06org.apache.commons.lang3.function.FailableIntPredicate"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*]
+
+__unknown_file (A
+?
+other6org.apache.commons.lang3.function.FailableIntPredicateÈ
+Å
+\ \(,<
+%16org.apache.commons.lang3.function.FailableIntPredicate"__declareFunction*h
+
+__unknown_file (LJ
+H__sonar_lambda_52$org.apache.commons.lang3.function.FailableIntPredicateË
+È
+
+__unknown_file (G
+<
+%16org.apache.commons.lang3.function.FailableIntPredicate"
+other"__id*]
+
+__unknown_file (A
+?
+other6org.apache.commons.lang3.function.FailableIntPredicateØ
+Õ
+
+__unknown_file ([
+<
+%16org.apache.commons.lang3.function.FailableIntPredicate"
+FailableIntPredicate.this"__id*V
+
+__unknown_file (:8
+6org.apache.commons.lang3.function.FailableIntPredicate"J
+\ \(->
+<
+%16org.apache.commons.lang3.function.FailableIntPredicate:K
+Z' Z(J?
+other6org.apache.commons.lang3.function.FailableIntPredicateB:8
+6org.apache.commons.lang3.function.FailableIntPredicateH

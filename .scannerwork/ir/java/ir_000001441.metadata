@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableFloat#hashCode()I
+false
+a7ca63d129e8bb0bf91630a829209550
+java.lang.Float#floatToIntBits(F)I

@@ -1,0 +1,50 @@
+
+torg.apache.commons.lang3.function.MethodInvokers#asFunction(Ljava/lang/reflect/Method;)Ljava/util/function/Function;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javaÁ( Á(2"startingBlock*¨
+startingBlock
+Á2 Á(GŸ
+œ
+
+À À("
+%1"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*@
+
+__unknown_file ($
+"
+methodjava.lang.reflect.Methodd
+b
+
+Á@ Á(F"
+methodjava.lang.reflect.Method"__annotation*"
+
+__unknown_file (
+
+%1*
+1*µ
+1
+Â Â("ð
+í
+
+Â Â(:!
+%0java.util.function.Function"ƒorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
+
+__unknown_file (4"2
+0org.apache.commons.lang3.function.MethodInvokers*"
+
+__unknown_file (
+""*@
+
+__unknown_file ($
+"
+methodjava.lang.reflect.Method"1
+
+Â Â(;#
+!
+%0java.util.function.Function:0
+
+Á3 Á(F"
+methodjava.lang.reflect.MethodB4"2
+0org.apache.commons.lang3.function.MethodInvokersH

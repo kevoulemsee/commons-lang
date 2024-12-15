@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableInt#equals(Ljava/lang/Object;)Z
+false
+5925b0e8e5af581d575a88e363ae884b
+==
+intValue org.apache.commons.lang3.mutable.MutableInt#intValue()I

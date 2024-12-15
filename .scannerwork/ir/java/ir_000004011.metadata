@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableObject#equals(Ljava/lang/Object;)Z
+false
+0856afaea3322df6efb3d15942916268
+java.lang.Object#getClass()Ljava/lang/Class;
+java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z

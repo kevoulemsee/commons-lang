@@ -1,0 +1,27 @@
+
+@
+
+maxVersion2org.apache.commons.lang3.JavaVersion#maxVersion()F:
+0int"99.0"java.lang.String99ffloat"™³
+°
+
+¦' ¦(["Š
+getJavaSpecificationVersionkorg.apache.commons.lang3.SystemProperties#getJavaSpecificationVersion(Ljava/lang/String;)Ljava/lang/String;*2java.lang.Stringy
+w
+
+¦ ¦(\v"Z
+toFloatVersionHorg.apache.commons.lang3.JavaVersion#toFloatVersion(Ljava/lang/String;)F*2float8
+6
+
+§ §("
+	#binop >#	#binop >#"*2boolean,"*
+
+§ §( *
+§ §(2
+§ §("
+
+§ §("
+
+§ §("&*
+
+§ §(*[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/JavaVersion.java

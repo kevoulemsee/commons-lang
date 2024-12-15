@@ -1,0 +1,5 @@
+org.apache.commons.lang3.reflect.MemberUtils#compareConstructorFit(Ljava/lang/reflect/Constructor;Ljava/lang/reflect/Constructor;[Ljava/lang/Class;)I
+false
+8fd53bb68a3a34b54736b33f99535291
+org.apache.commons.lang3.reflect.MemberUtils#compareParameterTypes(Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;[Ljava/lang/Class;)I
+org.apache.commons.lang3.reflect.MemberUtils$Executable#of(Ljava/lang/reflect/Constructor;)Lorg/apache/commons/lang3/reflect/MemberUtils$Executable;

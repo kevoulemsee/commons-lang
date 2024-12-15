@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableDouble#isInfinite()Z
+false
+f578551939be682d9fa6a7bc8ba281cd
+java.lang.Double#isInfinite(D)Z

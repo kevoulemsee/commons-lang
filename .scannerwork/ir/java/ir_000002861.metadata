@@ -1,0 +1,4 @@
+org.apache.commons.lang3.Functions#test(Lorg/apache/commons/lang3/Functions$FailablePredicate;Ljava/lang/Object;)Z
+false
+122d579c58a53e8233a66eb072d1b38c
+org.apache.commons.lang3.Functions#getAsBoolean(Lorg/apache/commons/lang3/function/FailableBooleanSupplier;)Z

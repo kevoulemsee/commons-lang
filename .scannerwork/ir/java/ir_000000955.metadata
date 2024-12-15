@@ -1,0 +1,9 @@
+org.apache.commons.lang3.text.StrSubstitutor#replace(Ljava/lang/String;)Ljava/lang/String;
+false
+e6ffdb1295a43c7fa011d435feb8c7c3
+java.lang.String#length()I
+org.apache.commons.lang3.text.StrBuilder#<init>(Ljava/lang/String;)V
+org.apache.commons.lang3.text.StrBuilder#instance-init#
+==
+substitute org.apache.commons.lang3.text.StrSubstitutor#substitute(Lorg/apache/commons/lang3/text/StrBuilder;II)Z
+toString org.apache.commons.lang3.text.StrBuilder#toString()Ljava/lang/String;

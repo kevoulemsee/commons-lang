@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ClassUtils#getPackageName(Ljava/lang/Class;)Ljava/lang/String;
+false
+a87a5dc837004e4ffbbeed2d6e4970b1
+java.lang.Class#getName()Ljava/lang/String;
+org.apache.commons.lang3.ClassUtils#getPackageName(Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,9 @@
+org.apache.commons.lang3.text.StrBuilder#appendTo(Ljava/lang/Appendable;)V
+false
+ddc5ef822e2b8428d6e144b1fe9bb52c
+java.lang.StringBuffer#append([CII)Ljava/lang/StringBuffer;
+java.lang.StringBuilder#append([CII)Ljava/lang/StringBuilder;
+==
+append java.lang.Appendable#append(Ljava/lang/CharSequence;)Ljava/lang/Appendable;
+put java.nio.CharBuffer#put([CII)Ljava/nio/CharBuffer;
+write java.io.Writer#write([CII)V

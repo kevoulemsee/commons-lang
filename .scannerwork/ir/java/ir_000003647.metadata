@@ -1,0 +1,9 @@
+org.apache.commons.lang3.ClassUtils#isAssignable(Ljava/lang/Class;Ljava/lang/Class;Z)Z
+false
+1210d8d640250a67109083fc838933d7
+java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z
+java.lang.Class#isPrimitive()Z
+org.apache.commons.lang3.ClassUtils#primitiveToWrapper(Ljava/lang/Class;)Ljava/lang/Class;
+org.apache.commons.lang3.ClassUtils#wrapperToPrimitive(Ljava/lang/Class;)Ljava/lang/Class;
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

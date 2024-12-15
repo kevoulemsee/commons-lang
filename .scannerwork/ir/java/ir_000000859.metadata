@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Short;S)[S
+false
+bfff7354010839693d1d1a7d86ca46fd
+java.lang.Short#shortValue()S

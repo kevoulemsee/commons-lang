@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableFloat#equals(Ljava/lang/Object;)Z
+false
+d16ad7f67f24c91571e369bc11a97047
+java.lang.Float#floatToIntBits(F)I

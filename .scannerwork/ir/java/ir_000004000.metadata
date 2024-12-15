@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailableDoubleUnaryOperator#compose(Lorg/apache/commons/lang3/function/FailableDoubleUnaryOperator;)Lorg/apache/commons/lang3/function/FailableDoubleUnaryOperator;
+false
+ddcbe6eb337b83eb3c30c89f4f7a1546
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

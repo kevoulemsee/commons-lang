@@ -1,0 +1,6 @@
+org.apache.commons.lang3.RandomUtils#nextInt(II)I
+false
+088faffa6464004213a130730e13b0bf
+org.apache.commons.lang3.RandomUtils#secure()Lorg/apache/commons/lang3/RandomUtils;
+==
+randomInt org.apache.commons.lang3.RandomUtils#randomInt(II)I

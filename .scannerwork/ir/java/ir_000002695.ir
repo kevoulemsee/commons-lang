@@ -1,0 +1,17 @@
+
+f
+getFragmentInDaysQorg.apache.commons.lang3.time.DateUtils#getFragmentInDays(Ljava/util/Calendar;I)Jp,calendar
+ø) ø(@"java.util.Calendarfragment
+øB ø(T"int"!java.util.concurrent.TimeUnit,calendar
+ø) ø(@"java.util.Calendarfragment
+øB ø(T"int"‰[
+Y
+
+ù/ ù(<"'
+#get-field# DAYS#get-field# DAYS"*2java.util.concurrent.TimeUnit—
+”
+
+ù ù(="y
+getFragmentjorg.apache.commons.lang3.time.DateUtils#getFragment(Ljava/util/Calendar;ILjava/util/concurrent/TimeUnit;)J*2long
+
+ù ù(>*^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DateUtils.java

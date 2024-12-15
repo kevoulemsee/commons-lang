@@ -1,0 +1,4 @@
+org.apache.commons.lang3.tuple.Pair#of(Ljava/util/Map$Entry;)Lorg/apache/commons/lang3/tuple/Pair;
+false
+db072e457559a730ab812f843f1092f8
+org.apache.commons.lang3.tuple.ImmutablePair#of(Ljava/util/Map$Entry;)Lorg/apache/commons/lang3/tuple/ImmutablePair;

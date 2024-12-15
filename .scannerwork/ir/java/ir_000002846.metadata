@@ -1,0 +1,4 @@
+org.apache.commons.lang3.Functions#apply(Lorg/apache/commons/lang3/Functions$FailableFunction;Ljava/lang/Object;)Ljava/lang/Object;
+false
+731aeabb0ab0532f915db19603d5fe5b
+org.apache.commons.lang3.Functions#get(Lorg/apache/commons/lang3/Functions$FailableSupplier;)Ljava/lang/Object;

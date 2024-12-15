@@ -1,0 +1,4 @@
+org.apache.commons.lang3.StringUtils#replacePattern(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+9f907c99275a9d1f66231e586e031b58
+org.apache.commons.lang3.RegExUtils#replacePattern(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

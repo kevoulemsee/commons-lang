@@ -1,0 +1,6 @@
+org.apache.commons.lang3.time.DateUtils#truncatedCompareTo(Ljava/util/Calendar;Ljava/util/Calendar;I)I
+false
+cf0a0f68365fc4247e151c31427e860e
+org.apache.commons.lang3.time.DateUtils#truncate(Ljava/util/Calendar;I)Ljava/util/Calendar;
+==
+compareTo java.util.Calendar#compareTo(Ljava/util/Calendar;)I

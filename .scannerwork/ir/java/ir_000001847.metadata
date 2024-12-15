@@ -1,0 +1,5 @@
+org.apache.commons.lang3.DoubleRange#of(Ljava/lang/Double;Ljava/lang/Double;)Lorg/apache/commons/lang3/DoubleRange;
+false
+50c53bff099e0f71bae33a5f3fc9f523
+org.apache.commons.lang3.DoubleRange#<init>(Ljava/lang/Double;Ljava/lang/Double;)V
+org.apache.commons.lang3.DoubleRange#instance-init#

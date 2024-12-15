@@ -1,0 +1,23 @@
+
+i
+isSameLengthYorg.apache.commons.lang3.ArrayUtils#isSameLength([Ljava/lang/Object;[Ljava/lang/Object;)ZX*array1
+Ô' Ô(<"java.lang.Object[]*array2
+Ô> Ô(S"java.lang.Object[]*array1
+Ô' Ô(<"java.lang.Object[]*array2
+Ô> Ô(S"java.lang.Object[]"¤i
+g
+
+Õ Õ( "O
+	getLengthBorg.apache.commons.lang3.ArrayUtils#getLength(Ljava/lang/Object;)I*2inti
+g
+
+Õ$ Õ(5"O
+	getLengthBorg.apache.commons.lang3.ArrayUtils#getLength(Ljava/lang/Object;)I*2int:
+8
+
+Õ Õ(5"
+
+#binop ==#
+#binop ==#"*2boolean
+
+Õ Õ(6*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

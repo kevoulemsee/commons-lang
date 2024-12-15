@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableFloat#getValue()Ljava/lang/Float;
+false
+5fd52694fe8a1d5a25e7541305c5f833
+java.lang.Float#valueOf(F)Ljava/lang/Float;

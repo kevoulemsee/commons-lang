@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.translate.UnicodeEscaper#outsideOf(II)Lorg/apache/commons/lang3/text/translate/UnicodeEscaper;
+false
+6b151b7a860cfa4327c93e455d24a781
+org.apache.commons.lang3.text.translate.UnicodeEscaper#<init>(IIZ)V
+org.apache.commons.lang3.text.translate.UnicodeEscaper#instance-init#

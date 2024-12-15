@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.Fraction#getProperNumerator()I
+false
+455842f05124255d443bc2891c6712e1
+java.lang.Math#abs(I)I

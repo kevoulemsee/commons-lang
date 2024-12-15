@@ -1,0 +1,27 @@
+
+Jorg.apache.commons.lang3.builder.DiffResult#iterator()Ljava/util/Iterator;n
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffResult.java„ „(%"1*Ý
+1
+… …(†
+ƒ
+
+… …(
+%0java.util.List"__id*Y
+
+__unknown_file (=*;-
++org.apache.commons.lang3.builder.DiffResult"
+
+diffList˜•
+
+… …("
+%1java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*2
+
+__unknown_file (
+
+%0java.util.List2
+iterator()"(
+
+… …(#
+
+%1java.util.IteratorB/-
++org.apache.commons.lang3.builder.DiffResultH

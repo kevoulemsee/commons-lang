@@ -1,0 +1,5 @@
+org.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/Collection;)Ljava/util/stream/Stream;
+false
+59da4808adfd21f06012c177f65d6c25
+org.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/stream/Stream;)Ljava/util/stream/Stream;
+org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;

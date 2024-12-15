@@ -1,0 +1,7 @@
+org.apache.commons.lang3.Strings#endsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z
+false
+0b629520093a7feb864662f47687c34a
+org.apache.commons.lang3.ArrayUtils#isEmpty([Ljava/lang/Object;)Z
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+endsWith org.apache.commons.lang3.Strings#endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

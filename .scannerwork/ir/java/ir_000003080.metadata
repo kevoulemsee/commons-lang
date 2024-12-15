@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableInt#subtract(Ljava/lang/Number;)V
+false
+2640e22e870a375e1df3781b971ace7b
+==
+intValue java.lang.Number#intValue()I

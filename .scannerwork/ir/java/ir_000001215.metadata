@@ -1,0 +1,5 @@
+org.apache.commons.lang3.compare.ComparableUtils#is(Ljava/lang/Comparable;)Lorg/apache/commons/lang3/compare/ComparableUtils$ComparableCheckBuilder;
+false
+7af2c922541dd694cb550dee8f902cdd
+org.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder#<init>(Ljava/lang/Comparable;)V
+org.apache.commons.lang3.compare.ComparableUtils$ComparableCheckBuilder#instance-init#

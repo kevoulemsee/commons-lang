@@ -1,0 +1,13 @@
+
+o
+alwaysTruePredicateXorg.apache.commons.lang3.ThreadUtils#alwaysTruePredicate()Ljava/util/function/Predicate;*"($org.apache.commons.lang3.ThreadUtils"Äh
+f
+
+± ±()"5
+#get-field# ALWAYS_TRUE#get-field# ALWAYS_TRUE"*2java.util.function.PredicateF
+D
+
+± ±()"
+#cast##cast#"*2java.util.function.Predicate
+
+± ±(**[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ThreadUtils.java

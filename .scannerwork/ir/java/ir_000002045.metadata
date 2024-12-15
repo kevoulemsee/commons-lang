@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#equalsAnyIgnoreCase(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z
+false
+413187a3d1af791872e8b02ce3f02cd8
+==
+equalsAny org.apache.commons.lang3.Strings#equalsAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z

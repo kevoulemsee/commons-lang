@@ -1,0 +1,4 @@
+org.apache.commons.lang3.reflect.TypeUtils#parameterize(Ljava/lang/Class;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/ParameterizedType;
+false
+207a42a79e6f2ecbae270b267e793cc3
+org.apache.commons.lang3.reflect.TypeUtils#parameterizeWithOwner(Ljava/lang/reflect/Type;Ljava/lang/Class;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/ParameterizedType;

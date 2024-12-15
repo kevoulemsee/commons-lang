@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.StrSubstitutor#setVariablePrefixMatcher(Lorg/apache/commons/lang3/text/StrMatcher;)Lorg/apache/commons/lang3/text/StrSubstitutor;
+false
+0632508864570f4fd86cd5bdef8e9a3a
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;

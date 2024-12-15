@@ -1,0 +1,84 @@
+
+Oorg.apache.commons.lang3.Range#containsRange(Lorg/apache/commons/lang3/Range;)Za
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.java„ „( "5*ð
+2
+‰ ‰(v
+t
+
+‰ ‰(*
+%3T"__id*W
+
+__unknown_file (;*9
+,
+
+otherRangeorg.apache.commons.lang3.Range"	
+maximumáÞ
+
+‰ ‰(+
+%4boolean"<org.apache.commons.lang3.Range#contains(Ljava/lang/Object;)Z*>
+
+__unknown_file (" 
+org.apache.commons.lang3.Range*%
+
+__unknown_file (	
+
+%3T2contains(Ljava/lang/Object;)*
+1*ó
+3
+ˆ ˆ(v
+t
+
+ˆ ˆ(*
+%1T"__id*W
+
+__unknown_file (;*9
+,
+
+otherRangeorg.apache.commons.lang3.Range"	
+minimumáÞ
+
+ˆ ˆ(+
+%2boolean"<org.apache.commons.lang3.Range#contains(Ljava/lang/Object;)Z*>
+
+__unknown_file (" 
+org.apache.commons.lang3.Range*%
+
+__unknown_file (	
+
+%1T2contains(Ljava/lang/Object;)*
+2
+1*%
+4
+† †("
+
+† †(
+""*×
+5
+… …(½
+º
+
+… …(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*J
+
+__unknown_file (.
+,
+
+otherRangeorg.apache.commons.lang3.Range*"
+
+__unknown_file (
+""*
+3
+4*%
+1
+ˆ ‰(,"
+
+ˆ ‰(,
+""::
+
+„! „(:,
+
+otherRangeorg.apache.commons.lang3.RangeB" 
+org.apache.commons.lang3.RangeHX

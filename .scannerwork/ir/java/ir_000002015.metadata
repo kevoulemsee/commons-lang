@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#compare(Ljava/lang/String;Ljava/lang/String;)I
+false
+69a0ccd9c3fa87c05b9091cab5b3e2e2
+==
+compare org.apache.commons.lang3.Strings#compare(Ljava/lang/String;Ljava/lang/String;)I

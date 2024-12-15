@@ -1,0 +1,60 @@
+
+^org.apache.commons.lang3.stream.Streams#of(Ljava/util/stream/Stream;)Ljava/util/stream/Stream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÓ! Ó(#"4*Š
+2
+Ô1 Ô(7t
+r
+
+Ô1 Ô(7
+%1java.util.stream.Stream"__id*?
+
+__unknown_file (#
+!
+streamjava.util.stream.Stream*
+1*ª
+3
+Ô  Ô(&¡
+ž
+
+Ô  Ô(.
+%2java.util.stream.Stream"8java.util.stream.Stream#empty()Ljava/util/stream/Stream;*7
+
+__unknown_file ("
+java.util.stream.Streamp
+n
+
+Ô  Ô(.
+%1java.util.stream.Stream"__id*;
+
+__unknown_file (
+
+%2java.util.stream.Stream*
+1*Ì
+4
+Ô Ô(²
+¯
+
+Ô Ô(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*?
+
+__unknown_file (#
+!
+streamjava.util.stream.Stream*"
+
+__unknown_file (
+""*
+2
+3*>
+1
+Ô Ô(8"-
+
+Ô Ô(8
+
+%1java.util.stream.Stream:/
+
+Ó$ Ó(:!
+streamjava.util.stream.StreamB+")
+'org.apache.commons.lang3.stream.Streams

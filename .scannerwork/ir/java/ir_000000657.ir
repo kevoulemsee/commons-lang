@@ -1,0 +1,19 @@
+
+E
+lastIndexOf6org.apache.commons.lang3.ArrayUtils#lastIndexOf([DDD)IÄarray
+Ä" Ä(6"double[]#valueToFind
+Ä8 Ä(P"double!	tolerance
+ÄR Ä(h"double"java.lang.Integerarray
+Ä" Ä(6"double[]#valueToFind
+Ä8 Ä(P"double!	tolerance
+ÄR Ä(h"double"ƒK
+I
+
+Å/ Å(@"1
+#get-field# MAX_VALUE#get-field# MAX_VALUE"*2intc
+a
+
+Å Å(L"F
+lastIndexOf7org.apache.commons.lang3.ArrayUtils#lastIndexOf([DDID)I*2int
+
+Å Å(M*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

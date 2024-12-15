@@ -1,0 +1,5 @@
+org.apache.commons.lang3.Range#isEndedBy(Ljava/lang/Object;)Z
+false
+05c6b6873bda84f71221284f0779dfa9
+==
+compare java.util.Comparator#compare(Ljava/lang/Object;Ljava/lang/Object;)I

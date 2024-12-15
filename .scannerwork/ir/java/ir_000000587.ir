@@ -1,0 +1,91 @@
+
+=
+indexOf2org.apache.commons.lang3.ArrayUtils#indexOf([DDI)IÃ
+1inttruebooleanfalsebooleanarray
+â â(2"double[]#valueToFind
+â4 â(L"double
+startIndex
+âN â(b"int"'#org.apache.commons.lang3.ArrayUtilsarray
+â â(2"double[]#valueToFind
+â4 â(L"double
+startIndex
+âN â(b"int"}Y
+W
+
+ã ã(";
+isEmpty0org.apache.commons.lang3.ArrayUtils#isEmpty([D)Z*2boolean "
+
+ã ã( *
+ã ã(
+"mW
+U
+
+ä ä(""=
+#get-field# INDEX_NOT_FOUND#get-field# INDEX_NOT_FOUND"*2int
+
+ä ä(#"¸O
+M
+
+æ" æ(;	searchNaN"&
+isNaNjava.lang.Double#isNaN(D)Z"*2booleanQ
+O
+
+ç ç(%i"4
+max0,org.apache.commons.lang3.ArrayUtils#max0(I)I*2int
+
+ç ì(	"“*	searchNaN*valueToFind*
+array
+*	iE
+C
+
+ç+ ç(7"+
+#get-field# length#get-field# length"*
+2int8
+6
+
+ç' ç(7"
+	#binop <#	#binop <#"*	2boolean "
+
+ç ì(	 *
+ç ç((8"–>
+<
+
+è# è(+element"
+#array-read##array-read#"*
+	:
+8
+
+é é(&"
+
+#binop ==#
+#binop ==#"*2boolean"
+
+é é(& ("mW
+U
+
+í í("=
+#get-field# INDEX_NOT_FOUND#get-field# INDEX_NOT_FOUND"*2int
+
+í í(""
+
+é* é(3 	("8*	 "
+
+é é(L
+ *
+é é(("\D
+B
+
+é7 é(L"&
+isNaNjava.lang.Double#isNaN(D)Z"*2boolean
+
+é7 é(L	("(	*
+
+é* é(L("
+
+
+ê ê(	("
+(">2
+0
+
+ç9 ç(<i"
+	#binop +#	#binop +#"*	(*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

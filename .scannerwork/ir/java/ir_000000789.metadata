@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArrayUtils#shuffle([ZLjava/util/Random;)V
+false
+054a3b8ce38c6efc8b6017d55b60fdec
+org.apache.commons.lang3.ArrayUtils#swap([ZIII)V
+==
+nextInt java.util.Random#nextInt(I)I

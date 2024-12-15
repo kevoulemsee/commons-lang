@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#substring(I)Ljava/lang/String;
+false
+d427f91f02dd7a3e70bcfb8c9c9034e8
+==
+substring org.apache.commons.lang3.text.StrBuilder#substring(II)Ljava/lang/String;

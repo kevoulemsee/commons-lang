@@ -1,0 +1,6 @@
+org.apache.commons.lang3.EnumUtils#processBitVector(Ljava/lang/Class;J)Ljava/util/EnumSet;
+false
+005be24e4e807dbc07ecf974e24c965e
+java.lang.Class#getEnumConstants()[Ljava/lang/Object;
+org.apache.commons.lang3.EnumUtils#checkBitVectorable(Ljava/lang/Class;)Ljava/lang/Class;
+org.apache.commons.lang3.EnumUtils#processBitVectors(Ljava/lang/Class;[J)Ljava/util/EnumSet;

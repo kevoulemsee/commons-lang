@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.WordUtils#capitalizeFully(Ljava/lang/String;)Ljava/lang/String;
+false
+08bc388bb506a104e406629ecd1703a4
+org.apache.commons.lang3.text.WordUtils#capitalizeFully(Ljava/lang/String;[C)Ljava/lang/String;

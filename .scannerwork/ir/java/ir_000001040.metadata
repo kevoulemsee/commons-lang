@@ -1,0 +1,11 @@
+org.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/StringBuffer;II)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+98d87c3e72d2f77dedb81296ac7540db
+java.lang.StringBuffer#getChars(II[CI)V
+java.lang.StringBuffer#length()I
+java.lang.StringIndexOutOfBoundsException#<init>(Ljava/lang/String;)V
+java.lang.StringIndexOutOfBoundsException#instance-init#
+==
+appendNull org.apache.commons.lang3.text.StrBuilder#appendNull()Lorg/apache/commons/lang3/text/StrBuilder;
+ensureCapacity org.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;
+length org.apache.commons.lang3.text.StrBuilder#length()I

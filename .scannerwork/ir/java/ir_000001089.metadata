@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#contains(Ljava/lang/String;)Z
+false
+800689c9d55beec29de6654a97c65cd1
+==
+indexOf org.apache.commons.lang3.text.StrBuilder#indexOf(Ljava/lang/String;I)I

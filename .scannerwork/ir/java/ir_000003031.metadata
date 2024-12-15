@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.DurationUtils#since(Ljava/time/temporal/Temporal;)Ljava/time/Duration;
+false
+115455a6e1c41b2084c871d2dd170fc0
+java.time.Duration#between(Ljava/time/temporal/Temporal;Ljava/time/temporal/Temporal;)Ljava/time/Duration;
+java.time.Instant#now()Ljava/time/Instant;

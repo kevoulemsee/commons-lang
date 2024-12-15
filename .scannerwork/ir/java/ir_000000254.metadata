@@ -1,0 +1,4 @@
+org.apache.commons.lang3.builder.DiffResult#getDiffs()Ljava/util/List;
+false
+27717d81bc743ef8fbde543f29272c79
+java.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;

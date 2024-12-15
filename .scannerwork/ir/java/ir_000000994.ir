@@ -1,0 +1,33 @@
+
+;
+min4org.apache.commons.lang3.math.IEEE754rUtils#min(DD)D6a
+­ ­(+"doubleb
+­- ­(;"doublea
+­ ­(+"doubleb
+­- ­(;"double"hD
+B
+
+® ®("&
+isNaNjava.lang.Double#isNaN(D)Z"*2boolean "
+
+® ®( *
+® ®(
+"
+
+¯ ¯("jD
+B
+
+± ±("&
+isNaNjava.lang.Double#isNaN(D)Z"*2boolean "
+
+± ±( *
+± ±(
+"
+
+² ²("U?
+=
+
+´ ´("!
+minjava.lang.Math#min(DD)D"*2double
+
+´ ´(*b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/IEEE754rUtils.java

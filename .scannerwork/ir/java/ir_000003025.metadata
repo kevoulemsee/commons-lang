@@ -1,0 +1,4 @@
+org.apache.commons.lang3.time.DurationUtils#getNanosOfMiili(Ljava/time/Duration;)I
+false
+01c9d74b6ad72c80f237df781f64ab7a
+org.apache.commons.lang3.time.DurationUtils#getNanosOfMilli(Ljava/time/Duration;)I

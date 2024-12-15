@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.NumberUtils#createDouble(Ljava/lang/String;)Ljava/lang/Double;
+false
+0ecb37c7163af4829511f60e20fc8186
+java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;

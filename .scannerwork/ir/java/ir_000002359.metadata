@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ObjectUtils#isArray(Ljava/lang/Object;)Z
+false
+df0de36b922d038467d98a5543199dbf
+java.lang.Class#isArray()Z
+java.lang.Object#getClass()Ljava/lang/Class;

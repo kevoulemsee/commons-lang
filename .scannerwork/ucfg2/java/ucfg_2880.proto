@@ -1,0 +1,41 @@
+
+__sonar_lambda_101$e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java­ ­(."startingBlock*Ü
+startingBlock
+­ ­(.¹
+¶
+
+__unknown_file (A
+	predicate4org.apache.commons.lang3.Functions$FailablePredicate"__id*Q
+
+__unknown_file (5*3$
+"org.apache.commons.lang3.Functions"
+	predicate*
+1*’
+1
+­ ­(á
+Þ
+
+­ ­(.
+%1boolean"rorg.apache.commons.lang3.Functions#test(Lorg/apache/commons/lang3/Functions$FailablePredicate;Ljava/lang/Object;)Z*B
+
+__unknown_file (&"$
+"org.apache.commons.lang3.Functions*_
+
+__unknown_file (C
+A
+	predicate4org.apache.commons.lang3.Functions$FailablePredicate*(
+
+__unknown_file (
+
+
+inputI"
+
+­ ­(.
+
+%1boolean:
+
+­ ­(
+
+inputIB 
+java.util.function.Predicate

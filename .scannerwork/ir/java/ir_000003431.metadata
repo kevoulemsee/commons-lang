@@ -1,0 +1,7 @@
+org.apache.commons.lang3.concurrent.AtomicSafeInitializer#instance-init#
+false
+784f4f28004d42b0add69e62dd592c58
+java.util.concurrent.atomic.AtomicReference#<init>()V
+java.util.concurrent.atomic.AtomicReference#<init>(Ljava/lang/Object;)V
+java.util.concurrent.atomic.AtomicReference#instance-init#
+org.apache.commons.lang3.concurrent.AtomicSafeInitializer#getNoInit()Ljava/lang/Object;

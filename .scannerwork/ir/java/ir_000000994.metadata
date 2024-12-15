@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.IEEE754rUtils#min(DD)D
+false
+562c64f7457338136aecfcb18375525b
+java.lang.Double#isNaN(D)Z
+java.lang.Math#min(DD)D

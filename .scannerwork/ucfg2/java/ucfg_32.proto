@@ -1,0 +1,26 @@
+
+Forg.apache.commons.lang3.builder.DiffResult#getDiffs()Ljava/util/List;l
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffResult.javaT T(!"1*ì
+1U U(Ñ
+Å
+U, U(4
+%0java.util.List"__id*Y
+
+__unknown_file (=*;-
++org.apache.commons.lang3.builder.DiffResult"
+
+diffListÿ
+’
+U U(5
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections*2
+
+__unknown_file (
+
+%0java.util.List""
+U U(6
+
+%1java.util.ListB/-
++org.apache.commons.lang3.builder.DiffResultH

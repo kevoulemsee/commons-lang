@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getAppleAwtEnableTemplateImages()Ljava/lang/String;
+false
+1bcda70d6d554b2ca160adbc8e7bab7e
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

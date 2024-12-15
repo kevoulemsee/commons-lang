@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrSubstitutor#setVariablePrefix(C)Lorg/apache/commons/lang3/text/StrSubstitutor;
+false
+738b9be4920f58fe1e72c569d7fceb2e
+org.apache.commons.lang3.text.StrMatcher#charMatcher(C)Lorg/apache/commons/lang3/text/StrMatcher;
+==
+setVariablePrefixMatcher org.apache.commons.lang3.text.StrSubstitutor#setVariablePrefixMatcher(Lorg/apache/commons/lang3/text/StrMatcher;)Lorg/apache/commons/lang3/text/StrSubstitutor;

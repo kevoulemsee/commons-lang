@@ -1,0 +1,13 @@
+
+ˆ
+#getOrgOpenJdkJavaUtilStreamTripwireaorg.apache.commons.lang3.SystemProperties#getOrgOpenJdkJavaUtilStreamTripwire()Ljava/lang/String;/"-)org.apache.commons.lang3.SystemProperties"»‘
+
+
+« «(@"i
+1#get-field# ORG_OPENJDK_JAVA_UTIL_STREAM_TRIPWIRE1#get-field# ORG_OPENJDK_JAVA_UTIL_STREAM_TRIPWIRE"*2java.lang.String’
+
+
+« «(A"j
+getProperty[org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;*2java.lang.String
+
+« «(B*`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemProperties.java

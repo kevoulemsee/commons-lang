@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.StopWatch#isStopped()Z
+false
+95bb5ff555308030616567f557d2ebf6
+==
+isStopped org.apache.commons.lang3.time.StopWatch$State#isStopped()Z

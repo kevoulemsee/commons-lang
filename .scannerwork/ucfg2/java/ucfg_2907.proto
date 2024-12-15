@@ -1,0 +1,70 @@
+
+]org.apache.commons.lang3.text.translate.JavaUnicodeEscaper#toUtf16Escape(I)Ljava/lang/String;{
+q/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/translate/JavaUnicodeEscaper.javaf f(""1*	
+1g% g(.–
+“
+g% g(A
+%0char[]" java.lang.Character#toChars(I)[C*3
+
+__unknown_file ("
+java.lang.Character*"
+
+__unknown_file (
+""W
+U
+g g(B
+surrogatePairchar[]"__id**
+
+__unknown_file (
+
+%0char[]‚
+ÿ
+h h(,
+%1java.lang.String"Worg.apache.commons.lang3.text.translate.CharSequenceTranslator#hex(I)Ljava/lang/String;*^
+
+__unknown_file (B"@
+>org.apache.commons.lang3.text.translate.CharSequenceTranslator*"
+
+__unknown_file (
+""i
+g
+h h(,
+%2java.lang.String"__concat*
+h h(
+\\u*$
+h h(,
+
+%1java.lang.Stringi
+g
+h h(4
+%3java.lang.String"__concat*$
+h h(,
+
+%2java.lang.String*
+h/ h(4
+\\u‚
+ÿ
+h7 h(L
+%4java.lang.String"Worg.apache.commons.lang3.text.translate.CharSequenceTranslator#hex(I)Ljava/lang/String;*^
+
+__unknown_file (B"@
+>org.apache.commons.lang3.text.translate.CharSequenceTranslator*"
+
+__unknown_file (
+""z
+x
+h h(L
+%5java.lang.String"__concat*$
+h h(4
+
+%3java.lang.String*$
+h7 h(L
+
+%4java.lang.String"$
+h h(M
+
+%5java.lang.String: 
+
+__unknown_file (
+""B><
+:org.apache.commons.lang3.text.translate.JavaUnicodeEscaper

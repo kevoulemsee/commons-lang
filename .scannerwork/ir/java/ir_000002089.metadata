@@ -1,0 +1,7 @@
+org.apache.commons.lang3.StringUtils#isNumericSpace(Ljava/lang/CharSequence;)Z
+false
+3808d06f1f39c1ef5794bd0264ca4056
+java.lang.Character#isDigit(C)Z
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

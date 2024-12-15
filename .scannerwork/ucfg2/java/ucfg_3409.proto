@@ -1,0 +1,80 @@
+
+\org.apache.commons.lang3.LocaleUtils#countriesByLanguage(Ljava/lang/String;)Ljava/util/List;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/LocaleUtils.java‚ ‚(2"3*Ç
+2
+„ „(
+Œ
+
+„ „(*
+%1java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections"$
+
+„ „(+
+
+%1java.util.List*Ë
+3
+ƒ ƒ(±
+®
+
+ƒ ƒ( 
+%0boolean"	__compare*"
+
+__unknown_file (
+==*>
+
+__unknown_file ("
+ 
+languageCodejava.lang.String*"
+
+__unknown_file (
+""*
+2
+1*Þ
+1
+† †(#b
+`
+
+† †(#(
+%2"java.util.concurrent.ConcurrentMap"__id*"
+
+__unknown_file (
+""z
+x
+†B ‡(˜!
+%3java.util.function.Function"__declareFunction*3
+
+__unknown_file (
+__sonar_lambda_129$˜
+•
+
+__unknown_file (3
+!
+%3java.util.function.Function"
+languageCode"__id*>
+
+__unknown_file ("
+ 
+languageCodejava.lang.String©¦
+† ‡(™
+%13java.util.List"ujava.util.concurrent.ConcurrentMap#computeIfAbsent(Ljava/lang/Object;Ljava/util/function/Function;)Ljava/lang/Object;*F
+
+__unknown_file (*
+(
+%2"java.util.concurrent.ConcurrentMap*>
+
+__unknown_file ("
+ 
+languageCodejava.lang.String*?
+
+__unknown_file (#
+!
+%3java.util.function.Function2@computeIfAbsent(Ljava/lang/Object;Ljava/util/function/Function;)"&
+† ‡(š
+
+%13java.util.List:.
+
+‚3 ‚(L 
+languageCodejava.lang.StringB("&
+$org.apache.commons.lang3.LocaleUtilsH

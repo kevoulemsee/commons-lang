@@ -1,0 +1,7 @@
+org.apache.commons.lang3.tuple.Pair#apply(Lorg/apache/commons/lang3/function/FailableBiFunction;)Ljava/lang/Object;
+false
+e25f678941e18819661784530edc7ed2
+org.apache.commons.lang3.tuple.Pair#getKey()Ljava/lang/Object;
+==
+apply org.apache.commons.lang3.function.FailableBiFunction#apply(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+getValue org.apache.commons.lang3.tuple.Pair#getValue()Ljava/lang/Object;

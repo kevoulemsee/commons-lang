@@ -1,0 +1,5 @@
+org.apache.commons.lang3.CharUtils#unicodeEscaped(Ljava/lang/Character;)Ljava/lang/String;
+false
+492af19f20a3b9bcb017b02e29165341
+java.lang.Character#charValue()C
+org.apache.commons.lang3.CharUtils#unicodeEscaped(C)Ljava/lang/String;

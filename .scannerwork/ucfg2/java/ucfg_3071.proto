@@ -1,0 +1,70 @@
+
+yorg.apache.commons.lang3.stream.LangCollectors#collect(Ljava/util/stream/Collector;[Ljava/lang/Object;)Ljava/lang/Object;o
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javao o(%"startingBlock*˛
+startingBlocko% o(cù
+ö
+n n(
+%2"
+__annotate*5
+
+__unknown_file (
+java.lang.SafeVarargs*E
+
+__unknown_file ()
+'
+	collectorjava.util.stream.Collectorg
+e
+oG o(P'
+	collectorjava.util.stream.Collector"__annotation*"
+
+__unknown_file (
+
+%2Ñ
+Å
+n n(
+%3"
+__annotate*5
+
+__unknown_file (
+java.lang.SafeVarargs*,
+
+__unknown_file (
+
+arrayT[]N
+L
+o] o(b
+arrayT[]"__annotation*"
+
+__unknown_file (
+
+%3*
+1*π
+1p p(˝
+˙
+p p( 
+%0java.util.stream.Stream"Xorg.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*,
+
+__unknown_file (
+
+arrayT[]íè
+p p(3
+%1R"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*E
+
+__unknown_file ()
+'
+	collectorjava.util.stream.Collector2%collect(Ljava/util/stream/Collector;)"
+p p(4	
+
+%1R:3
+o& o(Q'
+	collectorjava.util.stream.Collector:
+oR o(b
+arrayT[]B2"0
+.org.apache.commons.lang3.stream.LangCollectorsH

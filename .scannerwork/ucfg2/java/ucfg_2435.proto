@@ -1,0 +1,50 @@
+
+­org.apache.commons.lang3.stream.Streams$FailableStream#collect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)Ljava/lang/Object;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÜ Ü("1*’
+1
+Ý Ý(ÏÌ
+
+Ý Ý(
+
+%0void"Horg.apache.commons.lang3.stream.Streams$FailableStream#makeTerminated()V*V
+
+__unknown_file (:8
+6org.apache.commons.lang3.stream.Streams$FailableStream2makeTerminated()êç
+
+Þ Þ(
+%1java.util.stream.Stream"Xorg.apache.commons.lang3.stream.Streams$FailableStream#stream()Ljava/util/stream/Stream;*V
+
+__unknown_file (:8
+6org.apache.commons.lang3.stream.Streams$FailableStream2stream()¨¥
+
+Þ Þ(D
+%2R"Žjava.util.stream.Stream#collect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)Ljava/lang/Object;*;
+
+__unknown_file (
+
+%1java.util.stream.Stream*E
+
+__unknown_file ()
+'
+supplierjava.util.function.Supplier*J
+
+__unknown_file (.
+,
+accumulatorjava.util.function.BiConsumer*G
+
+__unknown_file (+
+)
+combinerjava.util.function.BiConsumer2dcollect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)"
+
+Þ Þ(E	
+
+%2R:5
+
+Ü  Ü(;'
+supplierjava.util.function.Supplier::
+
+Ü< Ü(g,
+accumulatorjava.util.function.BiConsumer:8
+Üh Ü(‡)
+combinerjava.util.function.BiConsumerB:8
+6org.apache.commons.lang3.stream.Streams$FailableStreamH

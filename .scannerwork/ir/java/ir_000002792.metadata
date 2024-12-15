@@ -1,0 +1,8 @@
+org.apache.commons.lang3.math.NumberUtils#getMantissa(Ljava/lang/String;I)Ljava/lang/String;
+false
+e24d479b970c7f92f0683f0b7dc3f0fb
+java.lang.NumberFormatException#<init>(Ljava/lang/String;)V
+java.lang.NumberFormatException#instance-init#
+java.lang.String#charAt(I)C
+java.lang.String#length()I
+java.lang.String#substring(II)Ljava/lang/String;

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.concurrent.TimedSemaphore#acquirePermit()Z
+false
+3935e26bfce690338b82ae2b6b731469
+org.apache.commons.lang3.concurrent.TimedSemaphore#getLimit()I

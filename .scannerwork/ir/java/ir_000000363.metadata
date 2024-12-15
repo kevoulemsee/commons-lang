@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.FailablePredicate#and(Lorg/apache/commons/lang3/function/FailablePredicate;)Lorg/apache/commons/lang3/function/FailablePredicate;
+false
+3e94fe485228223c6789d968e3d06ab1
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

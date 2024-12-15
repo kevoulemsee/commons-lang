@@ -1,0 +1,13 @@
+org.apache.commons.lang3.reflect.TypeUtils#wildcardTypeToString(Ljava/lang/reflect/WildcardType;)Ljava/lang/String;
+false
+b8ca3232377d68141d3cfdeb31c1a966
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.AppendableJoiner#join(Ljava/lang/StringBuilder;[Ljava/lang/Object;)Ljava/lang/StringBuilder;
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z
+getLowerBounds java.lang.reflect.WildcardType#getLowerBounds()[Ljava/lang/reflect/Type;
+getUpperBounds java.lang.reflect.WildcardType#getUpperBounds()[Ljava/lang/reflect/Type;

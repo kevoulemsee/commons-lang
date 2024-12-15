@@ -1,0 +1,6 @@
+org.apache.commons.lang3.RandomUtils#nextDouble()D
+false
+97676fc2ba11484e8b6fab38b0f930e8
+org.apache.commons.lang3.RandomUtils#secure()Lorg/apache/commons/lang3/RandomUtils;
+==
+randomDouble org.apache.commons.lang3.RandomUtils#randomDouble()D

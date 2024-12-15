@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableByte#equals(Ljava/lang/Object;)Z
+false
+8e38ff3f4530796614dae321c1beeb26
+==
+byteValue org.apache.commons.lang3.mutable.MutableByte#byteValue()B

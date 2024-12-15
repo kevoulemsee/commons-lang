@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableFloat#isNaN()Z
+false
+dbb20975ef948c854c27557b72147364
+java.lang.Float#isNaN(F)Z

@@ -1,0 +1,10 @@
+org.apache.commons.lang3.EnumUtils#getFirstEnumIgnoreCase(Ljava/lang/Class;Ljava/lang/String;Ljava/util/function/Function;Ljava/lang/Enum;)Ljava/lang/Enum;
+false
+b60c16f4107a0cc6cec71c4d0a537d12
+java.lang.Class#getEnumConstants()[Ljava/lang/Object;
+java.lang.Class#isEnum()Z
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+java.util.stream.Stream#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;

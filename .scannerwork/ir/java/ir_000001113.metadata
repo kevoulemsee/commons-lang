@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#indexOf(Ljava/lang/String;I)I
+false
+7527753be43c64bf6e462abaca627420
+==
+indexOf org.apache.commons.lang3.Strings#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I

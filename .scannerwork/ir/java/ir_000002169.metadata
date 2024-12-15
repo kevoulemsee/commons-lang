@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#right(Ljava/lang/String;I)Ljava/lang/String;
+false
+a2c57db33644396930babc9d4540b2f1
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;

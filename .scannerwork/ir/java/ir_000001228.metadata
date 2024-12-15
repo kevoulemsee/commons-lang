@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#isOpen()Z
+false
+7cb2a62f9eabfda7cbb381f049ff090e
+java.util.concurrent.atomic.AtomicReference#get()Ljava/lang/Object;
+org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#isOpen(Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;)Z

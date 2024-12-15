@@ -1,0 +1,7 @@
+org.apache.commons.lang3.Strings#startsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z
+false
+cd67be829476abff5328277f5c154dfe
+org.apache.commons.lang3.ArrayUtils#isEmpty([Ljava/lang/Object;)Z
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+startsWith org.apache.commons.lang3.Strings#startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

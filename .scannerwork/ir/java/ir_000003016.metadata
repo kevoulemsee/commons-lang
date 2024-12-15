@@ -1,0 +1,6 @@
+org.apache.commons.lang3.BitField#setByteBoolean(BZ)B
+false
+36a44026ce0ad0be391da9150f9c3a0b
+==
+clearByte org.apache.commons.lang3.BitField#clearByte(B)B
+setByte org.apache.commons.lang3.BitField#setByte(B)B

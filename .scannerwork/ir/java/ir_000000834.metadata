@@ -1,0 +1,11 @@
+org.apache.commons.lang3.ArrayUtils#toMap([Ljava/lang/Object;)Ljava/util/Map;
+false
+eeb40eec6c53a17d601a313634831a59
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.util.HashMap#<init>(I)V
+java.util.HashMap#instance-init#
+==
+getKey java.util.Map$Entry#getKey()Ljava/lang/Object;
+getValue java.util.Map$Entry#getValue()Ljava/lang/Object;
+put java.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;

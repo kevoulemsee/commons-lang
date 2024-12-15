@@ -1,0 +1,16 @@
+
+=
+indexOf2org.apache.commons.lang3.ArrayUtils#indexOf([DDD)Iu
+0intarray
+Î Î(2"double[]#valueToFind
+Î4 Î(L"double!	tolerance
+ÎN Î(d"doublearray
+Î Î(2"double[]#valueToFind
+Î4 Î(L"double!	tolerance
+ÎN Î(d"double"o[
+Y
+
+Ï Ï(8">
+indexOf3org.apache.commons.lang3.ArrayUtils#indexOf([DDID)I*2int
+
+Ï Ï(9*Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.java

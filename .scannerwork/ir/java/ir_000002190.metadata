@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#startsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z
+false
+baf78b942295250508444f985c87a474
+==
+startsWithAny org.apache.commons.lang3.Strings#startsWithAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z

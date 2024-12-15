@@ -1,0 +1,19 @@
+
+Ä
+toScaledBigDecimaljorg.apache.commons.lang3.math.NumberUtils#toScaledBigDecimal(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;x+value
+π0 π(F"java.math.BigDecimal"java.math.RoundingMode"-)org.apache.commons.lang3.math.NumberUtils+value
+π0 π(F"java.math.BigDecimal"ù]
+[
+
+∫) ∫(4"5
+#get-field# INTEGER_TWO#get-field# INTEGER_TWO"*2java.lang.Integer^
+\
+
+∫6 ∫(L"1
+#get-field# HALF_EVEN#get-field# HALF_EVEN"*2java.math.RoundingMode…
+∆
+
+∫ ∫(M"ö
+toScaledBigDecimalÉorg.apache.commons.lang3.math.NumberUtils#toScaledBigDecimal(Ljava/math/BigDecimal;ILjava/math/RoundingMode;)Ljava/math/BigDecimal;*2java.math.BigDecimal
+
+∫ ∫(N*`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.java

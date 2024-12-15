@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Character;)[C
+false
+502126e63f2bff0c233641f0dd9869c9
+java.lang.Character#charValue()C

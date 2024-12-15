@@ -1,0 +1,14 @@
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/Class;)Z
+false
+c996a22625a7b818c616a5351e29b2ae
+java.lang.Class#getComponentType()Ljava/lang/Class;
+java.lang.Class#isArray()Z
+java.lang.Class#isPrimitive()Z
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.lang3.ClassUtils#isAssignable(Ljava/lang/Class;Ljava/lang/Class;)Z
+org.apache.commons.lang3.reflect.TypeUtils#getRawType(Ljava/lang/reflect/ParameterizedType;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/Class;)Z
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z
+getGenericComponentType java.lang.reflect.GenericArrayType#getGenericComponentType()Ljava/lang/reflect/Type;

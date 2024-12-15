@@ -1,0 +1,4 @@
+org.apache.commons.lang3.StringUtils#toRootUpperCase(Ljava/lang/String;)Ljava/lang/String;
+false
+082ea11588ba50ede76e4b8a9ab1bfe1
+java.lang.String#toUpperCase(Ljava/util/Locale;)Ljava/lang/String;

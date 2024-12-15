@@ -1,0 +1,5 @@
+org.apache.commons.lang3.LongRange#of(Ljava/lang/Long;Ljava/lang/Long;)Lorg/apache/commons/lang3/LongRange;
+false
+be11981d0e6e436a2c386e99801247d6
+org.apache.commons.lang3.LongRange#<init>(Ljava/lang/Long;Ljava/lang/Long;)V
+org.apache.commons.lang3.LongRange#instance-init#

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#replaceOnce(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+5cbaa5a5f9b08a40cc9535b9a15311c7
+==
+replaceOnce org.apache.commons.lang3.Strings#replaceOnce(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

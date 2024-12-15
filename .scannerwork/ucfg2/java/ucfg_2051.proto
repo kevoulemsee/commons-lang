@@ -1,0 +1,81 @@
+
+porg.apache.commons.lang3.StringUtils#removeEndIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÄ- Ä-(,"startingBlock*þ
+startingBlock
+Ä-, Ä-(SŽ
+‹
+
+Ã- Ã-(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*5
+
+__unknown_file (
+
+strjava.lang.StringY
+W
+
+Ä-: Ä-(=
+strjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2‘
+Ž
+
+Ã- Ã-(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*8
+
+__unknown_file (
+
+removejava.lang.String\
+Z
+
+Ä-L Ä-(R
+removejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3*
+1*›
+1
+Å- Å-(`
+^
+
+Å- Å-(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""ÿü
+
+Å- Å-(0
+%1java.lang.String"horg.apache.commons.lang3.Strings#removeEnd(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*5
+
+__unknown_file (
+
+strjava.lang.String*8
+
+__unknown_file (
+
+removejava.lang.String25removeEnd(Ljava/lang/String;Ljava/lang/CharSequence;)"&
+
+Å- Å-(1
+
+%1java.lang.String:%
+
+Ä-- Ä-(>
+strjava.lang.String:(
+
+Ä-? Ä-(R
+removejava.lang.StringB("&
+$org.apache.commons.lang3.StringUtilsH

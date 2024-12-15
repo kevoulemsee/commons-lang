@@ -1,0 +1,24 @@
+
+Zorg.apache.commons.lang3.ArchUtils#getProcessor()Lorg/apache/commons/lang3/arch/Processor;c
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArchUtils.javaL L(("1*­
+1M M(¹
+¶
+M M(8
+%0java.lang.String"Gorg.apache.commons.lang3.SystemProperties#getOsArch()Ljava/lang/String;*I
+
+__unknown_file (-"+
+)org.apache.commons.lang3.SystemProperties¤
+¡
+M M(9-
+%1'org.apache.commons.lang3.arch.Processor"lorg.apache.commons.lang3.ArchUtils#getProcessor(Ljava/lang/String;)Lorg/apache/commons/lang3/arch/Processor;*B
+
+__unknown_file (&"$
+"org.apache.commons.lang3.ArchUtils*4
+
+__unknown_file (
+
+%0java.lang.String";
+M M(:/
+-
+%1'org.apache.commons.lang3.arch.ProcessorB&"$
+"org.apache.commons.lang3.ArchUtilsH

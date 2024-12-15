@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Byte;)[B
+false
+cf922a4e33bd6a4cf20d25e17f0ab9ee
+java.lang.Byte#byteValue()B

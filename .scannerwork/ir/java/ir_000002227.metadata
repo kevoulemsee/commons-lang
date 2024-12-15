@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#unwrap(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+93e46225f75fcfbceda44f811a8e5ea6
+java.lang.String#lastIndexOf(Ljava/lang/String;)I
+java.lang.String#length()I
+java.lang.String#substring(II)Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+endsWith org.apache.commons.lang3.Strings#endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z
+startsWith org.apache.commons.lang3.Strings#startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

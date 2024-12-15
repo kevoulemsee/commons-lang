@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.ExtendedMessageFormat#containsElements(Ljava/util/Collection;)Z
+false
+3068e98f7fbbf699dcbfac476d5f730d
+==
+anyMatch java.util.stream.Stream#anyMatch(Ljava/util/function/Predicate;)Z
+isEmpty java.util.Collection#isEmpty()Z
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

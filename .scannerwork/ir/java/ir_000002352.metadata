@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ObjectUtils#hashCodeMulti([Ljava/lang/Object;)I
+false
+82e8437174e72d55083ca94db929feed
+java.util.Objects#hashCode(Ljava/lang/Object;)I

@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ArrayUtils#isSorted([Ljava/lang/Comparable;)Z
+false
+4834e5179e4e20176dc0e1d210a45ece
+org.apache.commons.lang3.ArrayUtils#isSorted([Ljava/lang/Object;Ljava/util/Comparator;)Z

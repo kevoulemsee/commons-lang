@@ -1,0 +1,83 @@
+
+Horg.apache.commons.lang3.Range#fit(Ljava/lang/Object;)Ljava/lang/Object;a
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaÐ Ð("5*”
+2
+× ×(j
+h
+
+× ×(
+%4T"__id*K
+
+__unknown_file (/*- 
+org.apache.commons.lang3.Range"	
+maximum"
+
+× ×(	
+
+%4T*€
+3
+Ö Ö(æã
+
+Ö Ö(
+%3boolean"<org.apache.commons.lang3.Range#isBefore(Ljava/lang/Object;)Z*>
+
+__unknown_file (" 
+org.apache.commons.lang3.Range**
+
+__unknown_file (
+
+elementT2isBefore(Ljava/lang/Object;)*
+2
+1*”
+4
+Ô Ô(j
+h
+
+Ô Ô(
+%2T"__id*K
+
+__unknown_file (/*- 
+org.apache.commons.lang3.Range"	
+minimum"
+
+Ô Ô(	
+
+%2T*û
+5
+Ò Ò(ú
+÷
+
+Ò Ò(2
+%0T"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects**
+
+__unknown_file (
+
+elementT*'
+
+__unknown_file (	
+elementäá
+
+Ó Ó(
+%1boolean";org.apache.commons.lang3.Range#isAfter(Ljava/lang/Object;)Z*>
+
+__unknown_file (" 
+org.apache.commons.lang3.Range**
+
+__unknown_file (
+
+elementT2isAfter(Ljava/lang/Object;)*
+3
+4*-
+1
+Ù Ù("
+
+Ù Ù(
+
+elementT:
+
+Ð Ð( 
+elementTB" 
+org.apache.commons.lang3.RangeH

@@ -1,0 +1,34 @@
+
+Jorg.apache.commons.lang3.SystemUtils#getOsNameMatches(Ljava/lang/String;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemUtils.javaÆ Æ(+"1*¯
+1
+Ç Ç(P
+N
+
+Ç Ç($
+%0java.lang.String"__id*"
+
+__unknown_file (
+""µ
+²
+
+Ç Ç(3
+%1boolean"Yorg.apache.commons.lang3.SystemUtils#isOsNameMatch(Ljava/lang/String;Ljava/lang/String;)Z*D
+
+__unknown_file (("&
+$org.apache.commons.lang3.SystemUtils*4
+
+__unknown_file (
+
+%0java.lang.String*>
+
+__unknown_file ("
+ 
+osNamePrefixjava.lang.String"
+
+Ç Ç(4
+"":.
+
+Æ, Æ(E 
+osNamePrefixjava.lang.StringB("&
+$org.apache.commons.lang3.SystemUtilsX

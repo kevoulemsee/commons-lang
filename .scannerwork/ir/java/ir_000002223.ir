@@ -1,0 +1,14 @@
+
+`
+truncateTorg.apache.commons.lang3.StringUtils#truncate(Ljava/lang/String;I)Ljava/lang/String;R
+0int%str
+ÒE" ÒE(2"java.lang.StringmaxWidth
+ÒE4 ÒE(F"int%str
+ÒE" ÒE(2"java.lang.StringmaxWidth
+ÒE4 ÒE(F"int" ‹
+ˆ
+
+ÓE ÓE()"a
+truncateUorg.apache.commons.lang3.StringUtils#truncate(Ljava/lang/String;II)Ljava/lang/String;*2java.lang.String
+
+ÓE ÓE(**[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java

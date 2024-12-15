@@ -1,0 +1,11 @@
+org.apache.commons.lang3.builder.EqualsBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+false
+f48bed5109b9441adc6a997ae3af6439
+java.lang.Class#isArray()Z
+java.lang.Object#getClass()Ljava/lang/Class;
+org.apache.commons.lang3.ClassUtils#isPrimitiveOrWrapper(Ljava/lang/Class;)Z
+org.apache.commons.lang3.builder.EqualsBuilder#appendArray(Ljava/lang/Object;Ljava/lang/Object;)V
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z
+reflectionAppend org.apache.commons.lang3.builder.EqualsBuilder#reflectionAppend(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/EqualsBuilder;
+setEquals org.apache.commons.lang3.builder.EqualsBuilder#setEquals(Z)V

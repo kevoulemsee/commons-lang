@@ -1,0 +1,21 @@
+
+?org.apache.commons.lang3.builder.DiffResult#getNumberOfDiffs()Il
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffResult.javag g("1*ï
+1h h(Ñ
+Å
+h h(
+%0java.util.List"__id*Y
+
+__unknown_file (=*;-
++org.apache.commons.lang3.builder.DiffResult"
+
+diffListki
+h h(	
+%1int"java.util.List#size()I*2
+
+__unknown_file (
+
+%0java.util.List2size()"
+h h(
+""B/-
++org.apache.commons.lang3.builder.DiffResultHX

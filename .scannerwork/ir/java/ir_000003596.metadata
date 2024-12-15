@@ -1,0 +1,8 @@
+org.apache.commons.lang3.math.Fraction#multiplyBy(Lorg/apache/commons/lang3/math/Fraction;)Lorg/apache/commons/lang3/math/Fraction;
+false
+2b8cfab506722f82405a003a01baeec5
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+org.apache.commons.lang3.math.Fraction#getReducedFraction(II)Lorg/apache/commons/lang3/math/Fraction;
+org.apache.commons.lang3.math.Fraction#greatestCommonDivisor(II)I
+org.apache.commons.lang3.math.Fraction#mulAndCheck(II)I
+org.apache.commons.lang3.math.Fraction#mulPosAndCheck(II)I

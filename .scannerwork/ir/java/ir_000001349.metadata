@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableDouble#subtract(Ljava/lang/Number;)V
+false
+9d58198efd05e67c0df731646c999f5f
+==
+doubleValue java.lang.Number#doubleValue()D

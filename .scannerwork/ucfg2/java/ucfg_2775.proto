@@ -1,0 +1,29 @@
+
+forg.apache.commons.lang3.ThreadUtils#predicateThread(Ljava/lang/String;)Ljava/util/function/Predicate;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ThreadUtils.javaï% ï(4"1*•
+1
+ñ ñ(ﬂ
+‹
+
+ñ ñ(9"
+%0java.util.function.Predicate"Åorg.apache.commons.lang3.ThreadUtils#namePredicate(Ljava/lang/String;Ljava/util/function/Function;)Ljava/util/function/Predicate;*D
+
+__unknown_file (("&
+$org.apache.commons.lang3.ThreadUtils*<
+
+__unknown_file ( 
+
+
+threadNamejava.lang.String*"
+
+__unknown_file (
+"""2
+
+ñ ñ(:$
+"
+%0java.util.function.Predicate:,
+
+ï5 ï(L
+
+threadNamejava.lang.StringB("&
+$org.apache.commons.lang3.ThreadUtils

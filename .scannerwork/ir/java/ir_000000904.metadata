@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#stream()Ljava/util/stream/IntStream;
+false
+280d704240b244e95fbefaef5a2d65bd
+==
+stream java.util.BitSet#stream()Ljava/util/stream/IntStream;

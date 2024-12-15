@@ -1,0 +1,5 @@
+org.apache.commons.lang3.stream.IntStreams#of([I)Ljava/util/stream/IntStream;
+false
+8e49dede3e745f30846bded1cfb3d10b
+java.util.stream.IntStream#empty()Ljava/util/stream/IntStream;
+java.util.stream.IntStream#of([I)Ljava/util/stream/IntStream;

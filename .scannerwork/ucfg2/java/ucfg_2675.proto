@@ -1,0 +1,98 @@
+
+qorg.apache.commons.lang3.text.translate.CodePointTranslator#translate(Ljava/lang/CharSequence;ILjava/io/Writer;)I|
+r/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/translate/CodePointTranslator.java. .("startingBlock*Z
+21 1(F
+D
+1 1(	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Z
+31 1(F
+D
+1 1(	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*ˆ
+startingBlock. .([í
+è
+- -(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*=
+
+__unknown_file (!
+
+inputjava.lang.CharSequence_
+]
+.2 .(7
+inputjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%5à
+Ö
+- -(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+outjava.io.WriterU
+S
+.W .(Z
+outjava.io.Writer"__annotation*"
+
+__unknown_file (
+
+%6*
+4*”
+4/ /('Ì
+Í
+/ /(A	
+%0int";java.lang.Character#codePointAt(Ljava/lang/CharSequence;I)I*3
+
+__unknown_file ("
+java.lang.Character*=
+
+__unknown_file (!
+
+inputjava.lang.CharSequence*"
+
+__unknown_file (
+""À»
+0! 0(:
+%1boolean"Yorg.apache.commons.lang3.text.translate.CodePointTranslator#translate(ILjava/io/Writer;)Z*[
+
+__unknown_file (?=
+;org.apache.commons.lang3.text.translate.CodePointTranslator*"
+
+__unknown_file (
+""*3
+
+__unknown_file (
+
+outjava.io.Writer2translate(ILjava/io/Writer;)*
+2
+3*!
+11 1( "
+1 1( 
+"":+
+. .(8
+inputjava.lang.CharSequence: 
+
+__unknown_file (
+"":!
+.J .(Z
+outjava.io.WriterB?=
+;org.apache.commons.lang3.text.translate.CodePointTranslatorHX

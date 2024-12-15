@@ -1,0 +1,4 @@
+org.apache.commons.lang3.mutable.MutableByte#compareTo(Lorg/apache/commons/lang3/mutable/MutableByte;)I
+false
+27631d2d8a5d837dd7934cbc25414693
+org.apache.commons.lang3.math.NumberUtils#compare(BB)I

@@ -1,0 +1,31 @@
+
+ƒorg.apache.commons.lang3.Functions#asCallable(Lorg/apache/commons/lang3/Functions$FailableCallable;)Ljava/util/concurrent/Callable;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java‡" ‡(,"1*ø
+1
+ˆ ˆ(#z
+x
+
+ˆ ˆ(##
+%0java.util.concurrent.Callable"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_98$µ
+²
+
+__unknown_file (1
+#
+%0java.util.concurrent.Callable"
+
+callable"__id*]
+
+__unknown_file (A
+?
+callable3org.apache.commons.lang3.Functions$FailableCallable"3
+
+ˆ ˆ($%
+#
+%0java.util.concurrent.Callable:M
+
+‡- ‡(R?
+callable3org.apache.commons.lang3.Functions$FailableCallableB&"$
+"org.apache.commons.lang3.FunctionsH

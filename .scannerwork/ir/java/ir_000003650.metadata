@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ClassUtils#isInnerClass(Ljava/lang/Class;)Z
+false
+dccd6bef6ab45e0749bbdb4164af67f1
+java.lang.Class#getEnclosingClass()Ljava/lang/Class;

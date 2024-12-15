@@ -1,0 +1,8 @@
+org.apache.commons.lang3.concurrent.AtomicInitializer#get()Ljava/lang/Object;
+false
+dee4b940bad0a71e317f8dd09bc3df08
+java.util.concurrent.atomic.AtomicReference#compareAndSet(Ljava/lang/Object;Ljava/lang/Object;)Z
+java.util.concurrent.atomic.AtomicReference#get()Ljava/lang/Object;
+org.apache.commons.lang3.concurrent.AtomicInitializer#getNoInit()Ljava/lang/Object;
+==
+initialize org.apache.commons.lang3.concurrent.AbstractConcurrentInitializer#initialize()Ljava/lang/Object;

@@ -1,0 +1,7 @@
+org.apache.commons.lang3.Strings#prependIfMissing(Ljava/lang/String;Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Ljava/lang/String;
+false
+8acdb3ec08f87af1c77788b3578bfd07
+org.apache.commons.lang3.ArrayUtils#isNotEmpty([Ljava/lang/Object;)Z
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+startsWith org.apache.commons.lang3.Strings#startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

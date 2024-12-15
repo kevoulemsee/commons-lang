@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#replaceOnceIgnoreCase(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+e12798ae73564f915546757731b87514
+==
+replaceOnce org.apache.commons.lang3.Strings#replaceOnce(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

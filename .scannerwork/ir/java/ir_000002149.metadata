@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils#removeStart(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+false
+3190bc5128959d46d4688bef0fdda78c
+==
+removeStart org.apache.commons.lang3.Strings#removeStart(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;

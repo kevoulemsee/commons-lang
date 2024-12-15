@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableLong#getAndAdd(Ljava/lang/Number;)J
+false
+5f4d77054ae31c308442b137f56b2103
+==
+longValue java.lang.Number#longValue()J

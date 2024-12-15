@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.AbstractFutureProxy#isCancelled()Z
+false
+a3da56e80f76a482092c5ef414175fc6
+==
+isCancelled java.util.concurrent.Future#isCancelled()Z

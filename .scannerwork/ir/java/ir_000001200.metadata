@@ -1,0 +1,10 @@
+org.apache.commons.lang3.reflect.MemberUtils#getObjectTransformationCost(Ljava/lang/Class;Ljava/lang/Class;)F
+false
+349d39cd59a223786b61999eb8137a66
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+java.lang.Class#isInterface()Z
+java.lang.Class#isPrimitive()Z
+org.apache.commons.lang3.ClassUtils#isAssignable(Ljava/lang/Class;Ljava/lang/Class;)Z
+org.apache.commons.lang3.reflect.MemberUtils#getPrimitivePromotionCost(Ljava/lang/Class;Ljava/lang/Class;)F
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

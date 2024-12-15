@@ -1,0 +1,4 @@
+org.apache.commons.lang3.text.StrSubstitutor#substitute(Lorg/apache/commons/lang3/text/StrBuilder;II)Z
+false
+8ed2cc7c0436b5cbc227b1f7573abf94
+org.apache.commons.lang3.text.StrSubstitutor#substitute(Lorg/apache/commons/lang3/text/StrBuilder;IILjava/util/List;)I

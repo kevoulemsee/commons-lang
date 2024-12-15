@@ -1,0 +1,8 @@
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer#getTaskCount()I
+false
+8ba3296308010ff15c306b3fe1d4b7d6
+==
+mapToInt java.util.stream.Stream#mapToInt(Ljava/util/function/ToIntFunction;)Ljava/util/stream/IntStream;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+sum java.util.stream.IntStream#sum()I
+values java.util.Map#values()Ljava/util/Collection;

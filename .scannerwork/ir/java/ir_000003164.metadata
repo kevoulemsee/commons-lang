@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJavaUtilLoggingConfigClass()Ljava/lang/String;
+false
+cacf77ca03517d231746951a102a7018
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

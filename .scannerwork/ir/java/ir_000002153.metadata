@@ -1,0 +1,6 @@
+org.apache.commons.lang3.StringUtils#repeat(Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;
+false
+94705746c47e4c002e4c4e2e2d180fde
+org.apache.commons.lang3.StringUtils#repeat(Ljava/lang/String;I)Ljava/lang/String;
+==
+removeEnd org.apache.commons.lang3.Strings#removeEnd(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;

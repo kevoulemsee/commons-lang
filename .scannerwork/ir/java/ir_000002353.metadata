@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ObjectUtils#identityHashCodeHex(Ljava/lang/Object;)Ljava/lang/String;
+false
+43f1f64614634b11d0971d43d8a39fed
+java.lang.Integer#toHexString(I)Ljava/lang/String;
+java.lang.System#identityHashCode(Ljava/lang/Object;)I

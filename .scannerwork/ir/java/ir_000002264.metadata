@@ -1,0 +1,7 @@
+org.apache.commons.lang3.IntegerRange#toIntStream()Ljava/util/stream/IntStream;
+false
+c364cefa29a82e5896376f4d8d26384d
+java.util.stream.IntStream#rangeClosed(II)Ljava/util/stream/IntStream;
+==
+getMaximum org.apache.commons.lang3.Range#getMaximum()Ljava/lang/Object;
+getMinimum org.apache.commons.lang3.Range#getMinimum()Ljava/lang/Object;

@@ -1,0 +1,63 @@
+
+]org.apache.commons.lang3.text.ExtendedMessageFormat#containsElements(Ljava/util/Collection;)Zv
+j/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/ExtendedMessageFormat.javaû û($"4*%
+2
+ý ý("
+
+ý ý(
+""* 
+3
+ü ü( †ƒ
+
+ü ü(*
+%1boolean"java.util.Collection#isEmpty()Z*:
+
+__unknown_file (
+
+colljava.util.Collection2	isEmpty()*
+2
+1*Ç
+4
+ü ü(­
+ª
+
+ü ü(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*:
+
+__unknown_file (
+
+colljava.util.Collection*"
+
+__unknown_file (
+""*
+2
+3*Ã
+1
+ÿ ÿ(¬©
+
+ÿ ÿ(
+%2java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*:
+
+__unknown_file (
+
+colljava.util.Collection2stream()ìé
+
+ÿ ÿ(7
+%3boolean"Ajava.util.stream.Stream#anyMatch(Ljava/util/function/Predicate;)Z*;
+
+__unknown_file (
+
+%2java.util.stream.Stream*"
+
+__unknown_file (
+""2(anyMatch(Ljava/util/function/Predicate;)"
+
+ÿ ÿ(8
+"":*
+
+û% û(=
+colljava.util.CollectionB75
+3org.apache.commons.lang3.text.ExtendedMessageFormatX

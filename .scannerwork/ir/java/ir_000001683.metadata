@@ -1,0 +1,7 @@
+org.apache.commons.lang3.builder.EqualsBuilder#register(Ljava/lang/Object;Ljava/lang/Object;)V
+false
+309e654d39bc53618a990546e967631a
+org.apache.commons.lang3.builder.EqualsBuilder#getRegisterPair(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;
+org.apache.commons.lang3.builder.EqualsBuilder#getRegistry()Ljava/util/Set;
+==
+add java.util.Set#add(Ljava/lang/Object;)Z

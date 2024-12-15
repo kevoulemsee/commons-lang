@@ -1,0 +1,5 @@
+org.apache.commons.lang3.time.DateUtils#isSameDay(Ljava/util/Date;Ljava/util/Date;)Z
+false
+d4b955eb2e8d2ebb5d9d05a375f26e91
+org.apache.commons.lang3.time.DateUtils#isSameDay(Ljava/util/Calendar;Ljava/util/Calendar;)Z
+org.apache.commons.lang3.time.DateUtils#toCalendar(Ljava/util/Date;)Ljava/util/Calendar;

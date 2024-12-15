@@ -1,0 +1,4 @@
+org.apache.commons.lang3.BooleanUtils#isFalse(Ljava/lang/Boolean;)Z
+false
+cd5c0395dd5a9e9c6945c174e8b949fa
+java.lang.Boolean#equals(Ljava/lang/Object;)Z

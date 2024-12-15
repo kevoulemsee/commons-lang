@@ -1,0 +1,6 @@
+org.apache.commons.lang3.builder.HashCodeBuilder#append(D)Lorg/apache/commons/lang3/builder/HashCodeBuilder;
+false
+74901f2ac2b2e3ddf419cce7a074e517
+java.lang.Double#doubleToLongBits(D)J
+==
+append org.apache.commons.lang3.builder.HashCodeBuilder#append(J)Lorg/apache/commons/lang3/builder/HashCodeBuilder;

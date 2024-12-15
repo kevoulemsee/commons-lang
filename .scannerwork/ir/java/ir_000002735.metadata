@@ -1,0 +1,6 @@
+org.apache.commons.lang3.time.DateUtils#truncatedCompareTo(Ljava/util/Date;Ljava/util/Date;I)I
+false
+7abc7a5d2c212af182f02814fe89f980
+org.apache.commons.lang3.time.DateUtils#truncate(Ljava/util/Date;I)Ljava/util/Date;
+==
+compareTo java.util.Date#compareTo(Ljava/util/Date;)I

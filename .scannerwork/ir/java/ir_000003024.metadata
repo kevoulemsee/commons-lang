@@ -1,0 +1,7 @@
+org.apache.commons.lang3.time.DurationUtils#accept(Lorg/apache/commons/lang3/function/FailableBiConsumer;Ljava/time/Duration;)V
+false
+3cf7d97b9711835c5c377e5a751320f5
+java.time.Duration#toMillis()J
+org.apache.commons.lang3.time.DurationUtils#getNanosOfMilli(Ljava/time/Duration;)I
+==
+accept org.apache.commons.lang3.function.FailableBiConsumer#accept(Ljava/lang/Object;Ljava/lang/Object;)V

@@ -1,0 +1,47 @@
+
+\org.apache.commons.lang3.math.NumberUtils#createDouble(Ljava/lang/String;)Ljava/lang/Double;l
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javaâ â(%"3*%
+2
+ä ä("
+
+ä ä(
+""*Â
+3
+ã ã(¨
+¥
+
+ã ã(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+strjava.lang.String*"
+
+__unknown_file (
+""*
+2
+1*Š
+1
+æ æ(Ð
+Í
+
+æ æ("
+%1java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*0
+
+__unknown_file ("
+java.lang.Double*5
+
+__unknown_file (
+
+strjava.lang.String"&
+
+æ æ(#
+
+%1java.lang.Double:%
+
+â& â(6
+strjava.lang.StringB-"+
+)org.apache.commons.lang3.math.NumberUtilsH

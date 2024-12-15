@@ -1,0 +1,42 @@
+
+xorg.apache.commons.lang3.time.DurationUtils#of(Lorg/apache/commons/lang3/function/FailableRunnable;)Ljava/time/Duration;n
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.javaŒ1 Œ(3"1*ä
+1
+ (‘
+Ž
+
+ ()8
+%02org.apache.commons.lang3.function.FailableConsumer"__declareFunction*3
+
+__unknown_file (
+__sonar_lambda_110$É
+Æ
+
+__unknown_file (F
+8
+%02org.apache.commons.lang3.function.FailableConsumer"
+
+runnable"__id*\
+
+__unknown_file (@
+>
+runnable2org.apache.commons.lang3.function.FailableRunnableÈ
+Å
+
+ (*
+%2java.time.Duration"xorg.apache.commons.lang3.time.DurationUtils#of(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/time/Duration;*K
+
+__unknown_file (/"-
++org.apache.commons.lang3.time.DurationUtils*V
+
+__unknown_file (:
+8
+%02org.apache.commons.lang3.function.FailableConsumer"(
+
+ (+
+
+%2java.time.Duration:L
+
+Œ4 Œ(V>
+runnable2org.apache.commons.lang3.function.FailableRunnableB/"-
++org.apache.commons.lang3.time.DurationUtilsH

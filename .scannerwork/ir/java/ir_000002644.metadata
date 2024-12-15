@@ -1,0 +1,4 @@
+org.apache.commons.lang3.function.Failable#accept(Lorg/apache/commons/lang3/function/FailableLongConsumer;J)V
+false
+797f61b8a708e545fdd77c0533cd5cf1
+org.apache.commons.lang3.function.Failable#run(Ljava/lang/Object;Lorg/apache/commons/lang3/function/FailableRunnable;)V

@@ -1,0 +1,7 @@
+org.apache.commons.lang3.text.StrTokenizer#previous()Ljava/lang/String;
+false
+da9b45163372854a86bc83dfdb99ffb1
+java.util.NoSuchElementException#<init>()V
+java.util.NoSuchElementException#instance-init#
+==
+hasPrevious org.apache.commons.lang3.text.StrTokenizer#hasPrevious()Z

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.function.MethodInvokers#unreflect(Ljava/lang/reflect/Method;)Ljava/lang/invoke/MethodHandle;
+false
+b0eb388a53ce6ae744d0a3f1893cccb1
+java.lang.invoke.MethodHandles#lookup()Ljava/lang/invoke/MethodHandles$Lookup;
+java.lang.invoke.MethodHandles$Lookup#unreflect(Ljava/lang/reflect/Method;)Ljava/lang/invoke/MethodHandle;
+org.apache.commons.lang3.function.MethodInvokers#requireMethod(Ljava/lang/reflect/Method;)Ljava/lang/reflect/Method;

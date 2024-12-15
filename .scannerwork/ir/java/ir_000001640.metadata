@@ -1,0 +1,18 @@
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/ParameterizedType;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+false
+43a59d43cb802f99344b4e944bcc8d19
+java.lang.Class#getTypeParameters()[Ljava/lang/reflect/TypeVariable;
+java.util.HashMap#<init>()V
+java.util.HashMap#<init>(Ljava/util/Map;)V
+java.util.HashMap#instance-init#
+org.apache.commons.lang3.reflect.TypeUtils#getClosestParentType(Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/reflect/Type;
+org.apache.commons.lang3.reflect.TypeUtils#getRawType(Ljava/lang/reflect/ParameterizedType;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/ParameterizedType;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/Type;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;
+org.apache.commons.lang3.reflect.TypeUtils#isAssignable(Ljava/lang/reflect/Type;Ljava/lang/Class;)Z
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z
+getActualTypeArguments java.lang.reflect.ParameterizedType#getActualTypeArguments()[Ljava/lang/reflect/Type;
+getOrDefault java.util.Map#getOrDefault(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+getOwnerType java.lang.reflect.ParameterizedType#getOwnerType()Ljava/lang/reflect/Type;
+put java.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;

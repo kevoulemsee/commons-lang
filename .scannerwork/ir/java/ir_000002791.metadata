@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.NumberUtils#createLong(Ljava/lang/String;)Ljava/lang/Long;
+false
+52363a6a50e51f18eae2afccae675a07
+java.lang.Long#decode(Ljava/lang/String;)Ljava/lang/Long;

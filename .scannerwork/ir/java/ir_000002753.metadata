@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ThreadUtils#findThreadGroupsByName(Ljava/lang/String;)Ljava/util/Collection;
+false
+5aefaf0ed08303f60dfb2fdbd1d4b103
+org.apache.commons.lang3.ThreadUtils#findThreadGroups(Ljava/util/function/Predicate;)Ljava/util/Collection;
+org.apache.commons.lang3.ThreadUtils#predicateThreadGroup(Ljava/lang/String;)Ljava/util/function/Predicate;

@@ -1,0 +1,48 @@
+
+P__sonar_lambda_192$org.apache.commons.lang3.function.FailableDoubleUnaryOperator~
+t/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableDoubleUnaryOperator.java\ \(I"startingBlock*‡
+startingBlock\ \(I×
+Ô
+
+__unknown_file (G
+before=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__id*i
+
+__unknown_file (M*K?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"
+beforeŒ
+‰
+
+__unknown_file (a
+ FailableDoubleUnaryOperator.this=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__id*ƒ
+
+__unknown_file (g*e?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperator""
+ FailableDoubleUnaryOperator.this*
+1*ã
+1\# \(0‰†
+\1 \(H
+%2double"Oorg.apache.commons.lang3.function.FailableDoubleUnaryOperator#applyAsDouble(D)D*e
+
+__unknown_file (I
+G
+before=org.apache.commons.lang3.function.FailableDoubleUnaryOperator*"
+
+__unknown_file (
+""2applyAsDouble(D)«¨
+\# \(I
+%3double"Oorg.apache.commons.lang3.function.FailableDoubleUnaryOperator#applyAsDouble(D)D*
+
+__unknown_file (c
+a
+ FailableDoubleUnaryOperator.this=org.apache.commons.lang3.function.FailableDoubleUnaryOperator**
+
+__unknown_file (
+
+%2double2applyAsDouble(D)"
+\# \(I
+
+%3double: 
+
+__unknown_file (
+""BA?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperator

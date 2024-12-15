@@ -1,0 +1,13 @@
+
+~
+getJdkXmlElementAttributeLimit\org.apache.commons.lang3.SystemProperties#getJdkXmlElementAttributeLimit()Ljava/lang/String;/"-)org.apache.commons.lang3.SystemProperties"ØÖ
+Ç
+
+Å Å(:"]
++#get-field# JDK_XML_ELEMENT_ATTRIBUTE_LIMIT+#get-field# JDK_XML_ELEMENT_ATTRIBUTE_LIMIT"*2java.lang.Stringí
+è
+
+Å Å(;"j
+getProperty[org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;*2java.lang.String
+
+Å Å(<*`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemProperties.java

@@ -1,0 +1,7 @@
+org.apache.commons.lang3.Strings#removeStart(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;
+false
+c17c83edf72cbeff2d11d246d8354042
+java.lang.String#substring(I)Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#length(Ljava/lang/CharSequence;)I
+==
+startsWith org.apache.commons.lang3.Strings#startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z

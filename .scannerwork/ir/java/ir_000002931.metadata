@@ -1,0 +1,6 @@
+org.apache.commons.lang3.exception.ExceptionUtils#stream(Ljava/lang/Throwable;)Ljava/util/stream/Stream;
+false
+47606c69273c618240c6a85e9466ca4b
+org.apache.commons.lang3.exception.ExceptionUtils#getThrowableList(Ljava/lang/Throwable;)Ljava/util/List;
+==
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

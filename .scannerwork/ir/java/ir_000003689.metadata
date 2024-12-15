@@ -1,0 +1,5 @@
+org.apache.commons.lang3.ClassLoaderUtils#getURLs(Ljava/lang/ClassLoader;)[Ljava/net/URL;
+false
+88061a892c34d5f1d25e63f961aa9a5c
+==
+getURLs java.net.URLClassLoader#getURLs()[Ljava/net/URL;

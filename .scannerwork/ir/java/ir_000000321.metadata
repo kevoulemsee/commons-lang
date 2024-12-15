@@ -1,0 +1,6 @@
+org.apache.commons.lang3.text.StrTokenizer#setQuoteChar(C)Lorg/apache/commons/lang3/text/StrTokenizer;
+false
+fc2a6f0a4df3c66c98a62686dcb1dab8
+org.apache.commons.lang3.text.StrMatcher#charMatcher(C)Lorg/apache/commons/lang3/text/StrMatcher;
+==
+setQuoteMatcher org.apache.commons.lang3.text.StrTokenizer#setQuoteMatcher(Lorg/apache/commons/lang3/text/StrMatcher;)Lorg/apache/commons/lang3/text/StrTokenizer;

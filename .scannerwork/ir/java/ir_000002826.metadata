@@ -1,0 +1,4 @@
+org.apache.commons.lang3.math.NumberUtils#toDouble(Ljava/lang/String;)D
+false
+c46ff5cbabd35de1644a0f488cbe26d2
+org.apache.commons.lang3.math.NumberUtils#toDouble(Ljava/lang/String;D)D

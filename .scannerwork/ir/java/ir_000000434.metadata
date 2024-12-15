@@ -1,0 +1,5 @@
+org.apache.commons.lang3.concurrent.AbstractFutureProxy#cancel(Z)Z
+false
+9baf13b6637d45c2d3f095a8386ee6cf
+==
+cancel java.util.concurrent.Future#cancel(Z)Z

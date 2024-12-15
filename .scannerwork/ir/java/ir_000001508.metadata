@@ -1,0 +1,5 @@
+org.apache.commons.lang3.CharRange#iterator()Ljava/util/Iterator;
+false
+77b1a67a4f7c69de3ebbb88b715121c5
+org.apache.commons.lang3.CharRange$CharacterIterator#<init>(Lorg/apache/commons/lang3/CharRange;)V
+org.apache.commons.lang3.CharRange$CharacterIterator#instance-init#

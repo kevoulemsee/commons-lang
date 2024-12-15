@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableShort#subtract(Ljava/lang/Number;)V
+false
+5ed622b589d2b1879b3677cb3c9b8798
+==
+shortValue java.lang.Number#shortValue()S

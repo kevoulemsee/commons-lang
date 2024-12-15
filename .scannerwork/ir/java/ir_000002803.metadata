@@ -1,0 +1,5 @@
+org.apache.commons.lang3.math.NumberUtils#max([F)F
+false
+f440fc3744296ad84a7a4da7c69f4f92
+java.lang.Float#isNaN(F)Z
+org.apache.commons.lang3.math.NumberUtils#validateArray(Ljava/lang/Object;)V

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/ParameterizedType;)Ljava/util/Map;
+false
+b6f0ef63834f43a86980dc6b0f429a75
+org.apache.commons.lang3.reflect.TypeUtils#getRawType(Ljava/lang/reflect/ParameterizedType;)Ljava/lang/Class;
+org.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/ParameterizedType;Ljava/lang/Class;Ljava/util/Map;)Ljava/util/Map;

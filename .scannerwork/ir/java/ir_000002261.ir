@@ -1,0 +1,13 @@
+
+Y
+ofSorg.apache.commons.lang3.IntegerRange#of(II)Lorg/apache/commons/lang3/IntegerRange;B fromInclusive2" 2(9"inttoInclusive2; 2(P"int fromInclusive2" 2(9"inttoInclusive2; 2(P"int"–c
+a
+3 3(0"=
+valueOf/java.lang.Integer#valueOf(I)Ljava/lang/Integer;"*2java.lang.Integerc
+a
+32 3(N"=
+valueOf/java.lang.Integer#valueOf(I)Ljava/lang/Integer;"*2java.lang.Integer¹
+¶
+3 3(O"}
+ofworg.apache.commons.lang3.IntegerRange#of(Ljava/lang/Integer;Ljava/lang/Integer;)Lorg/apache/commons/lang3/IntegerRange;*2%org.apache.commons.lang3.IntegerRange
+3 3(P*\/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/IntegerRange.java

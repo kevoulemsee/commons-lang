@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#nextSetBit(I)I
+false
+8b143443c3366ad768f24c85e0619e93
+==
+nextSetBit java.util.BitSet#nextSetBit(I)I

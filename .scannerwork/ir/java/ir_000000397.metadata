@@ -1,0 +1,7 @@
+org.apache.commons.lang3.Validate#matchesPattern(Ljava/lang/CharSequence;Ljava/lang/String;)V
+false
+82ad04ceb91367c9a9dd7a58c926fc45
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+java.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z

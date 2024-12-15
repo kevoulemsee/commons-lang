@@ -1,0 +1,6 @@
+org.apache.commons.lang3.BooleanUtils#or([Ljava/lang/Boolean;)Ljava/lang/Boolean;
+false
+10628a091903127a8fe458e4db299dd0
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Boolean;)[Z
+org.apache.commons.lang3.BooleanUtils#or([Z)Z
+org.apache.commons.lang3.ObjectUtils#requireNonEmpty(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;

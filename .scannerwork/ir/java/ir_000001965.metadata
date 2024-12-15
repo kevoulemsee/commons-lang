@@ -1,0 +1,8 @@
+org.apache.commons.lang3.builder.HashCodeBuilder#isRegistered(Ljava/lang/Object;)Z
+false
+8d86793754c4e54a153e107304b233d6
+org.apache.commons.lang3.builder.HashCodeBuilder#getRegistry()Ljava/util/Set;
+org.apache.commons.lang3.builder.IDKey#<init>(Ljava/lang/Object;)V
+org.apache.commons.lang3.builder.IDKey#instance-init#
+==
+contains java.util.Set#contains(Ljava/lang/Object;)Z

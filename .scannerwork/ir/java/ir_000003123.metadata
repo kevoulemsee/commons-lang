@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJavaCompiler()Ljava/lang/String;
+false
+9bcc42462595c3dc59bec761c39080cc
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

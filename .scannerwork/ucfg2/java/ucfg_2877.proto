@@ -1,0 +1,31 @@
+
+Åorg.apache.commons.lang3.Functions#asConsumer(Lorg/apache/commons/lang3/Functions$FailableConsumer;)Ljava/util/function/Consumer;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaì" ì(,"1*Ú
+1
+î î(/x
+v
+
+î î(/!
+%0java.util.function.Consumer"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_99$≥
+∞
+
+__unknown_file (/
+!
+%0java.util.function.Consumer"
+
+consumer"__id*]
+
+__unknown_file (A
+?
+consumer3org.apache.commons.lang3.Functions$FailableConsumer"1
+
+î î(0#
+!
+%0java.util.function.Consumer:M
+
+ì- ì(R?
+consumer3org.apache.commons.lang3.Functions$FailableConsumerB&"$
+"org.apache.commons.lang3.FunctionsH

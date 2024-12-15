@@ -1,0 +1,6 @@
+org.apache.commons.lang3.reflect.MethodUtils#getAccessibleMethodFromSuperclass(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;
+false
+f296acf5518773e5cc250f6a6363d76c
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+org.apache.commons.lang3.ClassUtils#isPublic(Ljava/lang/Class;)Z
+org.apache.commons.lang3.reflect.MethodUtils#getMethodObject(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;

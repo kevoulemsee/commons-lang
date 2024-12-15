@@ -1,0 +1,47 @@
+
+>__sonar_lambda_37$org.apache.commons.lang3.concurrent.Memoizerm
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/Memoizer.javaM4 M(O"startingBlock*§
+startingBlockM4 M(O¿
+¼
+
+__unknown_file (<
+
+computable.org.apache.commons.lang3.concurrent.Computable"__id*\
+
+__unknown_file (@*>.
+,org.apache.commons.lang3.concurrent.Memoizer"
+
+computable
+}
+
+__unknown_file (
+kI"__id*S
+
+__unknown_file (7*5.
+,org.apache.commons.lang3.concurrent.Memoizer"
+kÃ
+À
+
+__unknown_file (=
+Memoizer.this,org.apache.commons.lang3.concurrent.Memoizer"__id*_
+
+__unknown_file (C*A.
+,org.apache.commons.lang3.concurrent.Memoizer"
+Memoizer.this*
+1*º
+1M: M(D“
+M: M(O
+%2O"\org.apache.commons.lang3.concurrent.Computable#compute(Ljava/lang/Object;)Ljava/lang/Object;*Z
+
+__unknown_file (>
+<
+
+computable.org.apache.commons.lang3.concurrent.Computable*$
+
+__unknown_file (
+
+kI2compute(Ljava/lang/Object;)"
+M: M(O	
+
+%2OB!
+java.util.concurrent.Callable

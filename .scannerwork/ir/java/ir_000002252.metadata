@@ -1,0 +1,9 @@
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#nextCheckIntervalData(ILorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker$CheckIntervalData;Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;J)Lorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker$CheckIntervalData;
+false
+a0bf2b1976ce130d752d46f540ef9d8d
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker#stateStrategy(Lorg/apache/commons/lang3/concurrent/AbstractCircuitBreaker$State;)Lorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker$StateStrategy;
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData#<init>(IJ)V
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData#increment(I)Lorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker$CheckIntervalData;
+org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$CheckIntervalData#instance-init#
+==
+isCheckIntervalFinished org.apache.commons.lang3.concurrent.EventCountCircuitBreaker$StateStrategy#isCheckIntervalFinished(Lorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker;Lorg/apache/commons/lang3/concurrent/EventCountCircuitBreaker$CheckIntervalData;J)Z

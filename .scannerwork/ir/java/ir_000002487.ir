@@ -1,0 +1,15 @@
+
+ô
+failableStreamÜorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;.,stream
+â7 â(Q"java.util.Collection,stream
+â7 â(Q"java.util.Collection"ìê
+ç
+
+ä ä(("a
+of[org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;*2java.util.stream.StreamÎ
+Ë
+
+ä ä()"ú
+failableStreamâorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*26org.apache.commons.lang3.stream.Streams$FailableStream
+
+ä ä(**^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java

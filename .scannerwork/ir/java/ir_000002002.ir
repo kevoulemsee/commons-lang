@@ -1,0 +1,17 @@
+
+e
+
+abbreviateWorg.apache.commons.lang3.StringUtils#abbreviate(Ljava/lang/String;II)Ljava/lang/String;€"..."java.lang.String%str
+†$ †(4"java.lang.Stringoffset
+†6 †(F"intmaxWidth
+†H †(Z"int%str
+†$ †(4"java.lang.Stringoffset
+†6 †(F"intmaxWidth
+†H †(Z"int"·¢
+Ÿ
+
+‡ ‡(7"w
+
+abbreviateiorg.apache.commons.lang3.StringUtils#abbreviate(Ljava/lang/String;Ljava/lang/String;II)Ljava/lang/String;*2java.lang.String
+
+‡ ‡(8*[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java

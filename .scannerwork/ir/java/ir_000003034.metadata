@@ -1,0 +1,9 @@
+org.apache.commons.lang3.time.DurationUtils#toMillisInt(Ljava/time/Duration;)I
+false
+a7f381be22e1d605ff234744fe852748
+java.lang.Long#intValue()I
+java.lang.Long#valueOf(J)Ljava/lang/Long;
+java.time.Duration#toMillis()J
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+==
+fit org.apache.commons.lang3.Range#fit(Ljava/lang/Object;)Ljava/lang/Object;

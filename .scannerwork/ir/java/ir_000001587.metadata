@@ -1,0 +1,15 @@
+org.apache.commons.lang3.Strings#replace(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;
+false
+86a37883fe7c483ad293754b0f7f9a24
+java.lang.Math#max(II)I
+java.lang.Math#min(II)I
+java.lang.String#length()I
+java.lang.String#toLowerCase()Ljava/lang/String;
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(Ljava/lang/CharSequence;II)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#isEmpty(Ljava/lang/CharSequence;)Z
+==
+indexOf org.apache.commons.lang3.Strings#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I

@@ -1,0 +1,27 @@
+
+Korg.apache.commons.lang3.builder.HashCodeBuilder#build()Ljava/lang/Integer;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaî î("1*­
+1
+ï ï(º·
+
+ï ï(+	
+%0int">org.apache.commons.lang3.builder.HashCodeBuilder#toHashCode()I*P
+
+__unknown_file (42
+0org.apache.commons.lang3.builder.HashCodeBuilder2toHashCode()µ
+²
+
+ï ï(,
+%1java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*1
+
+__unknown_file ("
+java.lang.Integer*'
+
+__unknown_file (
+	
+%0int"'
+
+ï ï(-
+
+%1java.lang.IntegerB42
+0org.apache.commons.lang3.builder.HashCodeBuilderH

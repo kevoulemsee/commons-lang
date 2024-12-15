@@ -1,0 +1,38 @@
+
+<__sonar_lambda_195$org.apache.commons.lang3.AppendableJoinerl
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.java†6 †(["1*‰
+1
+†@ †(A¿
+¼
+
+†I †(Z
+%6java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*$
+
+__unknown_file (
+
+eT‰†
+
+†@ †([
+%7java.lang.Appendable"Kjava.lang.Appendable#append(Ljava/lang/CharSequence;)Ljava/lang/Appendable;*7
+
+__unknown_file (
+
+ajava.lang.Appendable*4
+
+__unknown_file (
+
+%6java.lang.String2 append(Ljava/lang/CharSequence;)"*
+
+†@ †([
+
+%7java.lang.Appendable:'
+
+†7 †(9
+ajava.lang.Appendable:
+
+†: †(;
+eTB86
+4org.apache.commons.lang3.function.FailableBiConsumer

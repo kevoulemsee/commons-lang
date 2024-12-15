@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableDouble#getAndAdd(Ljava/lang/Number;)D
+false
+824aa5b3c2c116aa095168ac8780d961
+==
+doubleValue java.lang.Number#doubleValue()D

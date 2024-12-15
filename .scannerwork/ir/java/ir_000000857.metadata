@@ -1,0 +1,16 @@
+org.apache.commons.lang3.ArrayUtils#toPrimitive(Ljava/lang/Object;)Ljava/lang/Object;
+false
+954401b3368ac362ac87f68365bbae8b
+java.lang.Class#getComponentType()Ljava/lang/Class;
+java.lang.Object#getClass()Ljava/lang/Class;
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Boolean;)[Z
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Byte;)[B
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Character;)[C
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Double;)[D
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Float;)[F
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Integer;)[I
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Long;)[J
+org.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Short;)[S
+org.apache.commons.lang3.ClassUtils#wrapperToPrimitive(Ljava/lang/Class;)Ljava/lang/Class;
+==
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

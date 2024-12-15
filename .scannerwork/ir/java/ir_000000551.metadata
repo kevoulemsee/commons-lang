@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArrayUtils#containsAny([I[I)Z
+false
+24e2cb6daa6cd2a89209f5a8583c2e45
+org.apache.commons.lang3.stream.IntStreams#of([I)Ljava/util/stream/IntStream;
+==
+anyMatch java.util.stream.IntStream#anyMatch(Ljava/util/function/IntPredicate;)Z

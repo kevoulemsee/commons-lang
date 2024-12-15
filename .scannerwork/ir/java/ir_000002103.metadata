@@ -1,0 +1,6 @@
+org.apache.commons.lang3.StringUtils#join(Ljava/lang/Iterable;C)Ljava/lang/String;
+false
+d0077a4958c53deffe97395c51f062b6
+org.apache.commons.lang3.StringUtils#join(Ljava/util/Iterator;C)Ljava/lang/String;
+==
+iterator java.lang.Iterable#iterator()Ljava/util/Iterator;

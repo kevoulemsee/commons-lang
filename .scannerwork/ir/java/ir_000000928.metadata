@@ -1,0 +1,14 @@
+org.apache.commons.lang3.text.StrSubstitutor#replace(Ljava/lang/Object;Ljava/util/Properties;)Ljava/lang/String;
+false
+867af50a6ac80a255e17992c724f381c
+java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#
+org.apache.commons.lang3.text.StrSubstitutor#replace(Ljava/lang/Object;Ljava/util/Map;)Ljava/lang/String;
+==
+getProperty java.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;
+hasMoreElements java.util.Enumeration#hasMoreElements()Z
+nextElement java.util.Enumeration#nextElement()Ljava/lang/Object;
+propertyNames java.util.Properties#propertyNames()Ljava/util/Enumeration;
+put java.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+toString java.lang.Object#toString()Ljava/lang/String;

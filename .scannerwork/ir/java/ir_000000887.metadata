@@ -1,0 +1,5 @@
+org.apache.commons.lang3.util.FluentBitSet#intersects(Lorg/apache/commons/lang3/util/FluentBitSet;)Z
+false
+faa57874e464b9687a47d079ae940b91
+==
+intersects java.util.BitSet#intersects(Ljava/util/BitSet;)Z

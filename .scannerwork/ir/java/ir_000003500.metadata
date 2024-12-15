@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemUtils#getOsNameMatches(Ljava/lang/String;)Z
+false
+8e95287b1cb3d73fda910f5e9f1b7c16
+org.apache.commons.lang3.SystemUtils#isOsNameMatch(Ljava/lang/String;Ljava/lang/String;)Z

@@ -1,0 +1,6 @@
+org.apache.commons.lang3.mutable.MutableBoolean#toBoolean()Ljava/lang/Boolean;
+false
+6c44c593249698174ccccbc13aff987b
+java.lang.Boolean#valueOf(Z)Ljava/lang/Boolean;
+==
+booleanValue org.apache.commons.lang3.mutable.MutableBoolean#booleanValue()Z

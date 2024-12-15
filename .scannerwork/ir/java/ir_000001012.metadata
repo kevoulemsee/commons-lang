@@ -1,0 +1,11 @@
+org.apache.commons.lang3.CharSet#add(Ljava/lang/String;)V
+false
+f900e65431eda9c3b025099af985e272
+java.lang.String#charAt(I)C
+java.lang.String#length()I
+org.apache.commons.lang3.CharRange#is(C)Lorg/apache/commons/lang3/CharRange;
+org.apache.commons.lang3.CharRange#isIn(CC)Lorg/apache/commons/lang3/CharRange;
+org.apache.commons.lang3.CharRange#isNot(C)Lorg/apache/commons/lang3/CharRange;
+org.apache.commons.lang3.CharRange#isNotIn(CC)Lorg/apache/commons/lang3/CharRange;
+==
+add java.util.Set#add(Ljava/lang/Object;)Z

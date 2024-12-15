@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#replaceFirst(Lorg/apache/commons/lang3/text/StrMatcher;Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+73146b5abc5d301ff5117560e5df06e0
+==
+replace org.apache.commons.lang3.text.StrBuilder#replace(Lorg/apache/commons/lang3/text/StrMatcher;Ljava/lang/String;III)Lorg/apache/commons/lang3/text/StrBuilder;

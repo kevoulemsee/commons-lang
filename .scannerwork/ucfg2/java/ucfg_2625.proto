@@ -1,0 +1,30 @@
+
+‘org.apache.commons.lang3.function.Failable#asBiPredicate(Lorg/apache/commons/lang3/function/FailableBiPredicate;)Ljava/util/function/BiPredicate;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaÔ+ Ô(8"1*ÿ
+1
+Õ Õ(B{
+y
+
+Õ Õ(B$
+%0java.util.function.BiPredicate"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_75$º
+·
+
+__unknown_file (3
+$
+%0java.util.function.BiPredicate"
+	predicate"__id*`
+
+__unknown_file (D
+B
+	predicate5org.apache.commons.lang3.function.FailableBiPredicate"4
+
+Õ Õ(C&
+$
+%0java.util.function.BiPredicate:P
+
+Ô9 Ô(eB
+	predicate5org.apache.commons.lang3.function.FailableBiPredicateB.",
+*org.apache.commons.lang3.function.FailableH

@@ -1,0 +1,8 @@
+org.apache.commons.lang3.ObjectUtils#firstNonNull([Ljava/lang/Object;)Ljava/lang/Object;
+false
+0f70ec684214df77f1a1d7a044f33f83
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+org.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;

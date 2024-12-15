@@ -1,0 +1,6 @@
+org.apache.commons.lang3.concurrent.ThresholdCircuitBreaker#close()V
+false
+139a3bd595d7e18feffda75c69ec9602
+java.util.concurrent.atomic.AtomicLong#set(J)V
+==
+close org.apache.commons.lang3.concurrent.AbstractCircuitBreaker#close()V

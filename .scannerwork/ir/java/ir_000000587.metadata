@@ -1,0 +1,6 @@
+org.apache.commons.lang3.ArrayUtils#indexOf([DDI)I
+false
+0c4ea5cd68c06cd46dd0108e2a76bb82
+java.lang.Double#isNaN(D)Z
+org.apache.commons.lang3.ArrayUtils#isEmpty([D)Z
+org.apache.commons.lang3.ArrayUtils#max0(I)I

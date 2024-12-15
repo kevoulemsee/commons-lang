@@ -1,0 +1,7 @@
+org.apache.commons.lang3.math.Fraction#invert()Lorg/apache/commons/lang3/math/Fraction;
+false
+0938249986a34bcab344651951df0f7b
+java.lang.ArithmeticException#<init>(Ljava/lang/String;)V
+java.lang.ArithmeticException#instance-init#
+org.apache.commons.lang3.math.Fraction#<init>(II)V
+org.apache.commons.lang3.math.Fraction#instance-init#

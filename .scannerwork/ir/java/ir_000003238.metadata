@@ -1,0 +1,4 @@
+org.apache.commons.lang3.SystemProperties#getJdkXmlJdkCatalogResolve()Ljava/lang/String;
+false
+798dfe4392b9a2bc02c7c5802fc27513
+org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableShort#getAndAdd(Ljava/lang/Number;)S
+false
+9943ecd475d2de3d43275bc8c045060b
+==
+shortValue java.lang.Number#shortValue()S

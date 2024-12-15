@@ -1,0 +1,8 @@
+org.apache.commons.lang3.math.Fraction#toProperString()Ljava/lang/String;
+false
+fbedb5d54619db4595ee07d9b88a1367
+java.lang.Integer#toString(I)Ljava/lang/String;
+org.apache.commons.lang3.math.Fraction#getDenominator()I
+org.apache.commons.lang3.math.Fraction#getNumerator()I
+org.apache.commons.lang3.math.Fraction#getProperNumerator()I
+org.apache.commons.lang3.math.Fraction#getProperWhole()I

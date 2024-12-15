@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils#join(Ljava/util/Iterator;C)Ljava/lang/String;
+false
+8b46cd4dc039ce98620da609f45a9923
+java.lang.String#valueOf(C)Ljava/lang/String;
+org.apache.commons.lang3.StringUtils#toString(Ljava/lang/Object;)Ljava/lang/String;
+org.apache.commons.lang3.stream.LangCollectors#joining(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/util/function/Function;)Ljava/util/stream/Collector;
+org.apache.commons.lang3.stream.Streams#of(Ljava/util/Iterator;)Ljava/util/stream/Stream;
+==
+collect java.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;
+hasNext java.util.Iterator#hasNext()Z

@@ -1,0 +1,7 @@
+org.apache.commons.lang3.concurrent.AbstractConcurrentInitializer#<init>()V
+false
+0377a44c23274dfe728bab81761d6777
+org.apache.commons.lang3.function.FailableConsumer#nop()Lorg/apache/commons/lang3/function/FailableConsumer;
+org.apache.commons.lang3.function.FailableSupplier#nul()Lorg/apache/commons/lang3/function/FailableSupplier;
+==
+<init> org.apache.commons.lang3.concurrent.AbstractConcurrentInitializer#<init>(Lorg/apache/commons/lang3/function/FailableSupplier;Lorg/apache/commons/lang3/function/FailableConsumer;)V

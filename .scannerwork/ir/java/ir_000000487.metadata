@@ -1,0 +1,5 @@
+org.apache.commons.lang3.mutable.MutableByte#setValue(Ljava/lang/Number;)V
+false
+08eaa304d7d60f104e84ac867142132b
+==
+byteValue java.lang.Number#byteValue()B

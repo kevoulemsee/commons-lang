@@ -1,0 +1,21 @@
+
+h
+getOsMatchesXorg.apache.commons.lang3.SystemUtils#getOsMatches(Ljava/lang/String;Ljava/lang/String;)Zç.osNamePrefix
+∂( ∂(A"java.lang.String1osVersionPrefix
+∂C ∂(_"java.lang.String"($org.apache.commons.lang3.SystemUtils.osNamePrefix
+∂( ∂(A"java.lang.String1osVersionPrefix
+∂C ∂(_"java.lang.String"T
+R
+
+∑ ∑( "-
+#get-field# OS_NAME#get-field# OS_NAME"*2java.lang.StringZ
+X
+
+∑" ∑(,"3
+#get-field# OS_VERSION#get-field# OS_VERSION"*2java.lang.String©
+¶
+
+∑ ∑(L"Ü
+	isOsMatchyorg.apache.commons.lang3.SystemUtils#isOsMatch(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z*2boolean
+
+∑ ∑(M*[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemUtils.java

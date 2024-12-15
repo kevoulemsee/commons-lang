@@ -1,0 +1,4 @@
+org.apache.commons.lang3.ClassUtils#hierarchy(Ljava/lang/Class;)Ljava/lang/Iterable;
+false
+94767f384ea6a014e6e884c1e71806bd
+org.apache.commons.lang3.ClassUtils#hierarchy(Ljava/lang/Class;Lorg/apache/commons/lang3/ClassUtils$Interfaces;)Ljava/lang/Iterable;

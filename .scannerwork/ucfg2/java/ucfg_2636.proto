@@ -1,0 +1,33 @@
+
+__sonar_lambda_81$m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java— —(""startingBlock*à
+startingBlock
+— —("½
+º
+
+__unknown_file (>
+supplier2org.apache.commons.lang3.function.FailableSupplier"__id*X
+
+__unknown_file (<*:,
+*org.apache.commons.lang3.function.Failable"
+
+supplier*
+1*å
+1
+— —(º
+·
+
+— —("
+%1T"vorg.apache.commons.lang3.function.Failable#get(Lorg/apache/commons/lang3/function/FailableSupplier;)Ljava/lang/Object;*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.function.Failable*\
+
+__unknown_file (@
+>
+supplier2org.apache.commons.lang3.function.FailableSupplier"
+
+— —("	
+
+%1TB
+java.util.function.Supplier

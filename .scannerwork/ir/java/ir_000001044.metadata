@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.StrBuilder#appendAll(Ljava/util/Iterator;)Lorg/apache/commons/lang3/text/StrBuilder;
+false
+7e2425bc9bf59a06bc43cfa632d01c41
+==
+forEachRemaining java.util.Iterator#forEachRemaining(Ljava/util/function/Consumer;)V

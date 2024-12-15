@@ -1,0 +1,23 @@
+
+^
+toIntegerObjectKorg.apache.commons.lang3.BooleanUtils#toIntegerObject(Z)Ljava/lang/Integer;Nbool
+­* ­(<"boolean"-)org.apache.commons.lang3.math.NumberUtilsbool
+­* ­(<"boolean".,"*
+
+® ®( *
+® ®(2
+®. ®(/"s]
+[
+
+® ®(-"5
+#get-field# INTEGER_ONE#get-field# INTEGER_ONE"*2java.lang.Integer
+
+® ®(-"u_
+]
+
+®0 ®(H"7
+#get-field# INTEGER_ZERO#get-field# INTEGER_ZERO"*2java.lang.Integer
+
+®0 ®(H"&*
+
+® ®(I*\/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BooleanUtils.java

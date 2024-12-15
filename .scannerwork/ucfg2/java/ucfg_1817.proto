@@ -1,20 +1,29 @@
 
-Iorg.apache.commons.lang3.mutable.MutableLong#toString()Ljava/lang/String;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableLong.javaï ï("1*æ
+Eorg.apache.commons.lang3.mutable.MutableLong#toLong()Ljava/lang/Long;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableLong.javaå å("1*–
 1
-ð ð(¬
-©
+æ æ(±®
 
-ð ð($
-%0java.lang.String"-java.lang.String#valueOf(J)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*"
-
-__unknown_file (
-"""&
+æ æ('
 
-ð ð(%
-
-%0java.lang.StringB0.
+%0long"9org.apache.commons.lang3.mutable.MutableLong#longValue()J*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.mutable.MutableLong2longValue()ª
+§
+
+æ æ((
+%1java.lang.Long")java.lang.Long#valueOf(J)Ljava/lang/Long;*.
+
+__unknown_file ("
+java.lang.Long*(
+
+__unknown_file (
+
+
+%0long"$
+
+æ æ()
+
+%1java.lang.LongB0.
 ,org.apache.commons.lang3.mutable.MutableLongH

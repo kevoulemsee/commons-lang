@@ -1,9 +1,15 @@
 
->org.apache.commons.lang3.builder.HashCodeBuilder#toHashCode()Is
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaï ï("1*%
+<org.apache.commons.lang3.builder.HashCodeBuilder#hashCode()Is
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaå å("1*‚
 1
-ñ ñ("
+ç ç(∫∑
 
-ñ ñ(
+ç ç(	
+%0int">org.apache.commons.lang3.builder.HashCodeBuilder#toHashCode()I*P
+
+__unknown_file (42
+0org.apache.commons.lang3.builder.HashCodeBuilder2toHashCode()"
+
+ç ç(
 ""B42
 0org.apache.commons.lang3.builder.HashCodeBuilderHX

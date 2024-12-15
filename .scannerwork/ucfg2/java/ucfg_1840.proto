@@ -1,28 +1,28 @@
 
-Worg.apache.commons.lang3.Streams#toArray(Ljava/lang/Class;)Ljava/util/stream/Collector;c
-W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Streams.java¤+ ¤(2"1*Æ
+sorg.apache.commons.lang3.Streams#stream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/Streams$FailableStream;c
+W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Streams.java—( —(."1*Ð
 1
-¥$ ¥(0vt
+˜$ ˜(*vt
 
-¥ ¥(#5
-%0/org.apache.commons.lang3.Streams$ArrayCollector"/org.apache.commons.lang3.Streams$ArrayCollectorõ
-ò
+˜ ˜(#5
+%0/org.apache.commons.lang3.Streams$FailableStream"/org.apache.commons.lang3.Streams$FailableStreamÿ
+ü
 
-¥ ¥(1
-%1"Jorg.apache.commons.lang3.Streams$ArrayCollector#<init>(Ljava/lang/Class;)V*S
+˜ ˜(+
+%1"Rorg.apache.commons.lang3.Streams$FailableStream#<init>(Ljava/util/stream/Stream;)V*S
 
 __unknown_file (7
 5
-%0/org.apache.commons.lang3.Streams$ArrayCollector*=
+%0/org.apache.commons.lang3.Streams$FailableStream*?
 
-__unknown_file (!
-
-pElementTypejava.lang.Class"E
+__unknown_file (#
+!
+streamjava.util.stream.Stream"E
 
-¥ ¥(27
+˜ ˜(,7
 5
-%0/org.apache.commons.lang3.Streams$ArrayCollector:-
+%0/org.apache.commons.lang3.Streams$FailableStream:/
 
-¤3 ¤(N
-pElementTypejava.lang.ClassB$""
+—/ —(E!
+streamjava.util.stream.StreamB$""
  org.apache.commons.lang3.StreamsH

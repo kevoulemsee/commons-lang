@@ -1,11 +1,11 @@
 
->org.apache.commons.lang3.ArrayUtils#removeAllOccurences([CC)[Cf
-Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.javað* ð*(,"startingBlock*ü
+>org.apache.commons.lang3.ArrayUtils#removeAllOccurences([BB)[Bf
+Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ArrayUtils.javaÝ* Ý*(,"startingBlock*ü
 startingBlock
-ð*, ð*(T†
+Ý*, Ý*(T†
 ƒ
 
-ï* ï*(
+Ü* Ü*(
 %2"
 __annotate*4
 
@@ -14,35 +14,35 @@ __annotate*4
 
 __unknown_file (
 
-arraychar[]Q
+arraybyte[]Q
 O
 
-ð*: ð*(?
-arraychar[]"__annotation*"
+Ý*: Ý*(?
+arraybyte[]"__annotation*"
 
 __unknown_file (
 
 %2*
 1*ú
 1
-ñ* ñ*(!…
+Þ* Þ*(!…
 ‚
 
-ñ*2 ñ*(K
-%0java.util.BitSet"Dorg.apache.commons.lang3.ArrayUtils#indexesOf([CC)Ljava/util/BitSet;*C
+Þ*2 Þ*(K
+%0java.util.BitSet"Dorg.apache.commons.lang3.ArrayUtils#indexesOf([BB)Ljava/util/BitSet;*C
 
 __unknown_file ('"%
 #org.apache.commons.lang3.ArrayUtils*-
 
 __unknown_file (
 
-arraychar[]*"
+arraybyte[]*"
 
 __unknown_file (
 ""¸
 µ
 
-ñ* ñ*(L
+Þ* Þ*(L
 %1java.lang.Object"eorg.apache.commons.lang3.ArrayUtils#removeAll(Ljava/lang/Object;Ljava/util/BitSet;)Ljava/lang/Object;*C
 
 __unknown_file ('"%
@@ -50,18 +50,18 @@ O
 
 __unknown_file (
 
-arraychar[]*4
+arraybyte[]*4
 
 __unknown_file (
 
 %0java.util.BitSet"&
 
-ñ* ñ*(M
+Þ* Þ*(M
 
 %1java.lang.Object:
 
-ð*- ð*(@
-arraychar[]: 
+Ý*- Ý*(@
+arraybyte[]: 
 
 __unknown_file (
 ""B'"%

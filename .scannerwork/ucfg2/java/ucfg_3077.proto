@@ -1,112 +1,50 @@
 
-¹org.apache.commons.lang3.stream.LangCollectors#joining(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/util/function/Function;)Ljava/util/stream/Collector;q
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javaÐ/ Ð(6"1*ú
+__sonar_lambda_113$q
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javaÒX Ò(z"startingBlock*Í
+startingBlock
+ÒX Ò(zª
+§
+
+__unknown_file ('
+toStringjava.util.function.Function"__id*\
+
+__unknown_file (@*>0
+.org.apache.commons.lang3.stream.LangCollectors"
+
+toString*
+1*Õ
 1
-Ò% Ò(Vy
-w
+Òb Ò(c‡„
 
-Ò% Ò(V!
-%0java.util.function.Supplier"__declareFunction*3
-
-__unknown_file (
-__sonar_lambda_111$˜
-•
-
-__unknown_file (0
-!
-%0java.util.function.Supplier"
-	delimiter"__id*A
-
-__unknown_file (%
-#
-	delimiterjava.lang.CharSequence’
-
-
-__unknown_file (-
-!
-%0java.util.function.Supplier"
-prefix"__id*>
-
-__unknown_file ("
- 
-prefixjava.lang.CharSequence’
-
-
-__unknown_file (-
-!
-%0java.util.function.Supplier"
-suffix"__id*>
-
-__unknown_file ("
- 
-suffixjava.lang.CharSequence{
-y
-
-ÒX Ò(z#
-%3java.util.function.BiConsumer"__declareFunction*3
-
-__unknown_file (
-__sonar_lambda_112$
-š
-
-__unknown_file (1
-#
-%3java.util.function.BiConsumer"
-
-toString"__id*E
+Òh Ò(y
+%4java.lang.String"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*E
 
 __unknown_file ()
 '
-toStringjava.util.function.FunctionM
-K
-
-Ó$ Ó(+
-%6java.util.Set"__id*"
+toStringjava.util.function.Function*3
 
-__unknown_file (
-""•’
+__unknown_file (
+
+tjava.lang.Object2apply(Ljava/lang/Object;)‹ˆ
 
-Ò Ò($D
-%7>org.apache.commons.lang3.stream.LangCollectors$SimpleCollector">org.apache.commons.lang3.stream.LangCollectors$SimpleCollectorÎ
-Ë
+Òb Ò(z
+%5java.util.StringJoiner"Ljava.util.StringJoiner#add(Ljava/lang/CharSequence;)Ljava/util/StringJoiner;*9
+
+__unknown_file (
+
+ajava.util.StringJoiner*4
+
+__unknown_file (
+
+%4java.lang.String2add(Ljava/lang/CharSequence;)",
 
-Ò Ó(,
-%8"Óorg.apache.commons.lang3.stream.LangCollectors$SimpleCollector#<init>(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BinaryOperator;Ljava/util/function/Function;Ljava/util/Set;)V*b
-
-__unknown_file (F
-D
-%7>org.apache.commons.lang3.stream.LangCollectors$SimpleCollector*?
-
-__unknown_file (#
-!
-%0java.util.function.Supplier*A
-
-__unknown_file (%
-#
-%3java.util.function.BiConsumer*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*1
-
-__unknown_file (
-
-%6java.util.Set"T
+Òb Ò(z
+
+%5java.util.StringJoiner:)
 
-Ò Ó(-F
-D
-%7>org.apache.commons.lang3.stream.LangCollectors$SimpleCollector:1
+ÒY Ò([
+ajava.util.StringJoiner:#
 
-Ð7 Ð(T#
-	delimiterjava.lang.CharSequence:.
-
-ÐU Ð(o 
-prefixjava.lang.CharSequence:/
-Ðp Ð(Š 
-suffixjava.lang.CharSequence:5
-
-Ñ Ñ(/'
-toStringjava.util.function.FunctionB2"0
-.org.apache.commons.lang3.stream.LangCollectorsH
+Ò\ Ò(]
+tjava.lang.ObjectB!
+java.util.function.BiConsumer

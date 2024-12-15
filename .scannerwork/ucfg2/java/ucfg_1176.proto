@@ -1,19 +1,9 @@
 
-<org.apache.commons.lang3.mutable.MutableDouble#isInfinite()Zq
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaÄ Ä("1*½
+:org.apache.commons.lang3.mutable.MutableDouble#intValue()Iq
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.java» »("1*%
 1
-Å Å(•
-’
+¼ ¼("
 
-Å Å('
-%0boolean"java.lang.Double#isInfinite(D)Z*0
-
-__unknown_file ("
-java.lang.Double*"
-
-__unknown_file (
-"""
-
-Å Å((
+¼ ¼(
 ""B20
 .org.apache.commons.lang3.mutable.MutableDoubleHX

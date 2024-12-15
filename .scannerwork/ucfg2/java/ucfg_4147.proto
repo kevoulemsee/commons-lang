@@ -1,14 +1,142 @@
 
-xorg.apache.commons.lang3.function.FailableToLongFunction#nop()Lorg/apache/commons/lang3/function/FailableToLongFunction;y
-o/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableToLongFunction.java,A ,(D"1*”
-1- -(v
-t
-- -(>
-%08org.apache.commons.lang3.function.FailableToLongFunction"__id*"
+Zorg.apache.commons.lang3.text.translate.NumericEntityEscaper#translate(ILjava/io/Writer;)Z}
+s/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/translate/NumericEntityEscaper.javaj j("startingBlock*!
+2p p("
+p p(
+""*´
+3o) o(2ì
+ê
+o) o(;
+%3boolean"	__compare*"
 
 __unknown_file (
-"""L
-- -(@
->
-%08org.apache.commons.lang3.function.FailableToLongFunctionB<":
-8org.apache.commons.lang3.function.FailableToLongFunctionH
+<=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*É
+startingBlockj j(Cà
+Ö
+i i(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+outjava.io.WriterU
+S
+j? j(B
+outjava.io.Writer"__annotation*"
+
+__unknown_file (
+
+%8*
+4
+7*´
+4o o(ì
+ê
+o o(%
+%2boolean"	__compare*"
+
+__unknown_file (
+>=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+3
+1*!
+5m m("
+m m(
+""*™
+6l% l(.í
+è
+l% l(6
+%1boolean"	__compare*!
+
+__unknown_file (
+>*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+5
+1*™
+7l l(í
+è
+l l(!
+%0boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+5
+6*î
+1s s(∏µ
+s s(
+
+%4void")java.io.Writer#write(Ljava/lang/String;)V*3
+
+__unknown_file (
+
+outjava.io.Writer*"
+
+__unknown_file (
+&#2write(Ljava/lang/String;)–
+Õ
+t t(1
+%5java.lang.String"0java.lang.Integer#toString(II)Ljava/lang/String;*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2
+ «
+t t(2
+
+%6void")java.io.Writer#write(Ljava/lang/String;)V*3
+
+__unknown_file (
+
+outjava.io.Writer*4
+
+__unknown_file (
+
+%5java.lang.String2write(Ljava/lang/String;)ïí
+u u(
+
+%7void"java.io.Writer#write(I)V*3
+
+__unknown_file (
+
+outjava.io.Writer*!
+
+__unknown_file (
+;2write(I)"
+v v(
+"": 
+
+__unknown_file (
+"":!
+j2 j(B
+outjava.io.WriterB@>
+<org.apache.commons.lang3.text.translate.NumericEntityEscaperHX

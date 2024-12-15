@@ -1,18 +1,18 @@
 
-Iorg.apache.commons.lang3.tuple.MutableTriple#getRight()Ljava/lang/Object;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/MutableTriple.java‘ ‘("1* 
+Jorg.apache.commons.lang3.tuple.MutableTriple#getMiddle()Ljava/lang/Object;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/MutableTriple.java‰ ‰("1*¡
 1
-’ ’(v
-t
+Š Š(w
+u
 
-’ ’(
-%0R"__id*W
+Š Š(
+%0M"__id*X
 
-__unknown_file (;*9.
-,org.apache.commons.lang3.tuple.MutableTriple"
-right"
+__unknown_file (<*:.
+,org.apache.commons.lang3.tuple.MutableTriple"
+middle"
 
-’ ’(	
+Š Š(	
 
-%0RB0.
+%0MB0.
 ,org.apache.commons.lang3.tuple.MutableTripleH

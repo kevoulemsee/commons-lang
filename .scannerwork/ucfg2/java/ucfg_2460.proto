@@ -1,74 +1,47 @@
 
-]org.apache.commons.lang3.stream.Streams#streamOf(Ljava/lang/Object;)Ljava/util/stream/Stream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java¾! ¾()"4*ã
-2
-¿0 ¿(6Ú
-×
+org.apache.commons.lang3.stream.Streams#stream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaº( º(."startingBlock* 
+startingBlock
+º. º(F˜
+•
 
-¿0 ¿(@
-%3java.util.stream.Stream"Gjava.util.stream.Stream#of(Ljava/lang/Object;)Ljava/util/stream/Stream;*7
+¹ ¹(
+%1"
+__annotate*4
 
-__unknown_file ("
-java.util.stream.Stream*(
+__unknown_file (
+java.lang.Deprecated*?
 
-__unknown_file (
+__unknown_file (#
+!
+streamjava.util.stream.Streamc
+a
 
-
-valueTp
-n
-
-¿0 ¿(@
-%1java.util.stream.Stream"__id*;
+º? º(E!
+streamjava.util.stream.Stream"__annotation*"
 
-__unknown_file (
-
-%3java.util.stream.Stream*
-1*ª
-3
-¿ ¿(%¡
-ž
-
-¿ ¿(-
-%2java.util.stream.Stream"8java.util.stream.Stream#empty()Ljava/util/stream/Stream;*7
-
-__unknown_file ("
-java.util.stream.Streamp
-n
-
-¿ ¿(-
-%1java.util.stream.Stream"__id*;
-
-__unknown_file (
-
-%2java.util.stream.Stream*
-1*µ
-4
-¿ ¿(›
-˜
-
-¿ ¿(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*(
-
-__unknown_file (
-
-
-valueT*"
-
-__unknown_file (
-""*
-2
-3*>
+__unknown_file (
+
+%1*
+1*Ã
 1
-¿ ¿(A"-
+» »(ã
+à
 
-¿ ¿(A
-
-%1java.util.stream.Stream:
+» »(%<
+%06org.apache.commons.lang3.stream.Streams$FailableStream"‰org.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*?
+
+__unknown_file (#
+!
+streamjava.util.stream.Stream"L
 
-¾* ¾(7
+» »(&>
+<
+%06org.apache.commons.lang3.stream.Streams$FailableStream:/
 
-valueTB+")
-'org.apache.commons.lang3.stream.Streams
+º/ º(E!
+streamjava.util.stream.StreamB+")
+'org.apache.commons.lang3.stream.StreamsH

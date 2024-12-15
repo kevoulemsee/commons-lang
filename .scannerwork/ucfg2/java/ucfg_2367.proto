@@ -1,23 +1,14 @@
 
-jorg.apache.commons.lang3.tuple.ImmutablePair#left(Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/Pair;m
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/ImmutablePair.javaR$ R(("1*´
-1S S(â
-ß
-S S(2
-%0,org.apache.commons.lang3.tuple.ImmutablePair"ƒorg.apache.commons.lang3.tuple.ImmutablePair#of(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/tuple/ImmutablePair;*L
-
-__unknown_file (0".
-,org.apache.commons.lang3.tuple.ImmutablePair*'
-
-__unknown_file (
-	
-leftL*"
+horg.apache.commons.lang3.tuple.ImmutablePair#emptyArray()[Lorg/apache/commons/lang3/tuple/ImmutablePair;m
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/ImmutablePair.javaB/ B(9"1*¿
+1C' C(2l
+j
+C' C(24
+%0.org.apache.commons.lang3.tuple.ImmutablePair[]"__id*"
 
 __unknown_file (
-"""@
-S S(4
-2
-%0,org.apache.commons.lang3.tuple.ImmutablePair:
-R) R(5	
-leftLB0".
+"""B
+C C(36
+4
+%0.org.apache.commons.lang3.tuple.ImmutablePair[]B0".
 ,org.apache.commons.lang3.tuple.ImmutablePairH

@@ -1,11 +1,10 @@
 
-zorg.apache.commons.lang3.StringUtils#replaceOnce(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÁ4 Á4($"startingBlock*à
-startingBlock
-Á4$ Á4(lè
+Åorg.apache.commons.lang3.StringUtils#replaceIgnoreCase(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java 4  4(*"startingBlock*â
+startingBlock 4*  4(Åè
 å
 
-Ê4 Ê4(
+…4 …4(
 %2"
 __annotate*4
 
@@ -17,7 +16,7 @@ __annotate*4
 textjava.lang.StringZ
 X
 
-Á42 Á4(6
+ 48  4(<
 textjava.lang.String"__annotation*"
 
 __unknown_file (
@@ -25,7 +24,7 @@ X
 %2ó
 î
 
-Ê4 Ê4(
+…4 …4(
 %3"
 __annotate*4
 
@@ -37,7 +36,7 @@ __annotate*4
 searchStringjava.lang.Stringb
 `
 
-Á4E Á4(Q 
+ 4K  4(W 
 searchStringjava.lang.String"__annotation*"
 
 __unknown_file (
@@ -45,7 +44,7 @@ __annotate*4
 %3ñ
 ì
 
-Ê4 Ê4(
+…4 …4(
 %4"
 __annotate*4
 
@@ -57,25 +56,25 @@ __annotate*4
 replacementjava.lang.Stringa
 _
 
-Á4` Á4(k
+ 4f  4(q
 replacementjava.lang.String"__annotation*"
 
 __unknown_file (
 
 %4*
-1*˝
+1*õ
 1
-Ë4 Ë4(`
+À4 À4(`
 ^
 
-Ë4 Ë4(&
+À4 À4(&
 %0 org.apache.commons.lang3.Strings"__id*"
 
 __unknown_file (
-""·ﬁ
+""ˇ¸
 
-Ë4 Ë4(F
-%1java.lang.String"vorg.apache.commons.lang3.Strings#replaceOnce(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*D
+À4 À4(G
+%1java.lang.String"sorg.apache.commons.lang3.Strings#replace(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;*D
 
 __unknown_file ((
 &
@@ -91,18 +90,24 @@ _
 
 __unknown_file (!
 
-replacementjava.lang.String2CreplaceOnce(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)"&
+replacementjava.lang.String*"
+
+__unknown_file (
+""2@replace(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)"&
 
-Ë4 Ë4(G
+À4 À4(H
 
 %1java.lang.String:&
 
-Á4% Á4(7
+ 4+  4(=
 textjava.lang.String:.
 
-Á48 Á4(R 
+ 4>  4(X 
 searchStringjava.lang.String:-
 
-Á4S Á4(k
-replacementjava.lang.StringB("&
+ 4Y  4(r
+replacementjava.lang.String: 
+
+__unknown_file (
+""B("&
 $org.apache.commons.lang3.StringUtilsH

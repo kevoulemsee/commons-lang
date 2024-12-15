@@ -1,12 +1,12 @@
 
-6org.apache.commons.lang3.mutable.MutableFloat#isNaN()Zp
-d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableFloat.javaŒ Œ("1*∂
+;org.apache.commons.lang3.mutable.MutableFloat#isInfinite()Zp
+d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableFloat.java≈ ≈("1*ª
 1
-œ œ(é
-ã
+∆ ∆(ì
+ê
 
-œ œ(!
-%0boolean"java.lang.Float#isNaN(F)Z*/
+∆ ∆(&
+%0boolean"java.lang.Float#isInfinite(F)Z*/
 
 __unknown_file ("
 java.lang.Float*"
@@ -14,6 +14,6 @@ d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/muta
 __unknown_file (
 """
 
-œ œ("
+∆ ∆('
 ""B1/
 -org.apache.commons.lang3.mutable.MutableFloatHX

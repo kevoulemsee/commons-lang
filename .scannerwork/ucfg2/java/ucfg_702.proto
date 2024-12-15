@@ -1,9 +1,9 @@
 
-xorg.apache.commons.lang3.function.MethodInvokers#asBiFunction(Ljava/lang/reflect/Method;)Ljava/util/function/BiFunction;q
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javam0 m(<"startingBlock*¢
-startingBlockm< m(Q
+xorg.apache.commons.lang3.function.MethodInvokers#asBiConsumer(Ljava/lang/reflect/Method;)Ljava/util/function/BiConsumer;q
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javaT* T(6"startingBlock*¢
+startingBlockT6 T(K
 š
-l l("
+S S("
 %1"
 __annotate*:
 
@@ -14,17 +14,17 @@ __annotate*:
 "
 methodjava.lang.reflect.Methodb
 `
-mJ m(P"
+TD T(J"
 methodjava.lang.reflect.Method"__annotation*"
 
 __unknown_file (
 
 %1*
 1*³
-1n n("ð
+1U U("ð
 í
-n n(<#
-%0java.util.function.BiFunction"ƒorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
+U U(<#
+%0java.util.function.BiConsumer"ƒorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
 
 __unknown_file (4"2
 0org.apache.commons.lang3.function.MethodInvokers*"
@@ -35,9 +35,9 @@ __annotate*:
 __unknown_file ($
 "
 methodjava.lang.reflect.Method"1
-n n(=%
+U U(=%
 #
-%0java.util.function.BiFunction:.
-m= m(P"
+%0java.util.function.BiConsumer:.
+T7 T(J"
 methodjava.lang.reflect.MethodB4"2
 0org.apache.commons.lang3.function.MethodInvokersH

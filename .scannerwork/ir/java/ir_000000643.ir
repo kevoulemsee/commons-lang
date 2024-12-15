@@ -1,7 +1,7 @@
 
 =
-isSorted1org.apache.commons.lang3.ArrayUtils#isSorted([D)Zltrueboolean
-	1intfalseboolean
+isSorted1org.apache.commons.lang3.ArrayUtils#isSorted([D)Zltruebooleanfalseboolean
+	1int
 2int
 0intarray
 Â# Â(7"double[]array

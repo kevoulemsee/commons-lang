@@ -1,17 +1,11 @@
 
-\org.apache.commons.lang3.text.StrBuilder#append(C)Lorg/apache/commons/lang3/text/StrBuilder;k
-_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javaÝ Ý("1*“
-1
-Þ Þ(¢Ÿ
+\org.apache.commons.lang3.text.StrBuilder#append(Z)Lorg/apache/commons/lang3/text/StrBuilder;k
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javaÄ Ä("2"3*¥
+2
+Ë Ë(¦£
 
-Þ Þ( 	
-%0int"2org.apache.commons.lang3.text.StrBuilder#length()I*H
-
-__unknown_file (,*
-(org.apache.commons.lang3.text.StrBuilder2length()¦£
-
-ß ß(.
-%1(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
+Ë Ë($.
+%4(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
 
 __unknown_file (,*
 (org.apache.commons.lang3.text.StrBuilder*"
@@ -20,14 +14,85 @@ _/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text
 ""2ensureCapacity(I)x
 v
 
-à à(
+Ì Ì(
+%5char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+Í Í(
+%6char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+Î Î(
+%7char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+Ï Ï(
+%8char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffer*
+1*«
+3
+Æ Æ(¦£
+
+Æ Æ($.
+%0(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*"
+
+__unknown_file (
+""2ensureCapacity(I)x
+v
+
+Ç Ç(
+%1char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+È È(
 %2char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+É É(
+%3char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffer*
+1*Å
+1
+Ñ Ñ(x
+v
+
+Ñ Ñ(
+%9char[]"__id*T
 
 __unknown_file (8*6*
 (org.apache.commons.lang3.text.StrBuilder"
 buffer":
 
-á á(,*
+Ò Ò(,*
 (org.apache.commons.lang3.text.StrBuilder: 
 
 __unknown_file (

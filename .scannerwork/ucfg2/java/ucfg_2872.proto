@@ -1,46 +1,31 @@
 
-__sonar_lambda_97$e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaü ü(B"startingBlock*Þ
-startingBlock
-ü ü(B»
-¸
+‡org.apache.commons.lang3.Functions#asBiFunction(Lorg/apache/commons/lang3/Functions$FailableBiFunction;)Ljava/util/function/BiFunction;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaî4 î(@"1*ú
+1
+ï ï(Bz
+x
+
+ï ï(B#
+%0java.util.function.BiFunction"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_97$·
+´
+
+__unknown_file (1
+#
+%0java.util.function.BiFunction"
+
+function"__id*_
 
 __unknown_file (C
-	predicate6org.apache.commons.lang3.Functions$FailableBiPredicate"__id*Q
-
-__unknown_file (5*3$
-"org.apache.commons.lang3.Functions"
-	predicate*
-1*×
-1
-ü# ü('¦
-£
+A
+function5org.apache.commons.lang3.Functions$FailableBiFunction"3
 
-ü# ü(B
-%1boolean"†org.apache.commons.lang3.Functions#test(Lorg/apache/commons/lang3/Functions$FailableBiPredicate;Ljava/lang/Object;Ljava/lang/Object;)Z*B
-
-__unknown_file (&"$
-"org.apache.commons.lang3.Functions*a
-
-__unknown_file (E
-C
-	predicate6org.apache.commons.lang3.Functions$FailableBiPredicate**
-
-__unknown_file (
-
-input1O1**
-
-__unknown_file (
-
-input2O2"
+ï ï(C%
+#
+%0java.util.function.BiFunction:O
 
-ü# ü(B
-
-%1boolean:
-
-ü ü(
-input1O1:
-
-ü ü(
-input2O2B" 
-java.util.function.BiPredicate
+îA î(pA
+function5org.apache.commons.lang3.Functions$FailableBiFunctionB&"$
+"org.apache.commons.lang3.FunctionsH

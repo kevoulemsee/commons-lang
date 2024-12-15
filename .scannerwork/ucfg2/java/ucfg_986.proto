@@ -1,135 +1,29 @@
 
-«org.apache.commons.lang3.concurrent.ConcurrentUtils#createIfAbsent(Ljava/util/concurrent/ConcurrentMap;Ljava/lang/Object;Lorg/apache/commons/lang3/concurrent/ConcurrentInitializer;)Ljava/lang/Object;v
-j/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/ConcurrentUtils.javaó ó()"6*ù
-2
-ü ü(Ã…
+sorg.apache.commons.lang3.concurrent.ConcurrentUtils#constantFuture(Ljava/lang/Object;)Ljava/util/concurrent/Future;t
+j/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/ConcurrentUtils.java  (."1*ì
+1
+Ä$ Ä()ùö
 
-ü) ü(3
-%4V"Jorg.apache.commons.lang3.function.FailableSupplier#get()Ljava/lang/Object;*_
-
-__unknown_file (C
-A
-init9org.apache.commons.lang3.concurrent.ConcurrentInitializer2get()£
-†
+Ä Ä(#H
+%0Borg.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFuture"Borg.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFutureá
+Ñ
 
-ü ü(4
-%5V"õorg.apache.commons.lang3.concurrent.ConcurrentUtils#putIfAbsent(Ljava/util/concurrent/ConcurrentMap;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*S
+Ä Ä(*
+%1"^org.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFuture#<init>(Ljava/lang/Object;)V*f
 
-__unknown_file (7"5
-3org.apache.commons.lang3.concurrent.ConcurrentUtils*G
-
-__unknown_file (+
-)
-map"java.util.concurrent.ConcurrentMap*&
-
-__unknown_file (
-
-
-keyK*%
-
-__unknown_file (	
-
-%4V"
-
-ü ü(5	
-
-%5V*î
-3
-ù ù(ì
-ê
-
-ù ù($
-%2V"__mapGet*G
-
-__unknown_file (+
-)
-map"java.util.concurrent.ConcurrentMap*&
-
-__unknown_file (
-
-
-keyKG
-E
-
-ù ù(%
-
-valueV"__id*%
-
-__unknown_file (	
-
-%2Võ
-ò
-
-û û(
-%3boolean"	__compare*"
-
-__unknown_file (
-==*(
+__unknown_file (J
+H
+%0Borg.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFuture*(
 
 __unknown_file (
 
 
-valueV*"
-
-__unknown_file (
-""*
-2
-1*%
-4
-ö ö("
+valueT"X
 
-ö ö(
-""*Ï
-5
-ô ô(“
-œ
+Ä Ä(+J
+H
+%0Borg.apache.commons.lang3.concurrent.ConcurrentUtils$ConstantFuture:
+/ (<
 
-ô ô('
-%1boolean"	__compare*"
-
-__unknown_file (
-==*_
-
-__unknown_file (C
-A
-init9org.apache.commons.lang3.concurrent.ConcurrentInitializer*"
-
-__unknown_file (
-""*
-3
-4*‘
-6
-ô ô(∫
-∑
-
-ô ô(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*G
-
-__unknown_file (+
-)
-map"java.util.concurrent.ConcurrentMap*"
-
-__unknown_file (
-""*
-4
-5*+
-1
-° °("
-
-° °(
-
-
-valueV:7
-
-ó* ó(H)
-map"java.util.concurrent.ConcurrentMap:
-
-óI ó(U
-keyK:O
-
-ò ò(/A
-init9org.apache.commons.lang3.concurrent.ConcurrentInitializerB7"5
+valueTB7"5
 3org.apache.commons.lang3.concurrent.ConcurrentUtilsH

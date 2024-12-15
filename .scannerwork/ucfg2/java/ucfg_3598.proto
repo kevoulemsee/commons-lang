@@ -1,20 +1,88 @@
 
-?__sonar_lambda_149$org.apache.commons.lang3.builder.DiffBuildero
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java! (:"1*æ
+¢org.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;Lorg/apache/commons/lang3/builder/DiffResult;)Lorg/apache/commons/lang3/builder/DiffBuilder;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaû û( "3*O
+2
+ş ş(">
+
+ş ş(0.
+,org.apache.commons.lang3.builder.DiffBuilder*î
+3
+ü ü(Ô
+Ñ
+
+ü ü(81
+%0+org.apache.commons.lang3.builder.DiffResult"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*W
+
+__unknown_file (;
+9
+
+diffResult+org.apache.commons.lang3.builder.DiffResult**
+
+__unknown_file (
+
+diffResult*
+2
+1*†
 1
-' (-¬
-©
+€ €(ÒÏ
 
-' (:
-%7java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*0
+€ €(
+%1java.util.List"Forg.apache.commons.lang3.builder.DiffResult#getDiffs()Ljava/util/List;*W
 
-__unknown_file ("
-java.lang.Double*"
-
-__unknown_file (
-"""&
+__unknown_file (;
+9
 
-' (:
-
-%7java.lang.DoubleB
-java.util.function.Supplier
+diffResult+org.apache.commons.lang3.builder.DiffResult2
+getDiffs()¦
+£
+
+€& €(|!
+%2java.util.function.Consumer"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_149$org.apache.commons.lang3.builder.DiffBuilder’
+
+
+__unknown_file (0
+!
+%2java.util.function.Consumer"
+	fieldName"__id*;
+
+__unknown_file (
+
+	fieldNamejava.lang.Stringª
+§
+
+__unknown_file (7
+!
+%2java.util.function.Consumer"
+DiffBuilder.this"__id*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.builder.DiffBuilderôñ
+
+€ €(}
+
+%9void":java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V*2
+
+__unknown_file (
+
+%1java.util.List*?
+
+__unknown_file (#
+!
+%2java.util.function.Consumer2&forEach(Ljava/util/function/Consumer;)">
+
+ (0.
+,org.apache.commons.lang3.builder.DiffBuilder:+
+
+û! û(8
+	fieldNamejava.lang.String:G
+
+û9 û(W9
+
+diffResult+org.apache.commons.lang3.builder.DiffResultB0.
+,org.apache.commons.lang3.builder.DiffBuilderH

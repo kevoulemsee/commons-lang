@@ -1,24 +1,40 @@
 
-5org.apache.commons.lang3.util.FluentBitSet#isEmpty()Zm
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java• •("1*™
+dorg.apache.commons.lang3.util.FluentBitSet#intersects(Lorg/apache/commons/lang3/util/FluentBitSet;)Zm
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaú ú("1*ô
 1
-¶ ¶(Ö
+ù ù(Ö
 Ç
 
-¶ ¶(
+ù ù(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSet{y
+bitSetä
+á
 
-¶ ¶(
-%1boolean"java.util.BitSet#isEmpty()Z*4
+ù! ù(+
+%1java.util.BitSet"__id*[
+
+__unknown_file (?*=
+1
+set*org.apache.commons.lang3.util.FluentBitSet"
+bitSet‹Ÿ
+
+ù ù(,
+%2boolean"0java.util.BitSet#intersects(Ljava/util/BitSet;)Z*4
 
 __unknown_file (
 
-%0java.util.BitSet2	isEmpty()"
+%0java.util.BitSet*4
+
+__unknown_file (
+
+%1java.util.BitSet2intersects(Ljava/util/BitSet;)"
 
-¶ ¶( 
-""B.,
+ù ù(-
+"":?
+
+ú ú(41
+set*org.apache.commons.lang3.util.FluentBitSetB.,
 *org.apache.commons.lang3.util.FluentBitSetHX

@@ -1,77 +1,141 @@
 
-çorg.apache.commons.lang3.reflect.TypeUtils#unrollVariableAssignments(Ljava/lang/reflect/TypeVariable;Ljava/util/Map;)Ljava/lang/reflect/Type;m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java’ ’(1"7*ü
+zorg.apache.commons.lang3.reflect.TypeUtils#unrollBounds(Ljava/util/Map;[Ljava/lang/reflect/Type;)[Ljava/lang/reflect/Type;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java¿ ¿(&"7*‡
 3
-‹- ‹(3Ö
-Ç
+» »(…
+∆
 
-‹ ‹(3.
-typeVariablejava.lang.reflect.TypeVariable"__id*>
+» »($
+%5"
+__arraySet*@
 
-__unknown_file ("
- 
-resultjava.lang.reflect.Type*
-6
-1*ê
+__unknown_file ($
+"
+resultjava.lang.reflect.Type[]*"
+
+__unknown_file (
+""*@
+
+__unknown_file ($
+"
+unrolledjava.lang.reflect.Type*
+6*æ
+4
+∆ ∆(#Ø
+¨
+
+∆ ∆(7
+%4java.lang.reflect.Type[]"Sorg.apache.commons.lang3.ArrayUtils#remove([Ljava/lang/Object;I)[Ljava/lang/Object;*C
+
+__unknown_file ('"%
+#org.apache.commons.lang3.ArrayUtils*@
+
+__unknown_file ($
+"
+resultjava.lang.reflect.Type[]*"
+
+__unknown_file (
+""v
+t
+
+∆ ∆(7"
+resultjava.lang.reflect.Type[]"__id*<
+
+__unknown_file ( 
+
+%4java.lang.reflect.Type[]*
+6*ÿ
 5
-Ÿ8 Ÿ(>ˆÛ
+ƒ" ƒ(1ü
+ú
 
-Ÿ8 Ÿ(S
-%1boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*>
+ƒA ƒ(J
+%1java.lang.reflect.Type"
+__arrayGet*@
 
-__unknown_file ("
- 
-resultjava.lang.reflect.Type*L
+__unknown_file ($
+"
+resultjava.lang.reflect.Type[]*"
 
-__unknown_file (0
-.
-typeVariablejava.lang.reflect.TypeVariable2equals(Ljava/lang/Object;)*
-3
-1*“
-6
-ÿ ÿ(#ƒ
-¡
+__unknown_file (
+""
+Ì
 
-ÿ ÿ(5
-%0java.lang.reflect.Type"__mapGet*=
+ƒ" ƒ(K
+%2java.lang.reflect.Type"{org.apache.commons.lang3.reflect.TypeUtils#unrollVariables(Ljava/util/Map;Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;*J
 
-__unknown_file (!
-
-typeVarAssignsjava.util.Map*L
+__unknown_file (.",
+*org.apache.commons.lang3.reflect.TypeUtils*<
 
-__unknown_file (0
-.
-typeVariablejava.lang.reflect.TypeVariabler
-p
-
-ÿ ÿ(5 
-resultjava.lang.reflect.Type"__id*:
+__unknown_file ( 
+
+typeArgumentsjava.util.Map*:
 
 __unknown_file (
 
-%0java.lang.reflect.Type*
-5
-1*p
-7
-÷ ÷(Z
-X
+%1java.lang.reflect.Typet
+r
 
-÷ ÷( 
-resultjava.lang.reflect.Type"__id*"
+ƒ ƒ(L"
+unrolledjava.lang.reflect.Type"__id*:
+
+__unknown_file (
+
+%2java.lang.reflect.Type≥
+∞
+
+≈ ≈( 
+%3boolean"	__compare*"
 
 __unknown_file (
-""*
-6*A
+==*@
+
+__unknown_file ($
+"
+unrolledjava.lang.reflect.Type*"
+
+__unknown_file (
+""*
+3
+4*Æ
+6
+√ √(î
+ë
+
+√ √( 
+%0boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+5
+1*ê
+7
+¡ ¡(z
+x
+
+¡ ¡("
+resultjava.lang.reflect.Type[]"__id*@
+
+__unknown_file ($
+"
+boundsjava.lang.reflect.Type[]*
+6*C
 1
-ﬁ ﬁ("0
+À À("2
 
-ﬁ ﬁ("
- 
-resultjava.lang.reflect.Type:<
+À À($
+"
+resultjava.lang.reflect.Type[]:,
 
-’2 ’(O.
-typeVariablejava.lang.reflect.TypeVariable:-
+¿' ¿(V
+typeArgumentsjava.util.Map:0
 
-’P ’(
-typeVarAssignsjava.util.MapB.",
+¿W ¿(j"
+boundsjava.lang.reflect.Type[]B.",
 *org.apache.commons.lang3.reflect.TypeUtils

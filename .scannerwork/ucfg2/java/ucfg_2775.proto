@@ -1,29 +1,46 @@
 
-forg.apache.commons.lang3.ThreadUtils#predicateThread(Ljava/lang/String;)Ljava/util/function/Predicate;g
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ThreadUtils.javaï% ï(4"1*•
+Åorg.apache.commons.lang3.ThreadUtils#namePredicate(Ljava/lang/String;Ljava/util/function/Function;)Ljava/util/function/Predicate;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ThreadUtils.javaë$ ë(1"1*Ì
 1
-ñ ñ(ﬂ
-‹
+í í(qy
+w
 
-ñ ñ(9"
-%0java.util.function.Predicate"Åorg.apache.commons.lang3.ThreadUtils#namePredicate(Ljava/lang/String;Ljava/util/function/Function;)Ljava/util/function/Predicate;*D
+í í(q"
+%0java.util.function.Predicate"__declareFunction*2
 
-__unknown_file (("&
-$org.apache.commons.lang3.ThreadUtils*<
+__unknown_file (
+__sonar_lambda_88$†
+ù
 
-__unknown_file ( 
-
-
-threadNamejava.lang.String*"
-
-__unknown_file (
-"""2
-
-ñ ñ(:$
+__unknown_file (2
 "
-%0java.util.function.Predicate:,
+%0java.util.function.Predicate"
 
-ï5 ï(L
+nameGetter"__id*G
+
+__unknown_file (+
+)
 
-threadNamejava.lang.StringB("&
+nameGetterjava.util.function.Functionâ
+Ü
+
+__unknown_file (,
+"
+%0java.util.function.Predicate"
+name"__id*6
+
+__unknown_file (
+
+namejava.lang.String"2
+
+í í(r$
+"
+%0java.util.function.Predicate:&
+
+ë2 ë(D
+namejava.lang.String:7
+
+ëE ë(i)
+
+nameGetterjava.util.function.FunctionB("&
 $org.apache.commons.lang3.ThreadUtils

@@ -1,45 +1,60 @@
 
-ƒorg.apache.commons.lang3.function.TriFunction#andThen(Ljava/util/function/Function;)Lorg/apache/commons/lang3/function/TriFunction;n
-d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/TriFunction.java3( 3(/"1*ä
-14 4(ï
-ì
-4 4(%!
-%0java.util.function.Function"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
+>__sonar_lambda_9$org.apache.commons.lang3.function.TriFunctionn
+d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/TriFunction.java5 5(O"startingBlock*’
+startingBlock5 5(O£
+ 
 
-__unknown_file ("
-java.util.Objects*B
+__unknown_file ($
+afterjava.util.function.Function"__id*X
+
+__unknown_file (<*:/
+-org.apache.commons.lang3.function.TriFunction"
+afterË
+È
+
+__unknown_file (A
+TriFunction.this-org.apache.commons.lang3.function.TriFunction"__id*c
+
+__unknown_file (G*E/
+-org.apache.commons.lang3.function.TriFunction"
+TriFunction.this*
+1*Æ
+154 5(9§¤
+5@ 5(N
+%2R"}org.apache.commons.lang3.function.TriFunction#apply(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*_
+
+__unknown_file (C
+A
+TriFunction.this-org.apache.commons.lang3.function.TriFunction*$
+
+__unknown_file (
+
+tT*$
+
+__unknown_file (
+
+uU*$
+
+__unknown_file (
+
+vV2=apply(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)íê
+54 5(O
+%3	!capture!"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*B
 
 __unknown_file (&
 $
-afterjava.util.function.Functionµ
-²
-5 5(O3
-%1-org.apache.commons.lang3.function.TriFunction"__declareFunction*^
+afterjava.util.function.Function*%
 
-__unknown_file (B@
->__sonar_lambda_8$org.apache.commons.lang3.function.TriFunction§
-¤
-
-__unknown_file (>
-3
-%1-org.apache.commons.lang3.function.TriFunction"
-after"__id*B
-
-__unknown_file (&
-$
-afterjava.util.function.Function½
-º
-
-__unknown_file (I
-3
-%1-org.apache.commons.lang3.function.TriFunction"
-TriFunction.this"__id*M
-
-__unknown_file (1/
--org.apache.commons.lang3.function.TriFunction"A
-5 5(P5
-3
-%1-org.apache.commons.lang3.function.TriFunction:0
-30 3(\$
-afterjava.util.function.FunctionB1/
--org.apache.commons.lang3.function.TriFunctionH
+__unknown_file (	
+
+%2R2apply(Ljava/lang/Object;)"
+54 5(O
+
+%3	!capture!:
+5 5(
+tT:
+5 5(%
+uU:
+5& 5(/
+vVB1/
+-org.apache.commons.lang3.function.TriFunction

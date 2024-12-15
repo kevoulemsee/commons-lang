@@ -1,74 +1,41 @@
 
-Norg.apache.commons.lang3.time.DurationUtils#toMillisInt(Ljava/time/Duration;)In
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.javaÑ Ñ(!"1*Ý
+lorg.apache.commons.lang3.time.DurationUtils#toDuration(JLjava/util/concurrent/TimeUnit;)Ljava/time/Duration;n
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.java¾ ¾(%"1*–
 1
-Ò Ò(ž
-›
+¿ ¿(Ä
+Á
 
-Ò Ò(4
-%0java.time.Duration"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+¿# ¿(9#
+%0java.time.temporal.ChronoUnit"xorg.apache.commons.lang3.time.DurationUtils#toChronoUnit(Ljava/util/concurrent/TimeUnit;)Ljava/time/temporal/ChronoUnit;*K
 
-__unknown_file ("
-java.util.Objects*<
+__unknown_file (/"-
++org.apache.commons.lang3.time.DurationUtils*G
 
-__unknown_file ( 
-
-durationjava.time.Duration*(
-
-__unknown_file (
+__unknown_file (+
+)
+timeUnitjava.util.concurrent.TimeUnit“
+
 
-durationb
-`
-
-Ô Ô( (
-%1"org.apache.commons.lang3.LongRange"__id*"
+¿ ¿(:
+%1java.time.Duration"Mjava.time.Duration#of(JLjava/time/temporal/TemporalUnit;)Ljava/time/Duration;*2
+
+__unknown_file ("
+java.time.Duration*"
 
 __unknown_file (
-""…‚
-
-Ô2 Ô(E
-
-%2long"java.time.Duration#toMillis()J*<
+""*A
 
-__unknown_file ( 
-
-durationjava.time.Duration2
-toMillis()ª
-§
+__unknown_file (%
+#
+%0java.time.temporal.ChronoUnit"(
 
-Ô% Ô(F
-%3java.lang.Long")java.lang.Long#valueOf(J)Ljava/lang/Long;*.
+¿ ¿(;
 
-__unknown_file ("
-java.lang.Long*(
+%1java.time.Duration: 
 
-__unknown_file (
+__unknown_file (
+"":7
 
-
-%2long„
-
-Ô Ô(G
-%4java.lang.Long"Horg.apache.commons.lang3.Range#fit(Ljava/lang/Object;)Ljava/lang/Object;*F
-
-__unknown_file (*
-(
-%1"org.apache.commons.lang3.LongRange*2
-
-__unknown_file (
-
-%3java.lang.Long2fit(Ljava/lang/Object;)us
-
-Ô Ô(R	
-%5int"java.lang.Long#intValue()I*2
-
-__unknown_file (
-
-%4java.lang.Long2
-intValue()"
-
-Ô Ô(S
-"":,
-
-Ñ" Ñ(9
-durationjava.time.DurationB/"-
-+org.apache.commons.lang3.time.DurationUtilsHX
+¾9 ¾(P)
+timeUnitjava.util.concurrent.TimeUnitB/"-
++org.apache.commons.lang3.time.DurationUtilsH

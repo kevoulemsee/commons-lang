@@ -1,34 +1,29 @@
 
-__sonar_lambda_110$n
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.java ()"startingBlock*á
-startingBlock
- ()¾
-»
+xorg.apache.commons.lang3.time.DurationUtils#of(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/time/Duration;l
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.java~1 ~(3"1*Ý
+1 (‘
+Ž
+ (*
+%0java.time.Instant"xorg.apache.commons.lang3.time.DurationUtils#now(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/time/Instant;*K
 
-__unknown_file (>
-runnable2org.apache.commons.lang3.function.FailableRunnable"__id*Y
+__unknown_file (/"-
++org.apache.commons.lang3.time.DurationUtils*"
 
-__unknown_file (=*;-
-+org.apache.commons.lang3.time.DurationUtils"
-
-runnable*
-1*é
-1
- (#»¸
-
- ()
-
-%1void"9org.apache.commons.lang3.function.FailableRunnable#run()V*\
+__unknown_file (
+""‘
+Ž
+ (+
+%1java.time.Duration"dorg.apache.commons.lang3.time.DurationUtils#since(Ljava/time/temporal/Temporal;)Ljava/time/Duration;*K
 
-__unknown_file (@
->
-runnable2org.apache.commons.lang3.function.FailableRunnable2run()"
-
- ()
-
-
-%1void:(
-
- (
-startjava.time.InstantB64
-2org.apache.commons.lang3.function.FailableConsumer
+__unknown_file (/"-
++org.apache.commons.lang3.time.DurationUtils*5
+
+__unknown_file (
+
+%0java.time.Instant"&
+ (,
+
+%1java.time.Duration:J
+~4 ~(_>
+consumer2org.apache.commons.lang3.function.FailableConsumerB/"-
++org.apache.commons.lang3.time.DurationUtilsH

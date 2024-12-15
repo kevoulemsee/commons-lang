@@ -1,6 +1,6 @@
 org.apache.commons.lang3.math.Fraction#pow(I)Lorg/apache/commons/lang3/math/Fraction;
 false
-ad0047914724db8572cf73485f2673b7
+c716678e6ffdccb2b989620c7414a383
 org.apache.commons.lang3.math.Fraction#invert()Lorg/apache/commons/lang3/math/Fraction;
 org.apache.commons.lang3.math.Fraction#multiplyBy(Lorg/apache/commons/lang3/math/Fraction;)Lorg/apache/commons/lang3/math/Fraction;
 org.apache.commons.lang3.math.Fraction#pow(I)Lorg/apache/commons/lang3/math/Fraction;

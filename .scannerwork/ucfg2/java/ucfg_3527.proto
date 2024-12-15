@@ -1,10 +1,57 @@
 
-porg.apache.commons.lang3.function.Functions#function(Ljava/util/function/Function;)Ljava/util/function/Function;l
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Functions.java3( 3(0"1*D
-14 4("5
-4 4()
+torg.apache.commons.lang3.function.Functions#apply(Ljava/util/function/Function;Ljava/lang/Object;)Ljava/lang/Object;l
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Functions.java' '( "4*_
+2(; ((?K
+I
+(; ((?
+%1R"__id*.
+
+__unknown_file (
+
+%3
+<nulltype>*
+1*Å
+3(" ((*ìé
+(" ((8
+%2R"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*E
+
+__unknown_file ()
 '
-functionjava.util.function.Function:3
-31 3(N'
-functionjava.util.function.FunctionB/"-
+functionjava.util.function.Function*)
+
+__unknown_file (
+
+objectT2apply(Ljava/lang/Object;)B
+@
+(" ((8
+%1R"__id*%
+
+__unknown_file (	
+
+%2R*
+1*Î
+4( ((¶
+³
+( ((
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*E
+
+__unknown_file ()
+'
+functionjava.util.function.Function*"
+
+__unknown_file (
+""*
+2
+3*$
+1( ((@"
+( ((@	
+
+%1R:3
+'! '(?'
+functionjava.util.function.Function:
+'@ '(N
+objectTB/"-
 +org.apache.commons.lang3.function.FunctionsH

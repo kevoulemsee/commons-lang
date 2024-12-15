@@ -1,24 +1,24 @@
 
-4org.apache.commons.lang3.util.FluentBitSet#length()Im
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java¯ ¯("1*¤
+5org.apache.commons.lang3.util.FluentBitSet#isEmpty()Zm
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java¥ ¥("1*ª
 1
-° °(…
+¦ ¦(…
 ‚
 
-° °(
+¦ ¦(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSetus
+bitSet{y
 
-° °(	
-%1int"java.util.BitSet#length()I*4
+¦ ¦(
+%1boolean"java.util.BitSet#isEmpty()Z*4
 
 __unknown_file (
 
-%0java.util.BitSet2length()"
+%0java.util.BitSet2	isEmpty()"
 
-° °(
+¦ ¦( 
 ""B.,
 *org.apache.commons.lang3.util.FluentBitSetHX

@@ -1,80 +1,145 @@
 
-`org.apache.commons.lang3.StringUtils#contains(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÍ Í(""startingBlock*œ
-startingBlock
-Í" Í(X”
-‘
+^org.apache.commons.lang3.StringUtils#compareIgnoreCase(Ljava/lang/String;Ljava/lang/String;Z)Ig
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java¨ ¨('"13*Ú
+13
+© ©(½
+º
 
-Ì Ì(
-%2"
-__annotate*4
-
-__unknown_file (
-java.lang.Deprecated*;
-
-__unknown_file (
-
-seqjava.lang.CharSequence_
-]
-
-Í6 Í(9
-seqjava.lang.CharSequence"__annotation*"
-
-__unknown_file (
-
-%2š
-—
-
-Ì Ì(
-%3"
-__annotate*4
-
-__unknown_file (
-java.lang.Deprecated*A
-
-__unknown_file (%
-#
-	searchSeqjava.lang.CharSequencee
-c
-
-ÍN Í(W#
-	searchSeqjava.lang.CharSequence"__annotation*"
-
-__unknown_file (
-
-%3*
-1*ˆ
-1
-Î Î(`
-^
-
-Î Î(&
-%0 org.apache.commons.lang3.Strings"__id*"
+© ©(
+%0boolean"	__compare*"
 
 __unknown_file (
-""þû
-
-Î Î(2
-%1boolean"\org.apache.commons.lang3.Strings#contains(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
+==*6
 
-__unknown_file ((
-&
-%0 org.apache.commons.lang3.Strings*;
+__unknown_file (
 
-__unknown_file (
-
-seqjava.lang.CharSequence*A
+str1java.lang.String*6
 
-__unknown_file (%
-#
-	searchSeqjava.lang.CharSequence2:contains(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
+__unknown_file (
+
+str2java.lang.String*
+11
+12*%
+2
+° °(("
 
-Î Î(3
-"":+
+° °((
+""*^
+3
+°& °('H
+F
 
-Í# Í(:
-seqjava.lang.CharSequence:1
+°$ °('	
+%6int"__id*'
+
+__unknown_file (
+	
+%8int*
+2*^
+4
+°  °(!H
+F
 
-Í; Í(W#
-	searchSeqjava.lang.CharSequenceB("&
+°  °(!	
+%6int"__id*'
+
+__unknown_file (
+	
+%7int*
+2*Æ
+6
+¯ ¯(©
+¦
+
+¯ ¯(
+%5boolean"	__compare*"
+
+__unknown_file (
+==*6
+
+__unknown_file (
+
+str2java.lang.String*"
+
+__unknown_file (
+""*	
+3
+4
+1*%
+7
+­ ­('"
+
+­ ­('
+""*^
+8
+­% ­(&H
+F
+
+­% ­(&	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+7*^
+9
+­! ­("H
+F
+
+­  ­("	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+7*Ç
+11
+¬ ¬(©
+¦
+
+¬ ¬(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*6
+
+__unknown_file (
+
+str1java.lang.String*"
+
+__unknown_file (
+""*	
+6
+8
+9*&
+12
+ª ª("
+
+ª ª(
+""*–
+1
+² ²(îë
+
+² ²(-	
+%9int"9java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I*6
+
+__unknown_file (
+
+str1java.lang.String*6
+
+__unknown_file (
+
+str2java.lang.String2'compareToIgnoreCase(Ljava/lang/String;)"
+
+² ²(.
+"":&
+
+¨( ¨(:
+str1java.lang.String:&
+
+¨; ¨(M
+str2java.lang.String: 
+
+__unknown_file (
+""B("&
 $org.apache.commons.lang3.StringUtilsHX

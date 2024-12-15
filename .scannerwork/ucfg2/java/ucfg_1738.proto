@@ -1,29 +1,46 @@
 
-sorg.apache.commons.lang3.DoubleRange#of(Ljava/lang/Double;Ljava/lang/Double;)Lorg/apache/commons/lang3/DoubleRange;e
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/DoubleRange.javaD D( "1*Û
-1E E(,^\
-E E(*
-%0$org.apache.commons.lang3.DoubleRange"$org.apache.commons.lang3.DoubleRange±
-®
-E E(:
-%1"Rorg.apache.commons.lang3.DoubleRange#<init>(Ljava/lang/Double;Ljava/lang/Double;)V*H
+Qorg.apache.commons.lang3.DoubleRange#of(DD)Lorg/apache/commons/lang3/DoubleRange;e
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/DoubleRange.java0 0( "1*„
+11 1(ª
+§
+1 1(/
+%0java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*0
 
-__unknown_file (,
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""ª
+§
+11 1(L
+%1java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""à
+Ý
+1 1(M*
+%2$org.apache.commons.lang3.DoubleRange"sorg.apache.commons.lang3.DoubleRange#of(Ljava/lang/Double;Ljava/lang/Double;)Lorg/apache/commons/lang3/DoubleRange;*D
+
+__unknown_file (("&
+$org.apache.commons.lang3.DoubleRange*4
+
+__unknown_file (
+
+%0java.lang.Double*4
+
+__unknown_file (
+
+%1java.lang.Double"8
+1 1(N,
 *
-%0$org.apache.commons.lang3.DoubleRange*?
+%2$org.apache.commons.lang3.DoubleRange: 
 
-__unknown_file (#
-!
-fromInclusivejava.lang.Double*=
+__unknown_file (
+"": 
 
-__unknown_file (!
-
-toInclusivejava.lang.Double"8
-E E(;,
-*
-%0$org.apache.commons.lang3.DoubleRange:-
-D! D(<!
-fromInclusivejava.lang.Double:+
-D= D(U
-toInclusivejava.lang.DoubleB("&
+__unknown_file (
+""B("&
 $org.apache.commons.lang3.DoubleRangeH

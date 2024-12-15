@@ -1,45 +1,52 @@
 
-øorg.apache.commons.lang3.function.FailableLongUnaryOperator#compose(Lorg/apache/commons/lang3/function/FailableLongUnaryOperator;)Lorg/apache/commons/lang3/function/FailableLongUnaryOperator;|
-r/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableLongUnaryOperator.javaV) V(0"1*´
-1W W(∞
-≠
-W W(&A
-%0;org.apache.commons.lang3.function.FailableLongUnaryOperator"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
-
-__unknown_file ("
-java.util.Objects*c
-
-__unknown_file (G
-E
-before;org.apache.commons.lang3.function.FailableLongUnaryOperator”
+N__sonar_lambda_129$org.apache.commons.lang3.function.FailableLongUnaryOperator|
+r/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableLongUnaryOperator.javaX X(C"startingBlock*˙
+startingBlockX X(C”
 –
-X X(CA
-%1;org.apache.commons.lang3.function.FailableLongUnaryOperator"__declareFunction*n
 
-__unknown_file (RP
-N__sonar_lambda_128$org.apache.commons.lang3.function.FailableLongUnaryOperator◊
-‘
+__unknown_file (E
+before;org.apache.commons.lang3.function.FailableLongUnaryOperator"__id*g
 
-__unknown_file (M
-A
-%1;org.apache.commons.lang3.function.FailableLongUnaryOperator"
-before"__id*c
+__unknown_file (K*I=
+;org.apache.commons.lang3.function.FailableLongUnaryOperator"
+beforeÉ
+Ä
+
+__unknown_file (]
+FailableLongUnaryOperator.this;org.apache.commons.lang3.function.FailableLongUnaryOperator"__id*
+
+__unknown_file (c*a=
+;org.apache.commons.lang3.function.FailableLongUnaryOperator" 
+FailableLongUnaryOperator.this*
+1*…
+1X! X(,ˇ¸
+X- X(B
+
+%2long"Korg.apache.commons.lang3.function.FailableLongUnaryOperator#applyAsLong(J)J*c
 
 __unknown_file (G
 E
-before;org.apache.commons.lang3.function.FailableLongUnaryOperatorÁ
-‰
+before;org.apache.commons.lang3.function.FailableLongUnaryOperator*"
 
-__unknown_file (e
-A
-%1;org.apache.commons.lang3.function.FailableLongUnaryOperator" 
-FailableLongUnaryOperator.this"__id*[
+__unknown_file (
+""2applyAsLong(J)ùö
+X! X(C
+
+%3long"Korg.apache.commons.lang3.function.FailableLongUnaryOperator#applyAsLong(J)J*{
 
-__unknown_file (?=
-;org.apache.commons.lang3.function.FailableLongUnaryOperator"O
-X X(DC
-A
-%1;org.apache.commons.lang3.function.FailableLongUnaryOperator:Q
-V1 V(ZE
-before;org.apache.commons.lang3.function.FailableLongUnaryOperatorB?=
-;org.apache.commons.lang3.function.FailableLongUnaryOperatorH
+__unknown_file (_
+]
+FailableLongUnaryOperator.this;org.apache.commons.lang3.function.FailableLongUnaryOperator*(
+
+__unknown_file (
+
+
+%2long2applyAsLong(J)"
+X! X(C
+
+
+%3long: 
+
+__unknown_file (
+""B?=
+;org.apache.commons.lang3.function.FailableLongUnaryOperator

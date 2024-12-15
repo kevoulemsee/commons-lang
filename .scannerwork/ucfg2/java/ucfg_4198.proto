@@ -1,48 +1,45 @@
 
-P__sonar_lambda_192$org.apache.commons.lang3.function.FailableDoubleUnaryOperator~
-t/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableDoubleUnaryOperator.java\ \(I"startingBlock*‡
-startingBlock\ \(I×
+Åorg.apache.commons.lang3.function.FailableDoubleUnaryOperator#andThen(Lorg/apache/commons/lang3/function/FailableDoubleUnaryOperator;)Lorg/apache/commons/lang3/function/FailableDoubleUnaryOperator;~
+t/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableDoubleUnaryOperator.javaB+ B(2"1*¼
+1C C(³
+°
+C C(%C
+%0=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*d
+
+__unknown_file (H
+F
+after=org.apache.commons.lang3.function.FailableDoubleUnaryOperator×
 Ô
+D D(HC
+%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__declareFunction*p
 
-__unknown_file (G
-before=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__id*i
+__unknown_file (TR
+P__sonar_lambda_192$org.apache.commons.lang3.function.FailableDoubleUnaryOperatorÙ
+Ö
 
-__unknown_file (M*K?
-=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"
-beforeŒ
-‰
+__unknown_file (N
+C
+%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"
+after"__id*d
 
-__unknown_file (a
- FailableDoubleUnaryOperator.this=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__id*ƒ
+__unknown_file (H
+F
+after=org.apache.commons.lang3.function.FailableDoubleUnaryOperatorí
+ê
 
-__unknown_file (g*e?
-=org.apache.commons.lang3.function.FailableDoubleUnaryOperator""
- FailableDoubleUnaryOperator.this*
-1*ã
-1\# \(0‰†
-\1 \(H
-%2double"Oorg.apache.commons.lang3.function.FailableDoubleUnaryOperator#applyAsDouble(D)D*e
+__unknown_file (i
+C
+%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator""
+ FailableDoubleUnaryOperator.this"__id*]
 
-__unknown_file (I
-G
-before=org.apache.commons.lang3.function.FailableDoubleUnaryOperator*"
-
-__unknown_file (
-""2applyAsDouble(D)«¨
-\# \(I
-%3double"Oorg.apache.commons.lang3.function.FailableDoubleUnaryOperator#applyAsDouble(D)D*
-
-__unknown_file (c
-a
- FailableDoubleUnaryOperator.this=org.apache.commons.lang3.function.FailableDoubleUnaryOperator**
-
-__unknown_file (
-
-%2double2applyAsDouble(D)"
-\# \(I
-
-%3double: 
-
-__unknown_file (
-""BA?
-=org.apache.commons.lang3.function.FailableDoubleUnaryOperator
+__unknown_file (A?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"Q
+D D(IE
+C
+%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator:R
+B3 B(]F
+after=org.apache.commons.lang3.function.FailableDoubleUnaryOperatorBA?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperatorH

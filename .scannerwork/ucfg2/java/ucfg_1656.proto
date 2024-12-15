@@ -1,11 +1,11 @@
 
-~org.apache.commons.lang3.builder.ToStringBuilder#append(Ljava/lang/String;J)Lorg/apache/commons/lang3/builder/ToStringBuilder;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.javaö ö(!"1*»
+€org.apache.commons.lang3.builder.ToStringBuilder#append(Ljava/lang/String;[IZ)Lorg/apache/commons/lang3/builder/ToStringBuilder;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.javaé é(!"1*Í
 1
-÷ ÷(¨
+ê ê(¨
 ¥
 
-÷ ÷(4
+ê ê(4
 %0.org.apache.commons.lang3.builder.ToStringStyle"__id*[
 
 __unknown_file (?*=2
@@ -13,16 +13,26 @@ g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/buil
 style‘
 Ž
 
-÷ ÷(
+ê ê(
 %1java.lang.StringBuffer"__id*\
 
 __unknown_file (@*>2
 0org.apache.commons.lang3.builder.ToStringBuilder"
-buffer¦£
+buffer°
+­
 
-÷ ÷(.
+ê/ ê(J
+%2java.lang.Boolean"/java.lang.Boolean#valueOf(Z)Ljava/lang/Boolean;*1
+
+__unknown_file ("
+java.lang.Boolean*"
+
+__unknown_file (
+""…‚
 
-%2void"corg.apache.commons.lang3.builder.ToStringStyle#append(Ljava/lang/StringBuffer;Ljava/lang/String;J)V*R
+ê ê(K
+
+%3void"worg.apache.commons.lang3.builder.ToStringStyle#append(Ljava/lang/StringBuffer;Ljava/lang/String;[ILjava/lang/Boolean;)V*R
 
 __unknown_file (6
 4
@@ -37,13 +47,20 @@ g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/buil
 	fieldNamejava.lang.String*"
 
 __unknown_file (
-""23append(Ljava/lang/StringBuffer;Ljava/lang/String;J)"B
+""*5
+
+__unknown_file (
+
+%2java.lang.Boolean2Gappend(Ljava/lang/StringBuffer;Ljava/lang/String;[ILjava/lang/Boolean;)"B
 
-ø ø(42
+ë ë(42
 0org.apache.commons.lang3.builder.ToStringBuilder:+
 
-ö" ö(9
+é" é(9
 	fieldNamejava.lang.String: 
+
+__unknown_file (
+"": 
 
 __unknown_file (
 ""B42

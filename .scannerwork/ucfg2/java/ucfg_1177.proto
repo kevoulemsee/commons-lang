@@ -1,12 +1,12 @@
 
-7org.apache.commons.lang3.mutable.MutableDouble#isNaN()Zq
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaÍ Í("1*¸
+<org.apache.commons.lang3.mutable.MutableDouble#isInfinite()Zq
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaÄ Ä("1*½
 1
-Î Î(
-
+Å Å(•
+’
 
-Î Î("
-%0boolean"java.lang.Double#isNaN(D)Z*0
+Å Å('
+%0boolean"java.lang.Double#isInfinite(D)Z*0
 
 __unknown_file ("
 java.lang.Double*"
@@ -14,6 +14,6 @@ e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/muta
 __unknown_file (
 """
 
-Î Î(#
+Å Å((
 ""B20
 .org.apache.commons.lang3.mutable.MutableDoubleHX

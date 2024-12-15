@@ -1,18 +1,18 @@
 
-Lorg.apache.commons.lang3.tuple.ImmutableTriple#getMiddle()Ljava/lang/Object;q
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/ImmutableTriple.javaœ œ("1*£
+Jorg.apache.commons.lang3.tuple.ImmutableTriple#getLeft()Ljava/lang/Object;q
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/ImmutableTriple.java” ”("1*¡
 1
- (y
-w
+• •(w
+u
 
- (
-%0M"__id*Z
+• •(
+%0L"__id*X
 
-__unknown_file (>*<0
-.org.apache.commons.lang3.tuple.ImmutableTriple"
-middle"
+__unknown_file (<*:0
+.org.apache.commons.lang3.tuple.ImmutableTriple"
+left"
 
- (	
+• •(	
 
-%0MB20
+%0LB20
 .org.apache.commons.lang3.tuple.ImmutableTripleH

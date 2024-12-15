@@ -1,28 +1,35 @@
 
-âorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaµ( µ(6"1*ı
+Üorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaâ( â(6"1*‘
 1
-∂$ ∂(*ÖÇ
+ä ä(í
+è
 
-∂ ∂(#<
-%06org.apache.commons.lang3.stream.Streams$FailableStream"6org.apache.commons.lang3.stream.Streams$FailableStreamç
-ä
-
-∂ ∂(+
-%1"Yorg.apache.commons.lang3.stream.Streams$FailableStream#<init>(Ljava/util/stream/Stream;)V*Z
+ä ä((
+%0java.util.stream.Stream"[org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;*G
 
-__unknown_file (>
-<
-%06org.apache.commons.lang3.stream.Streams$FailableStream*?
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*<
 
-__unknown_file (#
-!
-streamjava.util.stream.Stream"L
+__unknown_file ( 
+
+streamjava.util.Collectionﬂ
+‹
 
-∂ ∂(,>
+ä ä()<
+%16org.apache.commons.lang3.stream.Streams$FailableStream"âorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*;
+
+__unknown_file (
+
+%0java.util.stream.Stream"L
+
+ä ä(*>
 <
-%06org.apache.commons.lang3.stream.Streams$FailableStream:/
+%16org.apache.commons.lang3.stream.Streams$FailableStream:,
 
-µ7 µ(M!
-streamjava.util.stream.StreamB+")
+â7 â(Q
+streamjava.util.CollectionB+")
 'org.apache.commons.lang3.stream.StreamsH

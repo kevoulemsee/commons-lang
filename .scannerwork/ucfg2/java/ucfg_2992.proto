@@ -1,71 +1,15 @@
 
-xorg.apache.commons.lang3.text.CompositeFormat#parseObject(Ljava/lang/String;Ljava/text/ParsePosition;)Ljava/lang/Object;n
-d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/CompositeFormat.javag g("startingBlock*˛
-startingBlockg g(Kç
-ä
-f f(
-%2"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*8
-
-__unknown_file (
-
-sourcejava.lang.StringZ
-X
-g+ g(1
-sourcejava.lang.String"__annotation*"
-
-__unknown_file (
-
-%2ë
-é
-f f(
-%3"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*<
-
-__unknown_file ( 
-
-posjava.text.ParsePosition^
-\
-gG g(J
-posjava.text.ParsePosition"__annotation*"
-
-__unknown_file (
-
-%3*
-1*©
-1h h(Ü
+Korg.apache.commons.lang3.text.CompositeFormat#getParser()Ljava/text/Format;n
+d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/CompositeFormat.javaX X("1*º
+1Y Y(Ü
 É
-h h(
+Y Y(
 %0java.text.Format"__id*Y
 
 __unknown_file (=*;/
 -org.apache.commons.lang3.text.CompositeFormat"
-parserÍÁ
-h h(.
-%1java.lang.Object"[java.text.Format#parseObject(Ljava/lang/String;Ljava/text/ParsePosition;)Ljava/lang/Object;*4
-
-__unknown_file (
+parser"$
+Y Y(
 
-%0java.text.Format*8
-
-__unknown_file (
-
-sourcejava.lang.String*<
-
-__unknown_file ( 
-
-posjava.text.ParsePosition28parseObject(Ljava/lang/String;Ljava/text/ParsePosition;)"$
-h h(/
-
-%1java.lang.Object:&
-g g(2
-sourcejava.lang.String:*
-g3 g(J
-posjava.text.ParsePositionB1/
+%0java.text.FormatB1/
 -org.apache.commons.lang3.text.CompositeFormatH

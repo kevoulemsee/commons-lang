@@ -1,19 +1,18 @@
 
-Worg.apache.commons.lang3.concurrent.BasicThreadFactory#getPriority()Ljava/lang/Integer;y
-m/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/BasicThreadFactory.javaù ù($"1*œ
+[org.apache.commons.lang3.concurrent.BasicThreadFactory#getNamingPattern()Ljava/lang/String;y
+m/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/BasicThreadFactory.javaì ì(("1*“
 1
-û û(î
-ë
+î î(ò
+ï
 
-û û(
-%0java.lang.Integer"__id*d
+î î(
+%0java.lang.String"__id*i
 
-__unknown_file (H*F8
-6org.apache.commons.lang3.concurrent.BasicThreadFactory"
+__unknown_file (M*K8
+6org.apache.commons.lang3.concurrent.BasicThreadFactory"
+namingPattern"&
 
-priority"'
-
-û û(
-
-%0java.lang.IntegerB:8
+î î(
+
+%0java.lang.StringB:8
 6org.apache.commons.lang3.concurrent.BasicThreadFactoryH

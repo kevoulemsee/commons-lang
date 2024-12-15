@@ -1,12 +1,43 @@
 
-lorg.apache.commons.lang3.builder.HashCodeBuilder#append(C)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaä ä(!"1*S
-1
-å å("B
+morg.apache.commons.lang3.builder.HashCodeBuilder#append([B)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaÒ Ò(!"6*Ğ
+3
+× ×(¶³
 
-æ æ(42
-0org.apache.commons.lang3.builder.HashCodeBuilder: 
+× ×(6
+%10org.apache.commons.lang3.builder.HashCodeBuilder"lorg.apache.commons.lang3.builder.HashCodeBuilder#append(B)Lorg/apache/commons/lang3/builder/HashCodeBuilder;*P
 
-__unknown_file (
-""B42
+__unknown_file (42
+0org.apache.commons.lang3.builder.HashCodeBuilder*"
+
+__unknown_file (
+""2	append(B)*
+3
+1*º
+6
+Ó Ó( 
+
+
+Ó Ó(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*-
+
+__unknown_file (
+
+arraybyte[]*"
+
+__unknown_file (
+""*
+3
+1*S
+1
+Ú Ú("B
+
+Ú Ú(42
+0org.apache.commons.lang3.builder.HashCodeBuilder:
+
+Ò" Ò(4
+arraybyte[]B42
 0org.apache.commons.lang3.builder.HashCodeBuilderH

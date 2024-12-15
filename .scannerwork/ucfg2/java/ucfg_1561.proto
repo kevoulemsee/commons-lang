@@ -1,449 +1,77 @@
 
-{org.apache.commons.lang3.reflect.TypeUtils#unrollVariables(Ljava/util/Map;Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.javaÈ È(&"18*Á
-14
-Ô Ô(&≥
-∞
+çorg.apache.commons.lang3.reflect.TypeUtils#unrollVariableAssignments(Ljava/lang/reflect/TypeVariable;Ljava/util/Map;)Ljava/lang/reflect/Type;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java’ ’(1"7*ü
+3
+‹- ‹(3Ö
+Ç
 
-Ô6 Ô(M
-%3java.lang.reflect.Type"__mapGet*<
-
-__unknown_file ( 
-
-typeArgumentsjava.util.Map*<
-
-__unknown_file ( 
-
-typejava.lang.reflect.Type
-Ì
-
-Ô Ô(N
-%4java.lang.reflect.Type"{org.apache.commons.lang3.reflect.TypeUtils#unrollVariables(Ljava/util/Map;Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils*<
-
-__unknown_file ( 
-
-typeArgumentsjava.util.Map*:
-
-__unknown_file (
-
-%3java.lang.reflect.Type",
-
-Ô Ô(O
-
-%4java.lang.reflect.Type*®
-16
-Ì Ì(!Ö
-Ç
-
-Ì Ì('
-%2boolean"[org.apache.commons.lang3.reflect.TypeUtils#containsTypeVariables(Ljava/lang/reflect/Type;)Z*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils*<
-
-__unknown_file ( 
-
-typejava.lang.reflect.Type*
-2
-14
-1
-12*é
-17
-Î Î('å
-â
-
-Î Î(2
-%1java.util.Map"/java.util.Collections#emptyMap()Ljava/util/Map;*5
-
-__unknown_file ("
-java.util.Collectionsg
-e
-
-Î Î(2
-typeArgumentsjava.util.Map"__id*1
-
-__unknown_file (
-
-%1java.util.Map*
-16*Ã
-18
-Í Í(Ø
-¨
-
-Í Í(!
-%0boolean"	__compare*"
-
-__unknown_file (
-==*<
-
-__unknown_file ( 
-
-typeArgumentsjava.util.Map*"
-
-__unknown_file (
-""*
-16
-17*?
-1
-â â(".
-
-â â( 
-
-typejava.lang.reflect.Type*µ
-2
-Ñ9 Ñ(=z
-x
-
-Ñ Ñ(>&
-wildjava.lang.reflect.WildcardType"__id*<
-
-__unknown_file ( 
-
-typejava.lang.reflect.Typeù
-ö
-
-Ö Ö(%E
-%21>org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder"yorg.apache.commons.lang3.reflect.TypeUtils#wildcardType()Lorg/apache/commons/lang3/reflect/TypeUtils$WildcardTypeBuilder;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils“œ
-
-ÖR Ö(g
-%22java.lang.reflect.Type[]"Hjava.lang.reflect.WildcardType#getUpperBounds()[Ljava/lang/reflect/Type;*D
-
-__unknown_file ((
-&
-wildjava.lang.reflect.WildcardType2getUpperBounds()ı
-Ú
-
-Ö6 Ö(h
-%23java.lang.reflect.Type[]"zorg.apache.commons.lang3.reflect.TypeUtils#unrollBounds(Ljava/util/Map;[Ljava/lang/reflect/Type;)[Ljava/lang/reflect/Type;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils*<
-
-__unknown_file ( 
-
-typeArgumentsjava.util.Map*=
-
-__unknown_file (!
-
-%22java.lang.reflect.Type[]“œ
-
-Ö Ö(iE
-%24>org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder"©org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder#withUpperBounds([Ljava/lang/reflect/Type;)Lorg/apache/commons/lang3/reflect/TypeUtils$WildcardTypeBuilder;*c
-
-__unknown_file (G
-E
-%21>org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder*=
-
-__unknown_file (!
-
-%23java.lang.reflect.Type[]2*withUpperBounds([Ljava/lang/reflect/Type;)“œ
-
-ÜE Ü(Z
-%25java.lang.reflect.Type[]"Hjava.lang.reflect.WildcardType#getLowerBounds()[Ljava/lang/reflect/Type;*D
-
-__unknown_file ((
-&
-wildjava.lang.reflect.WildcardType2getLowerBounds()ı
-Ú
-
-Ü) Ü([
-%26java.lang.reflect.Type[]"zorg.apache.commons.lang3.reflect.TypeUtils#unrollBounds(Ljava/util/Map;[Ljava/lang/reflect/Type;)[Ljava/lang/reflect/Type;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils*<
-
-__unknown_file ( 
-
-typeArgumentsjava.util.Map*=
-
-__unknown_file (!
-
-%25java.lang.reflect.Type[]“œ
-
-Ö Ü(\E
-%27>org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder"©org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder#withLowerBounds([Ljava/lang/reflect/Type;)Lorg/apache/commons/lang3/reflect/TypeUtils$WildcardTypeBuilder;*c
-
-__unknown_file (G
-E
-%24>org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder*=
-
-__unknown_file (!
-
-%26java.lang.reflect.Type[]2*withLowerBounds([Ljava/lang/reflect/Type;)åâ
-
-Ö Ü(d%
-%28java.lang.reflect.WildcardType"forg.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder#build()Ljava/lang/reflect/WildcardType;*c
-
-__unknown_file (G
-E
-%27>org.apache.commons.lang3.reflect.TypeUtils$WildcardTypeBuilder2build()"5
-
-Ö Ü(e'
-%
-%28java.lang.reflect.WildcardType*«
-4
-Å Å(,d
-b
-
-Å Å(,*
-%17#java.lang.reflect.ParameterizedType"__id*"
-
-__unknown_file (
-""“œ
-
-Å- Å(=
-%18java.lang.reflect.Type"Jjava.lang.reflect.ParameterizedType#getOwnerType()Ljava/lang/reflect/Type;*F
-
-__unknown_file (*
-(
-p#java.lang.reflect.ParameterizedType2getOwnerType()ŒÀ
-
-ÅJ Å(X
-%19java.lang.reflect.Type"Hjava.lang.reflect.ParameterizedType#getRawType()Ljava/lang/reflect/Type;*F
-
-__unknown_file (*
-(
-p#java.lang.reflect.ParameterizedType2getRawType()Ì
-Í
-
-Å Å(_*
-%20#java.lang.reflect.ParameterizedType"©org.apache.commons.lang3.reflect.TypeUtils#parameterizeWithOwner(Ljava/lang/reflect/Type;Ljava/lang/Class;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/ParameterizedType;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils*;
-
-__unknown_file (
-
-%18java.lang.reflect.Type*;
-
-__unknown_file (
-
-%19java.lang.reflect.Type*>
+‹ ‹(3.
+typeVariablejava.lang.reflect.TypeVariable"__id*>
 
 __unknown_file ("
  
-argsjava.lang.reflect.Type[]":
-
-Å Å(`,
-*
-%20#java.lang.reflect.ParameterizedType*ﬂ
-6
-˛ ˛(»
-≈
-
-˛ ˛(*
-%16"
-__arraySet*>
-
-__unknown_file ("
- 
-argsjava.lang.reflect.Type[]*"
-
-__unknown_file (
-""*@
-
-__unknown_file ($
-"
-unrolledjava.lang.reflect.Type*
-8*Ë
-7
-¸* ¸(9û
-õ
-
-¸V ¸(]
-%13java.lang.reflect.Type"
-__arrayGet*>
-
-__unknown_file ("
- 
-argsjava.lang.reflect.Type[]*"
-
-__unknown_file (
-""ˇ
-¸
-
-¸* ¸(^
-%14java.lang.reflect.Type"{org.apache.commons.lang3.reflect.TypeUtils#unrollVariables(Ljava/util/Map;Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils*I
-
-__unknown_file (-
-+
-parameterizedTypeArgumentsjava.util.Map*;
-
-__unknown_file (
-
-%13java.lang.reflect.Typeu
-s
-
-¸ ¸(_"
-unrolledjava.lang.reflect.Type"__id*;
-
-__unknown_file (
-
-%14java.lang.reflect.Type¥
-±
-
-˝ ˝((
-%15boolean"	__compare*"
-
-__unknown_file (
-!=*@
-
-__unknown_file ($
-"
-unrolledjava.lang.reflect.Type*"
-
-__unknown_file (
-""*
+resultjava.lang.reflect.Type*
 6
-8*Ø
-8
-˚  ˚(!ï
-í
+1*ê
+5
+Ÿ8 Ÿ(>ˆÛ
 
-˚  ˚(/
-%12boolean"	__compare*!
+Ÿ8 Ÿ(S
+%1boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*>
 
-__unknown_file (
-<*"
+__unknown_file ("
+ 
+resultjava.lang.reflect.Type*L
 
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-4
-7*˜
-9
-˙$ ˙(%ÈÊ
+__unknown_file (0
+.
+typeVariablejava.lang.reflect.TypeVariable2equals(Ljava/lang/Object;)*
+3
+1*“
+6
+ÿ ÿ(#ƒ
+¡
 
-˙$ ˙(>
-%11java.lang.reflect.Type[]"Ujava.lang.reflect.ParameterizedType#getActualTypeArguments()[Ljava/lang/reflect/Type;*F
-
-__unknown_file (*
-(
-p#java.lang.reflect.ParameterizedType2getActualTypeArguments()u
-s
-
-˙ ˙(? 
-argsjava.lang.reflect.Type[]"__id*=
+ÿ ÿ(5
+%0java.lang.reflect.Type"__mapGet*=
 
 __unknown_file (!
 
-%11java.lang.reflect.Type[]*
-8*‹
-10
-˜? ˜(L:8
+typeVarAssignsjava.util.Map*L
+
+__unknown_file (0
+.
+typeVariablejava.lang.reflect.TypeVariabler
+p
 
-˜5 ˜(>
-%7java.util.HashMap"java.util.HashMap∂
-≥
-
-˜1 ˜(M
-%8"*java.util.HashMap#<init>(Ljava/util/Map;)V*5
-
-__unknown_file (
-
-%7java.util.HashMap*<
-
-__unknown_file ( 
-
-typeArgumentsjava.util.Mapx
-v
-
-˜ ˜(M+
-parameterizedTypeArgumentsjava.util.Map"__id*5
-
-__unknown_file (
-
-%7java.util.HashMap´
-®
-
-¯6 ¯(I
-%9java.util.Map"qorg.apache.commons.lang3.reflect.TypeUtils#getTypeArguments(Ljava/lang/reflect/ParameterizedType;)Ljava/util/Map;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.reflect.TypeUtils*F
-
-__unknown_file (*
-(
-p#java.lang.reflect.ParameterizedTypeß
-§
-
-¯ ¯(J
-%10void"__mapSetAll*I
-
-__unknown_file (-
-+
-parameterizedTypeArgumentsjava.util.Map*1
-
-__unknown_file (
-
-%9java.util.Map*
-9*ñ
-11
-ı1 ı(>
-}
-
-ı ı(>+
-parameterizedTypeArgumentsjava.util.Map"__id*<
-
-__unknown_file ( 
-
-typeArgumentsjava.util.Map*
-9*É
-12
-Ú@ Ú(D|
-z
-
-Ú Ú(E(
-p#java.lang.reflect.ParameterizedType"__id*<
-
-__unknown_file ( 
-
-typejava.lang.reflect.Typee
-c
-
-Û Û(L+
-parameterizedTypeArgumentsjava.util.Map"__id*"
-
-__unknown_file (
-""—Œ
-
-Ù Ù($
-%5java.lang.reflect.Type"Jjava.lang.reflect.ParameterizedType#getOwnerType()Ljava/lang/reflect/Type;*F
-
-__unknown_file (*
-(
-p#java.lang.reflect.ParameterizedType2getOwnerType()≠
-™
-
-Ù Ù(,
-%6boolean"	__compare*"
-
-__unknown_file (
-==*:
+ÿ ÿ(5 
+resultjava.lang.reflect.Type"__id*:
 
 __unknown_file (
 
-%5java.lang.reflect.Type*"
+%0java.lang.reflect.Type*
+5
+1*p
+7
+÷ ÷(Z
+X
+
+÷ ÷( 
+resultjava.lang.reflect.Type"__id*"
 
 __unknown_file (
-""*
-10
-11:,
+""*
+6*A
+1
+ﬁ ﬁ("0
 
-È' È(P
-typeArgumentsjava.util.Map:,
+ﬁ ﬁ("
+ 
+resultjava.lang.reflect.Type:<
 
-ÈQ È(`
-typejava.lang.reflect.TypeB.",
-*org.apache.commons.lang3.reflect.TypeUtilsH
+’2 ’(O.
+typeVariablejava.lang.reflect.TypeVariable:-
+
+’P ’(
+typeVarAssignsjava.util.MapB.",
+*org.apache.commons.lang3.reflect.TypeUtils

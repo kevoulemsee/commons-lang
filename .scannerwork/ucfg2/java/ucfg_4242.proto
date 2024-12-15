@@ -1,57 +1,60 @@
 
-Oorg.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;)[Bn
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SerializationUtils.java⁄ ⁄(""1*ù
+corg.apache.commons.lang3.SerializationUtils#roundtrip(Ljava/io/Serializable;)Ljava/io/Serializable;n
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SerializationUtils.javaŒ- Œ(6"startingBlock*Ù
+startingBlock
+Œ6 Œ(CÖ
+Ç
+
+Õ Õ("
+%2"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*&
+
+__unknown_file (
+
+
+objTJ
+H
+
+Œ? Œ(B
+objT"__annotation*"
+
+__unknown_file (
+
+%2*
+1*è
 1
-€E €(HRP
+œ œ(„
+‡
 
-€/ €(D#
-%0java.io.ByteArrayOutputStream"java.io.ByteArrayOutputStream•
-¢
-
-€+ €(I
-%1"(java.io.ByteArrayOutputStream#<init>(I)V*A
-
-__unknown_file (%
-#
-%0java.io.ByteArrayOutputStream*!
-
-__unknown_file (2Ä~
-|
-
-€ €(J%
-baosjava.io.ByteArrayOutputStream"__id*A
-
-__unknown_file (%
-#
-%0java.io.ByteArrayOutputStreamŒ
-À
-
-‹ ‹(
-
-%2void"dorg.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;Ljava/io/OutputStream;)V*K
+œ œ(-
+%0byte[]"Oorg.apache.commons.lang3.SerializationUtils#serialize(Ljava/io/Serializable;)[B*K
 
 __unknown_file (/"-
-+org.apache.commons.lang3.SerializationUtils*9
++org.apache.commons.lang3.SerializationUtils*&
 
-__unknown_file (
-
-objjava.io.Serializable*C
-
-__unknown_file ('
-%
-baosjava.io.ByteArrayOutputStream†ù
+__unknown_file (
 
-› ›(!
-%3byte[]"-java.io.ByteArrayOutputStream#toByteArray()[B*C
-
-__unknown_file ('
-%
-baosjava.io.ByteArrayOutputStream2toByteArray()"
+
+objTÔ
+Ï
 
-› ›("
+œ œ(.
+%1java.lang.Object"Morg.apache.commons.lang3.SerializationUtils#deserialize([B)Ljava/lang/Object;*K
+
+__unknown_file (/"-
++org.apache.commons.lang3.SerializationUtils**
+
+__unknown_file (
 
-%3byte[]:)
+%0byte[]"&
 
-⁄# ⁄(9
-objjava.io.SerializableB/"-
+œ œ(/
+
+%1java.lang.Object:
+
+Œ7 Œ(B
+objTB/"-
 +org.apache.commons.lang3.SerializationUtilsH

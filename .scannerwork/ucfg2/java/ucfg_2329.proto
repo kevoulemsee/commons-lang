@@ -1,64 +1,84 @@
 
-Dorg.apache.commons.lang3.Range#elementCompareTo(Ljava/lang/Object;)Ia
-U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaó ó("5*%
+Oorg.apache.commons.lang3.Range#containsRange(Lorg/apache/commons/lang3/Range;)Za
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaÑ Ñ( "5*
 2
-û û("
+â â(v
+t
 
-û û(
-""*Ä
-3
-ù ù(Ê„
+â â(*
+%3T"__id*W
+
+__unknown_file (;*9
+,
 
-ù ù(
-%2boolean"<org.apache.commons.lang3.Range#isBefore(Ljava/lang/Object;)Z*>
+otherRangeorg.apache.commons.lang3.Range"	
+maximum·ﬁ
+
+â â(+
+%4boolean"<org.apache.commons.lang3.Range#contains(Ljava/lang/Object;)Z*>
 
 __unknown_file (" 
-org.apache.commons.lang3.Range**
+org.apache.commons.lang3.Range*%
 
-__unknown_file (
-
-elementT2isBefore(Ljava/lang/Object;)*
+__unknown_file (	
+
+%3T2contains(Ljava/lang/Object;)*
+1*Û
+3
+à à(v
+t
+
+à à(*
+%1T"__id*W
+
+__unknown_file (;*9
+,
+
+otherRangeorg.apache.commons.lang3.Range"	
+minimum·ﬁ
+
+à à(+
+%2boolean"<org.apache.commons.lang3.Range#contains(Ljava/lang/Object;)Z*>
+
+__unknown_file (" 
+org.apache.commons.lang3.Range*%
+
+__unknown_file (	
+
+%1T2contains(Ljava/lang/Object;)*
 2
 1*%
 4
-õ õ("
+Ü Ü("
 
-õ õ(
-""*˚
+Ü Ü(
+""*◊
 5
-ô ô(˙
-˜
+Ö Ö(Ω
+∫
 
-ô ô(2
-%0T"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+Ö Ö(
+%0boolean"	__compare*"
 
-__unknown_file ("
-java.util.Objects**
+__unknown_file (
+==*J
 
-__unknown_file (
-
-elementT*'
-
-__unknown_file (	
-element‰·
+__unknown_file (.
+,
 
-ö ö(
-%1boolean";org.apache.commons.lang3.Range#isAfter(Ljava/lang/Object;)Z*>
+otherRangeorg.apache.commons.lang3.Range*"
 
-__unknown_file (" 
-org.apache.commons.lang3.Range**
-
-__unknown_file (
-
-elementT2isAfter(Ljava/lang/Object;)*
+__unknown_file (
+""*
 3
 4*%
 1
-† †("
+à â(,"
 
-† †(
-"":
+à â(,
+""::
 
-ó  ó(/
-elementTB" 
+Ñ! Ñ(:,
+
+otherRangeorg.apache.commons.lang3.RangeB" 
 org.apache.commons.lang3.RangeHX

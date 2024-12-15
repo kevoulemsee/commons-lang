@@ -1,15 +1,65 @@
 
-korg.apache.commons.lang3.StringUtils#lastOrdinalIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)Ig
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java∑' ∑'(("1*∏
-1
-∏' ∏'(ê
-ç
+norg.apache.commons.lang3.StringUtils#lastIndexOfIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)Ig
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaë' ë'(+"startingBlock*ú
+startingBlock
+ë'+ ë'(uî
+ë
 
-∏' ∏'(<	
-%0int"horg.apache.commons.lang3.StringUtils#ordinalIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;IZ)I*D
+ê' ê'(
+%2"
+__annotate*4
 
-__unknown_file (("&
-$org.apache.commons.lang3.StringUtils*;
+__unknown_file (
+java.lang.Deprecated*;
+
+__unknown_file (
+
+strjava.lang.CharSequence_
+]
+
+ë'? ë'(B
+strjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%2ö
+ó
+
+ê' ê'(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*A
+
+__unknown_file (%
+#
+	searchStrjava.lang.CharSequencee
+c
+
+ë'W ë'(`#
+	searchStrjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%3*
+1*∞
+1
+í' í'(`
+^
+
+í' í'(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""¶£
+
+í' í'(?	
+%1int"`org.apache.commons.lang3.Strings#lastIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)I*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*;
 
 __unknown_file (
 
@@ -20,17 +70,15 @@ $org.apache.commons.lang3.StringUtils*;
 	searchStrjava.lang.CharSequence*"
 
 __unknown_file (
-""* 
-
-__unknown_file (2"
+""2>lastIndexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;I)"
 
-∏' ∏'(=
+í' í'(@
 "":+
 
-∑') ∑'(@
+ë', ë'(C
 strjava.lang.CharSequence:1
 
-∑'A ∑'(^#
+ë'D ë'(a#
 	searchStrjava.lang.CharSequence: 
 
 __unknown_file (

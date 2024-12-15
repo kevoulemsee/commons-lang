@@ -1,25 +1,66 @@
 
-rorg.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl#getActualTypeArguments()[Ljava/lang/reflect/Type;m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.javaá á(,"1*ò
+\org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl#equals(Ljava/lang/Object;)Zk
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/TypeUtils.java ("startingBlock*ç
+2
+ÄF Ä(Oˆ
+Û
+
+ÄF Ä(u
+%1boolean"qorg.apache.commons.lang3.reflect.TypeUtils#equals(Ljava/lang/reflect/ParameterizedType;Ljava/lang/reflect/Type;)Z*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.reflect.TypeUtils*`
+
+__unknown_file (DB
+@org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl*5
+
+__unknown_file (
+
+objjava.lang.Object*
+1*Ñ
+startingBlock (/ä
+á
+~ ~(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
++ (.
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%2*
+4*Ä
+4
+Ä Ä(Ê
+„
+
+Ä Ä(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+objjava.lang.Object*`
+
+__unknown_file (DB
+@org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl*
+2
+1*%
 1
-à à( ™
-ß
+Ä Ä(v"
 
-à à( 
-%0java.lang.reflect.Type[]"__id*s
-
-__unknown_file (W*UB
-@org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImpl"
-typeArguments©¶
-
-à à((
-%1java.lang.reflect.Type[]"1java.lang.Object#clone()[Ljava/lang/reflect/Type;*<
-
-__unknown_file ( 
-
-%0java.lang.reflect.Type[]2clone()".
-
-à à() 
-
-%1java.lang.reflect.Type[]BDB
-@org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImplH
+Ä Ä(v
+"":#
+ (.
+objjava.lang.ObjectBDB
+@org.apache.commons.lang3.reflect.TypeUtils$ParameterizedTypeImplHX

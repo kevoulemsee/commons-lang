@@ -1,14 +1,14 @@
 
-xorg.apache.commons.lang3.function.FailableDoubleFunction#nop()Lorg/apache/commons/lang3/function/FailableDoubleFunction;y
-o/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableDoubleFunction.java,A ,(D"1*Ó
-1- -(v
-t
-- -(>
-%08org.apache.commons.lang3.function.FailableDoubleFunction"__id*"
+~org.apache.commons.lang3.function.FailableLongToIntFunction#nop()Lorg/apache/commons/lang3/function/FailableLongToIntFunction;|
+r/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableLongToIntFunction.java*> *(A"1*Ù
+1+ +(y
+w
++ +(A
+%0;org.apache.commons.lang3.function.FailableLongToIntFunction"__id*"
 
 __unknown_file (
-"""L
-- -(@
->
-%08org.apache.commons.lang3.function.FailableDoubleFunctionB<":
-8org.apache.commons.lang3.function.FailableDoubleFunctionH
+"""O
++ +(C
+A
+%0;org.apache.commons.lang3.function.FailableLongToIntFunctionB?"=
+;org.apache.commons.lang3.function.FailableLongToIntFunctionH

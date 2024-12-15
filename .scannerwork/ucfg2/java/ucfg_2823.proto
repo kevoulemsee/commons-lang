@@ -1,60 +1,50 @@
 
-2org.apache.commons.lang3.math.NumberUtils#min([B)Bl
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.java© ©("6*´
-4
-Ø Ø(î
+3org.apache.commons.lang3.math.NumberUtils#max(SSS)Sl
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javañ ñ("5*´
+3
+ö ö(î
 ë
 
-Ø Ø(
-%2boolean"	__compare*!
+ö ö(
+%1boolean"	__compare*!
 
 __unknown_file (
-<*"
+>*"
 
 __unknown_file (
 ""*"
 
 __unknown_file (
 ""*
-5*Æ
+1*´
 5
-Æ Æ(î
+ó ó(î
 ë
 
-Æ Æ((
-%1boolean"	__compare*!
+ó ó(
+%0boolean"	__compare*!
 
 __unknown_file (
-<*"
+>*"
 
 __unknown_file (
 ""*"
 
 __unknown_file (
-""*
-4
-1*¸
-6
-´ ´(Â
-‚
-
-´ ´(
-
-%0void"Lorg.apache.commons.lang3.math.NumberUtils#validateArray(Ljava/lang/Object;)V*I
-
-__unknown_file (-"+
-)org.apache.commons.lang3.math.NumberUtils*/
-
-__unknown_file (
-
-arraybyte[]*
-5*%
+""*
+3*%
 1
-≥ ≥("
+ù ù("
 
-≥ ≥(
-"":
-
-© ©(.
-arraybyte[]B-"+
+ù ù(
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B-"+
 )org.apache.commons.lang3.math.NumberUtilsHX

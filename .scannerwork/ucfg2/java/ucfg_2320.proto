@@ -1,67 +1,59 @@
 
-torg.apache.commons.lang3.Range#between(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/apache/commons/lang3/Range;_
-U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaO= O(D"startingBlock*Ö
-startingBlockOD O(p‡
-„
-N N(
+borg.apache.commons.lang3.Range$ComparableComparator#compare(Ljava/lang/Object;Ljava/lang/Object;)I_
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.java0 0("startingBlock*î
+startingBlock0 0(@‹
+ˆ
+/ /(
 %1"
-__annotate*4
+__annotate*2
 
-__unknown_file (
-java.lang.Deprecated*0
+__unknown_file (
+java.lang.Override*6
 
-__unknown_file (
-
-fromInclusiveTR
-P
-OM O(Z
-fromInclusiveT"__annotation*"
+__unknown_file (
+
+obj1java.lang.ObjectX
+V
+0( 0(,
+obj1java.lang.Object"__annotation*"
 
 __unknown_file (
 
-%1…
-‚
-N N(
+%1‹
+ˆ
+/ /(
 %2"
-__annotate*4
+__annotate*2
 
-__unknown_file (
-java.lang.Deprecated*.
+__unknown_file (
+java.lang.Override*6
 
-__unknown_file (
-
-toInclusiveTP
-N
-Od O(o
-toInclusiveT"__annotation*"
+__unknown_file (
+
+obj2java.lang.ObjectX
+V
+0; 0(?
+obj2java.lang.Object"__annotation*"
 
 __unknown_file (
 
 %2*
-1*¼
-1P P(ø
-õ
-P P(3$
-%0org.apache.commons.lang3.Range"}org.apache.commons.lang3.Range#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;*>
+1*€
+11! 1(%ÜÙ
+1 1(6	
+%0int"3java.lang.Comparable#compareTo(Ljava/lang/Object;)I*6
 
-__unknown_file ("" 
-org.apache.commons.lang3.Range*0
+__unknown_file (
 
-__unknown_file (
-
-fromInclusiveT*.
+obj1java.lang.Object*6
 
-__unknown_file (
-
-toInclusiveT*"
+__unknown_file (
 
-__unknown_file (
-"""2
-P P(4&
-$
-%0org.apache.commons.lang3.Range:
-OE O([
-fromInclusiveT:
-O\ O(o
-toInclusiveTB"" 
-org.apache.commons.lang3.RangeH
+obj2java.lang.Object2compareTo(Ljava/lang/Object;)"
+1 1(7
+"":$
+0 0(-
+obj1java.lang.Object:$
+0. 0(?
+obj2java.lang.ObjectB75
+3org.apache.commons.lang3.Range$ComparableComparatorHX

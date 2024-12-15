@@ -1,18 +1,24 @@
 
-Yorg.apache.commons.lang3.RandomUtils#secureStrong()Lorg/apache/commons/lang3/RandomUtils;g
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.java‘ ‘(*"1*è
+Oorg.apache.commons.lang3.RandomUtils#secureRandom()Ljava/security/SecureRandom;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.java‚ ‚($"1*½
 1
-’ ’(š
-—
+ƒ ƒ(#U
+S
 
-’ ’(*
-%0$org.apache.commons.lang3.RandomUtils"__id*W
+ƒ ƒ(#
+%0java.lang.ThreadLocal"__id*"
 
-__unknown_file (;*9&
-$org.apache.commons.lang3.RandomUtils"
-SECURE_STRONG":
+__unknown_file (
+""¢Ÿ
 
-’ ’(,
-*
-%0$org.apache.commons.lang3.RandomUtilsB("&
-$org.apache.commons.lang3.RandomUtilsH
+ƒ ƒ() 
+%1java.security.SecureRandom"-java.lang.ThreadLocal#get()Ljava/lang/Object;*9
+
+__unknown_file (
+
+%0java.lang.ThreadLocal2get()"0
+
+ƒ ƒ(*"
+ 
+%1java.security.SecureRandomB("&
+$org.apache.commons.lang3.RandomUtils

@@ -1,8 +1,8 @@
 
-0org.apache.commons.lang3.BitField#clearShort(S)Sb
-X/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BitField.java{ {("1*Ú
-1| |(¶³
-| |($	
+/org.apache.commons.lang3.BitField#clearByte(B)Bb
+X/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BitField.javao o("1*Ú
+1p p(¶³
+p p(#	
 %0int"+org.apache.commons.lang3.BitField#clear(I)I*A
 
 __unknown_file (%#
@@ -10,7 +10,7 @@ X/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BitF
 
 __unknown_file (
 ""2clear(I)"
-| |(%
+p p($
 "": 
 
 __unknown_file (

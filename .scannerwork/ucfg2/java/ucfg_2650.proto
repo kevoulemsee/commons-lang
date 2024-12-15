@@ -1,52 +1,28 @@
 
-__sonar_lambda_82$m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaè è(B"startingBlock*ÿ
-startingBlock
-è è(BÂ
-¿
-
-__unknown_file (B
-	predicate5org.apache.commons.lang3.function.FailableBiPredicate"__id*Y
-
-__unknown_file (=*;,
-*org.apache.commons.lang3.function.Failable"
-	predicateŠ
-‡
-
-__unknown_file (
-object1T"__id*W
-
-__unknown_file (;*9,
-*org.apache.commons.lang3.function.Failable"	
-object1Š
-‡
-
-__unknown_file (
-object2U"__id*W
-
-__unknown_file (;*9,
-*org.apache.commons.lang3.function.Failable"	
-object2*
-1*˜
+„org.apache.commons.lang3.function.Failable#stream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java×( ×(."1*õ
 1
-è" è(+çä
+Ø$ Ø(*…‚
 
-è" è(B
-%1boolean"aorg.apache.commons.lang3.function.FailableBiPredicate#test(Ljava/lang/Object;Ljava/lang/Object;)Z*`
-
-__unknown_file (D
-B
-	predicate5org.apache.commons.lang3.function.FailableBiPredicate**
-
-__unknown_file (
-
-object1T**
-
-__unknown_file (
-
-object2U2*test(Ljava/lang/Object;Ljava/lang/Object;)"
+Ø Ø(#<
+%06org.apache.commons.lang3.stream.Streams$FailableStream"6org.apache.commons.lang3.stream.Streams$FailableStream
+Š
 
-è" è(B
+Ø Ø(+
+%1"Yorg.apache.commons.lang3.stream.Streams$FailableStream#<init>(Ljava/util/stream/Stream;)V*Z
+
+__unknown_file (>
+<
+%06org.apache.commons.lang3.stream.Streams$FailableStream*?
+
+__unknown_file (#
+!
+streamjava.util.stream.Stream"L
 
-%1booleanB=;
-9org.apache.commons.lang3.function.FailableBooleanSupplier
+Ø Ø(,>
+<
+%06org.apache.commons.lang3.stream.Streams$FailableStream:/
+
+×/ ×(E!
+streamjava.util.stream.StreamB.",
+*org.apache.commons.lang3.function.FailableH

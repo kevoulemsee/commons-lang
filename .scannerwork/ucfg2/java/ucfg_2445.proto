@@ -1,45 +1,23 @@
 
-ƒorg.apache.commons.lang3.stream.Streams#failableStream([Ljava/lang/Object;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÎ( Î(6"startingBlock*ý
-startingBlock
-Î6 Î(I‡
-„
-
-Í Í(
-%2"
-__annotate*5
-
-__unknown_file (
-java.lang.SafeVarargs*-
-
-__unknown_file (
-
-valuesT[]Q
-O
-
-ÎB Î(H
-valuesT[]"__annotation*"
-
-__unknown_file (
-
-%2*
-1*Â
+‚org.apache.commons.lang3.stream.Streams#failableStream(Ljava/lang/Object;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÁ( Á(6"1*Â
 1
-Ï Ï(€
+Â Â(€
 ý
 
-Ï Ï((
-%0java.util.stream.Stream"Xorg.apache.commons.lang3.stream.Streams#of([Ljava/lang/Object;)Ljava/util/stream/Stream;*G
+Â Â(-
+%0java.util.stream.Stream"]org.apache.commons.lang3.stream.Streams#streamOf(Ljava/lang/Object;)Ljava/util/stream/Stream;*G
 
 __unknown_file (+")
-'org.apache.commons.lang3.stream.Streams*-
+'org.apache.commons.lang3.stream.Streams*(
 
-__unknown_file (
-
-valuesT[]ß
+__unknown_file (
+
+
+valueTß
 Ü
 
-Ï Ï()<
+Â Â(.<
 %16org.apache.commons.lang3.stream.Streams$FailableStream"‰org.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*G
 
 __unknown_file (+")
@@ -49,10 +27,11 @@ O
 
 %0java.util.stream.Stream"L
 
-Ï Ï(*>
+Â Â(/>
 <
-%16org.apache.commons.lang3.stream.Streams$FailableStream:
+%16org.apache.commons.lang3.stream.Streams$FailableStream:
 
-Î7 Î(H
-valuesT[]B+")
+Á7 Á(D
+
+valueTB+")
 'org.apache.commons.lang3.stream.StreamsH

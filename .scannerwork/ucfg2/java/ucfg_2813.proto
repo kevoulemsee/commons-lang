@@ -1,12 +1,12 @@
 
-2org.apache.commons.lang3.math.NumberUtils#max([D)Dl
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javaπ π("8*´
-4
-¬ ¬(î
+3org.apache.commons.lang3.math.NumberUtils#max(BBB)Bl
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.java• •("5*´
+3
+© ©(î
 ë
 
-¬ ¬(
-%4boolean"	__compare*!
+© ©(
+%1boolean"	__compare*!
 
 __unknown_file (
 >*"
@@ -16,68 +16,33 @@
 
 __unknown_file (
 ""*
-7*m
+1*´
 5
-¿ ¿(F
-D
-
-¿ ¿(!
-%3double"__id*"
-
-__unknown_file (
-"""
-
-¿ ¿("
-""*™
-6
-ø ø(ê
-ç
-
-ø ø(&
-%2boolean"java.lang.Double#isNaN(D)Z*0
-
-__unknown_file ("
-java.lang.Double*"
-
-__unknown_file (
-""*
-4
-5*Æ
-7
-æ æ(î
+¶ ¶(î
 ë
 
-æ æ((
-%1boolean"	__compare*!
+¶ ¶(
+%0boolean"	__compare*!
 
 __unknown_file (
-<*"
+>*"
 
 __unknown_file (
 ""*"
 
 __unknown_file (
-""*
-6
-1*Ô
-8
-ª ª(ÿ
-’
-
-ª ª(
-
-%0void"Lorg.apache.commons.lang3.math.NumberUtils#validateArray(Ljava/lang/Object;)V*I
-
-__unknown_file (-"+
-)org.apache.commons.lang3.math.NumberUtils*"
-
-__unknown_file (
 ""*
-7*%
+3*%
 1
-∆ ∆("
+¨ ¨("
 
-∆ ∆(
+¨ ¨(
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
 "": 
 
 __unknown_file (

@@ -1,49 +1,47 @@
 
-__sonar_lambda_73$m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java¼ ¼(C"startingBlock*â
-startingBlock
-¼ ¼(C¿
-¼
-
-__unknown_file (@
-consumer4org.apache.commons.lang3.function.FailableBiConsumer"__id*X
-
-__unknown_file (<*:,
-*org.apache.commons.lang3.function.Failable"
-
-consumer*
-1*Ü
+}org.apache.commons.lang3.function.Failable#applyAsDouble(Lorg/apache/commons/lang3/function/FailableDoubleBinaryOperator;DD)Dm
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java®/ ®(<"1*Û
 1
-¼# ¼()®
-«
+° °(–
+“
 
-¼# ¼(C
+° °(D>
+%08org.apache.commons.lang3.function.FailableDoubleSupplier"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_73$Û
+Ø
+
+__unknown_file (L
+>
+%08org.apache.commons.lang3.function.FailableDoubleSupplier"
 
-%1void"Žorg.apache.commons.lang3.function.Failable#accept(Lorg/apache/commons/lang3/function/FailableBiConsumer;Ljava/lang/Object;Ljava/lang/Object;)V*J
+function"__id*h
+
+__unknown_file (L
+J
+function>org.apache.commons.lang3.function.FailableDoubleBinaryOperator¼
+¹
+
+° °(E
+%2double"sorg.apache.commons.lang3.function.Failable#getAsDouble(Lorg/apache/commons/lang3/function/FailableDoubleSupplier;)D*J
 
 __unknown_file (.",
-*org.apache.commons.lang3.function.Failable*^
+*org.apache.commons.lang3.function.Failable*\
 
-__unknown_file (B
-@
-consumer4org.apache.commons.lang3.function.FailableBiConsumer*)
+__unknown_file (@
+>
+%08org.apache.commons.lang3.function.FailableDoubleSupplier"
+
+° °(F
+"":X
+
+®= ®(lJ
+function>org.apache.commons.lang3.function.FailableDoubleBinaryOperator: 
 
-__unknown_file (
-
-input1T*)
+__unknown_file (
+"": 
 
-__unknown_file (
-
-input2U"
-
-¼# ¼(C
-
-
-%1void:
-
-¼ ¼(
-input1T:
-
-¼ ¼(
-input2UB!
-java.util.function.BiConsumer
+__unknown_file (
+""B.",
+*org.apache.commons.lang3.function.FailableHX

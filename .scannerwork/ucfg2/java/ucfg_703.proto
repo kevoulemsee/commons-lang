@@ -1,9 +1,9 @@
 
-óorg.apache.commons.lang3.function.MethodInvokers#asFailableBiConsumer(Ljava/lang/reflect/Method;)Lorg/apache/commons/lang3/function/FailableBiConsumer;q
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.java|= |(Q"startingBlock*¢
-startingBlock|Q |(fù
+xorg.apache.commons.lang3.function.MethodInvokers#asBiFunction(Ljava/lang/reflect/Method;)Ljava/util/function/BiFunction;q
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javam0 m(<"startingBlock*¢
+startingBlockm< m(Qù
 ö
-{ {("
+l l("
 %1"
 __annotate*:
 
@@ -14,17 +14,17 @@ __annotate*:
 "
 methodjava.lang.reflect.Methodb
 `
-|_ |(e"
+mJ m(P"
 methodjava.lang.reflect.Method"__annotation*"
 
 __unknown_file (
 
 %1*
-1*·
-1} }("á
-Ñ
-} }(D:
-%04org.apache.commons.lang3.function.FailableBiConsumer"Éorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
+1*≥
+1n n("
+Ì
+n n(<#
+%0java.util.function.BiFunction"Éorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
 
 __unknown_file (4"2
 0org.apache.commons.lang3.function.MethodInvokers*"
@@ -34,10 +34,10 @@ __annotate*:
 
 __unknown_file ($
 "
-methodjava.lang.reflect.Method"H
-} }(E<
-:
-%04org.apache.commons.lang3.function.FailableBiConsumer:.
-|R |(e"
+methodjava.lang.reflect.Method"1
+n n(=%
+#
+%0java.util.function.BiFunction:.
+m= m(P"
 methodjava.lang.reflect.MethodB4"2
 0org.apache.commons.lang3.function.MethodInvokersH

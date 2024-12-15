@@ -1,31 +1,49 @@
 
-‡org.apache.commons.lang3.Functions#asBiConsumer(Lorg/apache/commons/lang3/Functions$FailableBiConsumer;)Ljava/util/function/BiConsumer;e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaà. à(:"1*ú
+__sonar_lambda_96$e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaá á(C"startingBlock*Û
+startingBlock
+á á(C¸
+µ
+
+__unknown_file (A
+consumer5org.apache.commons.lang3.Functions$FailableBiConsumer"__id*P
+
+__unknown_file (4*2$
+"org.apache.commons.lang3.Functions"
+
+consumer*
+1*Ð
 1
-á á(Cz
-x
+á# á()¢
+Ÿ
 
-á á(C#
-%0java.util.function.BiConsumer"__declareFunction*2
-
-__unknown_file (
-__sonar_lambda_95$·
-´
-
-__unknown_file (1
-#
-%0java.util.function.BiConsumer"
+á# á(C
 
-consumer"__id*_
+%1void"‡org.apache.commons.lang3.Functions#accept(Lorg/apache/commons/lang3/Functions$FailableBiConsumer;Ljava/lang/Object;Ljava/lang/Object;)V*B
+
+__unknown_file (&"$
+"org.apache.commons.lang3.Functions*_
 
 __unknown_file (C
 A
-consumer5org.apache.commons.lang3.Functions$FailableBiConsumer"3
+consumer5org.apache.commons.lang3.Functions$FailableBiConsumer**
+
+__unknown_file (
+
+input1O1**
+
+__unknown_file (
+
+input2O2"
 
-á á(D%
-#
-%0java.util.function.BiConsumer:O
+á# á(C
 
-à; à(gA
-consumer5org.apache.commons.lang3.Functions$FailableBiConsumerB&"$
-"org.apache.commons.lang3.FunctionsH
+
+%1void:
+
+á á(
+input1O1:
+
+á á(
+input2O2B!
+java.util.function.BiConsumer

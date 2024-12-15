@@ -1,59 +1,50 @@
 
-¬org.apache.commons.lang3.stream.Streams$FailableStream#filter(Lorg/apache/commons/lang3/function/FailablePredicate;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaë! ë('"1*Œ
-
+­org.apache.commons.lang3.stream.Streams$FailableStream#collect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)Ljava/lang/Object;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÜ Ü("1*’
 1
-ì ì(ÙÖ
+Ý Ý(ÏÌ
 
-ì ì(!
+Ý Ý(
 
-%0void"Morg.apache.commons.lang3.stream.Streams$FailableStream#assertNotTerminated()V*V
+%0void"Horg.apache.commons.lang3.stream.Streams$FailableStream#makeTerminated()V*V
 
 __unknown_file (:8
-6org.apache.commons.lang3.stream.Streams$FailableStream2assertNotTerminated()˜
-•
+6org.apache.commons.lang3.stream.Streams$FailableStream2makeTerminated()êç
 
-í í(
-%1java.util.stream.Stream"__id*b
+Þ Þ(
+%1java.util.stream.Stream"Xorg.apache.commons.lang3.stream.Streams$FailableStream#stream()Ljava/util/stream/Stream;*V
 
-__unknown_file (F*D8
-6org.apache.commons.lang3.stream.Streams$FailableStream"
-streamí
-ê
+__unknown_file (:8
+6org.apache.commons.lang3.stream.Streams$FailableStream2stream()¨¥
 
-í# í(B"
-%2java.util.function.Predicate"‹org.apache.commons.lang3.function.Failable#asPredicate(Lorg/apache/commons/lang3/function/FailablePredicate;)Ljava/util/function/Predicate;*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.function.Failable*^
-
-__unknown_file (B
-@
-	predicate3org.apache.commons.lang3.function.FailablePredicate®«
-
-í í(C
-%3java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
+Þ Þ(D
+%2R"Žjava.util.stream.Stream#collect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)Ljava/lang/Object;*;
 
 __unknown_file (
 
-%1java.util.stream.Stream*@
+%1java.util.stream.Stream*E
 
-__unknown_file ($
-"
-%2java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)˜
-•
-
-í í(CD8
-6org.apache.commons.lang3.stream.Streams$FailableStream"
-stream"__id*;
+__unknown_file ()
+'
+supplierjava.util.function.Supplier*J
 
-__unknown_file (
-
-%3java.util.stream.Stream"H
+__unknown_file (.
+,
+accumulatorjava.util.function.BiConsumer*G
+
+__unknown_file (+
+)
+combinerjava.util.function.BiConsumer2dcollect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)"
 
-î î(:8
-6org.apache.commons.lang3.stream.Streams$FailableStream:N
+Þ Þ(E	
+
+%2R:5
 
-ë( ë(O@
-	predicate3org.apache.commons.lang3.function.FailablePredicateB:8
+Ü  Ü(;'
+supplierjava.util.function.Supplier::
+
+Ü< Ü(g,
+accumulatorjava.util.function.BiConsumer:8
+Üh Ü(‡)
+combinerjava.util.function.BiConsumerB:8
 6org.apache.commons.lang3.stream.Streams$FailableStreamH

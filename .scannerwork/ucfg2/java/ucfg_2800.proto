@@ -1,16 +1,16 @@
 
-Zorg.apache.commons.lang3.math.NumberUtils#createFloat(Ljava/lang/String;)Ljava/lang/Float;l
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javaò ò(#"3*%
+\org.apache.commons.lang3.math.NumberUtils#createDouble(Ljava/lang/String;)Ljava/lang/Double;l
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javaâ â(%"3*%
 2
-ô ô("
+ä ä("
 
-ô ô(
+ä ä(
 ""*Â
 3
-ó ó(¨
+ã ã(¨
 ¥
 
-ó ó(
+ã ã(
 %0boolean"	__compare*"
 
 __unknown_file (
@@ -23,25 +23,25 @@ Zorg.apache.commons.lang3.math.NumberUtils#createFloat(Ljava/lang/String;)Ljava/
 __unknown_file (
 ""*
 2
-1*…
+1*Š
 1
-ö ö(Ì
-É
+æ æ(Ð
+Í
 
-ö ö(!
-%1java.lang.Float"<java.lang.Float#valueOf(Ljava/lang/String;)Ljava/lang/Float;*/
+æ æ("
+%1java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*0
 
-__unknown_file ("
-java.lang.Float*5
+__unknown_file ("
+java.lang.Double*5
 
 __unknown_file (
 
-strjava.lang.String"%
+strjava.lang.String"&
 
-ö ö("
-
-%1java.lang.Float:%
+æ æ(#
+
+%1java.lang.Double:%
 
-ò$ ò(4
+â& â(6
 strjava.lang.StringB-"+
 )org.apache.commons.lang3.math.NumberUtilsH

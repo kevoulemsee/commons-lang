@@ -1,10 +1,40 @@
 
-lorg.apache.commons.lang3.builder.HashCodeBuilder#append(I)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java½ ½(!"1*S
-1
-¾ ¾("B
+morg.apache.commons.lang3.builder.HashCodeBuilder#append([F)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java« «(!"6*Ð
+3
+° °(¶³
 
-¿ ¿(42
+° °(6
+%10org.apache.commons.lang3.builder.HashCodeBuilder"lorg.apache.commons.lang3.builder.HashCodeBuilder#append(F)Lorg/apache/commons/lang3/builder/HashCodeBuilder;*P
+
+__unknown_file (42
+0org.apache.commons.lang3.builder.HashCodeBuilder*"
+
+__unknown_file (
+""2	append(F)*
+3
+1*¯
+6
+¬ ¬(•
+’
+
+¬ ¬(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+3
+1*S
+1
+³ ³("B
+
+³ ³(42
 0org.apache.commons.lang3.builder.HashCodeBuilder: 
 
 __unknown_file (

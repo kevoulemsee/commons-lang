@@ -1,28 +1,50 @@
 
-torg.apache.commons.lang3.function.MethodInvokers#requireMethod(Ljava/lang/reflect/Method;)Ljava/lang/reflect/Method;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javaì ì('"1*è
-1
-í í(¦
-£
+torg.apache.commons.lang3.function.MethodInvokers#asSupplier(Ljava/lang/reflect/Method;)Ljava/util/function/Supplier;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javaá" á(,"startingBlock*¨
+startingBlock
+á, á(AŸ
+œ
 
-í í(7
-%0java.lang.reflect.Method"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+à à("
+%1"
+__annotate*:
 
-__unknown_file ("
-java.util.Objects*@
+__unknown_file (
+java.lang.SuppressWarnings*@
 
 __unknown_file ($
 "
-methodjava.lang.reflect.Method*&
+methodjava.lang.reflect.Methodd
+b
+
+á: á(@"
+methodjava.lang.reflect.Method"__annotation*"
 
-__unknown_file (
-
-method".
+__unknown_file (
+
+%1*
+1*µ
+1
+â â("ð
+í
 
-í í(8 
-
-%0java.lang.reflect.Method:0
+â â(:!
+%0java.util.function.Supplier"ƒorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
+
+__unknown_file (4"2
+0org.apache.commons.lang3.function.MethodInvokers*"
+
+__unknown_file (
+""*@
+
+__unknown_file ($
+"
+methodjava.lang.reflect.Method"1
 
-ì( ì(;"
+â â(;#
+!
+%0java.util.function.Supplier:0
+
+á- á(@"
 methodjava.lang.reflect.MethodB4"2
-0org.apache.commons.lang3.function.MethodInvokers
+0org.apache.commons.lang3.function.MethodInvokersH

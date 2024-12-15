@@ -1,11 +1,11 @@
 
-lorg.apache.commons.lang3.builder.ToStringBuilder#append(C)Lorg/apache/commons/lang3/builder/ToStringBuilder;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.java∫ ∫(!"1*¢
+morg.apache.commons.lang3.builder.ToStringBuilder#append([B)Lorg/apache/commons/lang3/builder/ToStringBuilder;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.javaÆ Æ(!"1*˘
 1
-ª ª(®
+Ø Ø(®
 •
 
-ª ª(4
+Ø Ø(4
 %0.org.apache.commons.lang3.builder.ToStringStyle"__id*[
 
 __unknown_file (?*=2
@@ -13,16 +13,16 @@ g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/buil
 styleë
 é
 
-ª ª(
+Ø Ø(
 %1java.lang.StringBuffer"__id*\
 
 __unknown_file (@*>2
 0org.apache.commons.lang3.builder.ToStringBuilder"
-bufferçä
+buffer‰·
 
-ª ª()
+Ø Ø(/
 
-%2void"corg.apache.commons.lang3.builder.ToStringStyle#append(Ljava/lang/StringBuffer;Ljava/lang/String;C)V*R
+%2void"worg.apache.commons.lang3.builder.ToStringStyle#append(Ljava/lang/StringBuffer;Ljava/lang/String;[BLjava/lang/Boolean;)V*R
 
 __unknown_file (6
 4
@@ -33,14 +33,18 @@ g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/buil
 %1java.lang.StringBuffer*"
 
 __unknown_file (
-""*"
+""*-
+
+__unknown_file (
+
+arraybyte[]*"
 
 __unknown_file (
-""23append(Ljava/lang/StringBuffer;Ljava/lang/String;C)"B
+""2Gappend(Ljava/lang/StringBuffer;Ljava/lang/String;[BLjava/lang/Boolean;)"B
 
-º º(42
-0org.apache.commons.lang3.builder.ToStringBuilder: 
-
-__unknown_file (
-""B42
+∞ ∞(42
+0org.apache.commons.lang3.builder.ToStringBuilder:
+
+Æ" Æ(4
+arraybyte[]B42
 0org.apache.commons.lang3.builder.ToStringBuilderH

@@ -1,24 +1,37 @@
 
-2org.apache.commons.lang3.util.FluentBitSet#size()Im
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaý ý("1* 
+gorg.apache.commons.lang3.util.FluentBitSet#setInclusive(II)Lorg/apache/commons/lang3/util/FluentBitSet;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaò ò($"1*•
 1
-þ þ(…
+ó ó(…
 ‚
 
-þ þ(
+ó ó(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSetqo
+bitSet½º
 
-þ þ(	
-%1int"java.util.BitSet#size()I*4
+ó ó(*
+
+%1void"java.util.BitSet#set(II)V*4
 
 __unknown_file (
 
-%0java.util.BitSet2size()"
+%0java.util.BitSet*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2set(II)"<
 
-þ þ(
+ô ô(.,
+*org.apache.commons.lang3.util.FluentBitSet: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
 ""B.,
-*org.apache.commons.lang3.util.FluentBitSetHX
+*org.apache.commons.lang3.util.FluentBitSetH

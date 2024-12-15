@@ -1,34 +1,46 @@
 
--org.apache.commons.lang3.BooleanUtils#or([Z)Zh
-\/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BooleanUtils.javaÏ Ï("6*%
-3
-Ó Ó("
-
-Ó Ó(
-""*¹
-6
-Ð Ð(Ÿ
-œ
-
-Ð Ð(3
-%0	boolean[]"lorg.apache.commons.lang3.ObjectUtils#requireNonEmpty(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*D
-
-__unknown_file (("&
-$org.apache.commons.lang3.ObjectUtils*"
-
-__unknown_file (
-""*%
-
-__unknown_file (	
-array*
-3
-1*%
+Uorg.apache.commons.lang3.BooleanUtils#oneHot([Ljava/lang/Boolean;)Ljava/lang/Boolean;h
+\/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BooleanUtils.java¹ ¹( "1*­
 1
-Ö Ö("
+º º(ì
+é
 
-Ö Ö(
-"": 
+º& º(C
+%0	boolean[]"Gorg.apache.commons.lang3.ArrayUtils#toPrimitive([Ljava/lang/Boolean;)[Z*C
 
-__unknown_file (
-""B)"'
-%org.apache.commons.lang3.BooleanUtilsHX
+__unknown_file ('"%
+#org.apache.commons.lang3.ArrayUtils*<
+
+__unknown_file ( 
+
+arrayjava.lang.Boolean[]Ç
+Ä
+
+º º(D
+%1boolean"1org.apache.commons.lang3.BooleanUtils#oneHot([Z)Z*E
+
+__unknown_file ()"'
+%org.apache.commons.lang3.BooleanUtils*-
+
+__unknown_file (
+
+%0	boolean[]¹
+¶
+
+º º(E
+%2java.lang.Boolean"/java.lang.Boolean#valueOf(Z)Ljava/lang/Boolean;*1
+
+__unknown_file ("
+java.lang.Boolean*+
+
+__unknown_file (
+
+%1boolean"'
+
+º º(F
+
+%2java.lang.Boolean:,
+
+¹! ¹(7
+arrayjava.lang.Boolean[]B)"'
+%org.apache.commons.lang3.BooleanUtilsH

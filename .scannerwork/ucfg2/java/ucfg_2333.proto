@@ -1,18 +1,19 @@
 
-=org.apache.commons.lang3.Range#getMaximum()Ljava/lang/Object;a
-U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaí í("1*”
+Dorg.apache.commons.lang3.Range#getComparator()Ljava/util/Comparator;a
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaä ä(&"1*¾
 1
-î î(j
-h
+å å(€
+~
 
-î î(
-%0T"__id*K
+å å(
+%0java.util.Comparator"__id*N
 
-__unknown_file (/*- 
-org.apache.commons.lang3.Range"	
-maximum"
+__unknown_file (2*0 
+org.apache.commons.lang3.Range"
 
-î î(	
-
-%0TB" 
+comparator"*
+
+å å(
+
+%0java.util.ComparatorB" 
 org.apache.commons.lang3.RangeH

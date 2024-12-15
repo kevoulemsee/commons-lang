@@ -1,31 +1,47 @@
 
-‡org.apache.commons.lang3.Functions#asBiFunction(Lorg/apache/commons/lang3/Functions$FailableBiFunction;)Ljava/util/function/BiFunction;e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaî4 î(@"1*ú
+__sonar_lambda_97$e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaï ï(B"startingBlock*Û
+startingBlock
+ï ï(B¸
+µ
+
+__unknown_file (A
+function5org.apache.commons.lang3.Functions$FailableBiFunction"__id*P
+
+__unknown_file (4*2$
+"org.apache.commons.lang3.Functions"
+
+function*
+1*Ú
 1
-ï ï(Bz
-x
+ï# ï((¯
+¬
 
-ï ï(B#
-%0java.util.function.BiFunction"__declareFunction*2
+ï# ï(B
+%1O"—org.apache.commons.lang3.Functions#apply(Lorg/apache/commons/lang3/Functions$FailableBiFunction;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*B
 
-__unknown_file (
-__sonar_lambda_96$·
-´
-
-__unknown_file (1
-#
-%0java.util.function.BiFunction"
-
-function"__id*_
+__unknown_file (&"$
+"org.apache.commons.lang3.Functions*_
 
 __unknown_file (C
 A
-function5org.apache.commons.lang3.Functions$FailableBiFunction"3
+function5org.apache.commons.lang3.Functions$FailableBiFunction**
+
+__unknown_file (
+
+input1O1**
+
+__unknown_file (
+
+input2O2"
 
-ï ï(C%
-#
-%0java.util.function.BiFunction:O
+ï# ï(B	
+
+%1O:
 
-îA î(pA
-function5org.apache.commons.lang3.Functions$FailableBiFunctionB&"$
-"org.apache.commons.lang3.FunctionsH
+ï ï(
+input1O1:
+
+ï ï(
+input2O2B!
+java.util.function.BiFunction

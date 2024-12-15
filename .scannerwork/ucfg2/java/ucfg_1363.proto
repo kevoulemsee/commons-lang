@@ -1,9 +1,123 @@
 
-,org.apache.commons.lang3.CharRange#getEnd()Ce
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/CharRange.java® ®("1*%
-1
-© ©("
+>org.apache.commons.lang3.CharRange#equals(Ljava/lang/Object;)Ze
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/CharRange.javaò ò("startingBlock*¨
+2
+†; †(Bï
+í
 
-© ©(
-""B&$
+†; †(S
+%3boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+1*ä
+startingBlock
+ò ò(+å
+â
+
+ó ó(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectY
+W
+
+ò' ò(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%4*
+9*Ø
+4
+†' †(*ï
+í
+
+†' †(7
+%2boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*¨
+5
+ü, ü(/x
+v
+
+ü ü(0+
+other"org.apache.commons.lang3.CharRange"__id*5
+
+__unknown_file (
+
+objjava.lang.Objectï
+í
+
+† †(#
+%1boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*	
+2
+4
+1*%
+6
+ù ù("
+
+ù ù(
+""*%
+8
+ö ö("
+
+ö ö(
+""*Â
+9
+ô ô(»
+≈
+
+ô ô(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+objjava.lang.Object*B
+
+__unknown_file (&$
+"org.apache.commons.lang3.CharRange*	
+5
+6
+8*%
+1
+† †(T"
+
+† †(T
+"":%
+
+ò ò(*
+objjava.lang.ObjectB&$
 "org.apache.commons.lang3.CharRangeHX

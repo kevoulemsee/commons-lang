@@ -1,21 +1,103 @@
 
-]org.apache.commons.lang3.text.StrBuilder#insert(IC)Lorg/apache/commons/lang3/text/StrBuilder;k
-_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javaË Ë("1*–
+]org.apache.commons.lang3.text.StrBuilder#insert(IZ)Lorg/apache/commons/lang3/text/StrBuilder;k
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java¬ ¬("4*÷
+2
+· ·(¦£
 
-1
-Ì Ì(×Ô
-
-Ì Ì(
-
-%0void":org.apache.commons.lang3.text.StrBuilder#validateIndex(I)V*H
+· ·($.
+%9(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
 
 __unknown_file (,*
 (org.apache.commons.lang3.text.StrBuilder*"
 
 __unknown_file (
-""2validateIndex(I)¦£
+""2ensureCapacity(I)y
+w
 
-Í Í( .
+¸ ¸(#
+%10char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffery
+w
+
+¸, ¸(2
+%11char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferÚ
+×
+
+¸ ¸(L
+%12void"Djava.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V*0
+
+__unknown_file ("
+java.lang.System*+
+
+__unknown_file (
+
+%10char[]*"
+
+__unknown_file (
+""*+
+
+__unknown_file (
+
+%11char[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""y
+w
+
+¹ ¹(
+%13char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffery
+w
+
+º º(
+%14char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffery
+w
+
+» »(
+%15char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffery
+w
+
+¼ ¼(
+%16char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffery
+w
+
+½ ½(
+%17char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffer*
+1*ó
+
+3
+¯ ¯(¦£
+
+¯ ¯($.
 %1(org.apache.commons.lang3.text.StrBuilder"dorg.apache.commons.lang3.text.StrBuilder#ensureCapacity(I)Lorg/apache/commons/lang3/text/StrBuilder;*H
 
 __unknown_file (,*
@@ -25,7 +107,7 @@ _/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text
 ""2ensureCapacity(I)x
 v
 
-Î Î(
+° °(#
 %2char[]"__id*T
 
 __unknown_file (8*6*
@@ -33,7 +115,7 @@ v
 bufferx
 v
 
-Î( Î(.
+°, °(2
 %3char[]"__id*T
 
 __unknown_file (8*6*
@@ -41,7 +123,7 @@ v
 buffer×
 Ô
 
-Î Î(H
+° °(L
 
 %4void"Djava.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V*0
 
@@ -66,14 +148,55 @@ v
 ""x
 v
 
-Ï Ï(
+± ±(
 %5char[]"__id*T
 
 __unknown_file (8*6*
 (org.apache.commons.lang3.text.StrBuilder"
-buffer":
+bufferx
+v
 
-Ñ Ñ(,*
+² ²(
+%6char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+³ ³(
+%7char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+bufferx
+v
+
+´ ´(
+%8char[]"__id*T
+
+__unknown_file (8*6*
+(org.apache.commons.lang3.text.StrBuilder"
+buffer*
+1*ñ
+4
+­ ­(×Ô
+
+­ ­(
+
+%0void":org.apache.commons.lang3.text.StrBuilder#validateIndex(I)V*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*"
+
+__unknown_file (
+""2validateIndex(I)*
+2
+3*K
+1
+À À(":
+
+À À(,*
 (org.apache.commons.lang3.text.StrBuilder: 
 
 __unknown_file (

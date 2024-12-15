@@ -1,48 +1,14 @@
 
-D__sonar_lambda_28$org.apache.commons.lang3.function.FailableFunctions
-i/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableFunction.javaV V(3"startingBlock*Â
-startingBlockV V(3¿
-¼
+lorg.apache.commons.lang3.function.FailableFunction#nop()Lorg/apache/commons/lang3/function/FailableFunction;s
+i/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableFunction.javaHA H(D"1*Ç
+1I I(p
+n
+I I(8
+%02org.apache.commons.lang3.function.FailableFunction"__id*"
 
-__unknown_file (;
-after2org.apache.commons.lang3.function.FailableFunction"__id*]
-
-__unknown_file (A*?4
-2org.apache.commons.lang3.function.FailableFunction"
-afterß
-Ü
-
-__unknown_file (K
-FailableFunction.this2org.apache.commons.lang3.function.FailableFunction"__id*m
-
-__unknown_file (Q*O4
-2org.apache.commons.lang3.function.FailableFunction"
-FailableFunction.this*
-1*ï
-1V V(#¢Ÿ
-V* V(2
-%2R"^org.apache.commons.lang3.function.FailableFunction#apply(Ljava/lang/Object;)Ljava/lang/Object;*i
-
-__unknown_file (M
-K
-FailableFunction.this2org.apache.commons.lang3.function.FailableFunction*$
-
-__unknown_file (
-
-tT2apply(Ljava/lang/Object;)›˜
-V V(3
-%3	!capture!"^org.apache.commons.lang3.function.FailableFunction#apply(Ljava/lang/Object;)Ljava/lang/Object;*Y
-
-__unknown_file (=
-;
-after2org.apache.commons.lang3.function.FailableFunction*%
-
-__unknown_file (	
-
-%2R2apply(Ljava/lang/Object;)"
-V V(3
-
-%3	!capture!:
-V V(
-tTB64
-2org.apache.commons.lang3.function.FailableFunction
+__unknown_file (
+"""F
+I I(:
+8
+%02org.apache.commons.lang3.function.FailableFunctionB6"4
+2org.apache.commons.lang3.function.FailableFunctionH

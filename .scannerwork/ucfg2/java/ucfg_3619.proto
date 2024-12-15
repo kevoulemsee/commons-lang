@@ -1,20 +1,94 @@
 
-?__sonar_lambda_163$org.apache.commons.lang3.builder.DiffBuildero
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaÎI Î(g"1*ç
-1
-ÎO Î(Y”
-–
+worg.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;JJ)Lorg/apache/commons/lang3/builder/DiffBuilder;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java› ›( "3"4*ª
+2
+ﬁ- ﬁ(0¶
+£
 
-ÎO Î(g
-%5java.lang.Long[]"Aorg.apache.commons.lang3.ArrayUtils#toObject([J)[Ljava/lang/Long;*C
+ﬁ< ﬁ(S!
+%4java.util.function.Supplier"__declareFunction*_
 
-__unknown_file ('"%
-#org.apache.commons.lang3.ArrayUtils*"
+__unknown_file (CA
+?__sonar_lambda_162$org.apache.commons.lang3.builder.DiffBuilder¶
+£
+
+ﬁU ﬁ(l!
+%6java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_163$org.apache.commons.lang3.builder.DiffBuilder¥
+±
+
+ﬁ- ﬁ(y2
+%3,org.apache.commons.lang3.builder.DiffBuilder"Ωorg.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.builder.DiffBuilder*;
+
+__unknown_file (
+
+	fieldNamejava.lang.String*?
+
+__unknown_file (#
+!
+%4java.util.function.Supplier*?
+
+__unknown_file (#
+!
+%6java.util.function.Supplier*"
 
 __unknown_file (
-"""&
+""õ
+ò
 
-ÎO Î(g
-
-%5java.lang.Long[]B
-java.util.function.Supplier
+ﬁ- ﬁ(y2
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%3,org.apache.commons.lang3.builder.DiffBuilder*
+1*≤
+3
+ﬁ& ﬁ(*õ
+ò
+
+ﬁ& ﬁ(*2
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%2,org.apache.commons.lang3.builder.DiffBuilder*
+1*Ø
+4
+ﬁ ﬁ(ï
+í
+
+ﬁ ﬁ(#
+%0boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*S
+1
+ﬁ ﬁ(z"B
+
+ﬁ ﬁ(z4
+2
+%1,org.apache.commons.lang3.builder.DiffBuilder:+
+
+›! ›(8
+	fieldNamejava.lang.String: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B0.
+,org.apache.commons.lang3.builder.DiffBuilderH

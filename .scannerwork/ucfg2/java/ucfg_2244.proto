@@ -1,9 +1,265 @@
 
-Corg.apache.commons.lang3.time.DurationFormatUtils$Token#getCount()It
-h/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationFormatUtils.javaô ô("1*%
-1
-ö ö("
+Sorg.apache.commons.lang3.time.DurationFormatUtils$Token#equals(Ljava/lang/Object;)Zt
+h/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationFormatUtils.javaÄ Ä("startingBlock*¨
+2
+è è(ò
+ï
 
-ö ö(
-""B;9
-7org.apache.commons.lang3.time.DurationFormatUtils$TokenX
+è è(!
+%16java.lang.CharSequence"__id*b
+
+__unknown_file (F*D9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+valueû
+õ
+
+è% è(/
+%17java.lang.CharSequence"__id*h
+
+__unknown_file (L*J
+?
+tok27org.apache.commons.lang3.time.DurationFormatUtils$Token"
+value»
+≈
+
+è è(/
+%18boolean"	__compare*"
+
+__unknown_file (
+==*;
+
+__unknown_file (
+
+%16java.lang.CharSequence*;
+
+__unknown_file (
+
+%17java.lang.CharSequence"
+
+è è(0
+""*«
+3
+ç ç(ò
+ï
+
+ç ç(%
+%13java.lang.CharSequence"__id*b
+
+__unknown_file (F*D9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+valueû
+õ
+
+ç- ç(7
+%14java.lang.CharSequence"__id*h
+
+__unknown_file (L*J
+?
+tok27org.apache.commons.lang3.time.DurationFormatUtils$Token"
+value„‡
+
+ç ç(8
+%15boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*;
+
+__unknown_file (
+
+%13java.lang.CharSequence*;
+
+__unknown_file (
+
+%14java.lang.CharSequence2equals(Ljava/lang/Object;)"
+
+ç ç(9
+""*ê
+startingBlock
+Ä Ä(0å
+â
+ (
+%19"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+obj2java.lang.Object[
+Y
+
+Ä+ Ä(/
+obj2java.lang.Object"__annotation*#
+
+__unknown_file (
+
+%19*
+10
+1*≤
+4
+å å(ò
+ï
+
+å å(
+%12java.lang.CharSequence"__id*b
+
+__unknown_file (F*D9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+value*
+2
+3*á
+5
+ä ä(ó
+î
+
+ä ä(%
+%7java.lang.CharSequence"__id*b
+
+__unknown_file (F*D9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+value§°
+
+ä ä(0
+%8java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*:
+
+__unknown_file (
+
+%7java.lang.CharSequence2
+toString()ù
+ö
+
+ä8 ä(B
+%9java.lang.CharSequence"__id*h
+
+__unknown_file (L*J
+?
+tok27org.apache.commons.lang3.time.DurationFormatUtils$Token"
+value•¢
+
+ä8 ä(M
+%10java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*:
+
+__unknown_file (
+
+%9java.lang.CharSequence2
+toString()÷”
+
+ä ä(N
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%8java.lang.String*5
+
+__unknown_file (
+
+%10java.lang.String2equals(Ljava/lang/Object;)"
+
+ä ä(O
+""*±
+6
+â â(ó
+î
+
+â â(
+%6java.lang.CharSequence"__id*b
+
+__unknown_file (F*D9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+value*
+4
+5*%
+7
+á á( "
+
+á á(!
+""*Ø
+8
+Ü Ü(ï
+í
+
+Ü Ü(,
+%5boolean"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+6
+7*%
+9
+Ñ Ñ( "
+
+Ñ Ñ(!
+""*€
+10
+Ç+ Ç(/é
+ã
+
+Ç Ç(0?
+tok27org.apache.commons.lang3.time.DurationFormatUtils$Token"__id*6
+
+__unknown_file (
+
+obj2java.lang.Objectó
+î
+
+É É(
+%0java.lang.CharSequence"__id*b
+
+__unknown_file (F*D9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+valueúô
+
+É É()
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*:
+
+__unknown_file (
+
+%0java.lang.CharSequence2
+getClass()ù
+ö
+
+É- É(7
+%2java.lang.CharSequence"__id*h
+
+__unknown_file (L*J
+?
+tok27org.apache.commons.lang3.time.DurationFormatUtils$Token"
+valueúô
+
+É- É(B
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*:
+
+__unknown_file (
+
+%2java.lang.CharSequence2
+getClass()∑
+¥
+
+É É(B
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%1java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+8
+9*%
+1
+ë ë("
+
+ë ë(
+"":&
+
+Ä Ä(/
+obj2java.lang.ObjectB;9
+7org.apache.commons.lang3.time.DurationFormatUtils$TokenHX

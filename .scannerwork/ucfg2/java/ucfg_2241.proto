@@ -1,57 +1,51 @@
 
-ùorg.apache.commons.lang3.time.DurationFormatUtils$Token#containsTokenWithValue([Lorg/apache/commons/lang3/time/DurationFormatUtils$Token;Ljava/lang/Object;)Zr
-h/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationFormatUtils.javab b(-"1*˚
-1c c(í
-è
-c c($
-%0java.util.stream.Stream"Hjava.util.stream.Stream#of([Ljava/lang/Object;)Ljava/util/stream/Stream;*7
+__sonar_lambda_55$r
+h/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationFormatUtils.javac. c(P"startingBlock*ô
+startingBlockc. c(P¢
+ü
 
-__unknown_file ("
-java.util.stream.Stream*a
+__unknown_file (
+valuejava.lang.Object"__id*b
+
+__unknown_file (F*D9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+value”
+–
 
 __unknown_file (E
-C
-tokens9org.apache.commons.lang3.time.DurationFormatUtils$Token[]w
-u
-c. c(P"
-%1java.util.function.Predicate"__declareFunction*2
+
+Token.this7org.apache.commons.lang3.time.DurationFormatUtils$Token"__id*g
 
-__unknown_file (
-__sonar_lambda_54$ã
-à
+__unknown_file (K*I9
+7org.apache.commons.lang3.time.DurationFormatUtils$Token"
+
+Token.this*
+1*—
+1c7 c(<Á‰
+c7 c(G
+%2java.lang.Object"Torg.apache.commons.lang3.time.DurationFormatUtils$Token#getValue()Ljava/lang/Object;*^
 
-__unknown_file (-
-"
-%1java.util.function.Predicate"
-value"__id*7
+__unknown_file (B
+@
+token7org.apache.commons.lang3.time.DurationFormatUtils$Token2
+getValue()∫
+∑
+c7 c(P
+%3boolean"	__compare*"
+
+__unknown_file (
+==*4
+
+__unknown_file (
+
+%2java.lang.Object*7
 
 __unknown_file (
 
-valuejava.lang.Object∞
-≠
-
-__unknown_file (2
-"
-%1java.util.function.Predicate"
+valuejava.lang.Object"
+c7 c(P
 
-Token.this"__id*W
-
-__unknown_file (;"9
-7org.apache.commons.lang3.time.DurationFormatUtils$TokenàÖ
-c c(Q
-%4boolean"Ajava.util.stream.Stream#anyMatch(Ljava/util/function/Predicate;)Z*;
-
-__unknown_file (
-
-%0java.util.stream.Stream*@
-
-__unknown_file ($
-"
-%1java.util.function.Predicate2(anyMatch(Ljava/util/function/Predicate;)"
-c c(R
-"":O
-b. b(CC
-tokens9org.apache.commons.lang3.time.DurationFormatUtils$Token[]:%
-bD b(V
-valuejava.lang.ObjectB;"9
-7org.apache.commons.lang3.time.DurationFormatUtils$TokenX
+%3boolean:L
+c. c(3@
+token7org.apache.commons.lang3.time.DurationFormatUtils$TokenB 
+java.util.function.Predicate

@@ -1,30 +1,103 @@
 
-__sonar_lambda_88$l
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RuntimeEnvironment.javaS S(;"startingBlock*¹
-startingBlockS S(;˜
-•
+Lorg.apache.commons.lang3.RuntimeEnvironment#inContainer(Ljava/lang/String;)Zl
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RuntimeEnvironment.java. .("5*‚
+2A8 A(B
+}
+AC A(c
+%6java.lang.String"__concat*+
+AC A(L
+
+	dirPrefixjava.lang.String*"
+AO A(c
+/run/.containerenvì
+é
+A8 A(d
+%7boolean"Korg.apache.commons.lang3.RuntimeEnvironment#fileExists(Ljava/lang/String;)Z*K
 
-__unknown_file (
-prefixjava.lang.String"__id*W
+__unknown_file (/"-
++org.apache.commons.lang3.RuntimeEnvironment*4
 
-__unknown_file (;*9-
-+org.apache.commons.lang3.RuntimeEnvironment"
-prefix*
-1*
-1S$ S((áÞ
-S$ S(;
-%11boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*6
+__unknown_file (
+
+%6java.lang.String*
+1*þ
+3A A(x
+v
+A A(3
+%4java.lang.String"__concat*+
+A A(#
+
+	dirPrefixjava.lang.String*
+A& A(3
+/.dockerenvì
+é
+A A(4
+%5boolean"Korg.apache.commons.lang3.RuntimeEnvironment#fileExists(Ljava/lang/String;)Z*K
 
-__unknown_file (
+__unknown_file (/"-
++org.apache.commons.lang3.RuntimeEnvironment*4
 
-linejava.lang.String*8
+__unknown_file (
+
+%4java.lang.String*
+2
+1*Ÿ
+4? ?(|z
+? ?(#
+%3boolean"java.lang.String#isEmpty()Z*7
 
-__unknown_file (
-
-prefixjava.lang.String2startsWith(Ljava/lang/String;)"
-S$ S(;
-
-%11boolean:$
-S S( 
-linejava.lang.StringB 
-java.util.function.Predicate
+__unknown_file (
+
+valuejava.lang.String2	isEmpty()"
+? ?($
+""*ç
+5= =(%|
+z
+=& =(C
+%0java.lang.String"__concat*+
+=& =(/
+
+	dirPrefixjava.lang.String*
+=2 =(C
+/proc/1/environÁ
+¾
+= =(Q
+%1java.lang.String"lorg.apache.commons.lang3.RuntimeEnvironment#readFile(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*K
+
+__unknown_file (/"-
++org.apache.commons.lang3.RuntimeEnvironment*4
+
+__unknown_file (
+
+%0java.lang.String*)
+
+__unknown_file (
+	containerc
+a
+= =(R
+valuejava.lang.String"__id*4
+
+__unknown_file (
+
+%1java.lang.String¨
+¥
+> >(
+%2boolean"	__compare*"
+
+__unknown_file (
+!=*7
+
+__unknown_file (
+
+valuejava.lang.String*"
+
+__unknown_file (
+""*
+3
+4*!
+1A A(e"
+A A(e
+"":)
+. .(5
+	dirPrefixjava.lang.StringB/"-
++org.apache.commons.lang3.RuntimeEnvironmentX

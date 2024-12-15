@@ -1,183 +1,174 @@
 
-ıorg.apache.commons.lang3.AppendableJoiner#joinSB(Ljava/lang/StringBuilder;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/apache/commons/lang3/function/FailableBiConsumer;[Ljava/lang/Object;)Ljava/lang/StringBuilder;l
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.javaÂ Â(#"startingBlock*>
+ˆorg.apache.commons.lang3.AppendableJoiner#joinIterable(Ljava/lang/Appendable;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/apache/commons/lang3/function/FailableBiConsumer;Ljava/lang/Iterable;)Ljava/lang/Appendable;l
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.java“/ “(;"6*ó
+2
+€ €(åâ
+
+€ €(,
+%7java.lang.Appendable"Kjava.lang.Appendable#append(Ljava/lang/CharSequence;)Ljava/lang/Appendable;*-
+
+__unknown_file (
+
+
+appendableA*A
+
+__unknown_file (%
+#
+	delimiterjava.lang.CharSequence2 append(Ljava/lang/CharSequence;)ãà
+
+‹, ‹(;
+%8T"+java.util.Iterator#next()Ljava/lang/Object;*<
+
+__unknown_file ( 
+
+iteratorjava.util.Iterator2next()„‡
+
+‹ ‹(<
+
+%9void"borg.apache.commons.lang3.function.FailableBiConsumer#accept(Ljava/lang/Object;Ljava/lang/Object;)V*^
+
+__unknown_file (B
+@
+appender4org.apache.commons.lang3.function.FailableBiConsumer*-
+
+__unknown_file (
+
+
+appendableA*%
+
+__unknown_file (	
+
+%8T2,accept(Ljava/lang/Object;Ljava/lang/Object;)*
+3*†
 3
-Ë Ë(["-
+⁄ ⁄(ÜÉ
 
-Ë Ë([
-
-%0java.lang.StringBuilder*÷
-startingBlock
-Â# Ê(_†
-ù
-
-‰ ‰(
-%3"
-__annotate*5
+⁄ ⁄(%
+%6boolean"java.util.Iterator#hasNext()Z*<
 
-__unknown_file (
-java.lang.SafeVarargs*F
-
-__unknown_file (*
-(
-stringBuilderjava.lang.StringBuilderj
-h
-
-Â8 Â(E(
-stringBuilderjava.lang.StringBuilder"__annotation*"
-
-__unknown_file (
-
-%3ò
-ï
-
-‰ ‰(
-%4"
-__annotate*5
-
-__unknown_file (
-java.lang.SafeVarargs*>
-
-__unknown_file ("
- 
-prefixjava.lang.CharSequenceb
-`
-
-ÂZ Â(` 
-prefixjava.lang.CharSequence"__annotation*"
-
-__unknown_file (
-
-%4ò
-ï
-
-‰ ‰(
-%5"
-__annotate*5
-
-__unknown_file (
-java.lang.SafeVarargs*>
-
-__unknown_file ("
- 
-suffixjava.lang.CharSequenceb
-`
-
-Âu Â({ 
-suffixjava.lang.CharSequence"__annotation*"
-
-__unknown_file (
-
-%5õ
-ò
-
-‰ ‰(
-%6"
-__annotate*5
-
-__unknown_file (
-java.lang.SafeVarargs*A
-
-__unknown_file (%
-#
-	delimiterjava.lang.CharSequenceg
-e
-Âê Â(ô#
-	delimiterjava.lang.CharSequence"__annotation*"
-
-__unknown_file (
-
-%6∏
-µ
-
-‰ ‰(
-%7"
-__annotate*5
-
-__unknown_file (
-java.lang.SafeVarargs*^
-
-__unknown_file (B
-@
-appender4org.apache.commons.lang3.function.FailableBiConsumerÉ
-Ä
-
-ÊA Ê(I@
-appender4org.apache.commons.lang3.function.FailableBiConsumer"__annotation*"
-
-__unknown_file (
-
-%7â
-Ü
-
-‰ ‰(
-%8"
-__annotate*5
-
-__unknown_file (
-java.lang.SafeVarargs*/
-
-__unknown_file (
-
-elementsT[]S
-Q
-
-ÊV Ê(^
-elementsT[]"__annotation*"
-
-__unknown_file (
-
-%8*
-4*°
+__unknown_file ( 
+
+iteratorjava.util.Iterator2	hasNext()*
+2
+1*à
 4
-Ë Ë(ä
-á
+ÿ ÿ(ãà
 
-Ë Ë(Z
-%0java.lang.StringBuilder"Úorg.apache.commons.lang3.AppendableJoiner#joinArray(Ljava/lang/Appendable;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/apache/commons/lang3/function/FailableBiConsumer;[Ljava/lang/Object;)Ljava/lang/Appendable;*I
+ÿ, ÿ(;
+%4T"+java.util.Iterator#next()Ljava/lang/Object;*<
 
-__unknown_file (-"+
-)org.apache.commons.lang3.AppendableJoiner*F
-
-__unknown_file (*
-(
-stringBuilderjava.lang.StringBuilder*>
-
-__unknown_file ("
- 
-prefixjava.lang.CharSequence*>
-
-__unknown_file ("
- 
-suffixjava.lang.CharSequence*A
-
-__unknown_file (%
-#
-	delimiterjava.lang.CharSequence*^
+__unknown_file ( 
+
+iteratorjava.util.Iterator2next()„‡
+
+ÿ ÿ(<
+
+%5void"borg.apache.commons.lang3.function.FailableBiConsumer#accept(Ljava/lang/Object;Ljava/lang/Object;)V*^
 
 __unknown_file (B
 @
-appender4org.apache.commons.lang3.function.FailableBiConsumer*/
+appender4org.apache.commons.lang3.function.FailableBiConsumer*-
 
-__unknown_file (
-
-elementsT[]*
-3:6
+__unknown_file (
+
 
-Â$ Â(F(
-stringBuilderjava.lang.StringBuilder:.
+appendableA*%
+
+__unknown_file (	
+
+%4T2,accept(Ljava/lang/Object;Ljava/lang/Object;)*
+3*∑
+5
+÷) ÷(1¶£
 
-ÂG Â(a 
-prefixjava.lang.CharSequence:.
+÷) ÷(<
+%2java.util.Iterator"1java.lang.Iterable#iterator()Ljava/util/Iterator;*<
+
+__unknown_file ( 
+
+elementsjava.lang.Iterable2
+iterator()l
+j
 
-Âb Â(| 
-suffixjava.lang.CharSequence:2
-Â} Â(ö#
+÷ ÷(=
+iteratorjava.util.Iterator"__id*6
+
+__unknown_file (
+
+%2java.util.IteratorÜÉ
+
+◊ ◊("
+%3boolean"java.util.Iterator#hasNext()Z*<
+
+__unknown_file ( 
+
+iteratorjava.util.Iterator2	hasNext()*
+3
+4*’
+6
+‘ ‘(âÜ
+
+‘ ‘(!
+%0java.lang.Appendable"Kjava.lang.Appendable#append(Ljava/lang/CharSequence;)Ljava/lang/Appendable;*-
+
+__unknown_file (
+
+
+appendableA*>
+
+__unknown_file ("
+ 
+prefixjava.lang.CharSequence2 append(Ljava/lang/CharSequence;)Ø
+¨
+
+’ ’(
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*<
+
+__unknown_file ( 
+
+elementsjava.lang.Iterable*"
+
+__unknown_file (
+""*
+5
+1*Ω
+1
+ﬂ ﬂ(äá
+
+ﬂ ﬂ(!
+%10java.lang.Appendable"Kjava.lang.Appendable#append(Ljava/lang/CharSequence;)Ljava/lang/Appendable;*-
+
+__unknown_file (
+
+
+appendableA*>
+
+__unknown_file ("
+ 
+suffixjava.lang.CharSequence2 append(Ljava/lang/CharSequence;)"
+
+‡ ‡(
+
+
+appendableA:
+
+“< “(O
+
+appendableA:.
+
+“P “(j 
+prefixjava.lang.CharSequence:/
+“k “(Ö 
+suffixjava.lang.CharSequence:1
+
+” ”()#
 	delimiterjava.lang.CharSequence:N
 
-Ê Ê(J@
-appender4org.apache.commons.lang3.function.FailableBiConsumer:
-
-ÊK Ê(^
-elementsT[]B-"+
-)org.apache.commons.lang3.AppendableJoiner`
+”* ”(h@
+appender4org.apache.commons.lang3.function.FailableBiConsumer:-
+”i ”(É
+elementsjava.lang.IterableB-"+
+)org.apache.commons.lang3.AppendableJoiner

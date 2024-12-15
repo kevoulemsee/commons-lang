@@ -1,16 +1,28 @@
 
-Uorg.apache.commons.lang3.RandomUtils#insecure()Lorg/apache/commons/lang3/RandomUtils;e
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.javaf f(&"1*›
-1g g(ì
-ê
-g g(*
-%0$org.apache.commons.lang3.RandomUtils"__id*R
+\org.apache.commons.lang3.text.CompositeFormat#reformat(Ljava/lang/String;)Ljava/lang/String;n
+d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/CompositeFormat.javar r("1*–
+1s s(íè
+s s((
+%0java.lang.Object"Bjava.text.Format#parseObject(Ljava/lang/String;)Ljava/lang/Object;*M
 
-__unknown_file (6*4&
-$org.apache.commons.lang3.RandomUtils"
-
-INSECURE"8
-g g(,
-*
-%0$org.apache.commons.lang3.RandomUtilsB("&
-$org.apache.commons.lang3.RandomUtilsH
+__unknown_file (1/
+-org.apache.commons.lang3.text.CompositeFormat*7
+
+__unknown_file (
+
+inputjava.lang.String2parseObject(Ljava/lang/String;)ÖÇ
+s s()
+%1java.lang.String"=java.text.Format#format(Ljava/lang/Object;)Ljava/lang/String;*M
+
+__unknown_file (1/
+-org.apache.commons.lang3.text.CompositeFormat*4
+
+__unknown_file (
+
+%0java.lang.Object2format(Ljava/lang/Object;)"$
+s s(*
+
+%1java.lang.String:%
+r r(-
+inputjava.lang.StringB1/
+-org.apache.commons.lang3.text.CompositeFormatH

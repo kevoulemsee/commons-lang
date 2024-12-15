@@ -1,186 +1,64 @@
 
-:org.apache.commons.lang3.Range#equals(Ljava/lang/Object;)Za
-U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.java≠ ≠("startingBlock*≠
+Dorg.apache.commons.lang3.Range#elementCompareTo(Ljava/lang/Object;)Ia
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaó ó("5*%
 2
-∏ ∏(j
-h
+û û("
 
-∏ ∏(
-%8T"__id*K
-
-__unknown_file (/*- 
-org.apache.commons.lang3.Range"	
-maximumq
-o
-
-∏ ∏(+
-%9T"__id*R
-
-__unknown_file (6*4
-'
-rangeorg.apache.commons.lang3.Range"	
-maximum∑¥
-
-∏ ∏(,
-%10boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*%
-
-__unknown_file (	
-
-%8T*%
-
-__unknown_file (	
-
-%9T2equals(Ljava/lang/Object;)*
-1*•
+û û(
+""*Ä
 3
-∂$ ∂('t
-r
+ù ù(Ê„
 
-¥ ∂(('
-rangeorg.apache.commons.lang3.Range"__id*5
+ù ù(
+%2boolean"<org.apache.commons.lang3.Range#isBefore(Ljava/lang/Object;)Z*>
 
-__unknown_file (
-
-objjava.lang.Objectj
-h
-
-∑ ∑(
-%5T"__id*K
+__unknown_file (" 
+org.apache.commons.lang3.Range**
 
-__unknown_file (/*- 
-org.apache.commons.lang3.Range"	
-minimumq
-o
-
-∑ ∑(+
-%6T"__id*R
-
-__unknown_file (6*4
-'
-rangeorg.apache.commons.lang3.Range"	
-minimum∂≥
-
-∑ ∑(,
-%7boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*%
-
-__unknown_file (	
-
-%5T*%
-
-__unknown_file (	
-
-%6T2equals(Ljava/lang/Object;)*
+__unknown_file (
+
+elementT2isBefore(Ljava/lang/Object;)*
 2
-1*å
-startingBlock
-≠ ≠(+ç
-ä
-
-¨ ¨(
-%11"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*5
-
-__unknown_file (
-
-objjava.lang.ObjectZ
-X
-
-≠' ≠(*
-objjava.lang.Object"__annotation*#
-
-__unknown_file (
-
-%11*
-8*%
+1*%
 4
-≤ ≤("
+õ õ("
 
-≤ ≤(
-""*é
+õ õ(
+""*˚
 5
-± ±(óî
+ô ô(˙
+˜
 
-± ±()
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+ô ô(2
+%0T"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
 
-__unknown_file (
-
-objjava.lang.Object2
-getClass()†ù
+__unknown_file ("
+java.util.Objects**
+
+__unknown_file (
+
+elementT*'
+
+__unknown_file (	
+element‰·
 
-±- ±(7
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*>
+ö ö(
+%1boolean";org.apache.commons.lang3.Range#isAfter(Ljava/lang/Object;)Z*>
 
 __unknown_file (" 
-org.apache.commons.lang3.Range2
-getClass()∑
-¥
-
-± ±(7
-%4boolean"	__compare*"
+org.apache.commons.lang3.Range**
 
-__unknown_file (
-!=*3
-
-__unknown_file (
-
-%2java.lang.Class*3
-
-__unknown_file (
-
-%3java.lang.Class*
+__unknown_file (
+
+elementT2isAfter(Ljava/lang/Object;)*
 3
-4*¬
-6
-± ±(®
-•
-
-± ±(
-%1boolean"	__compare*"
-
-__unknown_file (
-==*5
-
-__unknown_file (
-
-objjava.lang.Object*"
-
-__unknown_file (
-""*
-4
-5*%
-7
-Ø Ø("
-
-Ø Ø(
-""*ﬁ
-8
-Æ Æ(ƒ
-¡
-
-Æ Æ(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*5
-
-__unknown_file (
-
-objjava.lang.Object*>
-
-__unknown_file (" 
-org.apache.commons.lang3.Range*
-6
-7*%
+4*%
 1
-∑ ∏(-"
+† †("
 
-∑ ∏(-
-"":%
+† †(
+"":
 
-≠ ≠(*
-objjava.lang.ObjectB" 
+ó  ó(/
+elementTB" 
 org.apache.commons.lang3.RangeHX

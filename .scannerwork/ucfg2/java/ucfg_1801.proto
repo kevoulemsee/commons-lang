@@ -1,9 +1,64 @@
 
-:org.apache.commons.lang3.mutable.MutableLong#floatValue()Fo
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableLong.java¾ ¾("1*%
-1
-¿ ¿("
+Horg.apache.commons.lang3.mutable.MutableLong#equals(Ljava/lang/Object;)Zo
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableLong.java± ±("startingBlock*à
+2
+³ ³(š—
 
-¿ ¿(
-""B0.
+³ ³(;
+
+%0long"9org.apache.commons.lang3.mutable.MutableLong#longValue()J*5
+
+__unknown_file (
+
+objjava.lang.Object2longValue()›
+˜
+
+³ ³(;
+%1boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*(
+
+__unknown_file (
+
+
+%0long"
+
+³ ³(<
+""*
+startingBlock
+± ±(+Œ
+‰
+
+° °(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectY
+W
+
+±' ±(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%2*
+2
+1*%
+1
+µ µ("
+
+µ µ(
+"":%
+
+± ±(*
+objjava.lang.ObjectB0.
 ,org.apache.commons.lang3.mutable.MutableLongHX

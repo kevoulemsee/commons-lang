@@ -1,11 +1,11 @@
 
-rorg.apache.commons.lang3.StringUtils#removeStartIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java—/ —/(."startingBlock*þ
+horg.apache.commons.lang3.StringUtils#removeStart(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaø. ø.($"startingBlock*þ
 startingBlock
-—/. —/(UŽ
+ø.$ ø.(KŽ
 ‹
 
-–/ –/(
+÷. ÷.(
 %2"
 __annotate*4
 
@@ -17,7 +17,7 @@ __annotate*4
 strjava.lang.StringY
 W
 
-—/< —/(?
+ø.2 ø.(5
 strjava.lang.String"__annotation*"
 
 __unknown_file (
@@ -25,7 +25,7 @@ W
 %2‘
 Ž
 
-–/ –/(
+÷. ÷.(
 %3"
 __annotate*4
 
@@ -37,7 +37,7 @@ __annotate*4
 removejava.lang.String\
 Z
 
-—/N —/(T
+ø.D ø.(J
 removejava.lang.String"__annotation*"
 
 __unknown_file (
@@ -45,16 +45,16 @@ Z
 %3*
 1*Ÿ
 1
-˜/ ˜/(`
+ù. ù.(`
 ^
 
-˜/ ˜/(&
+ù. ù.(&
 %0 org.apache.commons.lang3.Strings"__id*"
 
 __unknown_file (
 ""ƒ€
 
-˜/ ˜/(2
+ù. ù.(2
 %1java.lang.String"jorg.apache.commons.lang3.Strings#removeStart(Ljava/lang/String;Ljava/lang/CharSequence;)Ljava/lang/String;*D
 
 __unknown_file ((
@@ -69,13 +69,13 @@ Z
 
 removejava.lang.String27removeStart(Ljava/lang/String;Ljava/lang/CharSequence;)"&
 
-˜/ ˜/(3
+ù. ù.(3
 
 %1java.lang.String:%
 
-—// —/(@
+ø.% ø.(6
 strjava.lang.String:(
 
-—/A —/(T
+ø.7 ø.(J
 removejava.lang.StringB("&
 $org.apache.commons.lang3.StringUtilsH

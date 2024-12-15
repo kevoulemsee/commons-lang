@@ -1,14 +1,14 @@
 
-torg.apache.commons.lang3.function.FailableLongFunction#nop()Lorg/apache/commons/lang3/function/FailableLongFunction;w
-m/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableLongFunction.java,> ,(A"1*Ï
-1- -(t
-r
-- -(<
-%06org.apache.commons.lang3.function.FailableLongFunction"__id*"
+lorg.apache.commons.lang3.function.FailableSupplier#nul()Lorg/apache/commons/lang3/function/FailableSupplier;s
+i/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableSupplier.java7; 7(>"1*Ç
+18 8(p
+n
+8 8(8
+%02org.apache.commons.lang3.function.FailableSupplier"__id*"
 
 __unknown_file (
-"""J
-- -(>
-<
-%06org.apache.commons.lang3.function.FailableLongFunctionB:"8
-6org.apache.commons.lang3.function.FailableLongFunctionH
+"""F
+8 8(:
+8
+%02org.apache.commons.lang3.function.FailableSupplierB6"4
+2org.apache.commons.lang3.function.FailableSupplierH

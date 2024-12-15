@@ -1,11 +1,11 @@
 
-ìorg.apache.commons.lang3.function.MethodInvokers#asFailableFunction(Ljava/lang/reflect/Method;)Lorg/apache/commons/lang3/function/FailableFunction;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javaö; ö(M"startingBlock*®
+óorg.apache.commons.lang3.function.MethodInvokers#asFailableBiFunction(Ljava/lang/reflect/Method;)Lorg/apache/commons/lang3/function/FailableBiFunction;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/MethodInvokers.javaåC å(W"startingBlock*®
 startingBlock
-öM ö(bü
+åW å(lü
 ú
 
-ô ô("
+ã ã("
 %1"
 __annotate*:
 
@@ -17,19 +17,19 @@ __annotate*:
 methodjava.lang.reflect.Methodd
 b
 
-ö[ ö(a"
+åe å(k"
 methodjava.lang.reflect.Method"__annotation*"
 
 __unknown_file (
 
 %1*
-1*„
+1*Á
 1
-õ õ("á
-Ñ
+ç ç("â
+Ü
 
-õ õ(B8
-%02org.apache.commons.lang3.function.FailableFunction"Éorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
+ç ç(D:
+%04org.apache.commons.lang3.function.FailableBiFunction"Éorg.apache.commons.lang3.function.MethodInvokers#asInterfaceInstance(Ljava/lang/Class;Ljava/lang/reflect/Method;)Ljava/lang/Object;*P
 
 __unknown_file (4"2
 0org.apache.commons.lang3.function.MethodInvokers*"
@@ -39,12 +39,12 @@ b
 
 __unknown_file ($
 "
-methodjava.lang.reflect.Method"H
+methodjava.lang.reflect.Method"J
 
-õ õ(C:
-8
-%02org.apache.commons.lang3.function.FailableFunction:0
+ç ç(E<
+:
+%04org.apache.commons.lang3.function.FailableBiFunction:0
 
-öN ö(a"
+åX å(k"
 methodjava.lang.reflect.MethodB4"2
 0org.apache.commons.lang3.function.MethodInvokersH

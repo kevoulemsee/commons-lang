@@ -1,35 +1,74 @@
 
-`org.apache.commons.lang3.time.DurationUtils#zeroIfNull(Ljava/time/Duration;)Ljava/time/Duration;n
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.javaÝ Ý(%"1*á
+Norg.apache.commons.lang3.time.DurationUtils#toMillisInt(Ljava/time/Duration;)In
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/DurationUtils.javaÑ Ñ(!"1*Ý
 1
-Þ Þ(R
-P
+Ò Ò(ž
+›
 
-Þ3 Þ(@
-%0java.time.Duration"__id*"
+Ò Ò(4
+%0java.time.Duration"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
 
-__unknown_file (
-""Ñ
-Î
-
-Þ Þ(A
-%1java.time.Duration"jorg.apache.commons.lang3.ObjectUtils#defaultIfNull(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*D
-
-__unknown_file (("&
-$org.apache.commons.lang3.ObjectUtils*<
+__unknown_file ("
+java.util.Objects*<
 
 __unknown_file ( 
 
-durationjava.time.Duration*6
+durationjava.time.Duration*(
 
-__unknown_file (
-
-%0java.time.Duration"(
+__unknown_file (
 
-Þ Þ(B
-
-%1java.time.Duration:,
+durationb
+`
 
-Ý& Ý(=
+Ô Ô( (
+%1"org.apache.commons.lang3.LongRange"__id*"
+
+__unknown_file (
+""…‚
+
+Ô2 Ô(E
+
+%2long"java.time.Duration#toMillis()J*<
+
+__unknown_file ( 
+
+durationjava.time.Duration2
+toMillis()ª
+§
+
+Ô% Ô(F
+%3java.lang.Long")java.lang.Long#valueOf(J)Ljava/lang/Long;*.
+
+__unknown_file ("
+java.lang.Long*(
+
+__unknown_file (
+
+
+%2long„
+
+Ô Ô(G
+%4java.lang.Long"Horg.apache.commons.lang3.Range#fit(Ljava/lang/Object;)Ljava/lang/Object;*F
+
+__unknown_file (*
+(
+%1"org.apache.commons.lang3.LongRange*2
+
+__unknown_file (
+
+%3java.lang.Long2fit(Ljava/lang/Object;)us
+
+Ô Ô(R	
+%5int"java.lang.Long#intValue()I*2
+
+__unknown_file (
+
+%4java.lang.Long2
+intValue()"
+
+Ô Ô(S
+"":,
+
+Ñ" Ñ(9
 durationjava.time.DurationB/"-
-+org.apache.commons.lang3.time.DurationUtilsH
++org.apache.commons.lang3.time.DurationUtilsHX

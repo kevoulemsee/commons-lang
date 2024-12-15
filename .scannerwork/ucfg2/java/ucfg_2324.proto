@@ -1,34 +1,37 @@
 
-oorg.apache.commons.lang3.Range#of(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/apache/commons/lang3/Range;a
-U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaŸ= Ÿ(?"1*Â
+korg.apache.commons.lang3.Range#is(Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;a
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javaŠ Š(!"1*Ö
 1
-   (ú
-÷
+‹ ‹(Ž
+‹
 
-   (3$
+‹ ‹(/$
 %0org.apache.commons.lang3.Range"}org.apache.commons.lang3.Range#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;*>
 
 __unknown_file ("" 
-org.apache.commons.lang3.Range*0
+org.apache.commons.lang3.Range**
 
-__unknown_file (
-
-fromInclusiveT*.
+__unknown_file (
+
+elementT**
 
-__unknown_file (
-
-toInclusiveT*"
+__unknown_file (
+
+elementT*@
 
-__unknown_file (
-"""4
+__unknown_file ($
+"
 
-   (4&
+comparatorjava.util.Comparator"4
+
+‹ ‹(0&
 $
-%0org.apache.commons.lang3.Range: 
+%0org.apache.commons.lang3.Range:
 
-Ÿ@ Ÿ(V
-fromInclusiveT:
+Š" Š(2
+elementT:0
 
-ŸW Ÿ(j
-toInclusiveTB"" 
+Š3 Š(Q"
+
+comparatorjava.util.ComparatorB"" 
 org.apache.commons.lang3.RangeH

@@ -1,137 +1,111 @@
 
-?org.apache.commons.lang3.tuple.Pair#equals(Ljava/lang/Object;)Zf
-Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/Pair.java­ ­("startingBlock*%
-2
-³ ´(D"
-
-³ ´(D
-""*Ê
-3
-´ ´(«¨
-
-´& ´(0
-%4R"@org.apache.commons.lang3.tuple.Pair#getValue()Ljava/lang/Object;*C
-
-__unknown_file ('%
-#org.apache.commons.lang3.tuple.Pair2
-getValue()š—
-
-´2 ´(B
-%5	!capture!"0java.util.Map$Entry#getValue()Ljava/lang/Object;*:
-
-__unknown_file (
-
-otherjava.util.Map$Entry2
-getValue()è
-å
-
-´ ´(C
-%6boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
-
-__unknown_file ("
-java.util.Objects*%
-
-__unknown_file (	
-
-%4R*-
-
-__unknown_file (
-
-%5	!capture!*
-2*Š
+Uorg.apache.commons.lang3.tuple.Pair#compareTo(Lorg/apache/commons/lang3/tuple/Pair;)If
+Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/Pair.java¡ ¡("startingBlock*´
 startingBlock
-­ ­(+Œ
-‰
+¡ ¡(0¡
+ž
 
-¬ ¬(
-%7"
+   (
+%9"
 __annotate*2
 
 __unknown_file (
-java.lang.Override*5
+java.lang.Override*J
 
-__unknown_file (
-
-objjava.lang.ObjectY
-W
+__unknown_file (.
+,
+other#org.apache.commons.lang3.tuple.Pairn
+l
 
-­' ­(*
-objjava.lang.Object"__annotation*"
+¡* ¡(/,
+other#org.apache.commons.lang3.tuple.Pair"__annotation*"
 
 __unknown_file (
 
-%7*
-7*°
-4
-²< ²(?i
-g
+%9*
+1*º
+1
+¢ ¢(#zx
 
-² ²(@
-otherjava.util.Map$Entry"__id*5
+¢ ¢(!7
+%01org.apache.commons.lang3.builder.CompareToBuilder"1org.apache.commons.lang3.builder.CompareToBuilder©
+¦
+
+¢ ¢(#
+%1";org.apache.commons.lang3.builder.CompareToBuilder#<init>()V*U
 
-__unknown_file (
-
-objjava.lang.Object§¤
+__unknown_file (9
+7
+%01org.apache.commons.lang3.builder.CompareToBuilder©¦
 
-³" ³(*
-%1L">org.apache.commons.lang3.tuple.Pair#getKey()Ljava/lang/Object;*C
+¢+ ¢(4
+%2L"?org.apache.commons.lang3.tuple.Pair#getLeft()Ljava/lang/Object;*C
 
 __unknown_file ('%
-#org.apache.commons.lang3.tuple.Pair2getKey()–“
+#org.apache.commons.lang3.tuple.Pair2	getLeft()°­
 
-³, ³(:
-%2	!capture!".java.util.Map$Entry#getKey()Ljava/lang/Object;*:
+¢6 ¢(E
+%3L"?org.apache.commons.lang3.tuple.Pair#getLeft()Ljava/lang/Object;*J
 
-__unknown_file (
-
-otherjava.util.Map$Entry2getKey()è
-å
+__unknown_file (.
+,
+other#org.apache.commons.lang3.tuple.Pair2	getLeft()¯¬
 
-³ ³(;
-%3boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+¢ ¢(F7
+%41org.apache.commons.lang3.builder.CompareToBuilder"‘org.apache.commons.lang3.builder.CompareToBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/CompareToBuilder;*U
 
-__unknown_file ("
-java.util.Objects*%
+__unknown_file (9
+7
+%01org.apache.commons.lang3.builder.CompareToBuilder*%
 
 __unknown_file (	
 
-%1L*-
+%2L*%
 
-__unknown_file (
-
-%2	!capture!*
-2
-3*%
-6
-¯ ¯("
+__unknown_file (	
+
+%3L2,append(Ljava/lang/Object;Ljava/lang/Object;)«¨
 
-¯ ¯(
-""*æ
-7
-® ®(É
-Æ
-
-® ®(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*5
-
-__unknown_file (
-
-objjava.lang.Object*C
+£ £( 
+%5R"@org.apache.commons.lang3.tuple.Pair#getRight()Ljava/lang/Object;*C
 
 __unknown_file ('%
-#org.apache.commons.lang3.tuple.Pair*	
-4
-6
-1*%
-1
-¶ ¶("
+#org.apache.commons.lang3.tuple.Pair2
+getRight()²¯
 
-¶ ¶(
-"":%
+£" £(2
+%6R"@org.apache.commons.lang3.tuple.Pair#getRight()Ljava/lang/Object;*J
+
+__unknown_file (.
+,
+other#org.apache.commons.lang3.tuple.Pair2
+getRight()¯¬
 
-­ ­(*
-objjava.lang.ObjectB'%
+¢ £(37
+%71org.apache.commons.lang3.builder.CompareToBuilder"‘org.apache.commons.lang3.builder.CompareToBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/CompareToBuilder;*U
+
+__unknown_file (9
+7
+%41org.apache.commons.lang3.builder.CompareToBuilder*%
+
+__unknown_file (	
+
+%5R*%
+
+__unknown_file (	
+
+%6R2,append(Ljava/lang/Object;Ljava/lang/Object;)ÄÁ
+
+¢ £(B	
+%8int"Aorg.apache.commons.lang3.builder.CompareToBuilder#toComparison()I*U
+
+__unknown_file (9
+7
+%71org.apache.commons.lang3.builder.CompareToBuilder2toComparison()"
+
+¢ £(C
+""::
+
+¡ ¡(/,
+other#org.apache.commons.lang3.tuple.PairB'%
 #org.apache.commons.lang3.tuple.PairHX

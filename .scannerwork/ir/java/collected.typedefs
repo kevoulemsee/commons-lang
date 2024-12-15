@@ -2040,7 +2040,46 @@ startsWith1java.lang.String#startsWith(Ljava/lang/String;I)Z*3
 parseUnsignedLong>java.lang.Long#parseUnsignedLong(Ljava/lang/CharSequence;III)J*J
 parseUnsignedLong5java.lang.Long#parseUnsignedLong(Ljava/lang/String;)J*K
 parseUnsignedLong6java.lang.Long#parseUnsignedLong(Ljava/lang/String;I)JTjava.lang.Object äjava.lang.Classjava.io.Serializable$java.lang.reflect.GenericDeclarationjava.lang.reflect.Type"java.lang.reflect.AnnotatedElement'java.lang.invoke.TypeDescriptor$OfFieldjava.lang.constant.Constablejava.lang.Object^$java.lang.reflect.GenericDeclaration"java.lang.reflect.AnnotatedElementjava.lang.Object8"java.lang.reflect.AnnotatedElementjava.lang.Object,java.lang.reflect.Typejava.lang.Object^'java.lang.invoke.TypeDescriptor$OfFieldjava.lang.invoke.TypeDescriptorjava.lang.Object5java.lang.invoke.TypeDescriptorjava.lang.Object
-null (java.util.Iteratorjava.lang.Object	!capture!T T[]java.lang.Object 1java.util.function.Supplierjava.lang.Object»#java.lang.IndexOutOfBoundsExceptionjava.lang.RuntimeException*7
+null ß)java.util.concurrent.atomic.AtomicIntegerjava.io.Serializablejava.lang.Number*=
+<init>3java.util.concurrent.atomic.AtomicInteger#<init>()V*>
+<init>4java.util.concurrent.atomic.AtomicInteger#<init>(I)V*x
+accumulateAndGetdjava.util.concurrent.atomic.AtomicInteger#accumulateAndGet(ILjava/util/function/IntBinaryOperator;)I*D
+	addAndGet7java.util.concurrent.atomic.AtomicInteger#addAndGet(I)I*W
+compareAndExchangeAjava.util.concurrent.atomic.AtomicInteger#compareAndExchange(II)I*e
+compareAndExchangeAcquireHjava.util.concurrent.atomic.AtomicInteger#compareAndExchangeAcquire(II)I*e
+compareAndExchangeReleaseHjava.util.concurrent.atomic.AtomicInteger#compareAndExchangeRelease(II)I*M
+compareAndSet<java.util.concurrent.atomic.AtomicInteger#compareAndSet(II)Z*O
+decrementAndGet<java.util.concurrent.atomic.AtomicInteger#decrementAndGet()I*G
+doubleValue8java.util.concurrent.atomic.AtomicInteger#doubleValue()D*E
+
+floatValue7java.util.concurrent.atomic.AtomicInteger#floatValue()F*7
+get0java.util.concurrent.atomic.AtomicInteger#get()I*E
+
+getAcquire7java.util.concurrent.atomic.AtomicInteger#getAcquire()I*x
+getAndAccumulatedjava.util.concurrent.atomic.AtomicInteger#getAndAccumulate(ILjava/util/function/IntBinaryOperator;)I*D
+	getAndAdd7java.util.concurrent.atomic.AtomicInteger#getAndAdd(I)I*O
+getAndDecrement<java.util.concurrent.atomic.AtomicInteger#getAndDecrement()I*O
+getAndIncrement<java.util.concurrent.atomic.AtomicInteger#getAndIncrement()I*D
+	getAndSet7java.util.concurrent.atomic.AtomicInteger#getAndSet(I)I*n
+getAndUpdate^java.util.concurrent.atomic.AtomicInteger#getAndUpdate(Ljava/util/function/IntUnaryOperator;)I*C
+	getOpaque6java.util.concurrent.atomic.AtomicInteger#getOpaque()I*A
+getPlain5java.util.concurrent.atomic.AtomicInteger#getPlain()I*O
+incrementAndGet<java.util.concurrent.atomic.AtomicInteger#incrementAndGet()I*A
+intValue5java.util.concurrent.atomic.AtomicInteger#intValue()I*@
+lazySet5java.util.concurrent.atomic.AtomicInteger#lazySet(I)V*C
+	longValue6java.util.concurrent.atomic.AtomicInteger#longValue()J*8
+set1java.util.concurrent.atomic.AtomicInteger#set(I)V*D
+	setOpaque7java.util.concurrent.atomic.AtomicInteger#setOpaque(I)V*B
+setPlain6java.util.concurrent.atomic.AtomicInteger#setPlain(I)V*F
+
+setRelease8java.util.concurrent.atomic.AtomicInteger#setRelease(I)V*R
+toStringFjava.util.concurrent.atomic.AtomicInteger#toString()Ljava/lang/String;*n
+updateAndGet^java.util.concurrent.atomic.AtomicInteger#updateAndGet(Ljava/util/function/IntUnaryOperator;)I*U
+weakCompareAndSet@java.util.concurrent.atomic.AtomicInteger#weakCompareAndSet(II)Z*c
+weakCompareAndSetAcquireGjava.util.concurrent.atomic.AtomicInteger#weakCompareAndSetAcquire(II)Z*_
+weakCompareAndSetPlainEjava.util.concurrent.atomic.AtomicInteger#weakCompareAndSetPlain(II)Z*c
+weakCompareAndSetReleaseGjava.util.concurrent.atomic.AtomicInteger#weakCompareAndSetRelease(II)Z*e
+weakCompareAndSetVolatileHjava.util.concurrent.atomic.AtomicInteger#weakCompareAndSetVolatile(II)ZT[]java.lang.Object 1java.util.function.Supplierjava.lang.Object»#java.lang.IndexOutOfBoundsExceptionjava.lang.RuntimeException*7
 <init>-java.lang.IndexOutOfBoundsException#<init>()V*I
 <init>?java.lang.IndexOutOfBoundsException#<init>(Ljava/lang/String;)V*8
 <init>.java.lang.IndexOutOfBoundsException#<init>(I)V*8

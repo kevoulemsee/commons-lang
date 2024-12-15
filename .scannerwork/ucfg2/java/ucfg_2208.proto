@@ -1,18 +1,18 @@
 
-[org.apache.commons.lang3.concurrent.BasicThreadFactory#getNamingPattern()Ljava/lang/String;y
-m/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/BasicThreadFactory.javaì ì(("1*“
+Yorg.apache.commons.lang3.concurrent.BasicThreadFactory#getDaemonFlag()Ljava/lang/Boolean;y
+m/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/concurrent/BasicThreadFactory.javaâ â(&"1*Õ
 1
-î î(ò
-ï
+ä ä(í
+è
 
-î î(
-%0java.lang.String"__id*i
+ä ä(
+%0java.lang.Boolean"__id*b
 
-__unknown_file (M*K8
-6org.apache.commons.lang3.concurrent.BasicThreadFactory"
-namingPattern"&
+__unknown_file (F*D8
+6org.apache.commons.lang3.concurrent.BasicThreadFactory"
+daemon"'
 
-î î(
-
-%0java.lang.StringB:8
+ä ä(
+
+%0java.lang.BooleanB:8
 6org.apache.commons.lang3.concurrent.BasicThreadFactoryH

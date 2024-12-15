@@ -1,5 +1,5 @@
 org.apache.commons.lang3.math.Fraction#mulAndCheck(II)I
 false
-db9dce7ac69cf23765b0beb91201e01d
+a5af3c431849f4854ac8380d24ac5b87
 java.lang.ArithmeticException#<init>(Ljava/lang/String;)V
 java.lang.ArithmeticException#instance-init#

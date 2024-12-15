@@ -1,111 +1,41 @@
 
-Uorg.apache.commons.lang3.tuple.Pair#compareTo(Lorg/apache/commons/lang3/tuple/Pair;)If
-Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/Pair.java¡ ¡("startingBlock*´
-startingBlock
-¡ ¡(0¡
-ž
-
-   (
-%9"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*J
-
-__unknown_file (.
-,
-other#org.apache.commons.lang3.tuple.Pairn
-l
-
-¡* ¡(/,
-other#org.apache.commons.lang3.tuple.Pair"__annotation*"
-
-__unknown_file (
-
-%9*
-1*º
+sorg.apache.commons.lang3.tuple.Pair#apply(Lorg/apache/commons/lang3/function/FailableBiFunction;)Ljava/lang/Object;f
+Z/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/Pair.java•& •(+"1*ê
 1
-¢ ¢(#zx
+– –(§¤
 
-¢ ¢(!7
-%01org.apache.commons.lang3.builder.CompareToBuilder"1org.apache.commons.lang3.builder.CompareToBuilder©
-¦
-
-¢ ¢(#
-%1";org.apache.commons.lang3.builder.CompareToBuilder#<init>()V*U
-
-__unknown_file (9
-7
-%01org.apache.commons.lang3.builder.CompareToBuilder©¦
-
-¢+ ¢(4
-%2L"?org.apache.commons.lang3.tuple.Pair#getLeft()Ljava/lang/Object;*C
+– –(&
+%0L">org.apache.commons.lang3.tuple.Pair#getKey()Ljava/lang/Object;*C
 
 __unknown_file ('%
-#org.apache.commons.lang3.tuple.Pair2	getLeft()°­
+#org.apache.commons.lang3.tuple.Pair2getKey()«¨
 
-¢6 ¢(E
-%3L"?org.apache.commons.lang3.tuple.Pair#getLeft()Ljava/lang/Object;*J
-
-__unknown_file (.
-,
-other#org.apache.commons.lang3.tuple.Pair2	getLeft()¯¬
-
-¢ ¢(F7
-%41org.apache.commons.lang3.builder.CompareToBuilder"‘org.apache.commons.lang3.builder.CompareToBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/CompareToBuilder;*U
-
-__unknown_file (9
-7
-%01org.apache.commons.lang3.builder.CompareToBuilder*%
-
-__unknown_file (	
-
-%2L*%
-
-__unknown_file (	
-
-%3L2,append(Ljava/lang/Object;Ljava/lang/Object;)«¨
-
-£ £( 
-%5R"@org.apache.commons.lang3.tuple.Pair#getRight()Ljava/lang/Object;*C
+–( –(2
+%1R"@org.apache.commons.lang3.tuple.Pair#getValue()Ljava/lang/Object;*C
 
 __unknown_file ('%
 #org.apache.commons.lang3.tuple.Pair2
-getRight()²¯
+getValue()çä
 
-£" £(2
-%6R"@org.apache.commons.lang3.tuple.Pair#getRight()Ljava/lang/Object;*J
+– –(3
+%2V"rorg.apache.commons.lang3.function.FailableBiFunction#apply(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*^
 
-__unknown_file (.
-,
-other#org.apache.commons.lang3.tuple.Pair2
-getRight()¯¬
-
-¢ £(37
-%71org.apache.commons.lang3.builder.CompareToBuilder"‘org.apache.commons.lang3.builder.CompareToBuilder#append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/CompareToBuilder;*U
-
-__unknown_file (9
-7
-%41org.apache.commons.lang3.builder.CompareToBuilder*%
+__unknown_file (B
+@
+function4org.apache.commons.lang3.function.FailableBiFunction*%
 
 __unknown_file (	
 
-%5R*%
+%0L*%
 
 __unknown_file (	
 
-%6R2,append(Ljava/lang/Object;Ljava/lang/Object;)ÄÁ
+%1R2+apply(Ljava/lang/Object;Ljava/lang/Object;)"
 
-¢ £(B	
-%8int"Aorg.apache.commons.lang3.builder.CompareToBuilder#toComparison()I*U
-
-__unknown_file (9
-7
-%71org.apache.commons.lang3.builder.CompareToBuilder2toComparison()"
+– –(4	
+
+%2V:N
 
-¢ £(C
-""::
-
-¡ ¡(/,
-other#org.apache.commons.lang3.tuple.PairB'%
-#org.apache.commons.lang3.tuple.PairHX
+•, •(Y@
+function4org.apache.commons.lang3.function.FailableBiFunctionB'%
+#org.apache.commons.lang3.tuple.PairH

@@ -1,42 +1,28 @@
 
-uorg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/CharSequence;II)Lorg/apache/commons/lang3/text/StrBuilder;k
-_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javaô ô("startingBlock*Ê
+sorg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/CharSequence;)Lorg/apache/commons/lang3/text/StrBuilder;k
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javaÖ Ö("startingBlock*©
 2
-ö ö(øõ
+ä ä(×Ô
 
-ö ö(.
-%1(org.apache.commons.lang3.text.StrBuilder"_org.apache.commons.lang3.text.StrBuilder#appendNull()Lorg/apache/commons/lang3/text/StrBuilder;*H
+ä ä(+.
+%5(org.apache.commons.lang3.text.StrBuilder"porg.apache.commons.lang3.text.StrBuilder#append(Ljava/nio/CharBuffer;)Lorg/apache/commons/lang3/text/StrBuilder;*H
 
 __unknown_file (,*
-(org.apache.commons.lang3.text.StrBuilder2appendNull()">
-
-ö ö( 0
-.
-%1(org.apache.commons.lang3.text.StrBuilder*È
-3
-õ õ(®
-«
-
-õ õ(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*;
+(org.apache.commons.lang3.text.StrBuilder*;
 
 __unknown_file (
 
-seqjava.lang.CharSequence*"
-
-__unknown_file (
-""*
-2
-1*–
+seqjava.lang.CharSequence2append(Ljava/nio/CharBuffer;)">
+
+ä ä(,0
+.
+%5(org.apache.commons.lang3.text.StrBuilder*—
 startingBlock
-ô ô(\’
+Ö Ö(4’
 
 
-ó ó(
-%4"
+Õ Õ(
+%8"
 __annotate*2
 
 __unknown_file (
@@ -47,50 +33,120 @@ __annotate*2
 seqjava.lang.CharSequence_
 ]
 
-ô0 ô(3
+Ö0 Ö(3
 seqjava.lang.CharSequence"__annotation*"
 
 __unknown_file (
 
-%4*
-3*
-1
-ø ø(¥¢
+%8*
+11*¯
+4
+á á(ÝÚ
 
-ø ø($
-%2java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*;
+á á(-.
+%4(org.apache.commons.lang3.text.StrBuilder"sorg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/StringBuffer;)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*;
+
+__unknown_file (
+
+seqjava.lang.CharSequence2 append(Ljava/lang/StringBuffer;)">
+
+á á(.0
+.
+%4(org.apache.commons.lang3.text.StrBuilder*±
+6
+Þ Þ(ßÜ
+
+Þ Þ(..
+%3(org.apache.commons.lang3.text.StrBuilder"torg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/StringBuilder;)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*;
+
+__unknown_file (
+
+seqjava.lang.CharSequence2!append(Ljava/lang/StringBuilder;)">
+
+Þ Þ(/0
+.
+%3(org.apache.commons.lang3.text.StrBuilder*Ô
+8
+Û Û(‚ÿ
+
+Û Û(+.
+%2(org.apache.commons.lang3.text.StrBuilder"…org.apache.commons.lang3.text.StrBuilder#append(Lorg/apache/commons/lang3/text/StrBuilder;)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*;
+
+__unknown_file (
+
+seqjava.lang.CharSequence22append(Lorg/apache/commons/lang3/text/StrBuilder;)">
+
+Û Û(,0
+.
+%2(org.apache.commons.lang3.text.StrBuilder*Ë
+10
+Ø Ø(øõ
+
+Ø Ø(.
+%1(org.apache.commons.lang3.text.StrBuilder"_org.apache.commons.lang3.text.StrBuilder#appendNull()Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder2appendNull()">
+
+Ø Ø( 0
+.
+%1(org.apache.commons.lang3.text.StrBuilder*Ö
+11
+× ×(®
+«
+
+× ×(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*;
+
+__unknown_file (
+
+seqjava.lang.CharSequence*"
+
+__unknown_file (
+""*
+2
+4
+6
+8
+10
+1*Ä
+1
+æ æ(¥¢
+
+æ æ($
+%6java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*;
 
 __unknown_file (
 
 seqjava.lang.CharSequence2
-toString()–“
+toString()ÊÇ
 
-ø ø(9.
-%3(org.apache.commons.lang3.text.StrBuilder"oorg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;II)Lorg/apache/commons/lang3/text/StrBuilder;*H
+æ æ(%.
+%7(org.apache.commons.lang3.text.StrBuilder"morg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;*H
 
 __unknown_file (,*
 (org.apache.commons.lang3.text.StrBuilder*4
 
 __unknown_file (
 
-%2java.lang.String*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""2append(Ljava/lang/String;II)">
+%6java.lang.String2append(Ljava/lang/String;)">
 
-ø ø(:0
+æ æ(&0
 .
-%3(org.apache.commons.lang3.text.StrBuilder:+
+%7(org.apache.commons.lang3.text.StrBuilder:+
 
-ô ô(4
-seqjava.lang.CharSequence: 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B,*
+Ö Ö(3
+seqjava.lang.CharSequenceB,*
 (org.apache.commons.lang3.text.StrBuilderH

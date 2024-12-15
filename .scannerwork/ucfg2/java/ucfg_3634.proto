@@ -1,81 +1,89 @@
 
-aorg.apache.commons.lang3.builder.DiffBuilder#build()Lorg/apache/commons/lang3/builder/DiffResult;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java… …("1*î
-1
-    ($u
-s
+yorg.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;[S[S)Lorg/apache/commons/lang3/builder/DiffBuilder;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaø ø( "3"4*æ
+2
+¿: ¿(=¶
+£
 
-    ($
-%0T"__id*V
+¿I ¿(g!
+%4java.util.function.Supplier"__declareFunction*_
 
-__unknown_file (:*8.
-,org.apache.commons.lang3.builder.DiffBuilder"
-leftv
-t
+__unknown_file (CA
+?__sonar_lambda_172$org.apache.commons.lang3.builder.DiffBuilderß
+§
+¿i ¿(á!
+%6java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_173$org.apache.commons.lang3.builder.DiffBuilderµ
+≤
+¿: ¿(ó2
+%3,org.apache.commons.lang3.builder.DiffBuilder"Ωorg.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.builder.DiffBuilder*;
+
+__unknown_file (
+
+	fieldNamejava.lang.String*?
+
+__unknown_file (#
+!
+%4java.util.function.Supplier*?
+
+__unknown_file (#
+!
+%6java.util.function.Supplier*"
+
+__unknown_file (
+""ú
+ô
+¿: ¿(ó2
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%3,org.apache.commons.lang3.builder.DiffBuilder*
+1*≤
+3
+¿3 ¿(7õ
+ò
 
- &  (+
-%1T"__id*W
+¿3 ¿(72
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
 
-__unknown_file (;*9.
-,org.apache.commons.lang3.builder.DiffBuilder"
-rightÑ
-Å
+__unknown_file (4
+2
+%2,org.apache.commons.lang3.builder.DiffBuilder*
+1*“
+4
+¿ ¿(∏
+µ
 
- -  (2
-%2java.util.List"__id*W
+¿ ¿(0
+%0boolean"java.util.Arrays#equals([S[S)Z*0
 
-__unknown_file (;*9.
-,org.apache.commons.lang3.builder.DiffBuilder"
-diffs§
-°
+__unknown_file ("
+java.util.Arrays*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*U
+1¿ ¿(ò"C
+¿ ¿(ò4
+2
+%1,org.apache.commons.lang3.builder.DiffBuilder:+
 
- 4  (94
-%3.org.apache.commons.lang3.builder.ToStringStyle"__id*W
+ø! ø(8
+	fieldNamejava.lang.String: 
 
-__unknown_file (;*9.
-,org.apache.commons.lang3.builder.DiffBuilder"
-styleè
-å
-
- ;  (I
-%4java.lang.String"__id*`
+__unknown_file (
+"": 
 
-__unknown_file (D*B.
-,org.apache.commons.lang3.builder.DiffBuilder"
-toStringFormatnl
-
-   (1
-%5+org.apache.commons.lang3.builder.DiffResult"+org.apache.commons.lang3.builder.DiffResult†
-ù
-
-   (J
-%6"´org.apache.commons.lang3.builder.DiffResult#<init>(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/List;Lorg/apache/commons/lang3/builder/ToStringStyle;Ljava/lang/String;)V*O
-
-__unknown_file (3
-1
-%5+org.apache.commons.lang3.builder.DiffResult*%
-
-__unknown_file (	
-
-%0T*%
-
-__unknown_file (	
-
-%1T*2
-
-__unknown_file (
-
-%2java.util.List*R
-
-__unknown_file (6
-4
-%3.org.apache.commons.lang3.builder.ToStringStyle*4
-
-__unknown_file (
-
-%4java.lang.String"A
-
-   (K3
-1
-%5+org.apache.commons.lang3.builder.DiffResultB0.
+__unknown_file (
+""B0.
 ,org.apache.commons.lang3.builder.DiffBuilderH

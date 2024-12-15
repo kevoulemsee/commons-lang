@@ -1,16 +1,15 @@
 
-lorg.apache.commons.lang3.stream.LangCollectors$SimpleCollector#combiner()Ljava/util/function/BinaryOperator;o
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javaO! O()"1*ñ
-1P P(ª
-§
-P P('
-%0!java.util.function.BinaryOperator"__id*l
+_org.apache.commons.lang3.stream.LangCollectors$SimpleCollector#characteristics()Ljava/util/Set;o
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javaJ$ J(3"1*Ð
+1K K("
+š
+K K("
+%0java.util.Set"__id*s
 
-__unknown_file (P*N@
->org.apache.commons.lang3.stream.LangCollectors$SimpleCollector"
-
-combiner"5
-P P()
-'
-%0!java.util.function.BinaryOperatorBB@
+__unknown_file (W*U@
+>org.apache.commons.lang3.stream.LangCollectors$SimpleCollector"
+characteristics"!
+K K(#
+
+%0java.util.SetBB@
 >org.apache.commons.lang3.stream.LangCollectors$SimpleCollectorH

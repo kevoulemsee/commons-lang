@@ -1,32 +1,30 @@
 
-morg.apache.commons.lang3.util.FluentBitSet#or(Ljava/util/BitSet;)Lorg/apache/commons/lang3/util/FluentBitSet;m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaß ß("1*¢
+9org.apache.commons.lang3.util.FluentBitSet#nextSetBit(I)Im
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaÓ Ó("1*Ô
 1
-à à(…
+Ô Ô(…
 ‚
 
-à à(
+Ô Ô(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSetÊÇ
+bitSet¤¡
 
-à à(
-
-%1void"(java.util.BitSet#or(Ljava/util/BitSet;)V*4
+Ô Ô(+	
+%1int"java.util.BitSet#nextSetBit(I)I*4
 
 __unknown_file (
 
-%0java.util.BitSet*5
+%0java.util.BitSet*"
 
-__unknown_file (
-
-setjava.util.BitSet2or(Ljava/util/BitSet;)"<
+__unknown_file (
+""2nextSetBit(I)"
 
-á á(.,
-*org.apache.commons.lang3.util.FluentBitSet:%
-
-ß ß(+
-setjava.util.BitSetB.,
-*org.apache.commons.lang3.util.FluentBitSetH
+Ô Ô(,
+"": 
+
+__unknown_file (
+""B.,
+*org.apache.commons.lang3.util.FluentBitSetHX

@@ -1,106 +1,36 @@
 
-_org.apache.commons.lang3.reflect.FieldUtils#getAllFieldsList(Ljava/lang/Class;)Ljava/util/List;l
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/FieldUtils.javaF F(."4*è
-2K+ K(7¡æ
-K+ K(K
-%4java.lang.reflect.Field[]"=java.lang.Class#getDeclaredFields()[Ljava/lang/reflect/Field;*=
+eorg.apache.commons.lang3.reflect.FieldUtils#getAllFields(Ljava/lang/Class;)[Ljava/lang/reflect/Field;l
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/FieldUtils.java9 9(&"1*°
+1: :(á
+Ñ
+: :($
+%0java.util.List"_org.apache.commons.lang3.reflect.FieldUtils#getAllFieldsList(Ljava/lang/Class;)Ljava/util/List;*K
 
-__unknown_file (!
-
-currentClassjava.lang.Class2getDeclaredFields()~
-|
-K K(L+
-declaredFieldsjava.lang.reflect.Field[]"__id*=
-
-__unknown_file (!
-
-%4java.lang.reflect.Field[]£
-†
-L L(9
-%5boolean"Hjava.util.Collections#addAll(Ljava/util/Collection;[Ljava/lang/Object;)Z*5
-
-__unknown_file ("
-java.util.Collections*9
-
-__unknown_file (
-
-	allFieldsjava.util.List*I
-
-__unknown_file (-
-+
-declaredFieldsjava.lang.reflect.Field[]¶£
-M M(7
-%6java.lang.Class"0java.lang.Class#getSuperclass()Ljava/lang/Class;*=
-
-__unknown_file (!
-
-currentClassjava.lang.Class2getSuperclass()h
-f
-M M(7
-currentClassjava.lang.Class"__id*3
-
-__unknown_file (
-
-%6java.lang.Class*
-3*∆
-3J J(Æ
-´
-J J(#
-%3boolean"	__compare*"
-
-__unknown_file (
-!=*=
-
-__unknown_file (!
-
-currentClassjava.lang.Class*"
-
-__unknown_file (
-""*
-2
-1*†
-4G G(å
-â
-G G(*
-%0java.lang.Class"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
-
-__unknown_file ("
-java.util.Objects*4
+__unknown_file (/"-
++org.apache.commons.lang3.reflect.FieldUtils*4
 
 __unknown_file (
 
-clsjava.lang.Class*#
+clsjava.lang.ClassW
+U
+:- :(I
+%1java.lang.reflect.Field[]"__id*"
 
-__unknown_file (
-cls<:
-H* H(5
-%1java.util.ArrayList"java.util.ArrayListj
-h
-H& H(7
-%2"java.util.ArrayList#<init>()V*7
+__unknown_file (
+""ˇ¸
+: :(J
+%2java.lang.reflect.Field[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*2
 
-__unknown_file (
-
-%1java.util.ArrayListh
-f
-H H(8
-	allFieldsjava.util.List"__id*7
+__unknown_file (
+
+%0java.util.List*=
 
-__unknown_file (
-
-%1java.util.ArrayListi
-g
-I I($
-currentClassjava.lang.Class"__id*4
-
-__unknown_file (
-
-clsjava.lang.Class*
-3*8
-1O O(")
-O O(
-
-	allFieldsjava.util.List:"
-F/ F(A
+__unknown_file (!
+
+%1java.lang.reflect.Field[]2toArray([Ljava/lang/Object;)"-
+: :(K!
+
+%2java.lang.reflect.Field[]:"
+9' 9(9
 clsjava.lang.ClassB/"-
 +org.apache.commons.lang3.reflect.FieldUtilsH

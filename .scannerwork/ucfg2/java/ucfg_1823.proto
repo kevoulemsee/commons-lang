@@ -1,58 +1,14 @@
 
-A__sonar_lambda_48$org.apache.commons.lang3.Streams$ArrayCollectora
-W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Streams.javam m(Y"startingBlock*ö
-startingBlockm m(YÕ
-Ò
+]org.apache.commons.lang3.Streams$ArrayCollector#combiner()Ljava/util/function/BinaryOperator;a
+W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Streams.javad' d(/"1*ó
+1e h(¬
+©
+e h('
+%0!java.util.function.BinaryOperator"__declareFunction*a
 
-__unknown_file (F
-ArrayCollector.this/org.apache.commons.lang3.Streams$ArrayCollector"__id*h
-
-__unknown_file (L*J1
-/org.apache.commons.lang3.Streams$ArrayCollector"
-ArrayCollector.this*
-1*§
-1m m(¡
-ž
-m? m(J
-%1java.lang.Class"__id*u
-
-__unknown_file (Y*W
-F
-ArrayCollector.this/org.apache.commons.lang3.Streams$ArrayCollector"
-elementTypemk
-mL m(W	
-%2int"java.util.List#size()I*4
-
-__unknown_file (
-
-listjava.util.List2size()“
-
-m( m(X	
-%3O[]"Vorg.apache.commons.lang3.ArrayUtils#newInstance(Ljava/lang/Class;I)[Ljava/lang/Object;*C
-
-__unknown_file ('"%
-#org.apache.commons.lang3.ArrayUtils*3
-
-__unknown_file (
-
-%1java.lang.Class*'
-
-__unknown_file (
-	
-%2intÕÒ
-m m(Y	
-%4O[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*4
-
-__unknown_file (
-
-listjava.util.List*'
-
-__unknown_file (
-	
-%3O[]2toArray([Ljava/lang/Object;)"
-m m(Y
-	
-%4O[]:"
-m m(
-listjava.util.ListB
-java.util.function.Function
+__unknown_file (EC
+A__sonar_lambda_48$org.apache.commons.lang3.Streams$ArrayCollector"5
+e h()
+'
+%0!java.util.function.BinaryOperatorB31
+/org.apache.commons.lang3.Streams$ArrayCollectorH

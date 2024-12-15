@@ -1,27 +1,95 @@
 
-Yorg.apache.commons.lang3.Range#is(Ljava/lang/Comparable;)Lorg/apache/commons/lang3/Range;_
-U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javax= x(?"1*²
-1y y(î
-ë
-y y()$
-%0org.apache.commons.lang3.Range"}org.apache.commons.lang3.Range#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;*>
+‚org.apache.commons.lang3.Range#between(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lorg/apache/commons/lang3/Range;_
+U/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Range.javag g(&"startingBlock*Ô
+startingBlockg& g(r‡
+„
+f f(
+%2"
+__annotate*4
 
-__unknown_file ("" 
-org.apache.commons.lang3.Range**
+__unknown_file (
+java.lang.Deprecated*0
 
-__unknown_file (
-
-elementT**
+__unknown_file (
+
+fromInclusiveTR
+P
+g/ g(<
+fromInclusiveT"__annotation*"
 
-__unknown_file (
-
-elementT*"
+__unknown_file (
+
+%2…
+‚
+f f(
+%3"
+__annotate*4
 
-__unknown_file (
-"""2
-y y(*&
+__unknown_file (
+java.lang.Deprecated*.
+
+__unknown_file (
+
+toInclusiveTP
+N
+gF g(Q
+toInclusiveT"__annotation*"
+
+__unknown_file (
+
+%3—
+”
+f f(
+%4"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*@
+
+__unknown_file ($
+"
+
+comparatorjava.util.Comparatorb
+`
+gg g(q"
+
+comparatorjava.util.Comparator"__annotation*"
+
+__unknown_file (
+
+%4*
+1*÷
+1h h((RP
+h h($
+%0org.apache.commons.lang3.Range"org.apache.commons.lang3.Rangeß
+Ü
+h h(B
+%1"borg.apache.commons.lang3.Range#<init>(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V*B
+
+__unknown_file (&
 $
-%0org.apache.commons.lang3.Range:
-x@ x(O
-elementTB"" 
+%0org.apache.commons.lang3.Range*0
+
+__unknown_file (
+
+fromInclusiveT*.
+
+__unknown_file (
+
+toInclusiveT*@
+
+__unknown_file ($
+"
+
+comparatorjava.util.Comparator"2
+h h(C&
+$
+%0org.apache.commons.lang3.Range:
+g' g(=
+fromInclusiveT:
+g> g(R
+toInclusiveT:.
+gS g(q"
+
+comparatorjava.util.ComparatorB"" 
 org.apache.commons.lang3.RangeH

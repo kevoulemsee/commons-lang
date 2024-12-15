@@ -1,22 +1,22 @@
 
-sorg.apache.commons.lang3.function.Failable#getAsDouble(Lorg/apache/commons/lang3/function/FailableDoubleSupplier;)Dm
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaÌ/ Ì(:"4*%
+uorg.apache.commons.lang3.function.Failable#getAsBoolean(Lorg/apache/commons/lang3/function/FailableBooleanSupplier;)Zm
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java½0 ½(<"4*%
 3
-Î Î(*"
+¿ ¿(+"
 
-Î Î(*
-""*ð
+¿ ¿(+
+""*õ
 4
-Î Î(ÙÖ
+¿ ¿(ÞÛ
 
-Î Î()
-%0double"Gorg.apache.commons.lang3.function.FailableDoubleSupplier#getAsDouble()D*b
+¿ ¿(*
+%0boolean"Iorg.apache.commons.lang3.function.FailableBooleanSupplier#getAsBoolean()Z*c
 
-__unknown_file (F
-D
-supplier8org.apache.commons.lang3.function.FailableDoubleSupplier2getAsDouble()*
-3:R
+__unknown_file (G
+E
+supplier9org.apache.commons.lang3.function.FailableBooleanSupplier2getAsBoolean()*
+3:S
 
-Ì; Ì(cD
-supplier8org.apache.commons.lang3.function.FailableDoubleSupplierB.",
+½= ½(fE
+supplier9org.apache.commons.lang3.function.FailableBooleanSupplierB.",
 *org.apache.commons.lang3.function.FailableHX`

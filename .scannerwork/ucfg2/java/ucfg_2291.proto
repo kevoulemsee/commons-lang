@@ -1,35 +1,90 @@
 
-^org.apache.commons.lang3.ObjectUtils#identityHashCodeHex(Ljava/lang/Object;)Ljava/lang/String;g
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ObjectUtils.java— —(,"1*²
-1
-˜ ˜(¾
-»
+Horg.apache.commons.lang3.ObjectUtils#hashCodeMulti([Ljava/lang/Object;)Ig
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/ObjectUtils.java‚ ‚(#"startingBlock*Š
+2
+… …($T
+R
 
-˜# ˜(B	
-%0int"6java.lang.System#identityHashCode(Ljava/lang/Object;)I*0
+… …($
+objectjava.lang.Object"__id*"
 
-__unknown_file ("
-java.lang.System*8
+__unknown_file (
+""š
+—
+
+… …($
+objectjava.lang.Object"
+__arrayGet*=
+
+__unknown_file (!
+
+objectsjava.lang.Object[]*"
+
+__unknown_file (
+""*
+3
+1*Ï
+3
+†$ †(+¸
+µ
+
+†$ †(<	
+%1int"/java.util.Objects#hashCode(Ljava/lang/Object;)I*1
+
+__unknown_file ("
+java.util.Objects*8
 
 __unknown_file (
 
-objectjava.lang.Object·
-´
+objectjava.lang.Object*
+2*œ
+startingBlock
+‚# ‚(<–
+“
 
-˜ ˜(C
-%1java.lang.String"2java.lang.Integer#toHexString(I)Ljava/lang/String;*1
+ (
+%2"
+__annotate*4
 
-__unknown_file ("
-java.lang.Integer*'
+__unknown_file (
+java.lang.Deprecated*=
 
-__unknown_file (
-	
-%0int"&
+__unknown_file (!
+
+objectsjava.lang.Object[]a
+_
 
-˜ ˜(D
-
-%1java.lang.String:(
+‚4 ‚(;
+objectsjava.lang.Object[]"__annotation*"
+
+__unknown_file (
+
+%2*
+5*Ê
+5
+ƒ ƒ(°
+­
 
-—- —(@
-objectjava.lang.ObjectB("&
-$org.apache.commons.lang3.ObjectUtilsH
+„ „(
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*=
+
+__unknown_file (!
+
+objectsjava.lang.Object[]*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+Š Š("
+
+Š Š(
+"":-
+
+‚$ ‚(;
+objectsjava.lang.Object[]B("&
+$org.apache.commons.lang3.ObjectUtilsHX

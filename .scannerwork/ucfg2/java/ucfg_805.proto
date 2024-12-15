@@ -1,27 +1,7 @@
 
-Aorg.apache.commons.lang3.text.StrBuilder$StrBuilderReader#read()Ii
-_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javaz z("3*!
-2| |("
-| |(
-""*Ü
-3{ {(ÄÁ
-{ {(
-%0boolean"Borg.apache.commons.lang3.text.StrBuilder$StrBuilderReader#ready()Z*Y
-
-__unknown_file (=;
-9org.apache.commons.lang3.text.StrBuilder$StrBuilderReader2ready()*
-2
-1*ü
-1~ ~(ØÕ
-~ ~( 
-
-%1char"3org.apache.commons.lang3.text.StrBuilder#charAt(I)C*Y
-
-__unknown_file (=;
-9org.apache.commons.lang3.text.StrBuilder$StrBuilderReader*"
-
-__unknown_file (
-""2	charAt(I)"
-~ ~(!
+Jorg.apache.commons.lang3.text.StrBuilder$StrBuilderReader#markSupported()Zi
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.javat t($"1*!
+1u u("
+u u(
 ""B=;
 9org.apache.commons.lang3.text.StrBuilder$StrBuilderReaderHX

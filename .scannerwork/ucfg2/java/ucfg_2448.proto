@@ -1,22 +1,64 @@
 
-`org.apache.commons.lang3.stream.Streams#nonNull(Ljava/util/Collection;)Ljava/util/stream/Stream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÚ  Ú('"1*Í
-1
-Û Û(ñ
-ì
+xorg.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/stream/Stream;)Ljava/util/stream/Stream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÊ! Ê(,"startingBlock*ö
+startingBlock
+Ê, Ê(bï
+í
 
-Û Û(
-%0java.util.stream.Stream"[org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;*G
+Â Â("
+%2"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*6
+
+__unknown_file (
+
+clazzjava.lang.ClassZ
+X
+
+ÊD Ê(I
+clazzjava.lang.Class"__annotation*"
+
+__unknown_file (
+
+%2û
+õ
+
+Â Â("
+%3"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*?
+
+__unknown_file (#
+!
+streamjava.util.stream.Streamc
+a
+
+Ê[ Ê(a!
+streamjava.util.stream.Stream"__annotation*"
+
+__unknown_file (
+
+%3*
+1*Ï
+1
+Á Á(ò
+ï
+
+Á Á(%
+%0java.util.stream.Stream"^org.apache.commons.lang3.stream.Streams#of(Ljava/util/stream/Stream;)Ljava/util/stream/Stream;*G
 
 __unknown_file (+")
-'org.apache.commons.lang3.stream.Streams*@
+'org.apache.commons.lang3.stream.Streams*?
 
-__unknown_file ($
-"
+__unknown_file (#
+!
+streamjava.util.stream.Streamêç
 
-collectionjava.util.Collectionêç
-
-Û Û(6
+Á Á(?
 %1java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
 
 __unknown_file (
@@ -26,11 +68,13 @@ collectionjava.util.Collectionêç
 __unknown_file (
 ""2&filter(Ljava/util/function/Predicate;)"-
 
-Û Û(7
+Á Á(@
 
-%1java.util.stream.Stream:0
+%1java.util.stream.Stream:&
 
-Ú( Ú(F"
+Ê- Ê(J
+clazzjava.lang.Class:/
 
-collectionjava.util.CollectionB+")
-'org.apache.commons.lang3.stream.StreamsH
+ÊK Ê(a!
+streamjava.util.stream.StreamB+")
+'org.apache.commons.lang3.stream.Streams

@@ -1,13 +1,8 @@
 org.apache.commons.lang3.Validate#noNullElements(Ljava/lang/Iterable;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Iterable;
 false
-a10d0315ffef531cbf3ba00e4f585256
-java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
-java.lang.IllegalArgumentException#instance-init#
-java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+beed6557a6c58105ce50da46ee8284b6
 java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
-org.apache.commons.lang3.ArrayUtils#addAll([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;
-org.apache.commons.lang3.Validate#getMessage(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+java.util.concurrent.atomic.AtomicInteger#<init>()V
+java.util.concurrent.atomic.AtomicInteger#instance-init#
 ==
-hasNext java.util.Iterator#hasNext()Z
-iterator java.lang.Iterable#iterator()Ljava/util/Iterator;
-next java.util.Iterator#next()Ljava/lang/Object;
+forEach java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V

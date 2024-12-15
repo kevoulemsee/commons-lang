@@ -1,20 +1,20 @@
 
-:org.apache.commons.lang3.mutable.MutableDouble#hashCode()Iq
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaö ö("1*¿
+Korg.apache.commons.lang3.mutable.MutableDouble#getValue()Ljava/lang/Double;q
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaê ê("1*Ê
 1
-õ õ( ò
-ï
+ë ë(¨
+©
 
-õ õ(8
-
-%0long"%java.lang.Double#doubleToLongBits(D)J*0
+ë ë()
+%0java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*0
 
 __unknown_file ("
 java.lang.Double*"
 
 __unknown_file (
-"""
+"""&
 
-ú ú(*
-""B20
-.org.apache.commons.lang3.mutable.MutableDoubleHX
+ë ë(*
+
+%0java.lang.DoubleB20
+.org.apache.commons.lang3.mutable.MutableDoubleH

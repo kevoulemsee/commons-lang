@@ -1,12 +1,66 @@
 
-lorg.apache.commons.lang3.builder.HashCodeBuilder#append(S)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java¤ ¤(!"1*S
-1
-¥ ¥("B
+~org.apache.commons.lang3.builder.HashCodeBuilder#append([Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java’ ’(!"6*ˆ
+2
+– –(%U
+S
 
-¦ ¦(42
-0org.apache.commons.lang3.builder.HashCodeBuilder: 
+– –(%
+elementjava.lang.Object"__id*"
 
-__unknown_file (
-""B42
+__unknown_file (
+""—
+”
+
+– –(%
+elementjava.lang.Object"
+__arrayGet*9
+
+__unknown_file (
+
+arrayjava.lang.Object[]*"
+
+__unknown_file (
+""*
+3
+1*†
+3
+— —(ïì
+
+— —(6
+%10org.apache.commons.lang3.builder.HashCodeBuilder"}org.apache.commons.lang3.builder.HashCodeBuilder#append(Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/HashCodeBuilder;*P
+
+__unknown_file (42
+0org.apache.commons.lang3.builder.HashCodeBuilder*9
+
+__unknown_file (
+
+elementjava.lang.Object2append(Ljava/lang/Object;)*
+2*Æ
+6
+“ “(¬
+©
+
+“ “(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*9
+
+__unknown_file (
+
+arrayjava.lang.Object[]*"
+
+__unknown_file (
+""*
+2
+1*S
+1
+š š("B
+
+š š(42
+0org.apache.commons.lang3.builder.HashCodeBuilder:)
+
+’" ’(6
+arrayjava.lang.Object[]B42
 0org.apache.commons.lang3.builder.HashCodeBuilderH

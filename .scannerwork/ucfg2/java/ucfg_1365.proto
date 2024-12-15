@@ -1,31 +1,9 @@
 
-.org.apache.commons.lang3.CharRange#hashCode()Ie
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/CharRange.java¼ ¼("2"3*^
-2
-½5 ½(6H
-F
-
-½5 ½(6	
-%0int"__id*'
-
-__unknown_file (
-	
-%2int*
-1*^
-3
-½1 ½(2H
-F
-
-½1 ½(2	
-%0int"__id*'
-
-__unknown_file (
-	
-%1int*
-1*%
+.org.apache.commons.lang3.CharRange#getStart()Ce
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/CharRange.java² ²("1*%
 1
-½ ½(7"
+³ ³("
 
-½ ½(8
+³ ³(
 ""B&$
 "org.apache.commons.lang3.CharRangeHX

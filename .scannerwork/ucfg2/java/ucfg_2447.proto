@@ -1,80 +1,44 @@
 
-xorg.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/stream/Stream;)Ljava/util/stream/Stream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÊ! Ê(,"startingBlock*ö
-startingBlock
-Ê, Ê(bï
-í
+uorg.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/Collection;)Ljava/util/stream/Stream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java·  ·(+"1*¿
+1
+‚ ‚(ñ
+ì
 
-Â Â("
-%2"
-__annotate*:
+‚" ‚(0
+%0java.util.stream.Stream"[org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;*G
 
-__unknown_file (
-java.lang.SuppressWarnings*6
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*@
+
+__unknown_file ($
+"
+
+collectionjava.util.CollectionÊ
+„
+
+‚ ‚(1
+%1java.util.stream.Stream"xorg.apache.commons.lang3.stream.Streams#instancesOf(Ljava/lang/Class;Ljava/util/stream/Stream;)Ljava/util/stream/Stream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*6
 
 __unknown_file (
 
-clazzjava.lang.ClassZ
-X
-
-ÊD Ê(I
-clazzjava.lang.Class"__annotation*"
-
-__unknown_file (
-
-%2û
-õ
-
-Â Â("
-%3"
-__annotate*:
-
-__unknown_file (
-java.lang.SuppressWarnings*?
-
-__unknown_file (#
-!
-streamjava.util.stream.Streamc
-a
-
-Ê[ Ê(a!
-streamjava.util.stream.Stream"__annotation*"
-
-__unknown_file (
-
-%3*
-1*Ï
-1
-Á Á(ò
-ï
-
-Á Á(%
-%0java.util.stream.Stream"^org.apache.commons.lang3.stream.Streams#of(Ljava/util/stream/Stream;)Ljava/util/stream/Stream;*G
-
-__unknown_file (+")
-'org.apache.commons.lang3.stream.Streams*?
-
-__unknown_file (#
-!
-streamjava.util.stream.Streamêç
-
-Á Á(?
-%1java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
+clazzjava.lang.Class*;
 
 __unknown_file (
 
-%0java.util.stream.Stream*"
-
-__unknown_file (
-""2&filter(Ljava/util/function/Predicate;)"-
+%0java.util.stream.Stream"-
 
-Á Á(@
+‚ ‚(2
 
 %1java.util.stream.Stream:&
 
-Ê- Ê(J
-clazzjava.lang.Class:/
+·, ·(I
+clazzjava.lang.Class:0
 
-ÊK Ê(a!
-streamjava.util.stream.StreamB+")
-'org.apache.commons.lang3.stream.Streams
+·J ·(p"
+
+collectionjava.util.CollectionB+")
+'org.apache.commons.lang3.stream.StreamsH

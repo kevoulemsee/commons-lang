@@ -1,78 +1,9 @@
 
-Jorg.apache.commons.lang3.mutable.MutableDouble#equals(Ljava/lang/Object;)Zq
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaƒ ƒ("startingBlock*Ó
-2
-∆ ∆(ò
-ï
-
-∆ ∆(C
-
-%0long"%java.lang.Double#doubleToLongBits(D)J*0
-
-__unknown_file ("
-java.lang.Double*"
-
-__unknown_file (
-""ò
-ï
-
-∆G ∆(e
-
-%1long"%java.lang.Double#doubleToLongBits(D)J*0
-
-__unknown_file ("
-java.lang.Double*"
-
-__unknown_file (
-""°
-û
-
-∆ ∆(e
-%2boolean"	__compare*"
-
-__unknown_file (
-==*(
-
-__unknown_file (
-
-
-%0long*(
-
-__unknown_file (
-
-
-%1long*
-1*ç
-startingBlock
-ƒ ƒ(+å
-â
-
-√ √(
-%3"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*5
-
-__unknown_file (
-
-objjava.lang.ObjectY
-W
-
-ƒ' ƒ(*
-objjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%3*
-2
-1*%
+=org.apache.commons.lang3.mutable.MutableDouble#doubleValue()Dq
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.java¢ ¢("1*%
 1
-≈ ∆(f"
+£ £("
 
-≈ ∆(f
-"":%
-
-ƒ ƒ(*
-objjava.lang.ObjectB20
+£ £(
+""B20
 .org.apache.commons.lang3.mutable.MutableDoubleHX

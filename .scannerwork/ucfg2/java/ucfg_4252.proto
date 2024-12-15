@@ -1,21 +1,22 @@
 
-ˆorg.apache.commons.lang3.AppendableJoiner$Builder#setPrefix(Ljava/lang/CharSequence;)Lorg/apache/commons/lang3/AppendableJoiner$Builder;l
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.java” ”(#"1*í
+¯org.apache.commons.lang3.AppendableJoiner$Builder#setElementAppender(Lorg/apache/commons/lang3/function/FailableBiConsumer;)Lorg/apache/commons/lang3/AppendableJoiner$Builder;l
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.java‰ ‰(,"1*
 1
-• •( –
-“
+Š Š($¸
+µ
 
-• •( ?3
-1org.apache.commons.lang3.AppendableJoiner$Builder"
-prefix"__id*>
+Š Š($A3
+1org.apache.commons.lang3.AppendableJoiner$Builder"
+
+appender"__id*^
 
-__unknown_file ("
- 
-prefixjava.lang.CharSequence"C
+__unknown_file (B
+@
+appender4org.apache.commons.lang3.function.FailableBiConsumer"C
 
-– –(53
-1org.apache.commons.lang3.AppendableJoiner$Builder:.
+‹ ‹(53
+1org.apache.commons.lang3.AppendableJoiner$Builder:N
 
-”$ ”(= 
-prefixjava.lang.CharSequenceB53
+‰- ‰(j@
+appender4org.apache.commons.lang3.function.FailableBiConsumerB53
 1org.apache.commons.lang3.AppendableJoiner$BuilderH

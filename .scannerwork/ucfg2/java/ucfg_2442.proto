@@ -1,35 +1,18 @@
 
-Üorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaâ( â(6"1*‘
+Xorg.apache.commons.lang3.stream.Streams$FailableStream#stream()Ljava/util/stream/Stream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java‹ ‹("1*Ÿ
 1
-ä ä(í
-è
+› ›(ò
+ï
 
-ä ä((
-%0java.util.stream.Stream"[org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;*G
+› ›(
+%0java.util.stream.Stream"__id*b
 
-__unknown_file (+")
-'org.apache.commons.lang3.stream.Streams*<
-
-__unknown_file ( 
-
-streamjava.util.Collectionﬂ
-‹
+__unknown_file (F*D8
+6org.apache.commons.lang3.stream.Streams$FailableStream"
+stream"-
 
-ä ä()<
-%16org.apache.commons.lang3.stream.Streams$FailableStream"âorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*G
-
-__unknown_file (+")
-'org.apache.commons.lang3.stream.Streams*;
-
-__unknown_file (
+› ›(
 
-%0java.util.stream.Stream"L
-
-ä ä(*>
-<
-%16org.apache.commons.lang3.stream.Streams$FailableStream:,
-
-â7 â(Q
-streamjava.util.CollectionB+")
-'org.apache.commons.lang3.stream.StreamsH
+%0java.util.stream.StreamB:8
+6org.apache.commons.lang3.stream.Streams$FailableStreamH

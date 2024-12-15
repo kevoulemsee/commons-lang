@@ -1,19 +1,19 @@
 
-.org.apache.commons.lang3.BitField#getValue(I)Id
-X/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BitField.javaµ µ("1*ì
+3org.apache.commons.lang3.BitField#getShortValue(S)Sd
+X/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BitField.java£ £("1*æ
 1
-¶ ¶(ÄÁ
+¤ ¤(¾»
 
-¶ ¶("	
-%0int"1org.apache.commons.lang3.BitField#getRawValue(I)I*A
+¤ ¤('	
+%0int".org.apache.commons.lang3.BitField#getValue(I)I*A
 
 __unknown_file (%#
 !org.apache.commons.lang3.BitField*"
 
 __unknown_file (
-""2getRawValue(I)"
+""2getValue(I)"
 
-¶ ¶(1
+¤ ¤((
 "": 
 
 __unknown_file (

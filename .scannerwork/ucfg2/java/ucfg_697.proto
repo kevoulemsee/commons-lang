@@ -1,24 +1,25 @@
 
-:org.apache.commons.lang3.util.FluentBitSet#toLongArray()[Jm
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java¥ ¥("1*¥
+:org.apache.commons.lang3.util.FluentBitSet#toByteArray()[Bm
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java° °("1*º
 1
-µ µ(Ö
+¢ ¢(Ö
 Ç
 
-µ µ(
+¢ ¢(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
 bitSetÑÅ
 
-µ µ(#
-%1long[]" java.util.BitSet#toLongArray()[J*4
+¢ ¢(#
+%1byte[]" java.util.BitSet#toByteArray()[B*4
 
 __unknown_file (
 
-%0java.util.BitSet2toLongArray()"
+%0java.util.BitSet2toByteArray()"
 
-µ µ($
-""B.,
+¢ ¢($
+
+%1byte[]B.,
 *org.apache.commons.lang3.util.FluentBitSetH

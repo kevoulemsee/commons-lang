@@ -1,222 +1,80 @@
 
-Norg.apache.commons.lang3.StringUtils#containsNone(Ljava/lang/CharSequence;[C)Zg
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaπ	 π	(&"18*¬
-13
-¬	 ¬	(©¶
-
-¬	 ¬	((
-
-%4char"!java.lang.CharSequence#charAt(I)C*:
-
-__unknown_file (
-
-csjava.lang.CharSequence*"
-
-__unknown_file (
-""2	charAt(I)*
-12*∞
-14
-¡	 ¡	(î
+jorg.apache.commons.lang3.StringUtils#containsIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaû	 û	(,"startingBlock*ú
+startingBlock
+û	, û	(bî
 ë
 
-¡	 ¡	(!
-%3boolean"	__compare*!
+ù	 ù	(
+%2"
+__annotate*4
 
-__unknown_file (
-<*"
+__unknown_file (
+java.lang.Deprecated*;
 
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-13
-1*ö
-15
-Ω	 Ω	(Å
+__unknown_file (
+
+strjava.lang.CharSequence_
+]
 
-Ω	 Ω	(%	
-%2int" java.lang.CharSequence#length()I*:
+û	@ û	(C
+strjava.lang.CharSequence"__annotation*"
 
-__unknown_file (
-
-csjava.lang.CharSequence2length()*
-14*&
-16
-ª	 ª	("
+__unknown_file (
+
+%2ö
+ó
 
-ª	 ª	(
-""*≈
-17
-∫	 ∫	(%®
-•
+ù	 ù	(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*A
+
+__unknown_file (%
+#
+	searchStrjava.lang.CharSequencee
+c
 
-∫	 ∫	(-
-%1boolean"	__compare*"
+û	X û	(a#
+	searchStrjava.lang.CharSequence"__annotation*"
 
-__unknown_file (
-==*5
-
-__unknown_file (
-
-searchCharschar[]*"
-
-__unknown_file (
-""*
-15
-16* 
-18
-∫	 ∫	(≠
-™
-
-∫	 ∫	(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*:
-
-__unknown_file (
-
-csjava.lang.CharSequence*"
-
-__unknown_file (
-""*
-16
-17*%
+__unknown_file (
+
+%3*
+1*à
 1
-”	 ”	("
+ü	 ü	(`
+^
 
-”	 ”	(
-""*%
-4
-Œ	 Œ	($"
+ü	 ü	(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""˛˚
 
-Œ	 Œ	(%
-""*Â
-5
-Õ	& Õ	(1™ß
+ü	 ü	(2
+%1boolean"\org.apache.commons.lang3.Strings#contains(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*;
+
+__unknown_file (
+
+strjava.lang.CharSequence*A
+
+__unknown_file (%
+#
+	searchStrjava.lang.CharSequence2:contains(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
 
-Õ	< Õ	(L
-%10char"!java.lang.CharSequence#charAt(I)C*:
-
-__unknown_file (
-
-csjava.lang.CharSequence*"
-
-__unknown_file (
-""2	charAt(I)ù
-ö
+ü	 ü	(3
+"":+
 
-Õ	& Õ	(L
-%11boolean"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*)
-
-__unknown_file (
-
-%10char*
-4
-12*Ø
-6
-Õ	 Õ	(î
-ë
+û	- û	(D
+strjava.lang.CharSequence:1
 
-Õ	 Õ	("
-%9boolean"	__compare*!
-
-__unknown_file (
-<*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-5
-12*%
-7
-À	 À	($"
-
-À	 À	(%
-""*Ø
-8
-…	 …	(ï
-í
-
-…	 …	('
-%8boolean"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-6
-7*%
-9
-«	 «	($"
-
-«	 «	(%
-""*ª
-10
-≈	 ≈	("†
-ù
-
-≈	 ≈	(6
-%7boolean"'java.lang.Character#isHighSurrogate(C)Z*3
-
-__unknown_file ("
-java.lang.Character*"
-
-__unknown_file (
-""*
-8
-9*≤
-11
-ƒ	 ƒ	(ï
-í
-
-ƒ	 ƒ	((
-%6boolean"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-10
-12*±
-12
-√	 √	(î
-ë
-
-√	 √	()
-%5boolean"	__compare*!
-
-__unknown_file (
-<*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-14
-11:*
-
-π	' π	(=
-csjava.lang.CharSequence:%
-
-π	> π	(W
-searchCharschar[]B("&
+û	E û	(a#
+	searchStrjava.lang.CharSequenceB("&
 $org.apache.commons.lang3.StringUtilsHX

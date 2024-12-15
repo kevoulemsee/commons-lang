@@ -1,85 +1,27 @@
 
-Lorg.apache.commons.lang3.builder.HashCodeBuilder#equals(Ljava/lang/Object;)Zs
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaø ø("startingBlock*%
-2
-ý ý("
+Korg.apache.commons.lang3.builder.HashCodeBuilder#build()Ljava/lang/Integer;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaî î("1*­
+1
+ï ï(º·
 
-ý ý(
-""*Š
-startingBlock
-ø ø(+Œ
-‰
-
-÷ ÷(
-%2"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*5
-
-__unknown_file (
-
-objjava.lang.ObjectY
-W
-
-ø' ø(*
-objjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%2*
-5*%
-4
-ú ú("
-
-ú ú(
-""*ó
-5
-ù ù(Ö
-Ó
-
-ù ù(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*P
+ï ï(+	
+%0int">org.apache.commons.lang3.builder.HashCodeBuilder#toHashCode()I*P
 
 __unknown_file (42
-0org.apache.commons.lang3.builder.HashCodeBuilder*5
+0org.apache.commons.lang3.builder.HashCodeBuilder2toHashCode()µ
+²
+
+ï ï(,
+%1java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*1
 
-__unknown_file (
+__unknown_file ("
+java.lang.Integer*'
+
+__unknown_file (
+	
+%0int"'
+
+ï ï(-
 
-objjava.lang.Object*	
-2
-4
-1*Ç
-1
-ÿ8 ÿ(;‡
-„
-
-ÿ ÿ(<9
-other0org.apache.commons.lang3.builder.HashCodeBuilder"__id*5
-
-__unknown_file (
-
-objjava.lang.Object•
-’
-
-€ €(%
-%1boolean"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-"""
-
-€ €(&
-"":%
-
-ø ø(*
-objjava.lang.ObjectB42
-0org.apache.commons.lang3.builder.HashCodeBuilderHX
+%1java.lang.IntegerB42
+0org.apache.commons.lang3.builder.HashCodeBuilderH

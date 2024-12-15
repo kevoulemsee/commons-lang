@@ -1,18 +1,18 @@
 
-Gorg.apache.commons.lang3.SystemProperties#getOsName()Ljava/lang/String;l
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemProperties.javaÂ Â(""1*–
+Gorg.apache.commons.lang3.SystemProperties#getOsArch()Ljava/lang/String;l
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/SystemProperties.java¶ ¶(""1*–
 1
-Ã Ã(U
+· ·(U
 S
 
-Ã Ã("
+· ·("
 %0java.lang.String"__id*'
 
 __unknown_file (	
-os.name…
+os.arch…
 ‚
 
-Ã Ã(#
+· ·(#
 %1java.lang.String"[org.apache.commons.lang3.SystemProperties#getProperty(Ljava/lang/String;)Ljava/lang/String;*I
 
 __unknown_file (-"+
@@ -22,7 +22,7 @@ S
 
 %0java.lang.String"&
 
-Ã Ã($
+· ·($
 
 %1java.lang.StringB-"+
 )org.apache.commons.lang3.SystemPropertiesH

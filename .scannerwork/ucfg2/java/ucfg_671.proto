@@ -1,104 +1,40 @@
 
-Forg.apache.commons.lang3.util.FluentBitSet#equals(Ljava/lang/Object;)Zm
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java≈ ≈("startingBlock*%
-2
-   ("
-
-   (
-""*ä
-startingBlock
-≈ ≈(+å
-â
-
-ƒ ƒ(
-%4"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*5
-
-__unknown_file (
-
-objjava.lang.ObjectY
-W
-
-≈' ≈(*
-objjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%4*
-5*%
-4
-« «("
-
-« «(
-""*Ì
-5
-∆ ∆(–
-Õ
-
-∆ ∆(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*J
-
-__unknown_file (.,
-*org.apache.commons.lang3.util.FluentBitSet*5
-
-__unknown_file (
-
-objjava.lang.Object*	
-2
-4
-1*¿
+Dorg.apache.commons.lang3.util.FluentBitSet#clone()Ljava/lang/Object;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java¿ ¿("1*¬
 1
-Ã2 Ã(5Ä
-~
-
-Ã Ã(63
-other*org.apache.commons.lang3.util.FluentBitSet"__id*5
-
-__unknown_file (
-
-objjava.lang.ObjectÖ
+¡) ¡(/Ö
 Ç
 
-Õ Õ($
-%1java.util.BitSet"__id*V
+¡) ¡(/
+%0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSetå
-â
+bitSetíè
 
-Õ& Õ(2
-%2java.util.BitSet"__id*]
-
-__unknown_file (A*?
-3
-other*org.apache.commons.lang3.util.FluentBitSet"
-bitSet˛
-˚
-
-Õ Õ(3
-%3boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
-
-__unknown_file ("
-java.util.Objects*4
+¡) ¡(7
+%1java.lang.Object"*java.util.BitSet#clone()Ljava/lang/Object;*4
 
 __unknown_file (
 
-%1java.util.BitSet*4
+%0java.util.BitSet2clone()lj
+
+¡ ¡(0
+%2*org.apache.commons.lang3.util.FluentBitSet"*org.apache.commons.lang3.util.FluentBitSet„
+‡
+
+¡ ¡(8
+%3"Forg.apache.commons.lang3.util.FluentBitSet#<init>(Ljava/util/BitSet;)V*N
+
+__unknown_file (2
+0
+%2*org.apache.commons.lang3.util.FluentBitSet*4
 
 __unknown_file (
 
-%2java.util.BitSet"
+%1java.lang.Object"@
 
-Õ Õ(4
-"":%
-
-≈ ≈(*
-objjava.lang.ObjectB.,
-*org.apache.commons.lang3.util.FluentBitSetHX
+¡ ¡(92
+0
+%2*org.apache.commons.lang3.util.FluentBitSetB.,
+*org.apache.commons.lang3.util.FluentBitSetH

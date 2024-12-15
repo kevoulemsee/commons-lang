@@ -1,41 +1,31 @@
 
-__sonar_lambda_79$m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java‚ ‚(."startingBlock*ã
-startingBlock
-‚ ‚(.À
-½
+ˆorg.apache.commons.lang3.function.Failable#asFunction(Lorg/apache/commons/lang3/function/FailableFunction;)Ljava/util/function/Function;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaö( ö(2"1*ñ
+1
+÷ ÷(.x
+v
+
+÷ ÷(.!
+%0java.util.function.Function"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_79$²
+¯
+
+__unknown_file (/
+!
+%0java.util.function.Function"
+
+function"__id*\
 
 __unknown_file (@
-	predicate3org.apache.commons.lang3.function.FailablePredicate"__id*Y
-
-__unknown_file (=*;,
-*org.apache.commons.lang3.function.Failable"
-	predicate*
-1* 
-1
-‚ ‚(ï
-ì
+>
+function2org.apache.commons.lang3.function.FailableFunction"1
 
-‚ ‚(.
-%1boolean"yorg.apache.commons.lang3.function.Failable#test(Lorg/apache/commons/lang3/function/FailablePredicate;Ljava/lang/Object;)Z*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.function.Failable*^
-
-__unknown_file (B
-@
-	predicate3org.apache.commons.lang3.function.FailablePredicate*(
-
-__unknown_file (
+÷ ÷(/#
+!
+%0java.util.function.Function:L
 
-
-inputT"
-
-‚ ‚(.
-
-%1boolean:
-
-‚ ‚(
-
-inputTB 
-java.util.function.Predicate
+ö3 ö([>
+function2org.apache.commons.lang3.function.FailableFunctionB.",
+*org.apache.commons.lang3.function.FailableH

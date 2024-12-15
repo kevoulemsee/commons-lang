@@ -1,68 +1,12 @@
 
-êorg.apache.commons.lang3.builder.DiffBuilder$Builder#setToStringFormat(Ljava/lang/String;)Lorg/apache/commons/lang3/builder/DiffBuilder$Builder;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java† †(+"4*⁄
-2
-°L °(\`
-^
-
-°L °(\
-%2java.lang.String"__id*2
-
-__unknown_file (
-%s differs from %sb
-`
-
-°L °(\
-%1java.lang.String"__id*4
-
-__unknown_file (
-
-%2java.lang.String*
-1*Ñ
-3
-°; °(In
-l
-
-°; °(I
-%1java.lang.String"__id*@
-
-__unknown_file ($
-"
-toStringFormatjava.lang.String*
-1*Õ
-4
-°" °(0≥
-∞
-
-°" °(8
-%0boolean"	__compare*"
-
-__unknown_file (
-!=*@
-
-__unknown_file ($
-"
-toStringFormatjava.lang.String*"
-
-__unknown_file (
-""*
-2
-3*Ò
+Çorg.apache.commons.lang3.builder.DiffBuilder$Builder#setTestObjectsEquals(Z)Lorg/apache/commons/lang3/builder/DiffBuilder$Builder;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaï ï(."1*W
 1
-° °(\ó
-î
+ñ% ñ(6"F
 
-° °(\J6
-4org.apache.commons.lang3.builder.DiffBuilder$Builder"
-toStringFormat"__id*4
+ó ó(86
+4org.apache.commons.lang3.builder.DiffBuilder$Builder: 
 
-__unknown_file (
-
-%1java.lang.String"F
-
-¢ ¢(86
-4org.apache.commons.lang3.builder.DiffBuilder$Builder:0
-
-†, †(G"
-toStringFormatjava.lang.StringB86
+__unknown_file (
+""B86
 4org.apache.commons.lang3.builder.DiffBuilder$BuilderH

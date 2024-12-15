@@ -1,19 +1,18 @@
 
-Horg.apache.commons.lang3.text.StrBuilder#getNullText()Ljava/lang/String;k
-_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java´ ´("1*ø
+Korg.apache.commons.lang3.text.StrBuilder#getNewLineText()Ljava/lang/String;k
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java¢ ¢( "1*æ
 1
-¨ ¨(Ö
-Ç
+£ £(Ñ
+Å
 
-¨ ¨(
-%0java.lang.String"__id*V
+£ £(
+%0java.lang.String"__id*U
 
-__unknown_file (:*8*
-(org.apache.commons.lang3.text.StrBuilder"
+__unknown_file (9*7*
+(org.apache.commons.lang3.text.StrBuilder"	
+newLine"&
 
-nullText"&
-
-¨ ¨(
+£ £(
 
 %0java.lang.StringB,*
 (org.apache.commons.lang3.text.StrBuilderH

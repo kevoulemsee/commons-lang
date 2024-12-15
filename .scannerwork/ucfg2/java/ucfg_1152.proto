@@ -1,101 +1,46 @@
 
-Dorg.apache.commons.lang3.arch.Processor#toString()Ljava/lang/String;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/arch/Processor.javaö ö("1*õ
+0org.apache.commons.lang3.arch.Processor#isX86()Zj
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/arch/Processor.javañ ñ("1*”
 1
-÷& ÷(9FD
+ò ò(l
+j
 
-÷* ÷(7
-%0java.lang.StringBuilder"java.lang.StringBuildert
-r
-
-÷& ÷(9
-%1"!java.lang.StringBuilder#<init>()V*;
+ò ò(2
+%0,org.apache.commons.lang3.arch.Processor$Type"__id*"
 
-__unknown_file (
-
-%0java.lang.StringBuilderu
-s
+__unknown_file (
+""l
+j
 
-÷ ÷(:"
-builderjava.lang.StringBuilder"__id*;
+ò ò(2
+%1,org.apache.commons.lang3.arch.Processor$Type"__id*"
 
-__unknown_file (
-
-%0java.lang.StringBuilderœ
+__unknown_file (
+""œ
 ™
 
-ø ø(2
+ò ò(2
 %2,org.apache.commons.lang3.arch.Processor$Type"__id*Q
 
 __unknown_file (5*3)
 'org.apache.commons.lang3.arch.Processor"
-typeĞÍ
+typeñ
+î
 
-ø ø(&
-%3java.lang.String"Iorg.apache.commons.lang3.arch.Processor$Type#getLabel()Ljava/lang/String;*P
+ò ò(
+%3boolean"	__compare*"
+
+__unknown_file (
+==*P
 
 __unknown_file (4
 2
-%2,org.apache.commons.lang3.arch.Processor$Type2
-getLabel()Œ
-
-ø ø('
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
-
-__unknown_file ($
-"
-builderjava.lang.StringBuilder*4
-
-__unknown_file (
-
-%3java.lang.String2append(Ljava/lang/String;)ÕÒ
-
-ø ø(3
-%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*;
-
-__unknown_file (
-
-%4java.lang.StringBuilder*!
-
-__unknown_file (
- 2	append(C)œ
-™
-
-ø; ø(?2
-%6,org.apache.commons.lang3.arch.Processor$Arch"__id*Q
-
-__unknown_file (5*3)
-'org.apache.commons.lang3.arch.Processor"
-archĞÍ
-
-ø; ø(J
-%7java.lang.String"Iorg.apache.commons.lang3.arch.Processor$Arch#getLabel()Ljava/lang/String;*P
+%1,org.apache.commons.lang3.arch.Processor$Type*P
 
 __unknown_file (4
 2
-%6,org.apache.commons.lang3.arch.Processor$Arch2
-getLabel()Š‡
+%2,org.apache.commons.lang3.arch.Processor$Type"
 
-ø ø(K
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*;
-
-__unknown_file (
-
-%5java.lang.StringBuilder*4
-
-__unknown_file (
-
-%7java.lang.String2append(Ljava/lang/String;)«¨
-
-ù ù(!
-%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*@
-
-__unknown_file ($
-"
-builderjava.lang.StringBuilder2
-toString()"&
-
-ù ù("
-
-%9java.lang.StringB+)
-'org.apache.commons.lang3.arch.ProcessorH
+ò ò( 
+""B+)
+'org.apache.commons.lang3.arch.ProcessorHX

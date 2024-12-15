@@ -1,8 +1,8 @@
 
 d
 
-abbreviateVorg.apache.commons.lang3.StringUtils#abbreviate(Ljava/lang/String;I)Ljava/lang/String;o
-0int"..."java.lang.String%str
+abbreviateVorg.apache.commons.lang3.StringUtils#abbreviate(Ljava/lang/String;I)Ljava/lang/String;o"..."java.lang.String
+0int%str
 ß$ ß(4"java.lang.StringmaxWidth
 ß6 ß(H"int%str
 ß$ ß(4"java.lang.StringmaxWidth

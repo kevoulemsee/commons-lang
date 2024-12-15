@@ -1,41 +1,7 @@
 
-morg.apache.commons.lang3.mutable.MutableBoolean#compareTo(Lorg/apache/commons/lang3/mutable/MutableBoolean;)Ip
-f/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableBoolean.javaW W("startingBlock*Æ
-startingBlockW W(4«
-¨
-V V(
-%1"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*V
-
-__unknown_file (:
-8
-other/org.apache.commons.lang3.mutable.MutableBooleanx
-v
-W. W(38
-other/org.apache.commons.lang3.mutable.MutableBoolean"__annotation*"
-
-__unknown_file (
-
-%1*
-1*ÿ
-1X X(Û
-Ø
-X X(<	
-%0int"2org.apache.commons.lang3.BooleanUtils#compare(ZZ)I*E
-
-__unknown_file ()"'
-%org.apache.commons.lang3.BooleanUtils*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-"""
-X X(=
-"":D
-W W(38
-other/org.apache.commons.lang3.mutable.MutableBooleanB31
+?org.apache.commons.lang3.mutable.MutableBoolean#booleanValue()Zp
+f/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableBoolean.javaK K("1*!
+1L L("
+L L(
+""B31
 /org.apache.commons.lang3.mutable.MutableBooleanHX

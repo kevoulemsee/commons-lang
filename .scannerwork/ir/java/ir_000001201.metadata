@@ -1,5 +1,5 @@
 org.apache.commons.lang3.reflect.MemberUtils#getPrimitivePromotionCost(Ljava/lang/Class;Ljava/lang/Class;)F
 false
-007cfbc568734b83a42179d5881939c6
+a77d2747752a99c197e6a1ff5debdf18
 java.lang.Class#isPrimitive()Z
 org.apache.commons.lang3.ClassUtils#wrapperToPrimitive(Ljava/lang/Class;)Ljava/lang/Class;

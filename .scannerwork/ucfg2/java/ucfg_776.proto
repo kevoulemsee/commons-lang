@@ -1,36 +1,50 @@
 
-5org.apache.commons.lang3.math.IEEE754rUtils#max(DDD)Dl
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/IEEE754rUtils.javaS S("1*û
-1T T(æ
-ã
-T T(
-%0double"4org.apache.commons.lang3.math.IEEE754rUtils#max(DD)D*K
+4org.apache.commons.lang3.math.IEEE754rUtils#max(DD)Dl
+b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/IEEE754rUtils.java? ?("5*!
+2D D("
+D D(
+""*¦
+3C C(Ž
+‹
+C C(
+%1boolean"java.lang.Double#isNaN(D)Z*0
 
-__unknown_file (/"-
-+org.apache.commons.lang3.math.IEEE754rUtils*"
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""*
+2
+1*!
+4A A("
+A A(
+""*¦
+5@ @(Ž
+‹
+@ @(
+%0boolean"java.lang.Double#isNaN(D)Z*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""*
+3
+4*Ð
+1F F(¬
+©
+F F(
+%2double"java.lang.Math#max(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
 
 __unknown_file (
 ""*"
 
 __unknown_file (
-""î
-ë
-T T( 
-%1double"4org.apache.commons.lang3.math.IEEE754rUtils#max(DD)D*K
-
-__unknown_file (/"-
-+org.apache.commons.lang3.math.IEEE754rUtils**
-
-__unknown_file (
-
-%0double*"
-
-__unknown_file (
 """
-T T(!
-"": 
-
-__unknown_file (
+F F(
 "": 
 
 __unknown_file (

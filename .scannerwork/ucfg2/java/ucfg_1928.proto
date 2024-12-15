@@ -1,80 +1,80 @@
 
-jorg.apache.commons.lang3.StringUtils#containsIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaû	 û	(,"startingBlock*ú
+norg.apache.commons.lang3.StringUtils#containsAnyIgnoreCase(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÄ	 Ä	(/"startingBlock*∂
 startingBlock
-û	, û	(bî
-ë
+Ä	/ Ä	(qì
+ê
 
-ù	 ù	(
+ˇ ˇ(
 %2"
 __annotate*4
 
 __unknown_file (
-java.lang.Deprecated*;
+java.lang.Deprecated*:
 
-__unknown_file (
-
-strjava.lang.CharSequence_
-]
+__unknown_file (
+
+csjava.lang.CharSequence^
+\
 
-û	@ û	(C
-strjava.lang.CharSequence"__annotation*"
+Ä	C Ä	(E
+csjava.lang.CharSequence"__annotation*"
 
 __unknown_file (
 
-%2ö
-ó
+%2®
+•
 
-ù	 ù	(
+ˇ ˇ(
 %3"
 __annotate*4
 
 __unknown_file (
-java.lang.Deprecated*A
+java.lang.Deprecated*O
 
-__unknown_file (%
-#
-	searchStrjava.lang.CharSequencee
-c
+__unknown_file (3
+1
+searchCharSequencesjava.lang.CharSequence[]s
+q
 
-û	X û	(a#
-	searchStrjava.lang.CharSequence"__annotation*"
+Ä	] Ä	(p1
+searchCharSequencesjava.lang.CharSequence[]"__annotation*"
 
 __unknown_file (
 
 %3*
-1*à
+1*ù
 1
-ü	 ü	(`
+Å	 Å	(`
 ^
 
-ü	 ü	(&
+Å	 Å	(&
 %0 org.apache.commons.lang3.Strings"__id*"
 
 __unknown_file (
-""˛˚
+""ìê
 
-ü	 ü	(2
-%1boolean"\org.apache.commons.lang3.Strings#contains(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
+Å	 Å	(>
+%1boolean"`org.apache.commons.lang3.Strings#containsAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)Z*D
 
 __unknown_file ((
 &
-%0 org.apache.commons.lang3.Strings*;
+%0 org.apache.commons.lang3.Strings*:
 
-__unknown_file (
-
-strjava.lang.CharSequence*A
+__unknown_file (
+
+csjava.lang.CharSequence*O
 
-__unknown_file (%
-#
-	searchStrjava.lang.CharSequence2:contains(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
+__unknown_file (3
+1
+searchCharSequencesjava.lang.CharSequence[]2>containsAny(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;)"
 
-ü	 ü	(3
-"":+
+Å	 Å	(?
+"":*
 
-û	- û	(D
-strjava.lang.CharSequence:1
+Ä	0 Ä	(F
+csjava.lang.CharSequence:?
 
-û	E û	(a#
-	searchStrjava.lang.CharSequenceB("&
+Ä	G Ä	(p1
+searchCharSequencesjava.lang.CharSequence[]B("&
 $org.apache.commons.lang3.StringUtilsHX

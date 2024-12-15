@@ -1,41 +1,34 @@
 
-morg.apache.commons.lang3.builder.HashCodeBuilder#append([D)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaç ç(!"6*–
-3
-í í(∂≥
+lorg.apache.commons.lang3.builder.HashCodeBuilder#append(D)Lorg/apache/commons/lang3/builder/HashCodeBuilder;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.javaÇ Ç(!"1*±
+1
+É É(ò
+ï
 
-í í(6
-%10org.apache.commons.lang3.builder.HashCodeBuilder"lorg.apache.commons.lang3.builder.HashCodeBuilder#append(D)Lorg/apache/commons/lang3/builder/HashCodeBuilder;*P
+É É(4
+
+%0long"%java.lang.Double#doubleToLongBits(D)J*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""ºπ
+
+É É(56
+%10org.apache.commons.lang3.builder.HashCodeBuilder"lorg.apache.commons.lang3.builder.HashCodeBuilder#append(J)Lorg/apache/commons/lang3/builder/HashCodeBuilder;*P
 
 __unknown_file (42
-0org.apache.commons.lang3.builder.HashCodeBuilder*"
+0org.apache.commons.lang3.builder.HashCodeBuilder*(
 
-__unknown_file (
-""2	append(D)*
-3
-1*Ø
-6
-é é(ï
-í
+__unknown_file (
 
-é é(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-3
-1*S
-1
-ï ï("B
 
-ï ï(42
-0org.apache.commons.lang3.builder.HashCodeBuilder: 
+%0long2	append(J)"F
+
+É É(68
+6
+%10org.apache.commons.lang3.builder.HashCodeBuilder: 
 
 __unknown_file (
 ""B42

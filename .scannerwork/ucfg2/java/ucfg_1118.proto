@@ -1,55 +1,77 @@
 
-[org.apache.commons.lang3.time.FastDateFormat#format(Ljava/util/Calendar;)Ljava/lang/String;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/FastDateFormat.java∑ ∑("startingBlock*ò
-startingBlock
-∑ ∑(1ì
-ê
+Horg.apache.commons.lang3.time.FastDateFormat#equals(Ljava/lang/Object;)Zo
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/FastDateFormat.javaß ß("startingBlock*%
+2
+© ©("
 
-∂ ∂(
-%2"
+© ©(
+""*ç
+startingBlock
+ß ß(+å
+â
+
+¶ ¶(
+%3"
 __annotate*2
 
 __unknown_file (
-java.lang.Override*<
+java.lang.Override*5
 
-__unknown_file ( 
-
-calendarjava.util.Calendar`
-^
+__unknown_file (
+
+objjava.lang.ObjectY
+W
 
-∑( ∑(0
-calendarjava.util.Calendar"__annotation*"
+ß' ß(*
+objjava.lang.Object"__annotation*"
 
 __unknown_file (
 
-%2*
-1*ñ
+%3*
+2
+1*∞
 1
-∏ ∏(•
+´6 ´(9É
+Ä
+
+´ ´(:5
+other,org.apache.commons.lang3.time.FastDateFormat"__id*5
+
+__unknown_file (
+
+objjava.lang.Object•
 ¢
 
-∏ ∏(3
+≠ ≠(3
 %0-org.apache.commons.lang3.time.FastDatePrinter"__id*Y
 
 __unknown_file (=*;.
 ,org.apache.commons.lang3.time.FastDateFormat"	
-printer¥±
+printer¨
+©
 
-∏ ∏('
-%1java.lang.String"\org.apache.commons.lang3.time.FastDatePrinter#format(Ljava/util/Calendar;)Ljava/lang/String;*Q
+≠ ≠(+3
+%1-org.apache.commons.lang3.time.FastDatePrinter"__id*`
+
+__unknown_file (D*B
+5
+other,org.apache.commons.lang3.time.FastDateFormat"	
+printer´®
+
+≠ ≠(,
+%2boolean"Iorg.apache.commons.lang3.time.FastDatePrinter#equals(Ljava/lang/Object;)Z*Q
 
 __unknown_file (5
 3
-%0-org.apache.commons.lang3.time.FastDatePrinter*<
+%0-org.apache.commons.lang3.time.FastDatePrinter*Q
 
-__unknown_file ( 
-
-calendarjava.util.Calendar2format(Ljava/util/Calendar;)"&
+__unknown_file (5
+3
+%1-org.apache.commons.lang3.time.FastDatePrinter2equals(Ljava/lang/Object;)"
 
-∏ ∏((
-
-%1java.lang.String:,
+≠ ≠(-
+"":%
 
-∑ ∑(0
-calendarjava.util.CalendarB0.
-,org.apache.commons.lang3.time.FastDateFormatH
+ß ß(*
+objjava.lang.ObjectB0.
+,org.apache.commons.lang3.time.FastDateFormatHX

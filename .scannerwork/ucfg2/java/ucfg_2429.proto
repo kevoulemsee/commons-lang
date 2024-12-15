@@ -1,68 +1,39 @@
 
-iorg.apache.commons.lang3.stream.Streams$EnumerationSpliterator#tryAdvance(Ljava/util/function/Consumer;)Zj
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java¢ ¢(!"startingBlock*¿
-2
-£4 £(8¨
-¥
-
-£4 £(@
-%2boolean"corg.apache.commons.lang3.stream.Streams$EnumerationSpliterator#next(Ljava/util/function/Consumer;)Z*^
-
-__unknown_file (B@
->org.apache.commons.lang3.stream.Streams$EnumerationSpliterator*C
-
-__unknown_file ('
-%
-actionjava.util.function.Consumer*
-1*Ö
-3
-£ £(£
+corg.apache.commons.lang3.stream.Streams$EnumerationSpliterator#next(Ljava/util/function/Consumer;)Zj
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java› ›("1*Æ
+1
+œ œ(£
  
 
-£ £(
+œ œ(%
 %0java.util.Enumeration"__id*o
 
 __unknown_file (S*Q@
 >org.apache.commons.lang3.stream.Streams$EnumerationSpliterator"
-enumeration–“
+enumeration™–
 
-£ £(0
-%1boolean"(java.util.Enumeration#hasMoreElements()Z*9
+œ œ(3
+%1T"5java.util.Enumeration#nextElement()Ljava/lang/Object;*9
 
 __unknown_file (
 
-%0java.util.Enumeration2hasMoreElements()*
-2
-1*¦
-startingBlock
-¢! ¢(Cš
-—
+%0java.util.Enumeration2nextElement()ÜÙ
 
-¡ ¡(
-%3"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*C
+œ œ(4
+
+%2void"7java.util.function.Consumer#accept(Ljava/lang/Object;)V*C
 
 __unknown_file ('
 %
-actionjava.util.function.Consumerg
-e
-
-¢< ¢(B%
-actionjava.util.function.Consumer"__annotation*"
+actionjava.util.function.Consumer*%
 
-__unknown_file (
-
-%3*
-3*%
-1
-£ £(A"
+__unknown_file (	
+
+%1T2accept(Ljava/lang/Object;)"
 
-£ £(A
+ (
 "":3
 
-¢" ¢(B%
+› ›(=%
 actionjava.util.function.ConsumerBB@
->org.apache.commons.lang3.stream.Streams$EnumerationSpliteratorHX
+>org.apache.commons.lang3.stream.Streams$EnumerationSpliteratorX

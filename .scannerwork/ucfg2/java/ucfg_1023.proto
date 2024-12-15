@@ -1,138 +1,51 @@
 
-éorg.apache.commons.lang3.reflect.MemberUtils#setAccessibleWorkaround(Ljava/lang/reflect/AccessibleObject;)Ljava/lang/reflect/AccessibleObject;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java∆* ∆(A"11*)
-3
-Œ Œ("
+Rorg.apache.commons.lang3.reflect.MemberUtils#isStatic(Ljava/lang/reflect/Member;)Zo
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/MemberUtils.java≥ ≥("3*‹
+2
+¥! ¥()ñì
 
-Œ Œ(
-
-
-objT*ƒ
-4
-Õ Õ(≠™
-
-Õ Õ('
-
-%7void"4java.lang.reflect.AccessibleObject#setAccessible(Z)V*&
+¥3 ¥(H	
+%1int"(java.lang.reflect.Member#getModifiers()I*@
 
-__unknown_file (
+__unknown_file ($
+"
+memberjava.lang.reflect.Member2getModifiers()¨
+©
 
-
-objT* 
+¥! ¥(I
+%2boolean"'java.lang.reflect.Modifier#isStatic(I)Z*:
 
-__unknown_file (22setAccessible(Z)*
-3*¨
-6
-À2 À(A∑¥
-
-ÀB À(W
-%4java.lang.Class"=java.lang.reflect.Member#getDeclaringClass()Ljava/lang/Class;*;
-
-__unknown_file (
-
-mjava.lang.reflect.Member2getDeclaringClass()}
-
-ÀB À(f	
-%5int"java.lang.Class#getModifiers()I*3
-
-__unknown_file (
-
-%4java.lang.Class2getModifiers()◊
-‘
-
-À2 À(g
-%6boolean"@org.apache.commons.lang3.reflect.MemberUtils#isPackageAccess(I)Z*L
-
-__unknown_file (0".
-,org.apache.commons.lang3.reflect.MemberUtils*'
+__unknown_file ("
+java.lang.reflect.Modifier*'
 
 __unknown_file (
 	
-%5int*
-4
-1*ó
-7
-À# À(+˝
-˙
+%1int*
+1*Õ
+3
+¥ ¥(≥
+∞
 
-À# À(.
-%3boolean"Rorg.apache.commons.lang3.reflect.MemberUtils#isPublic(Ljava/lang/reflect/Member;)Z*L
-
-__unknown_file (0".
-,org.apache.commons.lang3.reflect.MemberUtils*;
-
-__unknown_file (
-
-mjava.lang.reflect.Member*
-6
-1*Å
-8
- "  (%[
-Y
-
-   (&
-mjava.lang.reflect.Member"__id*&
-
-__unknown_file (
-
-
-objTäá
-
-À À(
-%2boolean"2java.lang.reflect.AccessibleObject#isAccessible()Z*&
-
-__unknown_file (
-
-
-objT2isAccessible()*
-7
-1*)
-9
-» »("
-
-» »(
-
-
-objT*•
-10
-« «(äá
-
-« «(-
-%1boolean"2java.lang.reflect.AccessibleObject#isAccessible()Z*&
-
-__unknown_file (
-
-
-objT2isAccessible()*
-8
-9*µ
-11
-« «(ô
-ñ
-
-« «(
+¥ ¥(
 %0boolean"	__compare*"
 
 __unknown_file (
-==*&
+!=*@
 
-__unknown_file (
-
-
-objT*"
+__unknown_file ($
+"
+memberjava.lang.reflect.Member*"
 
 __unknown_file (
-""*
-9
-10*)
+""*
+2
+1*%
 1
-” ”("
+¥ ¥(J"
 
-” ”(
+¥ ¥(J
+"":0
 
-
-objT:
-
-∆B ∆(M
-objTB0".
-,org.apache.commons.lang3.reflect.MemberUtils
+≥ ≥(/"
+memberjava.lang.reflect.MemberB0".
+,org.apache.commons.lang3.reflect.MemberUtilsX

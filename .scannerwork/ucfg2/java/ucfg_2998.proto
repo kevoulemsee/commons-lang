@@ -1,35 +1,23 @@
 
-4org.apache.commons.lang3.RandomUtils#nextDouble(DD)Dg
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.javaõ õ(#"1*˙
+2org.apache.commons.lang3.RandomUtils#nextDouble()Dg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.javaå å(#"1*Æ
 1
-ú ú(÷
+ç ç(÷
 ”
 
-ú ú(*
+ç ç(*
 %0$org.apache.commons.lang3.RandomUtils"Sorg.apache.commons.lang3.RandomUtils#secure()Lorg/apache/commons/lang3/RandomUtils;*D
 
 __unknown_file (("&
-$org.apache.commons.lang3.RandomUtils˘ˆ
+$org.apache.commons.lang3.RandomUtils≠™
 
-ú ú(B
-%1double"6org.apache.commons.lang3.RandomUtils#randomDouble(DD)D*H
+ç ç(&
+%1double"4org.apache.commons.lang3.RandomUtils#randomDouble()D*H
 
 __unknown_file (,
 *
-%0$org.apache.commons.lang3.RandomUtils*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""2randomDouble(DD)"
+%0$org.apache.commons.lang3.RandomUtils2randomDouble()"
 
-ú ú(C
-"": 
-
-__unknown_file (
-"": 
-
-__unknown_file (
+ç ç('
 ""B("&
 $org.apache.commons.lang3.RandomUtilsHX

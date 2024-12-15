@@ -1,19 +1,9 @@
 
-;org.apache.commons.lang3.mutable.MutableFloat#isInfinite()Zp
-d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableFloat.java≈ ≈("1*ª
+9org.apache.commons.lang3.mutable.MutableFloat#intValue()Ip
+d/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableFloat.javaº º("1*%
 1
-∆ ∆(ì
-ê
+Ω Ω("
 
-∆ ∆(&
-%0boolean"java.lang.Float#isInfinite(F)Z*/
-
-__unknown_file ("
-java.lang.Float*"
-
-__unknown_file (
-"""
-
-∆ ∆('
+Ω Ω(
 ""B1/
 -org.apache.commons.lang3.mutable.MutableFloatHX

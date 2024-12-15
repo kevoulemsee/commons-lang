@@ -1,16 +1,50 @@
 
-corg.apache.commons.lang3.Strings$Builder#setIgnoreCase(Z)Lorg/apache/commons/lang3/Strings$Builder;a
-W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Strings.javaF F($"1*Î
-1G G((€ý
-H H(.
-%0(org.apache.commons.lang3.Strings$Builder"morg.apache.commons.lang3.builder.AbstractSupplier#asThis()Lorg/apache/commons/lang3/builder/AbstractSupplier;*H
+Porg.apache.commons.lang3.Strings$Builder#get()Lorg/apache/commons/lang3/Strings;a
+W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Strings.java< <("2"3*Í
+2=J =(Tjh
+=@ =(I0
+%2*org.apache.commons.lang3.Strings$CsStrings"*org.apache.commons.lang3.Strings$CsStrings¾
+»
+=< =(U
+%4"5org.apache.commons.lang3.Strings$CsStrings#<init>(Z)V*N
 
-__unknown_file (,*
-(org.apache.commons.lang3.Strings$Builder2asThis()"<
-H H(0
-.
-%0(org.apache.commons.lang3.Strings$Builder: 
+__unknown_file (2
+0
+%2*org.apache.commons.lang3.Strings$CsStrings*"
 
-__unknown_file (
-""B,*
+__unknown_file (
+""‹
+ˆ
+=< =(U&
+%0 org.apache.commons.lang3.Strings"__id*N
+
+__unknown_file (2
+0
+%2*org.apache.commons.lang3.Strings$CsStrings*
+1*Í
+3=. =(8jh
+=$ =(-0
+%1*org.apache.commons.lang3.Strings$CiStrings"*org.apache.commons.lang3.Strings$CiStrings¾
+»
+=  =(9
+%3"5org.apache.commons.lang3.Strings$CiStrings#<init>(Z)V*N
+
+__unknown_file (2
+0
+%1*org.apache.commons.lang3.Strings$CiStrings*"
+
+__unknown_file (
+""‹
+ˆ
+=  =(9&
+%0 org.apache.commons.lang3.Strings"__id*N
+
+__unknown_file (2
+0
+%1*org.apache.commons.lang3.Strings$CiStrings*
+1*C
+1= =(V"4
+= =(V(
+&
+%0 org.apache.commons.lang3.StringsB,*
 (org.apache.commons.lang3.Strings$BuilderH

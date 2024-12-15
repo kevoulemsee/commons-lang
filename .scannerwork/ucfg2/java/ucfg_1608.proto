@@ -1,21 +1,21 @@
 
-Öorg.apache.commons.lang3.builder.EqualsBuilder#setReflectUpToClass(Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/EqualsBuilder;q
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java¥ ¥(,"1*Ù
+Ñorg.apache.commons.lang3.builder.EqualsBuilder#setExcludeFields([Ljava/lang/String;)Lorg/apache/commons/lang3/builder/EqualsBuilder;q
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/EqualsBuilder.java® ®()"1*Û
 1
-µ  µ(0†
-ù
+© ©(*ü
+ú
 
-µ µ(0F0
-.org.apache.commons.lang3.builder.EqualsBuilder"
-reflectUpToClass"__id*A
+© ©(*C0
+.org.apache.commons.lang3.builder.EqualsBuilder"
+excludeFields"__id*C
 
-__unknown_file (%
-#
-reflectUpToClassjava.lang.Class"@
+__unknown_file ('
+%
+excludeFieldsjava.lang.String[]"@
 
-∂ ∂(20
-.org.apache.commons.lang3.builder.EqualsBuilder:1
+™ ™(20
+.org.apache.commons.lang3.builder.EqualsBuilder:3
 
-¥- ¥(L#
-reflectUpToClassjava.lang.ClassB20
+®* ®(G%
+excludeFieldsjava.lang.String[]B20
 .org.apache.commons.lang3.builder.EqualsBuilderH

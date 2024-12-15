@@ -1,28 +1,45 @@
 
-.org.apache.commons.lang3.BooleanUtils#and([Z)Zf
-\/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/BooleanUtils.javad d("6*!
-3h h("
-h h(
-""*µ
-6e e(ù
-ö
-e e(3
-%0	boolean[]"lorg.apache.commons.lang3.ObjectUtils#requireNonEmpty(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*D
+¥org.apache.commons.lang3.function.FailableDoublePredicate#or(Lorg/apache/commons/lang3/function/FailableDoublePredicate;)Lorg/apache/commons/lang3/function/FailableDoublePredicate;z
+p/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableDoublePredicate.javaZ' Z()"1*ì
+1[ [(´
+®
+[ [(%?
+%09org.apache.commons.lang3.function.FailableDoublePredicate"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
 
-__unknown_file (("&
-$org.apache.commons.lang3.ObjectUtils*"
+__unknown_file ("
+java.util.Objects*`
 
-__unknown_file (
-""*%
+__unknown_file (D
+B
+other9org.apache.commons.lang3.function.FailableDoublePredicateŒ
+À
+\ \(,?
+%19org.apache.commons.lang3.function.FailableDoublePredicate"__declareFunction*k
 
-__unknown_file (	
-array*
-3
-1*!
-1k k("
-k k(
-"": 
+__unknown_file (OM
+K__sonar_lambda_43$org.apache.commons.lang3.function.FailableDoublePredicate—
+Œ
 
-__unknown_file (
-""B)"'
-%org.apache.commons.lang3.BooleanUtilsHX
+__unknown_file (J
+?
+%19org.apache.commons.lang3.function.FailableDoublePredicate"
+other"__id*`
+
+__unknown_file (D
+B
+other9org.apache.commons.lang3.function.FailableDoublePredicate·
+ﬁ
+
+__unknown_file (a
+?
+%19org.apache.commons.lang3.function.FailableDoublePredicate"
+FailableDoublePredicate.this"__id*Y
+
+__unknown_file (=;
+9org.apache.commons.lang3.function.FailableDoublePredicate"M
+\ \(-A
+?
+%19org.apache.commons.lang3.function.FailableDoublePredicate:N
+Z* Z(PB
+other9org.apache.commons.lang3.function.FailableDoublePredicateB=;
+9org.apache.commons.lang3.function.FailableDoublePredicateH

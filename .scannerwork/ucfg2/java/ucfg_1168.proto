@@ -1,19 +1,12 @@
 
-Morg.apache.commons.lang3.mutable.MutableDouble#getAndAdd(Ljava/lang/Number;)Dq
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaê ê("1*°
+<org.apache.commons.lang3.mutable.MutableDouble#getAndAdd(D)Dq
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaÛ Û("1*%
 1
-ë ë(!ˆ…
+Ü Ü(!"
 
-ì ì(+
-%0double"java.lang.Number#doubleValue()D*9
+Þ Þ(
+"": 
 
-__unknown_file (
-
-operandjava.lang.Number2doubleValue()"
-
-í í(
-"":)
-
-ê ê(0
-operandjava.lang.NumberB20
+__unknown_file (
+""B20
 .org.apache.commons.lang3.mutable.MutableDoubleHX

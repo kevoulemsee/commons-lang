@@ -1,36 +1,18 @@
 
-eorg.apache.commons.lang3.reflect.FieldUtils#getAllFields(Ljava/lang/Class;)[Ljava/lang/reflect/Field;l
-b/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/reflect/FieldUtils.java8 8(&"1*¡
-19 9(‡
-„
-9 9($
-%0java.util.List"_org.apache.commons.lang3.reflect.FieldUtils#getAllFieldsList(Ljava/lang/Class;)Ljava/util/List;*K
+Korg.apache.commons.lang3.tuple.ImmutableTriple#getRight()Ljava/lang/Object;q
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/tuple/ImmutableTriple.java¤ ¤("1*¢
+1
+¥ ¥(x
+v
+
+¥ ¥(
+%0R"__id*Y
 
-__unknown_file (/"-
-+org.apache.commons.lang3.reflect.FieldUtils*4
-
-__unknown_file (
-
-clsjava.lang.ClassW
-U
-9- 9(I
-%1java.lang.reflect.Field[]"__id*"
-
-__unknown_file (
-""ÿü
-9 9(J
-%2java.lang.reflect.Field[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*2
-
-__unknown_file (
-
-%0java.util.List*=
-
-__unknown_file (!
-
-%1java.lang.reflect.Field[]2toArray([Ljava/lang/Object;)"-
-9 9(K!
-
-%2java.lang.reflect.Field[]:"
-8' 8(9
-clsjava.lang.ClassB/"-
-+org.apache.commons.lang3.reflect.FieldUtilsH
+__unknown_file (=*;0
+.org.apache.commons.lang3.tuple.ImmutableTriple"
+right"
+
+¥ ¥(	
+
+%0RB20
+.org.apache.commons.lang3.tuple.ImmutableTripleH

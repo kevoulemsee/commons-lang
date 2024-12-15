@@ -1,24 +1,24 @@
 
-­org.apache.commons.lang3.stream.Streams$FailableStream#collect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)Ljava/lang/Object;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÜ Ü("1*’
+norg.apache.commons.lang3.stream.Streams$FailableStream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java¨ ¨("1*þ
 1
-Ý Ý(ÏÌ
+© ©(ÏÌ
 
-Ý Ý(
+© ©(
 
 %0void"Horg.apache.commons.lang3.stream.Streams$FailableStream#makeTerminated()V*V
 
 __unknown_file (:8
 6org.apache.commons.lang3.stream.Streams$FailableStream2makeTerminated()êç
 
-Þ Þ(
+ª ª(
 %1java.util.stream.Stream"Xorg.apache.commons.lang3.stream.Streams$FailableStream#stream()Ljava/util/stream/Stream;*V
 
 __unknown_file (:8
-6org.apache.commons.lang3.stream.Streams$FailableStream2stream()¨¥
+6org.apache.commons.lang3.stream.Streams$FailableStream2stream()”‘
 
-Þ Þ(D
-%2R"Žjava.util.stream.Stream#collect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)Ljava/lang/Object;*;
+ª ª(.
+%2R"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*;
 
 __unknown_file (
 
@@ -26,25 +26,12 @@
 
 __unknown_file ()
 '
-supplierjava.util.function.Supplier*J
-
-__unknown_file (.
-,
-accumulatorjava.util.function.BiConsumer*G
-
-__unknown_file (+
-)
-combinerjava.util.function.BiConsumer2dcollect(Ljava/util/function/Supplier;Ljava/util/function/BiConsumer;Ljava/util/function/BiConsumer;)"
+	collectorjava.util.stream.Collector2%collect(Ljava/util/stream/Collector;)"
 
-Þ Þ(E	
+ª ª(/	
 
 %2R:5
 
-Ü  Ü(;'
-supplierjava.util.function.Supplier::
-
-Ü< Ü(g,
-accumulatorjava.util.function.BiConsumer:8
-Üh Ü(‡)
-combinerjava.util.function.BiConsumerB:8
+¨  ¨(J'
+	collectorjava.util.stream.CollectorB:8
 6org.apache.commons.lang3.stream.Streams$FailableStreamH

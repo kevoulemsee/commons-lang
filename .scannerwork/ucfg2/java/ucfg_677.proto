@@ -1,31 +1,25 @@
 
-Jorg.apache.commons.lang3.util.FluentBitSet#intersects(Ljava/util/BitSet;)Zm
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaë ë("1*ç
+6org.apache.commons.lang3.util.FluentBitSet#hashCode()Im
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaÜ Ü("1*®
 1
-í í(Ö
+á á(Ö
 Ç
 
-í í(
+á á(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSet›⁄
+bitSetyw
 
-í í(%
-%1boolean"0java.util.BitSet#intersects(Ljava/util/BitSet;)Z*4
+á á( 	
+%1int"java.util.BitSet#hashCode()I*4
 
 __unknown_file (
 
-%0java.util.BitSet*5
-
-__unknown_file (
-
-setjava.util.BitSet2intersects(Ljava/util/BitSet;)"
+%0java.util.BitSet2
+hashCode()"
 
-í í(&
-"":%
-
-ë ë(.
-setjava.util.BitSetB.,
+á á(!
+""B.,
 *org.apache.commons.lang3.util.FluentBitSetHX

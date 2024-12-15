@@ -1,42 +1,31 @@
 
-__sonar_lambda_78$m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java÷ ÷(."startingBlock*à
-startingBlock
-÷ ÷(.½
-º
-
-__unknown_file (>
-function2org.apache.commons.lang3.function.FailableFunction"__id*X
-
-__unknown_file (<*:,
-*org.apache.commons.lang3.function.Failable"
-
-function*
-1*¤
+ˆorg.apache.commons.lang3.function.Failable#asConsumer(Lorg/apache/commons/lang3/function/FailableConsumer;)Ljava/util/function/Consumer;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaê" ê(,"1*ñ
 1
-÷ ÷(ù
-ö
+ë ë(/x
+v
 
-÷ ÷(.
-%1R"Šorg.apache.commons.lang3.function.Failable#apply(Lorg/apache/commons/lang3/function/FailableFunction;Ljava/lang/Object;)Ljava/lang/Object;*J
+ë ë(/!
+%0java.util.function.Consumer"__declareFunction*2
 
-__unknown_file (.",
-*org.apache.commons.lang3.function.Failable*\
+__unknown_file (
+__sonar_lambda_78$²
+¯
+
+__unknown_file (/
+!
+%0java.util.function.Consumer"
+
+consumer"__id*\
 
 __unknown_file (@
 >
-function2org.apache.commons.lang3.function.FailableFunction*(
-
-__unknown_file (
+consumer2org.apache.commons.lang3.function.FailableConsumer"1
 
+ë ë(0#
+!
+%0java.util.function.Consumer:L
 
-inputT"
-
-÷ ÷(.	
-
-%1R:
-
-÷ ÷(
-
-inputTB
-java.util.function.Function
+ê- ê(R>
+consumer2org.apache.commons.lang3.function.FailableConsumerB.",
+*org.apache.commons.lang3.function.FailableH

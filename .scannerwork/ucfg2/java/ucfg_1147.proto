@@ -1,33 +1,33 @@
 
-4org.apache.commons.lang3.arch.Processor#isAarch64()Zj
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/arch/Processor.javaÌ Ì("1*”
+2org.apache.commons.lang3.arch.Processor#is64Bit()Zj
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/arch/Processor.javaÂ Â("1*”
 1
-Í Í(l
+Ã Ã(l
 j
 
-Í Í(2
-%0,org.apache.commons.lang3.arch.Processor$Type"__id*"
+Ã Ã(2
+%0,org.apache.commons.lang3.arch.Processor$Arch"__id*"
 
 __unknown_file (
 ""l
 j
 
-Í Í(2
-%1,org.apache.commons.lang3.arch.Processor$Type"__id*"
+Ã Ã(2
+%1,org.apache.commons.lang3.arch.Processor$Arch"__id*"
 
 __unknown_file (
 ""œ
 ™
 
-Í  Í($2
-%2,org.apache.commons.lang3.arch.Processor$Type"__id*Q
+Ã Ã("2
+%2,org.apache.commons.lang3.arch.Processor$Arch"__id*Q
 
 __unknown_file (5*3)
 'org.apache.commons.lang3.arch.Processor"
-typeñ
+archñ
 î
 
-Í Í($
+Ã Ã("
 %3boolean"	__compare*"
 
 __unknown_file (
@@ -35,12 +35,12 @@ j
 
 __unknown_file (4
 2
-%1,org.apache.commons.lang3.arch.Processor$Type*P
+%1,org.apache.commons.lang3.arch.Processor$Arch*P
 
 __unknown_file (4
 2
-%2,org.apache.commons.lang3.arch.Processor$Type"
+%2,org.apache.commons.lang3.arch.Processor$Arch"
 
-Í Í(%
+Ã Ã(#
 ""B+)
 'org.apache.commons.lang3.arch.ProcessorHX

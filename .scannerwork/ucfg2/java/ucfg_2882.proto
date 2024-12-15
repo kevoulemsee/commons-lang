@@ -1,35 +1,30 @@
 
-__sonar_lambda_102$e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java¸ ¸(""startingBlock*Ù
-startingBlock
-¸ ¸("¶
-³
-
-__unknown_file (?
-runnable3org.apache.commons.lang3.Functions$FailableRunnable"__id*P
-
-__unknown_file (4*2$
-"org.apache.commons.lang3.Functions"
-
-runnable*
-1*Ì
+„org.apache.commons.lang3.Functions#asPredicate(Lorg/apache/commons/lang3/Functions$FailablePredicate;)Ljava/util/function/Predicate;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java¬# ¬(."1*ù
 1
-¸ ¸(ž
-›
+­ ­(.z
+x
 
-¸ ¸("
-
-%1void"^org.apache.commons.lang3.Functions#run(Lorg/apache/commons/lang3/Functions$FailableRunnable;)V*B
+­ ­(."
+%0java.util.function.Predicate"__declareFunction*3
 
-__unknown_file (&"$
-"org.apache.commons.lang3.Functions*]
+__unknown_file (
+__sonar_lambda_102$·
+´
 
-__unknown_file (A
-?
-runnable3org.apache.commons.lang3.Functions$FailableRunnable"
+__unknown_file (1
+"
+%0java.util.function.Predicate"
+	predicate"__id*_
+
+__unknown_file (C
+A
+	predicate4org.apache.commons.lang3.Functions$FailablePredicate"2
 
-¸ ¸("
+­ ­(/$
+"
+%0java.util.function.Predicate:O
 
-
-%1voidB
-java.lang.Runnable
+¬/ ¬(VA
+	predicate4org.apache.commons.lang3.Functions$FailablePredicateB&"$
+"org.apache.commons.lang3.FunctionsH

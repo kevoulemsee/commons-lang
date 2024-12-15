@@ -1,6 +1,6 @@
 org.apache.commons.lang3.math.Fraction#reduce()Lorg/apache/commons/lang3/math/Fraction;
 false
-a18a34e3de8eae04f2dcb2d7e0a376a1
+8a92420ddc91679693b38180b501b26b
 java.lang.Math#abs(I)I
 org.apache.commons.lang3.math.Fraction#equals(Ljava/lang/Object;)Z
 org.apache.commons.lang3.math.Fraction#getFraction(II)Lorg/apache/commons/lang3/math/Fraction;

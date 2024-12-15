@@ -1,47 +1,31 @@
 
-__sonar_lambda_96$e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaï ï(B"startingBlock*Û
-startingBlock
-ï ï(B¸
-µ
-
-__unknown_file (A
-function5org.apache.commons.lang3.Functions$FailableBiFunction"__id*P
-
-__unknown_file (4*2$
-"org.apache.commons.lang3.Functions"
-
-function*
-1*Ú
+‡org.apache.commons.lang3.Functions#asBiConsumer(Lorg/apache/commons/lang3/Functions$FailableBiConsumer;)Ljava/util/function/BiConsumer;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaà. à(:"1*ú
 1
-ï# ï((¯
-¬
+á á(Cz
+x
 
-ï# ï(B
-%1O"—org.apache.commons.lang3.Functions#apply(Lorg/apache/commons/lang3/Functions$FailableBiFunction;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*B
+á á(C#
+%0java.util.function.BiConsumer"__declareFunction*2
 
-__unknown_file (&"$
-"org.apache.commons.lang3.Functions*_
+__unknown_file (
+__sonar_lambda_96$·
+´
+
+__unknown_file (1
+#
+%0java.util.function.BiConsumer"
+
+consumer"__id*_
 
 __unknown_file (C
 A
-function5org.apache.commons.lang3.Functions$FailableBiFunction**
-
-__unknown_file (
-
-input1O1**
-
-__unknown_file (
-
-input2O2"
+consumer5org.apache.commons.lang3.Functions$FailableBiConsumer"3
 
-ï# ï(B	
-
-%1O:
+á á(D%
+#
+%0java.util.function.BiConsumer:O
 
-ï ï(
-input1O1:
-
-ï ï(
-input2O2B!
-java.util.function.BiFunction
+à; à(gA
+consumer5org.apache.commons.lang3.Functions$FailableBiConsumerB&"$
+"org.apache.commons.lang3.FunctionsH

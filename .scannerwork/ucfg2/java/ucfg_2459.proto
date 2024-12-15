@@ -1,47 +1,51 @@
 
-Åorg.apache.commons.lang3.stream.Streams#stream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java∫( ∫(."startingBlock*†
+~org.apache.commons.lang3.stream.Streams#stream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaç( ç(."startingBlock*¢
 startingBlock
-∫. ∫(Fò
-ï
+ç. ç(Nô
+ñ
 
-π π(
+å å(
 %1"
 __annotate*4
 
 __unknown_file (
-java.lang.Deprecated*?
+java.lang.Deprecated*@
 
-__unknown_file (#
-!
-streamjava.util.stream.Streamc
-a
+__unknown_file ($
+"
 
-∫? ∫(E!
-streamjava.util.stream.Stream"__annotation*"
+collectionjava.util.Collectiond
+b
+
+çC ç(M"
+
+collectionjava.util.Collection"__annotation*"
 
 __unknown_file (
 
 %1*
-1*√
+1*¡
 1
-ª ª(„
-‡
+é é(·
+ﬁ
 
-ª ª(%<
-%06org.apache.commons.lang3.stream.Streams$FailableStream"âorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/stream/Stream;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*G
+é é()<
+%06org.apache.commons.lang3.stream.Streams$FailableStream"Üorg.apache.commons.lang3.stream.Streams#failableStream(Ljava/util/Collection;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;*G
 
 __unknown_file (+")
-'org.apache.commons.lang3.stream.Streams*?
+'org.apache.commons.lang3.stream.Streams*@
 
-__unknown_file (#
-!
-streamjava.util.stream.Stream"L
+__unknown_file ($
+"
 
-ª ª(&>
+collectionjava.util.Collection"L
+
+é é(*>
 <
-%06org.apache.commons.lang3.stream.Streams$FailableStream:/
+%06org.apache.commons.lang3.stream.Streams$FailableStream:0
 
-∫/ ∫(E!
-streamjava.util.stream.StreamB+")
+ç/ ç(M"
+
+collectionjava.util.CollectionB+")
 'org.apache.commons.lang3.stream.StreamsH

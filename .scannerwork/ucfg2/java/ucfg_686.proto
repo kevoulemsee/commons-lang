@@ -1,30 +1,41 @@
 
-?org.apache.commons.lang3.util.FluentBitSet#previousClearBit(I)Im
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaˆ ˆ("1*à
+‡org.apache.commons.lang3.util.FluentBitSet#or(Lorg/apache/commons/lang3/util/FluentBitSet;)Lorg/apache/commons/lang3/util/FluentBitSet;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.javaû û("1*®
 1
-‰ ‰(…
+ü ü(…
 ‚
 
-‰ ‰(
+ü ü(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSet°­
+bitSetŠ
+‡
 
-‰ ‰(1	
-%1int"%java.util.BitSet#previousClearBit(I)I*4
+ü ü(!
+%1java.util.BitSet"__id*[
+
+__unknown_file (?*=
+1
+set*org.apache.commons.lang3.util.FluentBitSet"
+bitSetÉÆ
+
+ü ü("
+
+%2void"(java.util.BitSet#or(Ljava/util/BitSet;)V*4
 
 __unknown_file (
 
-%0java.util.BitSet*"
+%0java.util.BitSet*4
 
-__unknown_file (
-""2previousClearBit(I)"
+__unknown_file (
+
+%1java.util.BitSet2or(Ljava/util/BitSet;)"<
 
-‰ ‰(2
-"": 
-
-__unknown_file (
-""B.,
-*org.apache.commons.lang3.util.FluentBitSetHX
+ý ý(.,
+*org.apache.commons.lang3.util.FluentBitSet:?
+
+û û(11
+set*org.apache.commons.lang3.util.FluentBitSetB.,
+*org.apache.commons.lang3.util.FluentBitSetH

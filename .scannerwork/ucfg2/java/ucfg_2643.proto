@@ -1,23 +1,23 @@
 
-oorg.apache.commons.lang3.function.Failable#getAsLong(Lorg/apache/commons/lang3/function/FailableLongSupplier;)Jm
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaê- ê(6"4*%
+morg.apache.commons.lang3.function.Failable#getAsInt(Lorg/apache/commons/lang3/function/FailableIntSupplier;)Im
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaÛ, Û(4"4*%
 3
-ì ì(("
+Ý Ý('"
 
-ì ì((
-""*æ
+Ý Ý('
+""*á
 4
-ì ì(ÏÌ
+Ý Ý(ÊÇ
 
-ì ì('
-
-%0long"Corg.apache.commons.lang3.function.FailableLongSupplier#getAsLong()J*`
+Ý Ý(&	
+%0int"Aorg.apache.commons.lang3.function.FailableIntSupplier#getAsInt()I*_
 
-__unknown_file (D
-B
-supplier6org.apache.commons.lang3.function.FailableLongSupplier2getAsLong()*
-3:P
+__unknown_file (C
+A
+supplier5org.apache.commons.lang3.function.FailableIntSupplier2
+getAsInt()*
+3:O
 
-ê7 ê(]B
-supplier6org.apache.commons.lang3.function.FailableLongSupplierB.",
+Û5 Û(ZA
+supplier5org.apache.commons.lang3.function.FailableIntSupplierB.",
 *org.apache.commons.lang3.function.FailableHX`

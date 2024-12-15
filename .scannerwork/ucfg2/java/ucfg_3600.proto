@@ -1,120 +1,20 @@
 
-worg.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;DD)Lorg/apache/commons/lang3/builder/DiffBuilder;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaç ç( "3"4*ª
-2
-è è(¶
-£
-
-è! è(:!
-%6java.util.function.Supplier"__declareFunction*_
-
-__unknown_file (CA
-?__sonar_lambda_149$org.apache.commons.lang3.builder.DiffBuilder¶
-£
-
-è< è(U!
-%8java.util.function.Supplier"__declareFunction*_
-
-__unknown_file (CA
-?__sonar_lambda_150$org.apache.commons.lang3.builder.DiffBuilder¥
-±
-
-è è(d2
-%5,org.apache.commons.lang3.builder.DiffBuilder"Ωorg.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;*L
-
-__unknown_file (0.
-,org.apache.commons.lang3.builder.DiffBuilder*;
-
-__unknown_file (
-
-	fieldNamejava.lang.String*?
-
-__unknown_file (#
-!
-%6java.util.function.Supplier*?
-
-__unknown_file (#
-!
-%8java.util.function.Supplier*"
-
-__unknown_file (
-""õ
-ò
-
-è è(d2
-%3,org.apache.commons.lang3.builder.DiffBuilder"__id*P
-
-__unknown_file (4
-2
-%5,org.apache.commons.lang3.builder.DiffBuilder*
-1*≤
-3
-éX é(\õ
-ò
-
-éX é(\2
-%3,org.apache.commons.lang3.builder.DiffBuilder"__id*P
-
-__unknown_file (4
-2
-%4,org.apache.commons.lang3.builder.DiffBuilder*
-1*Ò
-4
-é é(ò
-ï
-
-é é(5
-
-%0long"%java.lang.Double#doubleToLongBits(D)J*0
-
-__unknown_file ("
-java.lang.Double*"
-
-__unknown_file (
-""ò
-ï
-
-é9 é(U
-
-%1long"%java.lang.Double#doubleToLongBits(D)J*0
-
-__unknown_file ("
-java.lang.Double*"
-
-__unknown_file (
-""°
-û
-
-é é(U
-%2boolean"	__compare*"
-
-__unknown_file (
-==*(
-
-__unknown_file (
-
-
-%0long*(
-
-__unknown_file (
-
-
-%1long*
-2
-3*S
+?__sonar_lambda_151$org.apache.commons.lang3.builder.DiffBuildero
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaè< è(U"1*Ê
 1
-é è(e"B
+èB è(H¨
+©
 
-é è(e4
-2
-%3,org.apache.commons.lang3.builder.DiffBuilder:+
+èB è(U
+%9java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+"""&
 
-ç! ç(8
-	fieldNamejava.lang.String: 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B0.
-,org.apache.commons.lang3.builder.DiffBuilderH
+èB è(U
+
+%9java.lang.DoubleB
+java.util.function.Supplier

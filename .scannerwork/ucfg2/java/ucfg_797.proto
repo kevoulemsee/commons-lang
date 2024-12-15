@@ -1,100 +1,56 @@
 
-<org.apache.commons.lang3.CharSet#equals(Ljava/lang/Object;)Zc
-W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/CharSet.javaï ï("startingBlock*%
+-org.apache.commons.lang3.CharSet#contains(C)Zc
+W/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/CharSet.javaÜ Ü("2*Š
 2
-ô ô("
-
-ô ô(
-""*Š
-startingBlock
-ï ï(+Œ
-‰
-
-î î(
-%4"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*5
-
-__unknown_file (
-
-objjava.lang.ObjectY
-W
-
-ï' ï(*
-objjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%4*
-5*%
-4
-ñ ñ("
-
-ñ ñ(
-""*ã
-5
-ð ð(Æ
-Ã
-
-ð ð(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*5
-
-__unknown_file (
-
-objjava.lang.Object*@
-
-__unknown_file ($"
- org.apache.commons.lang3.CharSet*	
-2
-4
-1*Þ
-1
-ö( ö(+v
-t
-
-ö ö(,)
-other org.apache.commons.lang3.CharSet"__id*5
-
-__unknown_file (
-
-objjava.lang.Objectt
+Ý Ý(t
 r
 
-÷ ÷(
+Ý Ý(
+%0java.util.Set"__id*I
+
+__unknown_file (-*+"
+ org.apache.commons.lang3.CharSet"
+set*
+1*ë
+1
+Þ Þ(t
+r
+
+Þ Þ(
 %1java.util.Set"__id*I
 
 __unknown_file (-*+"
  org.apache.commons.lang3.CharSet"
-set{
-y
+set£ 
 
-÷ ÷(#
-%2java.util.Set"__id*P
-
-__unknown_file (4*2
-)
-other org.apache.commons.lang3.CharSet"
-setËÈ
-
-÷ ÷($
-%3boolean")java.util.Set#equals(Ljava/lang/Object;)Z*1
+Þ Þ(
+%2java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*1
 
 __unknown_file (
 
-%1java.util.Set*1
+%1java.util.Set2stream()š
+—
+
+Þ) Þ(D"
+%3java.util.function.Predicate"__declareFunction*R
 
-__unknown_file (
-
-%2java.util.Set2equals(Ljava/lang/Object;)"
+__unknown_file (64
+2__sonar_lambda_25$org.apache.commons.lang3.CharSetŠ‡
 
-÷ ÷(%
-"":%
+Þ Þ(E
+%5boolean"Ajava.util.stream.Stream#anyMatch(Ljava/util/function/Predicate;)Z*;
+
+__unknown_file (
+
+%2java.util.stream.Stream*@
+
+__unknown_file ($
+"
+%3java.util.function.Predicate2(anyMatch(Ljava/util/function/Predicate;)"
 
-ï ï(*
-objjava.lang.ObjectB$"
+Þ Þ(F
+"": 
+
+__unknown_file (
+""B$"
  org.apache.commons.lang3.CharSetHX

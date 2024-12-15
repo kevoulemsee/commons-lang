@@ -1,31 +1,35 @@
 
-org.apache.commons.lang3.function.Failable#asRunnable(Lorg/apache/commons/lang3/function/FailableRunnable;)Ljava/lang/Runnable;m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java‹ ‹(%"1*Ö
+__sonar_lambda_81$m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.javaŒ Œ(""startingBlock*à
+startingBlock
+Œ Œ("½
+º
+
+__unknown_file (>
+runnable2org.apache.commons.lang3.function.FailableRunnable"__id*X
+
+__unknown_file (<*:,
+*org.apache.commons.lang3.function.Failable"
+
+runnable*
+1*Ú
 1
-Œ Œ("o
-m
+Œ Œ(¬
+©
 
-Œ Œ("
-%0java.lang.Runnable"__declareFunction*2
-
-__unknown_file (
-__sonar_lambda_80$©
-¦
-
-__unknown_file (&
-
-%0java.lang.Runnable"
+Œ Œ("
 
-runnable"__id*\
+%1void"eorg.apache.commons.lang3.function.Failable#run(Lorg/apache/commons/lang3/function/FailableRunnable;)V*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.function.Failable*\
 
 __unknown_file (@
 >
-runnable2org.apache.commons.lang3.function.FailableRunnable"(
+runnable2org.apache.commons.lang3.function.FailableRunnable"
 
-Œ Œ(#
-
-%0java.lang.Runnable:L
+Œ Œ("
 
-‹& ‹(H>
-runnable2org.apache.commons.lang3.function.FailableRunnableB.",
-*org.apache.commons.lang3.function.FailableH
+
+%1voidB
+java.lang.Runnable

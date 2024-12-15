@@ -1,47 +1,35 @@
 
-}org.apache.commons.lang3.function.Failable#applyAsDouble(Lorg/apache/commons/lang3/function/FailableDoubleBinaryOperator;DD)Dm
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java®/ ®(<"1*Û
+__sonar_lambda_73$m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/Failable.java° °(D"startingBlock*ì
+startingBlock
+° °(DÉ
+Æ
+
+__unknown_file (J
+function>org.apache.commons.lang3.function.FailableDoubleBinaryOperator"__id*X
+
+__unknown_file (<*:,
+*org.apache.commons.lang3.function.Failable"
+
+function*
+1*å
 1
-° °(–
-“
+°! °()µ²
 
-° °(D>
-%08org.apache.commons.lang3.function.FailableDoubleSupplier"__declareFunction*2
-
-__unknown_file (
-__sonar_lambda_72$Û
-Ø
-
-__unknown_file (L
->
-%08org.apache.commons.lang3.function.FailableDoubleSupplier"
-
-function"__id*h
+°! °(D
+%1double"Qorg.apache.commons.lang3.function.FailableDoubleBinaryOperator#applyAsDouble(DD)D*h
 
 __unknown_file (L
 J
-function>org.apache.commons.lang3.function.FailableDoubleBinaryOperator¼
-¹
+function>org.apache.commons.lang3.function.FailableDoubleBinaryOperator*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2applyAsDouble(DD)"
 
-° °(E
-%2double"sorg.apache.commons.lang3.function.Failable#getAsDouble(Lorg/apache/commons/lang3/function/FailableDoubleSupplier;)D*J
-
-__unknown_file (.",
-*org.apache.commons.lang3.function.Failable*\
-
-__unknown_file (@
->
-%08org.apache.commons.lang3.function.FailableDoubleSupplier"
-
-° °(F
-"":X
-
-®= ®(lJ
-function>org.apache.commons.lang3.function.FailableDoubleBinaryOperator: 
-
-__unknown_file (
-"": 
-
-__unknown_file (
-""B.",
-*org.apache.commons.lang3.function.FailableHX
+°! °(D
+
+%1doubleB<:
+8org.apache.commons.lang3.function.FailableDoubleSupplier

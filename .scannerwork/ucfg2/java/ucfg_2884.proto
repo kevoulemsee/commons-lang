@@ -1,33 +1,31 @@
 
-__sonar_lambda_103$e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.javaÄ Ä(""startingBlock*Ù
-startingBlock
-Ä Ä("¶
-³
-
-__unknown_file (?
-supplier3org.apache.commons.lang3.Functions$FailableSupplier"__id*P
-
-__unknown_file (4*2$
-"org.apache.commons.lang3.Functions"
-
-supplier*
-1*×
+xorg.apache.commons.lang3.Functions#asRunnable(Lorg/apache/commons/lang3/Functions$FailableRunnable;)Ljava/lang/Runnable;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java· ·(%"1*Ø
 1
-Ä Ä(¬
-©
+¸ ¸("p
+n
 
-Ä Ä("
-%1O"oorg.apache.commons.lang3.Functions#get(Lorg/apache/commons/lang3/Functions$FailableSupplier;)Ljava/lang/Object;*B
+¸ ¸("
+%0java.lang.Runnable"__declareFunction*3
 
-__unknown_file (&"$
-"org.apache.commons.lang3.Functions*]
+__unknown_file (
+__sonar_lambda_103$ª
+§
+
+__unknown_file (&
+
+%0java.lang.Runnable"
+
+runnable"__id*]
 
 __unknown_file (A
 ?
-supplier3org.apache.commons.lang3.Functions$FailableSupplier"
+runnable3org.apache.commons.lang3.Functions$FailableRunnable"(
 
-Ä Ä("	
-
-%1OB
-java.util.function.Supplier
+¸ ¸(#
+
+%0java.lang.Runnable:M
+
+·& ·(H?
+runnable3org.apache.commons.lang3.Functions$FailableRunnableB&"$
+"org.apache.commons.lang3.FunctionsH

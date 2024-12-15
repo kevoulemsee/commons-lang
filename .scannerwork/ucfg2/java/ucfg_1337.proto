@@ -1,20 +1,24 @@
 
-9org.apache.commons.lang3.time.StopWatch#nanosToMillis(J)Jj
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/StopWatch.java¤ ¤("1*k
+6org.apache.commons.lang3.time.StopWatch#isSuspended()Zj
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/time/StopWatch.java™ ™("1*Ž
 1
-¥ ¥(D
-B
+š š(¥
+¢
 
-¥ ¥($
-
-%0long"__id*"
+š š(3
+%0-org.apache.commons.lang3.time.StopWatch$State"__id*Y
 
-__unknown_file (
-"""
+__unknown_file (=*;)
+'org.apache.commons.lang3.time.StopWatch"
+runningState¾»
 
-¥ ¥(%
-"": 
+š š()
+%1boolean"<org.apache.commons.lang3.time.StopWatch$State#isSuspended()Z*Q
 
-__unknown_file (
+__unknown_file (5
+3
+%0-org.apache.commons.lang3.time.StopWatch$State2isSuspended()"
+
+š š(*
 ""B+)
-'org.apache.commons.lang3.time.StopWatchX
+'org.apache.commons.lang3.time.StopWatchHX

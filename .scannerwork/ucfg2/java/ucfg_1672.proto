@@ -1,18 +1,18 @@
 
-korg.apache.commons.lang3.builder.ToStringBuilder#getStyle()Lorg/apache/commons/lang3/builder/ToStringStyle;s
-g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.javañ ñ(!"1*€
+Zorg.apache.commons.lang3.builder.ToStringBuilder#getStringBuffer()Ljava/lang/StringBuffer;s
+g/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/ToStringBuilder.javaç ç('"1*Ñ
 1
-ò ò(¨
-¥
+è è(‘
+Ž
 
-ò ò(4
-%0.org.apache.commons.lang3.builder.ToStringStyle"__id*[
+è è(
+%0java.lang.StringBuffer"__id*\
 
-__unknown_file (?*=2
-0org.apache.commons.lang3.builder.ToStringBuilder"
-style"D
+__unknown_file (@*>2
+0org.apache.commons.lang3.builder.ToStringBuilder"
+buffer",
 
-ò ò(6
-4
-%0.org.apache.commons.lang3.builder.ToStringStyleB42
+è è(
+
+%0java.lang.StringBufferB42
 0org.apache.commons.lang3.builder.ToStringBuilderH

@@ -1,12 +1,32 @@
 
-jorg.apache.commons.lang3.StringUtils#removePattern(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaº. º.(&"startingBlock*Ç
+morg.apache.commons.lang3.StringUtils#removeIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaô. ô.()"startingBlock*˛
 startingBlock
-º.& º.(Oë
+ô.) ô.(Pé
+ã
+
+ò. ò.(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*5
+
+__unknown_file (
+
+strjava.lang.StringY
+W
+
+ô.7 ô.(:
+strjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2ë
 é
 
-ª. ª.(
-%1"
+ò. ò.(
+%3"
 __annotate*4
 
 __unknown_file (
@@ -14,61 +34,48 @@ __annotate*4
 
 __unknown_file (
 
-sourcejava.lang.String\
+removejava.lang.String\
 Z
 
-º.4 º.(:
-sourcejava.lang.String"__annotation*"
+ô.I ô.(O
+removejava.lang.String"__annotation*"
 
 __unknown_file (
 
-%1ê
-ç
-
-ª. ª.(
-%2"
-__annotate*4
-
-__unknown_file (
-java.lang.Deprecated*7
-
-__unknown_file (
-
-regexjava.lang.String[
-Y
-
-º.I º.(N
-regexjava.lang.String"__annotation*"
-
-__unknown_file (
-
-%2*
-1*Ñ
+%3*
+1*â
 1
-Ω. Ω.( 
-«
+ö. ö.(`
+^
 
-Ω. Ω.(6
-%0java.lang.String"iorg.apache.commons.lang3.RegExUtils#removePattern(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*C
+ö. ö.(&
+%0 org.apache.commons.lang3.Strings"__id*"
 
-__unknown_file ('"%
-#org.apache.commons.lang3.RegExUtils*8
+__unknown_file (
+""ÌÍ
+
+ö. ö.(-
+%1java.lang.String"_org.apache.commons.lang3.Strings#remove(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*5
+
+__unknown_file (
+
+strjava.lang.String*8
 
 __unknown_file (
 
-sourcejava.lang.String*7
-
-__unknown_file (
-
-regexjava.lang.String"&
+removejava.lang.String2,remove(Ljava/lang/String;Ljava/lang/String;)"&
 
-Ω. Ω.(7
+ö. ö.(.
 
-%0java.lang.String:(
+%1java.lang.String:%
 
-º.' º.(;
-sourcejava.lang.String:'
+ô.* ô.(;
+strjava.lang.String:(
 
-º.< º.(N
-regexjava.lang.StringB("&
+ô.< ô.(O
+removejava.lang.StringB("&
 $org.apache.commons.lang3.StringUtilsH

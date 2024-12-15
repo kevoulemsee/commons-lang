@@ -1,27 +1,80 @@
 
-Porg.apache.commons.lang3.StringUtils#strip(Ljava/lang/String;)Ljava/lang/String;g
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÈ= È=("1*æ
-1
-É= É=(¬
-©
+lorg.apache.commons.lang3.StringUtils#startsWithIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java®= ®=(."startingBlock*–
+startingBlock
+®=. ®=(a”
+‘
 
-É= É=(
-%0java.lang.String"borg.apache.commons.lang3.StringUtils#strip(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*D
+­= ­=(
+%2"
+__annotate*4
 
-__unknown_file (("&
-$org.apache.commons.lang3.StringUtils*5
+__unknown_file (
+java.lang.Deprecated*;
 
-__unknown_file (
-
-strjava.lang.String*"
+__unknown_file (
+
+strjava.lang.CharSequence_
+]
+
+®=B ®=(E
+strjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%2—
+”
+
+­= ­=(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*>
+
+__unknown_file ("
+ 
+prefixjava.lang.CharSequenceb
+`
+
+®=Z ®=(` 
+prefixjava.lang.CharSequence"__annotation*"
+
+__unknown_file (
+
+%3*
+1*‰
+1
+¯= ¯=(`
+^
+
+¯= ¯=(&
+%0 org.apache.commons.lang3.Strings"__id*"
 
 __unknown_file (
-"""&
+""ÿü
 
-É= É=( 
-
-%0java.lang.String:%
+¯= ¯=(1
+%1boolean"^org.apache.commons.lang3.Strings#startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*;
+
+__unknown_file (
+
+strjava.lang.CharSequence*>
+
+__unknown_file ("
+ 
+prefixjava.lang.CharSequence2<startsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
 
-È= È=(/
-strjava.lang.StringB("&
-$org.apache.commons.lang3.StringUtilsH
+¯= ¯=(2
+"":+
+
+®=/ ®=(F
+strjava.lang.CharSequence:.
+
+®=G ®=(` 
+prefixjava.lang.CharSequenceB("&
+$org.apache.commons.lang3.StringUtilsHX

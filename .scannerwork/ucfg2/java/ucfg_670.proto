@@ -1,40 +1,37 @@
 
-Dorg.apache.commons.lang3.util.FluentBitSet#clone()Ljava/lang/Object;m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java¿ ¿("1*¬
+`org.apache.commons.lang3.util.FluentBitSet#clear(II)Lorg/apache/commons/lang3/util/FluentBitSet;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/util/FluentBitSet.java≥ ≥("1*ô
 1
-¡) ¡(/Ö
+¥ ¥(Ö
 Ç
 
-¡) ¡(/
+¥ ¥(
 %0java.util.BitSet"__id*V
 
 __unknown_file (:*8,
 *org.apache.commons.lang3.util.FluentBitSet"
-bitSetíè
+bitSet¡æ
 
-¡) ¡(7
-%1java.lang.Object"*java.util.BitSet#clone()Ljava/lang/Object;*4
+¥ ¥((
+
+%1void"java.util.BitSet#clear(II)V*4
 
 __unknown_file (
 
-%0java.util.BitSet2clone()lj
-
-¡ ¡(0
-%2*org.apache.commons.lang3.util.FluentBitSet"*org.apache.commons.lang3.util.FluentBitSet„
-‡
-
-¡ ¡(8
-%3"Forg.apache.commons.lang3.util.FluentBitSet#<init>(Ljava/util/BitSet;)V*N
+%0java.util.BitSet*"
 
-__unknown_file (2
-0
-%2*org.apache.commons.lang3.util.FluentBitSet*4
+__unknown_file (
+""*"
 
-__unknown_file (
-
-%1java.lang.Object"@
+__unknown_file (
+""2	clear(II)"<
 
-¡ ¡(92
-0
-%2*org.apache.commons.lang3.util.FluentBitSetB.,
+µ µ(.,
+*org.apache.commons.lang3.util.FluentBitSet: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B.,
 *org.apache.commons.lang3.util.FluentBitSetH

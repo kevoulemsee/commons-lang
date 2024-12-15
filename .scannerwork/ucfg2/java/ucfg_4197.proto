@@ -1,45 +1,48 @@
 
-≈org.apache.commons.lang3.function.FailableDoubleUnaryOperator#andThen(Lorg/apache/commons/lang3/function/FailableDoubleUnaryOperator;)Lorg/apache/commons/lang3/function/FailableDoubleUnaryOperator;~
-t/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableDoubleUnaryOperator.javaB+ B(2"1*º
-1C C(≥
-∞
-C C(%C
-%0=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
+P__sonar_lambda_192$org.apache.commons.lang3.function.FailableDoubleUnaryOperator~
+t/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableDoubleUnaryOperator.javaD D(H"startingBlock*Ö
+startingBlockD D(H’
+“
 
-__unknown_file ("
-java.util.Objects*d
+__unknown_file (F
+after=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__id*h
+
+__unknown_file (L*J?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"
+afterå
+â
+
+__unknown_file (a
+ FailableDoubleUnaryOperator.this=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__id*É
+
+__unknown_file (g*e?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperator""
+ FailableDoubleUnaryOperator.this*
+1*‚
+1D# D((£†
+D7 D(G
+%2double"Oorg.apache.commons.lang3.function.FailableDoubleUnaryOperator#applyAsDouble(D)D*
+
+__unknown_file (c
+a
+ FailableDoubleUnaryOperator.this=org.apache.commons.lang3.function.FailableDoubleUnaryOperator*"
+
+__unknown_file (
+""2applyAsDouble(D)êç
+D# D(H
+%3double"Oorg.apache.commons.lang3.function.FailableDoubleUnaryOperator#applyAsDouble(D)D*d
 
 __unknown_file (H
 F
-after=org.apache.commons.lang3.function.FailableDoubleUnaryOperator◊
-‘
-D D(HC
-%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"__declareFunction*p
+after=org.apache.commons.lang3.function.FailableDoubleUnaryOperator**
 
-__unknown_file (TR
-P__sonar_lambda_191$org.apache.commons.lang3.function.FailableDoubleUnaryOperatorŸ
-÷
+__unknown_file (
+
+%2double2applyAsDouble(D)"
+D# D(H
+
+%3double: 
 
-__unknown_file (N
-C
-%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"
-after"__id*d
-
-__unknown_file (H
-F
-after=org.apache.commons.lang3.function.FailableDoubleUnaryOperatorÌ
-Í
-
-__unknown_file (i
-C
-%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator""
- FailableDoubleUnaryOperator.this"__id*]
-
-__unknown_file (A?
-=org.apache.commons.lang3.function.FailableDoubleUnaryOperator"Q
-D D(IE
-C
-%1=org.apache.commons.lang3.function.FailableDoubleUnaryOperator:R
-B3 B(]F
-after=org.apache.commons.lang3.function.FailableDoubleUnaryOperatorBA?
-=org.apache.commons.lang3.function.FailableDoubleUnaryOperatorH
+__unknown_file (
+""BA?
+=org.apache.commons.lang3.function.FailableDoubleUnaryOperator

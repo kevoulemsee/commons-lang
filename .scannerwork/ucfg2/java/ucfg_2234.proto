@@ -1,17 +1,17 @@
 
-^org.apache.commons.lang3.StringEscapeUtils#unescapeHtml3(Ljava/lang/String;)Ljava/lang/String;m
-a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringEscapeUtils.java¹ ¹(,"1*™
+corg.apache.commons.lang3.StringEscapeUtils#unescapeEcmaScript(Ljava/lang/String;)Ljava/lang/String;m
+a/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringEscapeUtils.java¾ ¾(1"1*™
 1
-º º(~
+¿ ¿("~
 |
 
-º º(D
+¿ ¿("D
 %0>org.apache.commons.lang3.text.translate.CharSequenceTranslator"__id*"
 
 __unknown_file (
 ""ßÜ
 
-º º(.
+¿ ¿(3
 %1java.lang.String"torg.apache.commons.lang3.text.translate.CharSequenceTranslator#translate(Ljava/lang/CharSequence;)Ljava/lang/String;*b
 
 __unknown_file (F
@@ -22,10 +22,10 @@ D
 
 inputjava.lang.String2#translate(Ljava/lang/CharSequence;)"&
 
-º º(/
+¿ ¿(4
 
 %1java.lang.String:'
 
-¹- ¹(?
+¾2 ¾(D
 inputjava.lang.StringB.",
 *org.apache.commons.lang3.StringEscapeUtilsH

@@ -1,44 +1,31 @@
 
-__sonar_lambda_99$e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java” ”(/"startingBlock*Ù
-startingBlock
-” ”(/¶
-³
-
-__unknown_file (?
-consumer3org.apache.commons.lang3.Functions$FailableConsumer"__id*P
-
-__unknown_file (4*2$
-"org.apache.commons.lang3.Functions"
-
-consumer*
-1*‹
+ƒorg.apache.commons.lang3.Functions#asCallable(Lorg/apache/commons/lang3/Functions$FailableCallable;)Ljava/util/concurrent/Callable;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java‡" ‡(,"1*ø
 1
-” ”(Ý
-Ú
+ˆ ˆ(#z
+x
 
-” ”(/
-
-%1void"sorg.apache.commons.lang3.Functions#accept(Lorg/apache/commons/lang3/Functions$FailableConsumer;Ljava/lang/Object;)V*B
+ˆ ˆ(##
+%0java.util.concurrent.Callable"__declareFunction*2
 
-__unknown_file (&"$
-"org.apache.commons.lang3.Functions*]
+__unknown_file (
+__sonar_lambda_99$µ
+²
+
+__unknown_file (1
+#
+%0java.util.concurrent.Callable"
+
+callable"__id*]
 
 __unknown_file (A
 ?
-consumer3org.apache.commons.lang3.Functions$FailableConsumer*(
-
-__unknown_file (
+callable3org.apache.commons.lang3.Functions$FailableCallable"3
 
+ˆ ˆ($%
+#
+%0java.util.concurrent.Callable:M
 
-inputI"
-
-” ”(/
-
-
-%1void:
-
-” ”(
-
-inputIB
-java.util.function.Consumer
+‡- ‡(R?
+callable3org.apache.commons.lang3.Functions$FailableCallableB&"$
+"org.apache.commons.lang3.FunctionsH

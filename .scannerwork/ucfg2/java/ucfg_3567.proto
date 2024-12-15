@@ -1,68 +1,19 @@
 
-¥org.apache.commons.lang3.builder.DiffBuilder$Builder#setStyle(Lorg/apache/commons/lang3/builder/ToStringStyle;)Lorg/apache/commons/lang3/builder/DiffBuilder$Builder;o
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java† †(""4*¦
-2
-‡1 ‡(>n
-l
-
-‡1 ‡(L4
-%2.org.apache.commons.lang3.builder.ToStringStyle"__id*"
-
-__unknown_file (
-""Ÿ
-œ
-
-‡1 ‡(L4
-%1.org.apache.commons.lang3.builder.ToStringStyle"__id*R
-
-__unknown_file (6
-4
-%2.org.apache.commons.lang3.builder.ToStringStyle*
-1*¹
-3
-‡) ‡(.¢
-Ÿ
-
-‡) ‡(.4
-%1.org.apache.commons.lang3.builder.ToStringStyle"__id*U
-
-__unknown_file (9
-7
-style.org.apache.commons.lang3.builder.ToStringStyle*
-1*â
-4
-‡ ‡(È
-Å
-
-‡ ‡(&
-%0boolean"	__compare*"
-
-__unknown_file (
-!=*U
-
-__unknown_file (9
-7
-style.org.apache.commons.lang3.builder.ToStringStyle*"
-
-__unknown_file (
-""*
-2
-3*†
-1
-‡ ‡(L¬
-©
-
-‡ ‡(LA6
+‡org.apache.commons.lang3.builder.DiffBuilder$Builder#setRight(Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/DiffBuilder$Builder;m
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java{ {(""1*Ô
+1| |(
+}
+| |(A6
 4org.apache.commons.lang3.builder.DiffBuilder$Builder"
-style"__id*R
+right"__id*(
 
-__unknown_file (6
-4
-%1.org.apache.commons.lang3.builder.ToStringStyle"F
+__unknown_file (
 
-ˆ ˆ(86
-4org.apache.commons.lang3.builder.DiffBuilder$Builder:E
 
-†# †(<7
-style.org.apache.commons.lang3.builder.ToStringStyleB86
+rightT"D
+} }(86
+4org.apache.commons.lang3.builder.DiffBuilder$Builder:
+{# {(0
+
+rightTB86
 4org.apache.commons.lang3.builder.DiffBuilder$BuilderH

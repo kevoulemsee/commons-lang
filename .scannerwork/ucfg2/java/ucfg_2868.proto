@@ -1,49 +1,57 @@
 
-__sonar_lambda_95$e
-Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java· ·(C"startingBlock*€
-startingBlock
-· ·(C∏
-µ
+Éorg.apache.commons.lang3.Functions#apply(Lorg/apache/commons/lang3/Functions$FailableFunction;Ljava/lang/Object;)Ljava/lang/Object;e
+Y/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/Functions.java”0 ”(5"1*…
+1
+‘ ‘(ë
+é
+
+‘ ‘(.9
+%03org.apache.commons.lang3.Functions$FailableSupplier"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_95$À
+»
+
+__unknown_file (G
+9
+%03org.apache.commons.lang3.Functions$FailableSupplier"
+
+function"__id*]
 
 __unknown_file (A
-consumer5org.apache.commons.lang3.Functions$FailableBiConsumer"__id*P
+?
+function3org.apache.commons.lang3.Functions$FailableFunctionì
+ê
 
-__unknown_file (4*2$
-"org.apache.commons.lang3.Functions"
+__unknown_file (D
+9
+%03org.apache.commons.lang3.Functions$FailableSupplier"
+input"__id*(
+
+__unknown_file (
 
-consumer*
-1*–
-1
-·# ·()¢
-ü
 
-·# ·(C
+inputI¶
+£
 
-%1void"áorg.apache.commons.lang3.Functions#accept(Lorg/apache/commons/lang3/Functions$FailableBiConsumer;Ljava/lang/Object;Ljava/lang/Object;)V*B
+‘ ‘(/
+%2O"oorg.apache.commons.lang3.Functions#get(Lorg/apache/commons/lang3/Functions$FailableSupplier;)Ljava/lang/Object;*B
 
 __unknown_file (&"$
-"org.apache.commons.lang3.Functions*_
+"org.apache.commons.lang3.Functions*W
 
-__unknown_file (C
-A
-consumer5org.apache.commons.lang3.Functions$FailableBiConsumer**
-
-__unknown_file (
-
-input1O1**
-
-__unknown_file (
-
-input2O2"
+__unknown_file (;
+9
+%03org.apache.commons.lang3.Functions$FailableSupplier"
 
-·# ·(C
+‘ ‘(0	
+
+%2O:M
 
+”6 ”(_?
+function3org.apache.commons.lang3.Functions$FailableFunction:
 
-%1void:
+”` ”(m
 
-· ·(
-input1O1:
-
-· ·(
-input2O2B!
-java.util.function.BiConsumer
+inputIB&"$
+"org.apache.commons.lang3.FunctionsH

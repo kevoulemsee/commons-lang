@@ -1,30 +1,19 @@
 
-3org.apache.commons.lang3.RandomUtils#nextBytes(I)[Be
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.java (""1*Û
-1
-€ €(Ö
-Ó
-
-€ €(*
+3org.apache.commons.lang3.RandomUtils#nextBoolean()Ze
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.javar r(%"1*©
+1s s(Ô
+Ñ
+s s(*
 %0$org.apache.commons.lang3.RandomUtils"Sorg.apache.commons.lang3.RandomUtils#secure()Lorg/apache/commons/lang3/RandomUtils;*D
 
 __unknown_file (("&
-$org.apache.commons.lang3.RandomUtilsÒÏ
-
-€ €(*
-%1byte[]"5org.apache.commons.lang3.RandomUtils#randomBytes(I)[B*H
+$org.apache.commons.lang3.RandomUtils®«
+s s('
+%1boolean"5org.apache.commons.lang3.RandomUtils#randomBoolean()Z*H
 
 __unknown_file (,
 *
-%0$org.apache.commons.lang3.RandomUtils*"
-
-__unknown_file (
-""2randomBytes(I)"
-
-€ €(+
-
-%1byte[]: 
-
-__unknown_file (
+%0$org.apache.commons.lang3.RandomUtils2randomBoolean()"
+s s((
 ""B("&
-$org.apache.commons.lang3.RandomUtilsH
+$org.apache.commons.lang3.RandomUtilsHX

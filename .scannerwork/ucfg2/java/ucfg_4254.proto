@@ -1,21 +1,21 @@
 
-forg.apache.commons.lang3.AppendableJoiner#builder()Lorg/apache/commons/lang3/AppendableJoiner$Builder;l
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.java¬! ¬(("1*€
+ˆorg.apache.commons.lang3.AppendableJoiner$Builder#setSuffix(Ljava/lang/CharSequence;)Lorg/apache/commons/lang3/AppendableJoiner$Builder;l
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.javaŸ Ÿ(#"1*í
 1
-­ ­(zx
+   ( –
+“
 
-­ ­(7
-%01org.apache.commons.lang3.AppendableJoiner$Builder"1org.apache.commons.lang3.AppendableJoiner$Builder©
-¦
-
-­ ­(
-%1";org.apache.commons.lang3.AppendableJoiner$Builder#<init>()V*U
+   ( ?3
+1org.apache.commons.lang3.AppendableJoiner$Builder"
+suffix"__id*>
 
-__unknown_file (9
-7
-%01org.apache.commons.lang3.AppendableJoiner$Builder"G
+__unknown_file ("
+ 
+suffixjava.lang.CharSequence"C
 
-­ ­(9
-7
-%01org.apache.commons.lang3.AppendableJoiner$BuilderB-"+
-)org.apache.commons.lang3.AppendableJoinerH
+¡ ¡(53
+1org.apache.commons.lang3.AppendableJoiner$Builder:.
+
+Ÿ$ Ÿ(= 
+suffixjava.lang.CharSequenceB53
+1org.apache.commons.lang3.AppendableJoiner$BuilderH

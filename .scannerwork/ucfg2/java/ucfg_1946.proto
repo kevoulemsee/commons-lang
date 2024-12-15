@@ -1,11 +1,11 @@
 
-^org.apache.commons.lang3.StringUtils#equals(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaú ú( "startingBlock*
+jorg.apache.commons.lang3.StringUtils#endsWithIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Zg
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÞ Þ(,"startingBlock*–
 startingBlock
-ú  ú(P”
+Þ, Þ(_”
 ‘
 
-ù ù(
+Ý Ý(
 %2"
 __annotate*4
 
@@ -14,48 +14,48 @@ __annotate*4
 
 __unknown_file (
 
-cs1java.lang.CharSequence_
+strjava.lang.CharSequence_
 ]
 
-ú4 ú(7
-cs1java.lang.CharSequence"__annotation*"
+Þ@ Þ(C
+strjava.lang.CharSequence"__annotation*"
 
 __unknown_file (
 
-%2”
-‘
+%2—
+”
 
-ù ù(
+Ý Ý(
 %3"
 __annotate*4
 
 __unknown_file (
-java.lang.Deprecated*;
+java.lang.Deprecated*>
 
-__unknown_file (
-
-cs2java.lang.CharSequence_
-]
+__unknown_file ("
+ 
+suffixjava.lang.CharSequenceb
+`
 
-úL ú(O
-cs2java.lang.CharSequence"__annotation*"
+ÞX Þ(^ 
+suffixjava.lang.CharSequence"__annotation*"
 
 __unknown_file (
 
 %3*
-1*þ
+1*…
 1
-û û(`
+ß ß(`
 ^
 
-û û(&
+ß ß(&
 %0 org.apache.commons.lang3.Strings"__id*"
 
 __unknown_file (
-""ôñ
+""ûø
 
-û û(*
-%1boolean"Zorg.apache.commons.lang3.Strings#equals(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
+ß ß(/
+%1boolean"\org.apache.commons.lang3.Strings#endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z*D
 
 __unknown_file ((
 &
@@ -63,18 +63,18 @@ __annotate*4
 
 __unknown_file (
 
-cs1java.lang.CharSequence*;
+strjava.lang.CharSequence*>
 
-__unknown_file (
-
-cs2java.lang.CharSequence28equals(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
+__unknown_file ("
+ 
+suffixjava.lang.CharSequence2:endsWith(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
 
-û û(+
+ß ß(0
 "":+
 
-ú! ú(8
-cs1java.lang.CharSequence:+
+Þ- Þ(D
+strjava.lang.CharSequence:.
 
-ú9 ú(O
-cs2java.lang.CharSequenceB("&
+ÞE Þ(^ 
+suffixjava.lang.CharSequenceB("&
 $org.apache.commons.lang3.StringUtilsHX

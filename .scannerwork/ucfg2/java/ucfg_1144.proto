@@ -1,18 +1,18 @@
 
-_org.apache.commons.lang3.arch.Processor#getType()Lorg/apache/commons/lang3/arch/Processor$Type;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/arch/Processor.java° °("1*ò
+_org.apache.commons.lang3.arch.Processor#getArch()Lorg/apache/commons/lang3/arch/Processor$Arch;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/arch/Processor.java¥ ¥("1*ò
 1
-± ±(œ
+¦ ¦(œ
 ™
 
-± ±(2
-%0,org.apache.commons.lang3.arch.Processor$Type"__id*Q
+¦ ¦(2
+%0,org.apache.commons.lang3.arch.Processor$Arch"__id*Q
 
 __unknown_file (5*3)
 'org.apache.commons.lang3.arch.Processor"
-type"B
+arch"B
 
-± ±(4
+¦ ¦(4
 2
-%0,org.apache.commons.lang3.arch.Processor$TypeB+)
+%0,org.apache.commons.lang3.arch.Processor$ArchB+)
 'org.apache.commons.lang3.arch.ProcessorH

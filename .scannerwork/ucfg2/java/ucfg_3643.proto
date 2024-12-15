@@ -1,45 +1,48 @@
 
-¼org.apache.commons.lang3.function.FailableIntUnaryOperator#compose(Lorg/apache/commons/lang3/function/FailableIntUnaryOperator;)Lorg/apache/commons/lang3/function/FailableIntUnaryOperator;{
-q/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableIntUnaryOperator.javaV( V(/"1*¡
-1W W(®
-«
-W W(&@
-%0:org.apache.commons.lang3.function.FailableIntUnaryOperator"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
-
-__unknown_file ("
-java.util.Objects*b
-
-__unknown_file (F
-D
-before:org.apache.commons.lang3.function.FailableIntUnaryOperatorÑ
+M__sonar_lambda_176$org.apache.commons.lang3.function.FailableIntUnaryOperator{
+q/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/function/FailableIntUnaryOperator.javaX X(@"startingBlock*ô
+startingBlockX X(@Ñ
 Î
-X X(@@
-%1:org.apache.commons.lang3.function.FailableIntUnaryOperator"__declareFunction*m
 
-__unknown_file (QO
-M__sonar_lambda_175$org.apache.commons.lang3.function.FailableIntUnaryOperatorÕ
-Ò
+__unknown_file (D
+before:org.apache.commons.lang3.function.FailableIntUnaryOperator"__id*f
 
-__unknown_file (L
-@
-%1:org.apache.commons.lang3.function.FailableIntUnaryOperator"
-before"__id*b
+__unknown_file (J*H<
+:org.apache.commons.lang3.function.FailableIntUnaryOperator"
+beforeÿ
+ü
+
+__unknown_file ([
+FailableIntUnaryOperator.this:org.apache.commons.lang3.function.FailableIntUnaryOperator"__id*}
+
+__unknown_file (a*_<
+:org.apache.commons.lang3.function.FailableIntUnaryOperator"
+FailableIntUnaryOperator.this*
+1*¼
+1X  X(*ú÷
+X+ X(?	
+%2int"Iorg.apache.commons.lang3.function.FailableIntUnaryOperator#applyAsInt(I)I*b
 
 __unknown_file (F
 D
-before:org.apache.commons.lang3.function.FailableIntUnaryOperatorä
-á
+before:org.apache.commons.lang3.function.FailableIntUnaryOperator*"
 
-__unknown_file (c
-@
-%1:org.apache.commons.lang3.function.FailableIntUnaryOperator"
-FailableIntUnaryOperator.this"__id*Z
+__unknown_file (
+""2applyAsInt(I)–“
+X  X(@	
+%3int"Iorg.apache.commons.lang3.function.FailableIntUnaryOperator#applyAsInt(I)I*y
 
-__unknown_file (><
-:org.apache.commons.lang3.function.FailableIntUnaryOperator"N
-X X(AB
-@
-%1:org.apache.commons.lang3.function.FailableIntUnaryOperator:P
-V0 V(XD
-before:org.apache.commons.lang3.function.FailableIntUnaryOperatorB><
-:org.apache.commons.lang3.function.FailableIntUnaryOperatorH
+__unknown_file (]
+[
+FailableIntUnaryOperator.this:org.apache.commons.lang3.function.FailableIntUnaryOperator*'
+
+__unknown_file (
+	
+%2int2applyAsInt(I)"
+X  X(@
+	
+%3int: 
+
+__unknown_file (
+""B><
+:org.apache.commons.lang3.function.FailableIntUnaryOperator

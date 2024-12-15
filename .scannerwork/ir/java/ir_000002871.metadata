@@ -1,5 +1,5 @@
 org.apache.commons.lang3.text.translate.JavaUnicodeEscaper#toUtf16Escape(I)Ljava/lang/String;
 false
-1e9bf4968892445940e80dfb52cedb5f
+91525b12c7ba4fecd4f2f3dfc53217d5
 java.lang.Character#toChars(I)[C
 org.apache.commons.lang3.text.translate.CharSequenceTranslator#hex(I)Ljava/lang/String;

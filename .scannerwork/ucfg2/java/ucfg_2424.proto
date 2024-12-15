@@ -1,23 +1,58 @@
 
-^org.apache.commons.lang3.stream.Streams$ArrayCollector#finisher()Ljava/util/function/Function;h
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javat& t(."1*¨
-1u u(Y­
-ª
-u u(Y!
-%0java.util.function.Function"__declareFunction*h
+H__sonar_lambda_57$org.apache.commons.lang3.stream.Streams$ArrayCollectorh
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javau u(Y"startingBlock*„
+startingBlocku u(Yã
+à
 
-__unknown_file (LJ
-H__sonar_lambda_56$org.apache.commons.lang3.stream.Streams$ArrayCollector·
-´
+__unknown_file (M
+ArrayCollector.this6org.apache.commons.lang3.stream.Streams$ArrayCollector"__id*o
 
-__unknown_file (:
-!
-%0java.util.function.Function"
-ArrayCollector.this"__id*V
+__unknown_file (S*Q8
+6org.apache.commons.lang3.stream.Streams$ArrayCollector"
+ArrayCollector.this*
+1*®
+1u u(¨
+¥
+u? u(J
+%1java.lang.Class"__id*|
 
-__unknown_file (:8
-6org.apache.commons.lang3.stream.Streams$ArrayCollector"/
-u u(Z#
-!
-%0java.util.function.FunctionB:8
-6org.apache.commons.lang3.stream.Streams$ArrayCollectorH
+__unknown_file (`*^
+M
+ArrayCollector.this6org.apache.commons.lang3.stream.Streams$ArrayCollector"
+elementTypemk
+uL u(W	
+%2int"java.util.List#size()I*4
+
+__unknown_file (
+
+listjava.util.List2size()“
+
+u( u(X	
+%3E[]"Vorg.apache.commons.lang3.ArrayUtils#newInstance(Ljava/lang/Class;I)[Ljava/lang/Object;*C
+
+__unknown_file ('"%
+#org.apache.commons.lang3.ArrayUtils*3
+
+__unknown_file (
+
+%1java.lang.Class*'
+
+__unknown_file (
+	
+%2intÕÒ
+u u(Y	
+%4E[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*4
+
+__unknown_file (
+
+listjava.util.List*'
+
+__unknown_file (
+	
+%3E[]2toArray([Ljava/lang/Object;)"
+u u(Y
+	
+%4E[]:"
+u u(
+listjava.util.ListB
+java.util.function.Function

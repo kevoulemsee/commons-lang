@@ -1,25 +1,41 @@
 
-_org.apache.commons.lang3.text.StrBuilder#appendNull()Lorg/apache/commons/lang3/text/StrBuilder;k
-_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java–	 –	( "3*K
+borg.apache.commons.lang3.text.StrBuilder#appendNewLine()Lorg/apache/commons/lang3/text/StrBuilder;k
+_/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text/StrBuilder.java‰	 ‰	(#"3*¨
 2
-˜	 ˜	(":
+‹	 ‹	(
+Š
 
-˜	 ˜	(,*
-(org.apache.commons.lang3.text.StrBuilder*É
-3
-—	 —	(…
-‚
-
-—	 —	(
-%0java.lang.String"__id*V
+‹	 ‹	()
+%2java.lang.String"2java.lang.System#lineSeparator()Ljava/lang/String;*0
 
-__unknown_file (:*8*
-(org.apache.commons.lang3.text.StrBuilder"
+__unknown_file ("
+java.lang.SystemÊÇ
 
-nullText§
+‹	 ‹	(*.
+%3(org.apache.commons.lang3.text.StrBuilder"morg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;*H
+
+__unknown_file (,*
+(org.apache.commons.lang3.text.StrBuilder*4
+
+__unknown_file (
+
+%2java.lang.String2append(Ljava/lang/String;)":
+
+Œ	 Œ	(,*
+(org.apache.commons.lang3.text.StrBuilder*È
+3
+Š	 Š	(„
+
+
+Š	 Š	(
+%0java.lang.String"__id*U
+
+__unknown_file (9*7*
+(org.apache.commons.lang3.text.StrBuilder"	
+newLine§
 ¤
 
-—	 —	(
+Š	 Š	(
 %1boolean"	__compare*"
 
 __unknown_file (
@@ -32,30 +48,29 @@ _/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/text
 __unknown_file (
 ""*
 2
-1*¤
+1*£
 1
-š	 š	(…
-‚
+Ž	 Ž	(„
+
 
-š	 š	(
-%2java.lang.String"__id*V
+Ž	 Ž	(
+%4java.lang.String"__id*U
 
-__unknown_file (:*8*
-(org.apache.commons.lang3.text.StrBuilder"
+__unknown_file (9*7*
+(org.apache.commons.lang3.text.StrBuilder"	
+newLineÊÇ
 
-nullTextÊÇ
-
-š	 š	(.
-%3(org.apache.commons.lang3.text.StrBuilder"morg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;*H
+Ž	 Ž	(.
+%5(org.apache.commons.lang3.text.StrBuilder"morg.apache.commons.lang3.text.StrBuilder#append(Ljava/lang/String;)Lorg/apache/commons/lang3/text/StrBuilder;*H
 
 __unknown_file (,*
 (org.apache.commons.lang3.text.StrBuilder*4
 
 __unknown_file (
 
-%2java.lang.String2append(Ljava/lang/String;)">
+%4java.lang.String2append(Ljava/lang/String;)">
 
-š	 š	( 0
+Ž	 Ž	(0
 .
-%3(org.apache.commons.lang3.text.StrBuilderB,*
+%5(org.apache.commons.lang3.text.StrBuilderB,*
 (org.apache.commons.lang3.text.StrBuilderH

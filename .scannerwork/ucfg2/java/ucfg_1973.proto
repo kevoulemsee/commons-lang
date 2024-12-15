@@ -1,80 +1,247 @@
 
-iorg.apache.commons.lang3.StringUtils#indexOfIgnoreCase(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ig
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaı ı('"startingBlock*œ
-startingBlock
-ı' ı(]”
-‘
+iorg.apache.commons.lang3.StringUtils#indexOfDifference(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ig
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÎ Î('"15*Ë
+13
+Ò Ò(®
+«
 
-ü ü(
-%2"
-__annotate*4
-
-__unknown_file (
-java.lang.Deprecated*;
-
-__unknown_file (
-
-strjava.lang.CharSequence_
-]
-
-ı; ı(>
-strjava.lang.CharSequence"__annotation*"
-
-__unknown_file (
-
-%2š
-—
-
-ü ü(
-%3"
-__annotate*4
-
-__unknown_file (
-java.lang.Deprecated*A
-
-__unknown_file (%
-#
-	searchStrjava.lang.CharSequencee
-c
-
-ıS ı(\#
-	searchStrjava.lang.CharSequence"__annotation*"
-
-__unknown_file (
-
-%3*
-1*‚
-1
-ş ş(`
-^
-
-ş ş(&
-%0 org.apache.commons.lang3.Strings"__id*"
+Ò Ò(
+%2boolean"	__compare*"
 
 __unknown_file (
-""øõ
-
-ş ş(1	
-%1int"[org.apache.commons.lang3.Strings#indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)I*D
-
-__unknown_file ((
-&
-%0 org.apache.commons.lang3.Strings*;
+==*;
 
 __unknown_file (
 
-strjava.lang.CharSequence*A
+cs1java.lang.CharSequence*"
 
-__unknown_file (%
-#
-	searchStrjava.lang.CharSequence29indexOf(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"
+__unknown_file (
+""*
+11
+12*%
+2
+Ü Ü("
 
-ş ş(2
+Ü Ü(
+""*k
+14
+Ğ Ğ("C
+A
+
+Ğ Ğ("	
+%1int"__id*"
+
+__unknown_file (
+"""
+
+Ğ Ğ(#
+""*¼
+3
+Û  Û(!„
+
+Û$ Û(0
+
+%13int" java.lang.CharSequence#length()I*;
+
+__unknown_file (
+
+cs1java.lang.CharSequence2length()›
+˜
+
+Û  Û(0
+%14boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*(
+
+__unknown_file (
+
+
+%13int*
+2
+1*ä
+15
+Ï Ï(Ç
+Ä
+
+Ï Ï(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*;
+
+__unknown_file (
+
+cs1java.lang.CharSequence*;
+
+__unknown_file (
+
+cs2java.lang.CharSequence*
+13
+14*¼
+4
+Û Û(„
+
+Û Û(
+
+%11int" java.lang.CharSequence#length()I*;
+
+__unknown_file (
+
+cs2java.lang.CharSequence2length()›
+˜
+
+Û Û(
+%12boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*(
+
+__unknown_file (
+
+
+%11int*
+2
+3*–
+7
+× ×(ª§
+
+× ×(
+
+%8char"!java.lang.CharSequence#charAt(I)C*;
+
+__unknown_file (
+
+cs1java.lang.CharSequence*"
+
+__unknown_file (
+""2	charAt(I)ª§
+
+×! ×(.
+
+%9char"!java.lang.CharSequence#charAt(I)C*;
+
+__unknown_file (
+
+cs2java.lang.CharSequence*"
+
+__unknown_file (
+""2	charAt(I)¢
+Ÿ
+
+× ×(.
+%10boolean"	__compare*"
+
+__unknown_file (
+!=*(
+
+__unknown_file (
+
+
+%8char*(
+
+__unknown_file (
+
+
+%9char*
+4
+9*¹
+8
+Ö( Ö()ƒ€
+
+Ö, Ö(8	
+%6int" java.lang.CharSequence#length()I*;
+
+__unknown_file (
+
+cs2java.lang.CharSequence2length()™
+–
+
+Ö( Ö(8
+%7boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%6int*
+4
+7*¹
+9
+Ö Ö(ƒ€
+
+Ö Ö($	
+%4int" java.lang.CharSequence#length()I*;
+
+__unknown_file (
+
+cs1java.lang.CharSequence2length()™
+–
+
+Ö Ö($
+%5boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%4int*
+4
+8*&
+11
+Ó Ó("
+
+Ó Ó(
+""*Ê
+12
+Ò Ò(®
+«
+
+Ò Ò(&
+%3boolean"	__compare*"
+
+__unknown_file (
+==*;
+
+__unknown_file (
+
+cs2java.lang.CharSequence*"
+
+__unknown_file (
+""*
+9
+11*k
+1
+Ş Ş(D
+B
+
+Ş Ş(
+
+%15int"__id*"
+
+__unknown_file (
+"""
+
+Ş Ş(
 "":+
 
-ı( ı(?
-strjava.lang.CharSequence:1
+Î( Î(?
+cs1java.lang.CharSequence:+
 
-ı@ ı(\#
-	searchStrjava.lang.CharSequenceB("&
+Î@ Î(V
+cs2java.lang.CharSequenceB("&
 $org.apache.commons.lang3.StringUtilsHX

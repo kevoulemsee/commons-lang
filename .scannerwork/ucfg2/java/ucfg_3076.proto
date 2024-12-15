@@ -1,50 +1,60 @@
 
 __sonar_lambda_112$q
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javaÒX Ò(z"startingBlock*Í
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/LangCollectors.javaÒ% Ò(V"startingBlock*’
 startingBlock
-ÒX Ò(zª
-§
+Ò% Ò(V§
+¤
 
-__unknown_file ('
-toStringjava.util.function.Function"__id*\
+__unknown_file (#
+	delimiterjava.lang.CharSequence"__id*]
 
-__unknown_file (@*>0
-.org.apache.commons.lang3.stream.LangCollectors"
-
-toString*
-1*Õ
+__unknown_file (A*?0
+.org.apache.commons.lang3.stream.LangCollectors"
+	delimiter¡
+ž
+
+__unknown_file ( 
+prefixjava.lang.CharSequence"__id*Z
+
+__unknown_file (>*<0
+.org.apache.commons.lang3.stream.LangCollectors"
+prefix¡
+ž
+
+__unknown_file ( 
+suffixjava.lang.CharSequence"__id*Z
+
+__unknown_file (>*<0
+.org.apache.commons.lang3.stream.LangCollectors"
+suffix*
+1*„
 1
-Òb Ò(c‡„
+Ò< Ò(EDB
 
-Òh Ò(y
-%4java.lang.String"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*E
-
-__unknown_file ()
-'
-toStringjava.util.function.Function*3
-
-__unknown_file (
-
-tjava.lang.Object2apply(Ljava/lang/Object;)‹ˆ
+Ò/ Ò(;
+%1java.util.StringJoiner"java.util.StringJoinerþ
+û
 
-Òb Ò(z
-%5java.util.StringJoiner"Ljava.util.StringJoiner#add(Ljava/lang/CharSequence;)Ljava/util/StringJoiner;*9
+Ò+ Ò(V
+%2"hjava.util.StringJoiner#<init>(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V*:
 
-__unknown_file (
-
-ajava.util.StringJoiner*4
-
-__unknown_file (
-
-%4java.lang.String2add(Ljava/lang/CharSequence;)",
-
-Òb Ò(z
+__unknown_file (
 
-%5java.util.StringJoiner:)
+%1java.util.StringJoiner*A
+
+__unknown_file (%
+#
+	delimiterjava.lang.CharSequence*>
+
+__unknown_file ("
+ 
+prefixjava.lang.CharSequence*>
+
+__unknown_file ("
+ 
+suffixjava.lang.CharSequence",
 
-ÒY Ò([
-ajava.util.StringJoiner:#
-
-Ò\ Ò(]
-tjava.lang.ObjectB!
-java.util.function.BiConsumer
+Ò+ Ò(V
+
+%1java.util.StringJoinerB
+java.util.function.Supplier

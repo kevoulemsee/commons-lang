@@ -1,44 +1,65 @@
 
-†org.apache.commons.lang3.stream.Streams$FailableStream#reduce(Ljava/lang/Object;Ljava/util/function/BinaryOperator;)Ljava/lang/Object;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.javaÒ Ò("1*ä
+¨org.apache.commons.lang3.stream.Streams$FailableStream#map(Lorg/apache/commons/lang3/function/FailableFunction;)Lorg/apache/commons/lang3/stream/Streams$FailableStream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java™% ™(("1*ø
 1
-Ó Ó(ÏÌ
+š š(ÙÖ
 
-Ó Ó(
+š š(!
 
-%0void"Horg.apache.commons.lang3.stream.Streams$FailableStream#makeTerminated()V*V
+%0void"Morg.apache.commons.lang3.stream.Streams$FailableStream#assertNotTerminated()V*V
 
 __unknown_file (:8
-6org.apache.commons.lang3.stream.Streams$FailableStream2makeTerminated()êç
+6org.apache.commons.lang3.stream.Streams$FailableStream2assertNotTerminated()˜
+•
 
-Ô Ô(
-%1java.util.stream.Stream"Xorg.apache.commons.lang3.stream.Streams$FailableStream#stream()Ljava/util/stream/Stream;*V
+›( ›(.
+%1java.util.stream.Stream"__id*b
 
-__unknown_file (:8
-6org.apache.commons.lang3.stream.Streams$FailableStream2stream()ú÷
+__unknown_file (F*D8
+6org.apache.commons.lang3.stream.Streams$FailableStream"
+streamå
+â
 
-Ô Ô(9
-%2T"gjava.util.stream.Stream#reduce(Ljava/lang/Object;Ljava/util/function/BinaryOperator;)Ljava/lang/Object;*;
+›3 ›(N!
+%2java.util.function.Function"ˆorg.apache.commons.lang3.function.Failable#asFunction(Lorg/apache/commons/lang3/function/FailableFunction;)Ljava/util/function/Function;*J
+
+__unknown_file (.",
+*org.apache.commons.lang3.function.Failable*Z
+
+__unknown_file (>
+<
+mapper2org.apache.commons.lang3.function.FailableFunction¥¢
+
+›( ›(O
+%3java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*;
 
 __unknown_file (
 
-%1java.util.stream.Stream*+
+%1java.util.stream.Stream*?
 
-__unknown_file (
+__unknown_file (#
+!
+%2java.util.function.Function2"map(Ljava/util/function/Function;)…‚
 
-identityT*N
+› ›('<
+%46org.apache.commons.lang3.stream.Streams$FailableStream"6org.apache.commons.lang3.stream.Streams$FailableStream‰
+†
+
+› ›(P
+%5"Yorg.apache.commons.lang3.stream.Streams$FailableStream#<init>(Ljava/util/stream/Stream;)V*Z
 
-__unknown_file (2
-0
-accumulator!java.util.function.BinaryOperator2=reduce(Ljava/lang/Object;Ljava/util/function/BinaryOperator;)"
+__unknown_file (>
+<
+%46org.apache.commons.lang3.stream.Streams$FailableStream*;
+
+__unknown_file (
+
+%3java.util.stream.Stream"L
 
-Ô Ô(:	
-
-%2T:
+› ›(Q>
+<
+%46org.apache.commons.lang3.stream.Streams$FailableStream:J
 
-Ò Ò()
-identityT:>
-
-Ò* Ò(M0
-accumulator!java.util.function.BinaryOperatorB:8
+™) ™(O<
+mapper2org.apache.commons.lang3.function.FailableFunctionB:8
 6org.apache.commons.lang3.stream.Streams$FailableStreamH

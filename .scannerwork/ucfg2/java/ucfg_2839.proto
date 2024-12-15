@@ -1,26 +1,84 @@
 
-Gorg.apache.commons.lang3.math.NumberUtils#toDouble(Ljava/lang/String;)Dl
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javaÅ Å(!"1*µ
-1
-Ç Ç(ç
-ä
+Lorg.apache.commons.lang3.math.NumberUtils#toDouble(Ljava/math/BigDecimal;D)Dl
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/math/NumberUtils.javaÎ
+ Î
+(!"4*ı
+2
+Ï
+. Ï
+(3éã
 
-Ç Ç("
-%0double"Horg.apache.commons.lang3.math.NumberUtils#toDouble(Ljava/lang/String;D)D*I
+Ï
+. Ï
+(A
+%3double"#java.math.BigDecimal#doubleValue()D*;
 
-__unknown_file (-"+
-)org.apache.commons.lang3.math.NumberUtils*5
+__unknown_file (
+
+valuejava.math.BigDecimal2doubleValue()N
+L
+
+Ï
+. Ï
+(A
+%1double"__id**
 
-__unknown_file (
-
-strjava.lang.String*"
+__unknown_file (
+
+%3double*
+1*d
+3
+Ï
+ Ï
+(+N
+L
+
+Ï
+ Ï
+(+
+%1double"__id**
+
+__unknown_file (
+
+%2double*
+1*»
+4
+Ï
+ Ï
+(Æ
+´
+
+Ï
+ Ï
+(
+%0boolean"	__compare*"
 
 __unknown_file (
-"""
+==*;
+
+__unknown_file (
+
+valuejava.math.BigDecimal*"
+
+__unknown_file (
+""*
+2
+3*%
+1
+Ï
+ Ï
+(B"
 
-Ç Ç(#
-"":%
+Ï
+ Ï
+(B
+"":+
 
-Å" Å(2
-strjava.lang.StringB-"+
+Î
+" Î
+(9
+valuejava.math.BigDecimal: 
+
+__unknown_file (
+""B-"+
 )org.apache.commons.lang3.math.NumberUtilsHX

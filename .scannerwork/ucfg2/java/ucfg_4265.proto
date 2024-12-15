@@ -1,12 +1,34 @@
 
-qorg.apache.commons.lang3.AppendableJoiner#joinA(Ljava/lang/Appendable;Ljava/lang/Iterable;)Ljava/lang/Appendable;l
-`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.java¨$ ¨()"1*Ù
+uorg.apache.commons.lang3.AppendableJoiner#join(Ljava/lang/StringBuilder;[Ljava/lang/Object;)Ljava/lang/StringBuilder;l
+`/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/AppendableJoiner.java› ›("startingBlock*†
+startingBlock
+› ›(tŽ
+‹
 
+›A ›(_
+%5"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*/
+
+__unknown_file (
+
+elementsT[]S
+Q
+
+›k ›(s
+elementsT[]"__annotation*"
+
+__unknown_file (
+
+%5*
+1*
 1
-© ©(Š
+œ œ(Š
 ‡
 
-©( ©(.
+œ% œ(+
 %0java.lang.CharSequence"__id*U
 
 __unknown_file (9*7+
@@ -14,7 +36,7 @@ qorg.apache.commons.lang3.AppendableJoiner#joinA(Ljava/lang/Appendable;Ljava/lan
 prefixŠ
 ‡
 
-©0 ©(6
+œ- œ(3
 %1java.lang.CharSequence"__id*U
 
 __unknown_file (9*7+
@@ -22,7 +44,7 @@ qorg.apache.commons.lang3.AppendableJoiner#joinA(Ljava/lang/Appendable;Ljava/lan
 suffix
 Š
 
-©8 ©(A
+œ5 œ(>
 %2java.lang.CharSequence"__id*X
 
 __unknown_file (<*:+
@@ -30,25 +52,24 @@ qorg.apache.commons.lang3.AppendableJoiner#joinA(Ljava/lang/Appendable;Ljava/lan
 	delimiterª
 §
 
-©C ©(K:
+œ@ œ(H:
 %34org.apache.commons.lang3.function.FailableBiConsumer"__id*W
 
 __unknown_file (;*9+
 )org.apache.commons.lang3.AppendableJoiner"
 
-appender×
-Ô
+appenderø
+õ
 
-© ©(V
-%4A"öorg.apache.commons.lang3.AppendableJoiner#joinIterable(Ljava/lang/Appendable;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/apache/commons/lang3/function/FailableBiConsumer;Ljava/lang/Iterable;)Ljava/lang/Appendable;*I
+œ œ(S
+%4java.lang.StringBuilder"õorg.apache.commons.lang3.AppendableJoiner#joinSB(Ljava/lang/StringBuilder;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/apache/commons/lang3/function/FailableBiConsumer;[Ljava/lang/Object;)Ljava/lang/StringBuilder;*I
 
 __unknown_file (-"+
-)org.apache.commons.lang3.AppendableJoiner*-
+)org.apache.commons.lang3.AppendableJoiner*F
 
-__unknown_file (
-
-
-appendableA*:
+__unknown_file (*
+(
+stringBuilderjava.lang.StringBuilder*:
 
 __unknown_file (
 
@@ -64,20 +85,19 @@ appendableA*:
 
 __unknown_file (<
 :
-%34org.apache.commons.lang3.function.FailableBiConsumer*<
+%34org.apache.commons.lang3.function.FailableBiConsumer*/
 
-__unknown_file ( 
-
-elementsjava.lang.Iterable"
+__unknown_file (
+
+elementsT[]"-
 
-© ©(W	
-
-%4A:
+œ œ(T
+
+%4java.lang.StringBuilder:6
 
-¨* ¨(=
+› ›(@(
+stringBuilderjava.lang.StringBuilder:
 
-appendableA:,
-
-¨> ¨(X
-elementsjava.lang.IterableB-+
+›A ›(s
+elementsT[]B-+
 )org.apache.commons.lang3.AppendableJoinerH

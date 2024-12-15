@@ -1,96 +1,112 @@
 
-?__sonar_lambda_148$org.apache.commons.lang3.builder.DiffBuildero
-c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.java€& €(|"startingBlock*Ž
-startingBlock
-€& €(|Ÿ
-œ
-
-__unknown_file (
-	fieldNamejava.lang.String"__id*[
-
-__unknown_file (?*=.
-,org.apache.commons.lang3.builder.DiffBuilder"
-	fieldNameÉ
-Æ
-
-__unknown_file (@
-DiffBuilder.this,org.apache.commons.lang3.builder.DiffBuilder"__id*b
-
-__unknown_file (F*D.
-,org.apache.commons.lang3.builder.DiffBuilder"
-DiffBuilder.this*
-1*«
-1
-€. €(4t
-r
+yorg.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;[C[C)Lorg/apache/commons/lang3/builder/DiffBuilder;o
+c/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/builder/DiffBuilder.javaÙ Ù( "3"4*¸
 
-€5 €(D
-%3java.lang.String"__concat*-
+2
+Ú: Ú(=¦
+£
 
-€5 €(>
+ÚI Ú(g!
+%4java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_147$org.apache.commons.lang3.builder.DiffBuilder{
+y
+
+__unknown_file (*
+!
+%4java.util.function.Supplier"
+lhs"__id*+
+
+__unknown_file (
+
+lhschar[]§
+¤
+Úi Ú(‡!
+%6java.util.function.Supplier"__declareFunction*_
+
+__unknown_file (CA
+?__sonar_lambda_148$org.apache.commons.lang3.builder.DiffBuilder{
+y
+
+__unknown_file (*
+!
+%6java.util.function.Supplier"
+rhs"__id*+
+
+__unknown_file (
+
+rhschar[]µ
+²
+Ú: Ú(›2
+%3,org.apache.commons.lang3.builder.DiffBuilder"½org.apache.commons.lang3.builder.DiffBuilder#add(Ljava/lang/String;Ljava/util/function/Supplier;Ljava/util/function/Supplier;Ljava/lang/Class;)Lorg/apache/commons/lang3/builder/DiffBuilder;*L
+
+__unknown_file (0.
+,org.apache.commons.lang3.builder.DiffBuilder*;
+
+__unknown_file (
 
-	fieldNamejava.lang.String*
-
-€A €(D
-.ÌÉ
-
-€G €(Z
-%4java.lang.String"Forg.apache.commons.lang3.builder.Diff#getFieldName()Ljava/lang/String;*K
+	fieldNamejava.lang.String*?
 
-__unknown_file (/
--
-diff%org.apache.commons.lang3.builder.Diff2getFieldName()€
-~
-
-€5 €(Z
-%5java.lang.String"__concat*&
-
-€5 €(D
-
-%3java.lang.String*&
-
-€G €(Z
-
-%4java.lang.String¹¶
-
-€\ €(j
-%6	!capture!"?org.apache.commons.lang3.tuple.Pair#getLeft()Ljava/lang/Object;*K
+__unknown_file (#
+!
+%4java.util.function.Supplier*?
 
-__unknown_file (/
--
-diff%org.apache.commons.lang3.builder.Diff2	getLeft()»¸
-
-€l €({
-%7	!capture!"@org.apache.commons.lang3.tuple.Pair#getRight()Ljava/lang/Object;*K
+__unknown_file (#
+!
+%6java.util.function.Supplier*"
 
-__unknown_file (/
--
-diff%org.apache.commons.lang3.builder.Diff2
-getRight()“
-
-€. €(|2
-%8,org.apache.commons.lang3.builder.DiffBuilder"™org.apache.commons.lang3.builder.DiffBuilder#append(Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang3/builder/DiffBuilder;*^
+__unknown_file (
+""œ
+™
+Ú: Ú(›2
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
 
-__unknown_file (B
-@
-DiffBuilder.this,org.apache.commons.lang3.builder.DiffBuilder*4
-
-__unknown_file (
-
-%5java.lang.String*-
-
-__unknown_file (
-
-%6	!capture!*-
-
-__unknown_file (
-
-%7	!capture!2>append(Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)"B
-
-€. €(|4
+__unknown_file (4
 2
-%8,org.apache.commons.lang3.builder.DiffBuilder:;
+%3,org.apache.commons.lang3.builder.DiffBuilder*
+1*²
+3
+Ú3 Ú(7›
+˜
 
-€& €(*-
-diff%org.apache.commons.lang3.builder.DiffB
-java.util.function.Consumer
+Ú3 Ú(72
+%1,org.apache.commons.lang3.builder.DiffBuilder"__id*P
+
+__unknown_file (4
+2
+%2,org.apache.commons.lang3.builder.DiffBuilder*
+1*ä
+4
+Ú Ú(Ê
+Ç
+
+Ú Ú(0
+%0boolean"java.util.Arrays#equals([C[C)Z*0
+
+__unknown_file ("
+java.util.Arrays*+
+
+__unknown_file (
+
+lhschar[]*+
+
+__unknown_file (
+
+rhschar[]*
+2
+3*U
+1Ú Ú(œ"C
+Ú Ú(œ4
+2
+%1,org.apache.commons.lang3.builder.DiffBuilder:+
+
+Ù! Ù(8
+	fieldNamejava.lang.String:
+
+Ù9 Ù(J
+lhschar[]:
+
+ÙK Ù([
+rhschar[]B0.
+,org.apache.commons.lang3.builder.DiffBuilderH

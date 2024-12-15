@@ -1,22 +1,25 @@
 
-5org.apache.commons.lang3.RandomUtils#randomBoolean()Zg
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.java³ ³( "1*ç
+?org.apache.commons.lang3.RandomUtils#random()Ljava/util/Random;g
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/RandomUtils.java© ©("1*ë
 1
-´ ´(¸µ
+ª ª(Š
+‡
 
-´ ´(
-%0java.util.Random"?org.apache.commons.lang3.RandomUtils#random()Ljava/util/Random;*D
+ª ª(!
+%0java.util.function.Supplier"__id*P
 
-__unknown_file ((&
-$org.apache.commons.lang3.RandomUtils2random()„
+__unknown_file (4*2&
+$org.apache.commons.lang3.RandomUtils"
+random¤¡
 
-´ ´(%
-%1boolean"java.util.Random#nextBoolean()Z*4
+ª ª(
+%1java.util.Random"3java.util.function.Supplier#get()Ljava/lang/Object;*?
 
-__unknown_file (
+__unknown_file (#
+!
+%0java.util.function.Supplier2get()"&
+
+ª ª(
 
-%0java.util.Random2nextBoolean()"
-
-´ ´(&
-""B(&
-$org.apache.commons.lang3.RandomUtilsHX
+%1java.util.RandomB(&
+$org.apache.commons.lang3.RandomUtils

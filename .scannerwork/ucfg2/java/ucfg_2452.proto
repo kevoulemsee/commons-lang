@@ -1,70 +1,34 @@
 
-[org.apache.commons.lang3.stream.Streams#of(Ljava/util/Collection;)Ljava/util/stream/Stream;j
-^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java£  £(""4*»
-2
-¤5 ¤(?²¯
-
-¤5 ¤(H
-%3java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*@
-
-__unknown_file ($
-"
-
-collectionjava.util.Collection2stream()p
-n
-
-¤5 ¤(H
-%1java.util.stream.Stream"__id*;
-
-__unknown_file (
-
-%3java.util.stream.Stream*
-1*ª
-3
-¤$ ¤(*¡
-ž
-
-¤$ ¤(2
-%2java.util.stream.Stream"8java.util.stream.Stream#empty()Ljava/util/stream/Stream;*7
-
-__unknown_file ("
-java.util.stream.Streamp
-n
-
-¤$ ¤(2
-%1java.util.stream.Stream"__id*;
-
-__unknown_file (
-
-%2java.util.stream.Stream*
-1*Í
-4
-¤ ¤(³
-°
-
-¤ ¤(!
-%0boolean"	__compare*"
-
-__unknown_file (
-==*@
-
-__unknown_file ($
-"
-
-collectionjava.util.Collection*"
-
-__unknown_file (
-""*
-2
-3*>
+corg.apache.commons.lang3.stream.Streams#nonNull(Ljava/util/stream/Stream;)Ljava/util/stream/Stream;j
+^/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/stream/Streams.java—  —('"1*ì
 1
-¤ ¤(I"-
+˜ ˜(˜
+•
 
-¤ ¤(I
+˜ ˜(
+%0java.util.stream.Stream"^org.apache.commons.lang3.stream.Streams#of(Ljava/util/stream/Stream;)Ljava/util/stream/Stream;*G
+
+__unknown_file (+")
+'org.apache.commons.lang3.stream.Streams*?
+
+__unknown_file (#
+!
+streamjava.util.stream.Stream
+
+˜ ˜(2
+%1java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
 
-%1java.util.stream.Stream:0
+%0java.util.stream.Stream*"
+
+__unknown_file (
+""2&filter(Ljava/util/function/Predicate;)"-
 
-£# £(A"
+˜ ˜(3
+
+%1java.util.stream.Stream:/
 
-collectionjava.util.CollectionB+")
+—( —(>!
+streamjava.util.stream.StreamB+")
 'org.apache.commons.lang3.stream.StreamsH

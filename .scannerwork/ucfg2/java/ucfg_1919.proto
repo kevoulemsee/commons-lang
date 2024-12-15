@@ -1,127 +1,65 @@
 
-Torg.apache.commons.lang3.StringUtils#compare(Ljava/lang/String;Ljava/lang/String;Z)Ig
-[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.javaÉ É("13*Ú
-13
-Ê Ê(½
-º
+Sorg.apache.commons.lang3.StringUtils#compare(Ljava/lang/String;Ljava/lang/String;)Ig
+[/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/StringUtils.java£ £("startingBlock*ü
+startingBlock
+£ £(C
+Œ
 
-Ê Ê(
-%0boolean"	__compare*"
+¢ ¢(
+%2"
+__annotate*4
 
-__unknown_file (
-==*6
+__unknown_file (
+java.lang.Deprecated*6
 
 __unknown_file (
 
-str1java.lang.String*6
+str1java.lang.StringZ
+X
+
+£+ £(/
+str1java.lang.String"__annotation*"
+
+__unknown_file (
+
+%2
+Œ
+
+¢ ¢(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*6
 
 __unknown_file (
 
-str2java.lang.String*
-11
-12*%
-2
-Ñ Ñ(("
+str2java.lang.StringZ
+X
 
-Ñ Ñ((
-""*^
-3
-Ñ& Ñ('H
-F
-
-Ñ$ Ñ('	
-%6int"__id*'
+£> £(B
+str2java.lang.String"__annotation*"
 
-__unknown_file (
-	
-%8int*
-2*^
-4
-Ñ  Ñ(!H
-F
-
-Ñ  Ñ(!	
-%6int"__id*'
-
-__unknown_file (
-	
-%7int*
-2*Æ
-6
-Ð Ð(©
-¦
-
-Ð Ð(
-%5boolean"	__compare*"
-
-__unknown_file (
-==*6
-
-__unknown_file (
-
-str2java.lang.String*"
-
-__unknown_file (
-""*	
-3
-4
-1*%
-7
-Î Î('"
-
-Î Î('
-""*^
-8
-Î% Î(&H
-F
-
-Î% Î(&	
-%2int"__id*'
-
-__unknown_file (
-	
-%4int*
-7*^
-9
-Î! Î("H
-F
-
-Î  Î("	
-%2int"__id*'
-
-__unknown_file (
-	
-%3int*
-7*Ç
-11
-Í Í(©
-¦
-
-Í Í(
-%1boolean"	__compare*"
-
-__unknown_file (
-==*6
-
-__unknown_file (
-
-str1java.lang.String*"
-
-__unknown_file (
-""*	
-6
-8
-9*&
-12
-Ë Ë("
-
-Ë Ë(
-""*‚
+__unknown_file (
+
+%3*
+1*Ú
 1
-Ó Ó(Ú×
+¤ ¤(`
+^
 
-Ó Ó(#	
-%9int"/java.lang.String#compareTo(Ljava/lang/String;)I*6
+¤ ¤(&
+%0 org.apache.commons.lang3.Strings"__id*"
+
+__unknown_file (
+""ÐÍ
+
+¤ ¤(-	
+%1int"Oorg.apache.commons.lang3.Strings#compare(Ljava/lang/String;Ljava/lang/String;)I*D
+
+__unknown_file ((
+&
+%0 org.apache.commons.lang3.Strings*6
 
 __unknown_file (
 
@@ -129,17 +67,14 @@ F
 
 __unknown_file (
 
-str2java.lang.String2compareTo(Ljava/lang/String;)"
+str2java.lang.String2-compare(Ljava/lang/String;Ljava/lang/String;)"
 
-Ó Ó($
+¤ ¤(.
 "":&
 
-É É(0
+£ £(0
 str1java.lang.String:&
 
-É1 É(C
-str2java.lang.String: 
-
-__unknown_file (
-""B("&
+£1 £(B
+str2java.lang.StringB("&
 $org.apache.commons.lang3.StringUtilsHX

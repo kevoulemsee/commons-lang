@@ -1,9 +1,78 @@
 
-<org.apache.commons.lang3.mutable.MutableDouble#floatValue()Fq
-e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaÏ Ï("1*%
-1
-Ð Ð("
+Jorg.apache.commons.lang3.mutable.MutableDouble#equals(Ljava/lang/Object;)Zq
+e/home/kelvin/sdproject/commons-lang/src/main/java/org/apache/commons/lang3/mutable/MutableDouble.javaÄ Ä("startingBlock*î
+2
+Æ Æ(˜
+•
 
-Ð Ð(
-""B20
+Æ Æ(C
+
+%0long"%java.lang.Double#doubleToLongBits(D)J*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""˜
+•
+
+ÆG Æ(e
+
+%1long"%java.lang.Double#doubleToLongBits(D)J*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""¡
+ž
+
+Æ Æ(e
+%2boolean"	__compare*"
+
+__unknown_file (
+==*(
+
+__unknown_file (
+
+
+%0long*(
+
+__unknown_file (
+
+
+%1long*
+1*
+startingBlock
+Ä Ä(+Œ
+‰
+
+Ã Ã(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectY
+W
+
+Ä' Ä(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%3*
+2
+1*%
+1
+Å Æ(f"
+
+Å Æ(f
+"":%
+
+Ä Ä(*
+objjava.lang.ObjectB20
 .org.apache.commons.lang3.mutable.MutableDoubleHX

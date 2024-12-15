@@ -1,9 +1,9 @@
 
 =
 isSorted1org.apache.commons.lang3.ArrayUtils#isSorted([D)Zltrueboolean
-	1int
-0int
-2intfalsebooleanarray
+	1intfalseboolean
+2int
+0intarray
 Â# Â(7"double[]array
 Â# Â(7"double[]"Çi
 g

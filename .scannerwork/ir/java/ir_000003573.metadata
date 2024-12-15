@@ -1,6 +1,6 @@
 org.apache.commons.lang3.math.Fraction#getFraction(III)Lorg/apache/commons/lang3/math/Fraction;
 false
-0ba2e7c2a119296e5fd7ef39cba6b5c2
+bcdefd52cb1856b4cfaf3e3a33e86dd8
 java.lang.ArithmeticException#<init>(Ljava/lang/String;)V
 java.lang.ArithmeticException#instance-init#
 org.apache.commons.lang3.math.Fraction#<init>(II)V

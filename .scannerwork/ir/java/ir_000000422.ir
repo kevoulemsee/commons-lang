@@ -2,8 +2,8 @@
 c
 
 validIndexUorg.apache.commons.lang3.Validate#validIndex([Ljava/lang/Object;I)[Ljava/lang/Object;w
-1int
-	0intarray
+	0int
+1intarray
 •	% •	(4"T[]index
 •	6 •	(E"int"%!org.apache.commons.lang3.Validatearray
 •	% •	(4"T[]index

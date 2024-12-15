@@ -1,7 +1,7 @@
 
 
-indexOfThrowablekorg.apache.commons.lang3.exception.ExceptionUtils#indexOfThrowable(Ljava/lang/Throwable;Ljava/lang/Class;)Ixfalseboolean
-0int.	throwable
+indexOfThrowablekorg.apache.commons.lang3.exception.ExceptionUtils#indexOfThrowable(Ljava/lang/Throwable;Ljava/lang/Class;)Ix
+0intfalseboolean.	throwable
 î' î(@"java.lang.Throwable&clazz
 îB î(h"java.lang.Class.	throwable
 î' î(@"java.lang.Throwable&clazz

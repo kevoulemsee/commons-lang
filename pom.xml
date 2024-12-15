@@ -205,6 +205,7 @@
             <excludes>
               <exclude>site-content/**</exclude>
               <exclude>src/site/resources/.htaccess</exclude>
+              <exclude>**/.scannerwork/**</exclude>
               <exclude>src/site/resources/download_lang.cgi</exclude>
               <exclude>src/site/resources/release-notes/RELEASE-NOTES-*.txt</exclude>
               <exclude>src/test/resources/lang-708-input.txt</exclude>

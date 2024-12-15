@@ -1,5 +1,5 @@
 org.apache.commons.lang3.math.Fraction#hashCode()I
 false
-f8d5674aa32537869204ca01e91b2103
+3576eb494b8c83a9a2171078e4040f3e
 org.apache.commons.lang3.math.Fraction#getDenominator()I
 org.apache.commons.lang3.math.Fraction#getNumerator()I

@@ -1,9 +1,9 @@
 
 =
 isSorted1org.apache.commons.lang3.ArrayUtils#isSorted([B)Zj
-2intfalseboolean
-	1inttrueboolean
-0intarray
+0inttrueboolean
+	1int
+2intfalsebooleanarray
 ”# ”(5"byte[]array
 ”# ”(5"byte[]"Çi
 g

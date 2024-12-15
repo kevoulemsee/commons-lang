@@ -1,7 +1,7 @@
 
 ã
-replaceEach|org.apache.commons.lang3.StringUtils#replaceEach(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;≠
-0intfalseboolean&text
+replaceEach|org.apache.commons.lang3.StringUtils#replaceEach(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;≠falseboolean
+0int&text
 Å2% Å2(6"java.lang.String.
 searchList
 Å28 Å2(Q"java.lang.String[]3replacementList

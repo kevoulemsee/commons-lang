@@ -1,6 +1,6 @@
 org.apache.commons.lang3.text.translate.NumericEntityEscaper#translate(ILjava/io/Writer;)Z
 false
-dcf23da9cf6c6daf6db94201d3fe8ece
+eca0e8c78b7454eaaf8858886b8a9953
 java.lang.Integer#toString(II)Ljava/lang/String;
 ==
 write java.io.Writer#write(I)V

@@ -1,9 +1,9 @@
 
 =
-isSorted1org.apache.commons.lang3.ArrayUtils#isSorted([S)Zkfalsebooleantrueboolean
+isSorted1org.apache.commons.lang3.ArrayUtils#isSorted([S)Zktruebooleanfalseboolean
+	1int
 2int
-0int
-	1intarray
+0intarray
 ž# ž(6"short[]array
 ž# ž(6"short[]"Çi
 g

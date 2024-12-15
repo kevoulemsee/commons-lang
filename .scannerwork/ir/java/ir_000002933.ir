@@ -1,7 +1,7 @@
 
 œ
-throwableOfThrowableƒorg.apache.commons.lang3.exception.ExceptionUtils#throwableOfThrowable(Ljava/lang/Throwable;Ljava/lang/Class;)Ljava/lang/Throwable;x
-0intfalseboolean.	throwable
+throwableOfThrowableƒorg.apache.commons.lang3.exception.ExceptionUtils#throwableOfThrowable(Ljava/lang/Throwable;Ljava/lang/Class;)Ljava/lang/Throwable;xfalseboolean
+0int.	throwable
 È? È(X"java.lang.Throwable&clazz
 ÈZ È(n"java.lang.Class.	throwable
 È? È(X"java.lang.Throwable&clazz

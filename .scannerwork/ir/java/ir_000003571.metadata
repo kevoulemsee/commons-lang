@@ -1,5 +1,5 @@
 org.apache.commons.lang3.math.Fraction#addAndCheck(II)I
 false
-7b843ea2a3b002047b52de88004d784b
+5b386dd7d3e554c085d73ceee38901f3
 java.lang.ArithmeticException#<init>(Ljava/lang/String;)V
 java.lang.ArithmeticException#instance-init#

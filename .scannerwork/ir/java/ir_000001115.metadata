@@ -1,6 +1,6 @@
 org.apache.commons.lang3.text.StrBuilder#indexOf(Lorg/apache/commons/lang3/text/StrMatcher;I)I
 false
-44b97ba72c619bcb4eeecd6794cd7480
+977ce53356f8406427b9b281c4a4fbeb
 java.lang.Math#max(II)I
 ==
 isMatch org.apache.commons.lang3.text.StrMatcher#isMatch([CIII)I

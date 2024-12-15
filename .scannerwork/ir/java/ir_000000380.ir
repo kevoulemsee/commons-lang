@@ -1,8 +1,8 @@
 
 6
 finite,org.apache.commons.lang3.Validate#finite(D)V^
-1int
-0intvalue
+0int
+1intvalue
 Ü Ü(0"double"%!org.apache.commons.lang3.Validatevalue
 Ü Ü(0"double"ˆx
 v

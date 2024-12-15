@@ -1,8 +1,8 @@
 
 h
-isAssignableXorg.apache.commons.lang3.ClassUtils#isAssignable([Ljava/lang/Class;[Ljava/lang/Class;Z)ZÄfalsebooleantrueboolean
-	0int
-1int-
+isAssignableXorg.apache.commons.lang3.ClassUtils#isAssignable([Ljava/lang/Class;[Ljava/lang/Class;Z)ZÄ
+1inttruebooleanfalseboolean
+	0int-
 classArray
 î
 ' î
